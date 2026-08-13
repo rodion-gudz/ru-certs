@@ -6610,6 +6610,7 @@ ccp.root.t-software.tech
 ccp.t-software.tech
 ccrr.vtb.ru
 cctv.sptz.ru
+cd.regulinvest.ru
 cddisk.r7.ncsp.ru
 cdekfin.ru
 cdekpay.ru
@@ -12299,6 +12300,7 @@ my.centrinvest.com
 my.centrinvest.ru
 my.com
 my.creditural.ru
+my.dev.bank.yandex.ru
 my.do.ipk19.ru
 my.domrfbank.ru
 my.gpbbroker.ru
