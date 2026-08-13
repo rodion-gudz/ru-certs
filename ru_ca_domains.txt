@@ -8085,6 +8085,7 @@ ecompay.sberbank.ru
 ecomtest.akbars.ru
 ecomtest.alfabank.ru
 ecomtest.sberbank.ru
+econombank.ru
 economyrk.ru
 ecospher.ru
 ecosysgw.integrationhub.sbernpf.ru
@@ -9525,6 +9526,7 @@ ibank.chelindbank.ru
 ibank.crediteurope.ru
 ibank.dtb1.ru
 ibank.dvbank.ru
+ibank.econombank.ru
 ibank.finam.ru
 ibank.kremlinbank.ru
 ibank.mcbank.ru
@@ -9856,6 +9858,7 @@ inf-mtm.inforion.ru
 infarktanet.ru
 info.atbbank.ru
 info.deltacredit.ru
+info.econombank.ru
 info.sberbank.ru
 info.spasibosb.ru
 infoblox-gm.open.ru
@@ -11888,6 +11891,7 @@ minzdravao.ru
 mio26.ru
 mir-acs.in-bank.ru
 mir-hce-notifications.prod.yandex-bank.net
+miraccept.econombank.ru
 miraccept.metcom.ru
 mirconsciousness.rambler.ru
 mirea.ru
