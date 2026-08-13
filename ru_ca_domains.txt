@@ -9110,6 +9110,7 @@ gp17.mznso.ru
 gp18.mznso.ru
 gp2.mznso.ru
 gp20.mznso.ru
+gp200.domru.ru
 gp21.mznso.ru
 gp22.mznso.ru
 gp24.mznso.ru
@@ -11145,6 +11146,7 @@ mail.dss.sovcombank.ru
 mail.ebs.ru
 mail.ec.mts.ru
 mail.ecdn.sovcombank.ru
+mail.econombank.ru
 mail.edu54.ru
 mail.elf.vitabank.ru
 mail.elko.ru
@@ -12425,6 +12427,7 @@ nev.sirfol.ru
 nevelgrad.ru
 new-ae.ris61edu.ru
 new-lk-developer.vtb.ru
+new-online.econombank.ru
 new-to-bank.delivery.alfabank.ru
 new-top100.rambler.ru
 new.domlenta.ru
@@ -12826,6 +12829,7 @@ online.bstbank.ru
 online.crediteurope.ru
 online.domrfbank.ru
 online.eatpbank.ru
+online.econombank.ru
 online.energotransbank.com
 online.expobank.ru
 online.finstarbank.ru
@@ -13064,6 +13068,7 @@ owa.docs.sovcombank.ru
 owa.dss.sovcombank.ru
 owa.ebs.ru
 owa.ecdn.sovcombank.ru
+owa.econombank.ru
 owa.elf.vitabank.ru
 owa.elko.ru
 owa.esia-p.centrinvest.ru
@@ -15179,6 +15184,7 @@ sborprint.ru
 sbox.payecom.ru
 sbp-api.gazprombank.investments
 sbp-api.uat.gazprombank.investments
+sbp-online.econombank.ru
 sbp-transport.albank.ru
 sbp.akbars.ru
 sbp.atbbank.ru
@@ -16054,6 +16060,7 @@ ssfo.rt.ru
 sshop.tricolor.ru
 ssl.sberbank.ru
 sslk.org
+sslvpn.econombank.ru
 ssmp.mznso.ru
 sso-alpha.vtb.ru
 sso-app.vtb.ru
