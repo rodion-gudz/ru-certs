@@ -113,6 +113,7 @@
 *.admkam.ru
 *.admkurganinsk.ru
 *.admkusa.ru
+*.admlr.lipetsk.ru
 *.admoblkaluga.ru
 *.admpgo.ru
 *.admsel.ru
@@ -164,6 +165,7 @@
 *.akod22.ru
 *.akrvo.ru
 *.aksayland.ru
+*.akyamal.ru
 *.alabuga.ru
 *.aladdin-rd.ru
 *.aladdin.ru
@@ -305,6 +307,7 @@
 *.asurso.ru
 *.atbbank.ru
 *.atechnics.ru
+*.atlantmetall.ru
 *.atm72.ru
 *.atol.ru
 *.atomstandard.ru
@@ -386,6 +389,7 @@
 *.bankdom.ru
 *.bankdomrf.ru
 *.bankelita.ru
+*.banketubiley.ru
 *.bankexp.ru
 *.bankintegral.ru
 *.bankiros.ru
@@ -622,6 +626,7 @@
 *.ciogd.spb.ru
 *.cit-sk.net
 *.cit-sk.ru
+*.cito-priorov.ru
 *.citto.ru
 *.city4you.spb.ru
 *.citydrive.ru
@@ -763,6 +768,7 @@
 *.dbosb.dev.sovcombank.group
 *.dc2b.ru
 *.dc4b.ru
+*.dcapital.ru
 *.dcode.su
 *.dderevyanko.ru
 *.ddev.loko-domain.ru
@@ -926,6 +932,7 @@
 *.domrf.ru
 *.domrfbank.com
 *.domrfbank.ru
+*.domru.biz
 *.domru.ru
 *.don-cloud.ru
 *.donfti.ru
@@ -1238,6 +1245,7 @@
 *.frmrus.ru
 *.frontend.agencycontrol.ru
 *.frontera.net.ru
+*.frsd.ru
 *.fsev.tech
 *.fsnsamara.ru
 *.fss.ru
@@ -1531,6 +1539,7 @@
 *.idm.vk.team
 *.ids-llc.ru
 *.ids-llc.su
+*.idwb.ru
 *.ift-1.dmz.gazprombank.ru
 *.ift-chat-agw-vtbo-n.vtb.ru
 *.ift-chat-agw-vtbo.vtb.ru
@@ -1855,6 +1864,7 @@
 *.lifepoint.club
 *.lifetechx.ru
 *.line.recfaces.ru
+*.link-or.ru
 *.link.1c.ru
 *.linkwb.ru
 *.linus.su
@@ -2215,6 +2225,7 @@
 *.multstrana.ru
 *.mupirvostochnoe.ru
 *.murmankukla.ru
+*.music.kion.ru
 *.music.vk.com
 *.music.vk.ru
 *.mvd.ru
@@ -2316,6 +2327,7 @@
 *.nnk.ru
 *.nobl.ru
 *.noc.h1n.ru
+*.nokss.ru
 *.noosferabank.ru
 *.norbit.ru
 *.nordsy.spb.ru
@@ -2567,6 +2579,7 @@
 *.payanyway.ru
 *.payconnect.ru
 *.payment.rambler.ru
+*.paymentkit.ru
 *.paymgate.ru
 *.paymo.ru
 *.paywb.com
@@ -2655,6 +2668,7 @@
 *.pogoda.mail.ru
 *.poi.dvo.ru
 *.polus-tomsk.ru
+*.polygon.tb.ru
 *.polyot.ru
 *.portal-da.ru
 *.portal-feature.web.s7.ru
@@ -2668,6 +2682,7 @@
 *.pradas.su
 *.pravmin74.ru
 *.pravo.rkomi.ru
+*.pravorub.ru
 *.pre-prom.app.giga.chat
 *.pre-prom.app.sberdevices.ru
 *.pre-prom.fine.sberdevices.ru
@@ -3081,6 +3096,7 @@
 *.russianspacesystems.ru
 *.russitabank.ru
 *.russl.skm.pro
+*.russoutdoor.ru
 *.rustank.ru
 *.rustest.ru
 *.rustore-search.cloud.vk.team
@@ -3127,6 +3143,7 @@
 *.s7mail.ru
 *.s7technics.ru
 *.s7tl.ru
+*.saas-tech.ru
 *.saas.msgtech.ru
 *.saas.works.sbertech.ru
 *.sab.tomsk.ru
@@ -3267,6 +3284,7 @@
 *.sensorcloud.ru
 *.seosan.io
 *.septemcapital.ru
+*.sermet.ru
 *.serv-food.ru
 *.servers.eaglecdn.com
 *.service-business.ru
@@ -3393,6 +3411,7 @@
 *.soc-volga.ru
 *.soc23.ru
 *.socfmba.ru
+*.sockarta74.ru
 *.sodrujestvo.org
 *.sofpni.stv.socinfo.ru
 *.soft-infra.geoscan.ru
@@ -3406,7 +3425,9 @@
 *.soglasie.ru
 *.sokol-kaluga.ru
 *.solid.ru
+*.sollers-alabuga.ru
 *.sollers-auto.com
+*.sollers-cargo.ru
 *.sollersalabuga.ru
 *.soundapp.me
 *.soup.geoscan.ru
@@ -4115,6 +4136,7 @@
 *.vp.mts.ru
 *.vp.rambler.ru
 *.vp.ru
+*.vpbx.mtt.ru
 *.vpn.miac74.ru
 *.vpn.nnk.ru
 *.vpn.russianpost.ru
@@ -4929,6 +4951,7 @@ akrvo.ru
 aksayland.ru
 akt.sberbank-service.ru
 akveduk52.ru
+akyamal.ru
 al-psi.id.sber.ru
 al.id.sber.ru
 alabuga.ru
@@ -5474,6 +5497,7 @@ async-online6.vtb.ru
 atbbank.ru
 atechnics.ru
 atk26.ru
+atlantmetall.ru
 atlas.rt.ru
 atlas.vbrr.ru
 atlasm77.ru
@@ -6101,6 +6125,7 @@ bank.yandex.ru
 banka-ui.dev
 bankdom.ru
 bankdomrf.ru
+banketubiley.ru
 bankglobus.ru
 bankintegral.ru
 bankiros.ru
@@ -6984,6 +7009,7 @@ cit.alfabank.ru
 citalka.ru
 citgos.cit-kuban.ru
 citibankdelast.deltacredit.ru
+cito-priorov.ru
 citrix.atriumnn.ru
 citrix.mtsbank.ru
 citto.ru
@@ -8002,6 +8028,7 @@ domrf.ru
 domrfbank.com
 domrfbank.ru
 domrfdevelopment.ru
+domru.biz
 domru.ru
 domstrazh.ru
 domsvod.ru
@@ -8853,6 +8880,7 @@ freetato.ru
 freshstartme.ru
 fridayapp.vk.ru
 frigate.home.hazussa.ru
+frigate.mkp.ru.net
 frmrus.ru
 front.dmz.mark.sber.ru
 front.in-bank.ru
@@ -9287,6 +9315,7 @@ gt-statsport.nso.ru
 gt.smsgold.ru
 gtech-gus.tbank-online.com
 gti.bi.zone
+gtyprofill.ru
 gu-st.ru
 gu.spb.ru
 guard.cscampus.ru
@@ -9362,6 +9391,7 @@ h2.vtbgroup.com
 h2h.mkb.ru
 h2h.wb-bank.ru
 h43.ru
+ha.mkp.ru.net
 hakaton.rt.ru
 halva-card.ru
 halva-club.ru
@@ -9397,6 +9427,7 @@ halvenok.store
 hansa-insurance.ru
 harbor.eye.salute.ru
 hass.hazussa.ru
+hass.mkp.ru.net
 hassio.vologda-cb.ru
 hb.corpcloud.devmail.ru
 hb.kz-ast.vkcs.cloud
@@ -9612,6 +9643,7 @@ ibank.abank.ru
 ibank.absolutbank.ru
 ibank.alexbank.ru
 ibank.alfabank.ru
+ibank.amanatpay.ru
 ibank.asiainvestbank.ru
 ibank.autokreditbank.ru
 ibank.bcs-bank.com
@@ -9771,6 +9803,7 @@ idpqa.sberbank.ru
 ids-llc.ru
 ids-llc.su
 idstat.app-assistent.open.ru
+idwb.ru
 if-agwg-smb.api.vtb.ru
 if-agwr-smb.api.vtb.ru
 if-ibsmb-go.api.vtb.ru
@@ -10755,6 +10788,7 @@ line.rfaces.ru
 link-mobile-dev.sberbankins.ru
 link-mobile-prep.sberbankins.ru
 link-mobile.sberbankins.ru
+link-or.ru
 link.1c.ru
 link.alfabank.ru
 link.centrinvest.ru
@@ -11374,6 +11408,7 @@ mail.migom.info
 mail.migom.tech
 mail.mkb-invest.ru
 mail.mkb.ru
+mail.mkp.ru.net
 mail.mmk.ru
 mail.mobilecheck.pro
 mail.msk-scv1.sovcombank.group
@@ -12334,6 +12369,7 @@ mx.crimea.rncb.ru
 mx.gorbank.spb.ru
 mx.inforion.ru
 mx.lynx-texts.ru
+mx.mkp.ru.net
 mx.mufg.ru
 mx.prod.yandex-bank.net
 mx.roadkursk.ru
@@ -12942,6 +12978,7 @@ online.autokreditbank.ru
 online.baltinvest.com
 online.bank-mscb.ru
 online.bcs.ru
+online.bnpparibasbank.ru
 online.bstbank.ru
 online.crediteurope.ru
 online.domrfbank.ru
@@ -13598,6 +13635,7 @@ payment.ingobank.ru
 payment.rambler.ru
 payment.uralairlines.ru
 paymentcard.test.yoomoney.ru
+paymentkit.ru
 paymentpartners-ift.sberbank.ru
 payments.absolutbank.ru
 payments.flypobeda.ru
@@ -13619,6 +13657,7 @@ pb3.vbrr.ru
 pb4.vbrr.ru
 pb5.vbrr.ru
 pbl546.ingobank.ru
+pbs.mkp.ru.net
 pc.aq.ru
 pccard-dev.domrfbank.ru
 pccard-perf.domrfbank.ru
@@ -13640,6 +13679,7 @@ pdles-bzebb0003.enablers.sbrf.ru
 pdles-bzebb0004.enablers.sbrf.ru
 pdles-bzebb0020.enablers.sbrf.ru
 pdles-bzebb0022.enablers.sbrf.ru
+pdm.mkp.ru.net
 pdp-develop.demo.megafon.ru
 pdp-master.demo.megafon.ru
 pdp.vbrr.ru
@@ -13786,6 +13826,7 @@ plite.ru
 plt.site
 plus.sberclass.ru
 pm.ingobank.ru
+pmg.mkp.ru.net
 pmisk.ru
 pmm.konus.group
 pmosk.ru
@@ -13930,6 +13971,7 @@ pradas.su
 praskoveya-dshi.stv.muzkult.ru
 pravmin74.ru
 pravo.rkomi.ru
+pravorub.ru
 pre-cb.open.ru
 pre-dlos.cscampus.ru
 pre-guard.cscampus.ru
@@ -14261,6 +14303,7 @@ pushkindoc.ru
 putevki23.ru
 pvcd.ru
 pve-01.nii-kpg.ru
+pve.mkp.ru.net
 pvlsg-efs000473.sigma.sbrf.ru
 pvlsg-efs000474.sigma.sbrf.ru
 pvlsg-efs000503.sigma.sbrf.ru
@@ -14270,6 +14313,7 @@ pvlsg-procs0003.sigma.sbrf.ru
 pvlsg-sbgeo0003.cloud.sigma.sbrf.ru
 pvlss-oktus0001.sigma.sbrf.ru
 pvlss-oktus0002.sigma.sbrf.ru
+pvoss.sbertech.ru
 pw.cloud.ru
 pw.domrf.ru
 pw.domrfbank.ru
@@ -14965,6 +15009,7 @@ russianspacesystems.ru
 russitabank.ru
 russl-demo.tech.net.ru
 russl.sportmaster.ru
+russoutdoor.ru
 rustank.ru
 rustore-search.cloud.vk.team
 rustore.ru
@@ -15557,6 +15602,7 @@ seosan.io
 sep.vk.team
 septemcapital.ru
 sergeykhotimskiy.ru
+sermet.ru
 serv-food.ru
 serverce.ru
 servers.eaglecdn.com
@@ -15967,6 +16013,7 @@ social.secrets.tinkoff.ru
 social.t-j.ru
 socialcert.iturupbank.ru
 socium-bank.ru
+sockarta74.ru
 sodrujestvo.org
 sofpni.stv.socinfo.ru
 soft-infra.geoscan.ru
@@ -16895,6 +16942,7 @@ test.certhub-beta.vkteam.ru
 test.certhub-test.vk.com
 test.domapi.domrf.ru
 test.domrfbank.ru
+test.ecomm.payment.ru
 test.gigalegal.sber.ru
 test.gigalegal.sberbank.ru
 test.hr.sberbank.ru
@@ -17809,6 +17857,7 @@ vm-asc.rs.ru
 vm.mts.ru
 vm.oaovoentorg.ru
 vmeste.sber.ru
+vms.mkp.ru.net
 vnashemdvore.ru
 vnd.ncagp.ru
 vngcrb.mznso.ru
@@ -17857,6 +17906,7 @@ vp.psbank.ru
 vp.rambler.ru
 vp.ru
 vpano.ru
+vpbx.mtt.ru
 vpbx.voiptools.ru
 vpbxsip.voiptools.ru
 vpbxsiptrunk.voiptools.ru
@@ -18556,6 +18606,7 @@ www.asugpt.orgp.spb.ru
 www.asutd.transneft.ru
 www.async-online.vtbgroup.com
 www.atbbank.ru
+www.atlantmetall.ru
 www.atm-corp.domrfbank.ru
 www.atm72.ru
 www.atomstandard.ru
@@ -18610,6 +18661,7 @@ www.bank-arzamas.ru
 www.bank-peresvet.ru
 www.banka-ui.dev
 www.bankdomrf.ru
+www.banketubiley.ru
 www.bankexp.ru
 www.bankro.tech
 www.bappcore1-factoring.mtsbank.ru
@@ -18849,6 +18901,7 @@ www.dbo.mtsbank.ru
 www.dbo.noosferabank.ru
 www.dbo.ns-bank.ru
 www.dbo.sovcombank.ru
+www.dcapital.ru
 www.dd.pochtabank.ru
 www.debitoriya.ru
 www.defense.insure
@@ -19057,6 +19110,7 @@ www.front.pochtabank.ru
 www.frontapi-dbokib.vtb.ru
 www.frontapi-test.vtb.ru
 www.frontera.net.ru
+www.frsd.ru
 www.fsnsamara.ru
 www.fstec.ru
 www.ftoroplast4.ru
@@ -19653,6 +19707,7 @@ www.minsoc08.ru
 www.minsoc31.ru
 www.mio26.ru
 www.mirea.ru
+www.mkp.ru.net
 www.mmk.ru
 www.mo-medsvc.ru
 www.mobi-da.vtb.ru
@@ -20314,6 +20369,7 @@ www.seller.ad-tech.ru
 www.semenov.nnov.ru
 www.sensorcloud.ru
 www.sergeykhotimskiy.ru
+www.sermet.ru
 www.serv-food.ru
 www.servers.eaglecdn.com
 www.service-gazprompay.ru
@@ -21297,6 +21353,7 @@ zabbix.legalbpm.sberpravo.ru
 zabbix.mon.sberdevices.ru
 zabbix.psi.legalbpm.sberpravo.ru
 zabbix.sberpravo.ru
+zabbixuib.thbank.ru
 zabota.magnit.ru
 zabroniryi.ru
 zabtfoms.ru
