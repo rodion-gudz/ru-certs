@@ -208,6 +208,7 @@ aniva-ltd.ru
 ankb.ru
 ankf.ru
 ano-orbita.ru
+anodialog.ru
 antonenkov-art.ru
 antonylexar.ru
 any-token.com
@@ -2911,7 +2912,9 @@ sberlabs.com
 sberleasing.ru
 sberlegal.ru
 sberlive.ru
+sberlogistics.ru
 sbermed.ai
+sbermegamarket.ru
 sbermobile.ru
 sberned.ru
 sbernpf.ru

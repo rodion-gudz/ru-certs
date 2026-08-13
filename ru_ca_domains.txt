@@ -207,6 +207,7 @@
 *.angstrem.ru
 *.aniva-ltd.ru
 *.ankf.ru
+*.anodialog.ru
 *.antispam.mail.ru
 *.ao-rr.ru
 *.ao-star.ru
@@ -557,6 +558,7 @@
 *.cbr.ru
 *.cbs.sbnk.ru
 *.cbsvib.ru
+*.cc.gov.ru
 *.cc.linuxtesting.ru
 *.ccb.ru
 *.ccb2.ru
@@ -892,6 +894,7 @@
 *.dms-ugsk.ru
 *.dmz.ubrr.ru
 *.dnr-tfoms.ru
+*.dnr.21-school.ru
 *.do.ipk19.ru
 *.dobro.mail.ru
 *.dobro.ru
@@ -1447,6 +1450,7 @@
 *.hiteknsk.ru
 *.hitfm.ru
 *.hmnpf.ru
+*.home-security-pd.sberdevices.ru
 *.home-security.sberdevices.ru
 *.home-tech.digital
 *.home.bank
@@ -1456,6 +1460,7 @@
 *.homeberries.ru
 *.homecredit.ru
 *.horo.mail.ru
+*.hosa.pd.sberdevices.ru
 *.hosp23.ru
 *.hospital.karelia.ru
 *.hospital70.ru
@@ -1625,6 +1630,7 @@
 *.iot.nt.sberdevices.ru
 *.iot.pd.sberdevices.ru
 *.iot.sberdevices.ru
+*.ipa.anodialog.ru
 *.ipb.ru
 *.ipfran.ru
 *.ippe.ru
@@ -1798,6 +1804,7 @@
 *.kvadra.tech
 *.kvartplata.info
 *.kvartplata.ru
+*.kvvu-mo.21-school.ru
 *.kz.cloud.vk.com
 *.kz.cloud.vk.kz
 *.kz.ozon.com
@@ -3167,7 +3174,9 @@
 *.sberinsur.ru
 *.sberintegro.ru
 *.sberleasing.ru
+*.sberlogistics.ru
 *.sbermed.ai
+*.sbermegamarket.ru
 *.sbermobile.ru
 *.sberned.ru
 *.sberseller.ru
@@ -3933,6 +3942,7 @@
 *.vamto.mil.ru
 *.vamto.old.mil.ru
 *.variti.io
+*.vas-mo.21-school.ru
 *.vbudushee.ru
 *.vc.videos.livejournal.com
 *.vdc.b2b.domru.ru
@@ -4104,6 +4114,7 @@
 *.vtbreg.ru
 *.vtbsd.com
 *.vtbsd.ru
+*.vva-mo.21-school.ru
 *.vva.mil.ru
 *.vva.old.mil.ru
 *.vvo.21-school.ru
@@ -4847,6 +4858,7 @@ airflow-dev.giga.salute.ru
 airflow-gigabus.giga.salute.ru
 airflow-gigahub.giga.salute.ru
 airflow-gigalytics.giga.salute.ru
+airflow-gigastorm.eye.salute.ru
 airflow-kandinsky.eye.salute.ru
 airflow-knowledge-graph.giga.salute.ru
 airflow-pretrain.eye.salute.ru
@@ -4938,6 +4950,7 @@ alis.vacr.vtb.ru
 alko.aoapz.ru
 allinpower.ru
 alljava.ru
+allure.cloud.ru
 almazova.21-school.ru
 alpha-class365.ru
 alpha-dev.ru
@@ -5003,6 +5016,7 @@ ankf.ru
 anmfo.alfabank.ru
 anniversary.tbank-online.com
 ano-orbita.ru
+anodialog.ru
 antonenkov-art.ru
 antonylexar.ru
 any-token.com
@@ -6021,6 +6035,8 @@ baltinvestbank.com
 baltinvestbank.ru
 bancaintesa.ru
 bank-arzamas.ru
+bank-authproxy-pcidss.prod.yandex-bank.net
+bank-authproxy.prod.yandex-bank.net
 bank-hlynov.ru
 bank-mob-test.psbank.ru
 bank-mob.psbank.ru
@@ -6594,6 +6610,7 @@ cc-new.sbermegamarket.sigma.sbrf.ru
 cc-test.novikom.ru
 cc-vpn.t-access.ru
 cc.alfabank.ru
+cc.gov.ru
 cc.lk.psb.services
 cc.vtb.ru
 ccalls.site
@@ -7629,6 +7646,7 @@ dev.1c.link
 dev.acs.gazprombank.ru
 dev.ad-tech.ru
 dev.ai.mosreg.ru
+dev.airflow-gigastorm.eye.salute.ru
 dev.bank.yandex.ru
 dev.broker-sb.io
 dev.domrfbank.ru
@@ -7864,6 +7882,7 @@ dmz-knt-psi-intg03.sberbankins.ru
 dn.mail.ru
 dn267.ingobank.ru
 dnr-tfoms.ru
+dnr.21-school.ru
 do.ipk19.ru
 do.irs-krsk.ru
 do.ntek-nsk.ru
@@ -10052,6 +10071,7 @@ ip8.alfadirect.ru
 ip8int.alfadirect.ru
 ip9.alfadirect.ru
 ip9int.alfadirect.ru
+ipa.anodialog.ru
 ipa.srv-hub.org
 ipam.open.ru
 ipay.genbank.ru
@@ -10561,6 +10581,7 @@ kvartplata.ru
 kvd-yeisk.ru
 kvd5.spb.ru
 kvint.mkb.ru
+kvvu-mo.21-school.ru
 kwapp.spaymentsplus.ru
 kz.cloud.vk.com
 kz.cloud.vk.kz
@@ -12243,6 +12264,7 @@ mx.gorbank.spb.ru
 mx.inforion.ru
 mx.lynx-texts.ru
 mx.mufg.ru
+mx.prod.yandex-bank.net
 mx.roadkursk.ru
 mx.tfoms52.ru
 mx.vpn.miac74.ru
@@ -12958,6 +12980,7 @@ opmoscow.ru
 opros.lenta.com
 opros.ncagp.ru
 opros.rosneft.ru
+opros.sber.ru
 opros.sberbank.ru
 opros.vtb.ru
 ops-api.magnit.ru
@@ -14116,6 +14139,7 @@ public-buh.wb-bank.ru
 public-buh.wb-bank.su
 public.geoscan.ru
 public.jump.taxi
+public.oprosso.sber.ru
 public.oprosso.sberbank.ru
 public.stage.jump.taxi
 publicex.domrfbank.ru
@@ -15847,6 +15871,7 @@ soc-t.sinara.ru
 soc23.ru
 socfmba.ru
 sochi.tricolor.ru
+social-insurance.sfr.gov.ru
 social-uchebnik.t-j.ru
 social.invest-media.tbank.ru
 social.journal.tinkoff.ru
@@ -17428,6 +17453,7 @@ valen.keenetic.link
 values-book.omk.ru
 vant.ippe.ru
 variti.io
+vas-mo.21-school.ru
 vats.rt.ru
 vault.ci.gigalegal.sber.ru
 vault.ci.legalbpm.sberpravo.ru
@@ -17831,6 +17857,7 @@ vtbsd.ru
 vtg.oaovoentorg.ru
 vts.gazprombank.ru
 vtt.insignitus.ru
+vva-mo.21-school.ru
 vvo.21-school.ru
 vw-test.mkb.ru
 vw.hr-dev.sberbank.ru
@@ -18769,6 +18796,7 @@ www.dmclk.ru
 www.dmitriykhotimskiy.ru
 www.dms-ugsk.ru
 www.dnr-tfoms.ru
+www.dnr.21-school.ru
 www.do.ipk19.ru
 www.do.irs-krsk.ru
 www.dobro.imgsmail.ru
@@ -19325,6 +19353,7 @@ www.kuzstu.ru
 www.kvartplata.ru
 www.kvd-yeisk.ru
 www.kvd5.spb.ru
+www.kvvu-mo.21-school.ru
 www.kzmayak.ru
 www.kzn-vpn01.sovcombank.group
 www.kzn.21-school.ru
@@ -20556,6 +20585,7 @@ www.v.rt.ru
 www.v.sber.ru
 www.vacr.vtb.ru
 www.values-book.omk.ru
+www.vas-mo.21-school.ru
 www.vbrr.ru
 www.vc.videos.livejournal.com
 www.vconf.gazprombank.ru
@@ -20625,6 +20655,7 @@ www.vtbeducation.ru
 www.vtbforex.ru
 www.vtbinfra.ru
 www.vtbrussia.ru
+www.vva-mo.21-school.ru
 www.vvo.21-school.ru
 www.vympel-rybinsk.ru
 www.vzavod.ru
