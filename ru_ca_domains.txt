@@ -12317,6 +12317,7 @@ my.rt.ru
 my.snbank.ru
 my.speechxplore.ru
 my.tech.vk.com
+my.uat.bank.yandex.ru
 my.vk.team
 my.vmailru.net
 myavrmaxwebhook.ru
@@ -14453,6 +14454,7 @@ rcktb.ru
 rcktbnk.ru
 rcmp.mznso.ru
 rcoko27.ru
+rcraduga.ru
 rd6.mznso.ru
 rd7.mznso.ru
 rdc.spb.ru
@@ -17063,6 +17065,7 @@ tradeint.alfadirect.ru
 trading.alfabank.ru
 training.flypobeda.ru
 transcapital.com
+transfer.bank.yandex.ru
 transfer.sberbank-service.ru
 transio.ru
 transneft.ru
@@ -20991,6 +20994,7 @@ xn--c1adkei1aesdd.xn--p1ai
 xn--c1aenmeoia.xn--80aafaxhj3c.xn--p1ai
 xn--c1ajbkjyncd.xn--p1ai
 xn--c1an2a.xn--p1ai
+xn--c1aws.xn--p1ai
 xn--d1abicxkmi7j.xn--p1ai
 xn--d1abkf4ap.xn--90ab2c.xn--p1ai
 xn--d1acakl8aqa2a.xn--p1ai
