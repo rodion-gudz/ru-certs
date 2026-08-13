@@ -157,6 +157,7 @@
 *.akado-telecom.ru
 *.akado.ru
 *.akbars.ru
+*.akbf.ru
 *.akcept.ru
 *.akibank.ru
 *.akiselev.group
@@ -802,6 +803,7 @@
 *.dev.internal.sberdevices.ru
 *.dev.intmts.ru
 *.dev.isoik.mosreg.ru
+*.dev.kion.ru
 *.dev.mof.mosreg.ru
 *.dev.nspd.rosreestr.gov.ru
 *.dev.ntv.ru
@@ -880,6 +882,7 @@
 *.dk-pay.dev
 *.dk-pay.ru
 *.dk-pokoy.stv.muzkult.ru
+*.dkko.kion.ru
 *.dl.armgs.team
 *.dl.mail.ru
 *.dl.tppr.vmailru.net
@@ -2167,6 +2170,7 @@
 *.msis174.ru
 *.msk-ix.ru
 *.msk.21-school.ru
+*.msk.cdn.kion.ru
 *.msk.cloud.vk.com
 *.msk.cloud.vk.ru
 *.msk.csat.ru
@@ -2645,6 +2649,7 @@
 *.prelive.alfabank.ru
 *.premiumbim.ru
 *.premiumcad.ru
+*.prep.kion.ru
 *.preprod.app.giga.chat
 *.preprod.app.sberdevices.ru
 *.preprod.fine.sberdevices.ru
@@ -2745,6 +2750,7 @@
 *.qa-dfo.ru
 *.qa.vk.team
 *.qandyapp.ru
+*.qe.kion.ru
 *.qms.ru
 *.qsupport.mts.ru
 *.qtom.ru
@@ -3064,6 +3070,7 @@
 *.rzd.ru
 *.rzncit.ru
 *.s-broiler.ru
+*.s.kion.ru
 *.s.lenta.ru
 *.s.o3.ru
 *.s.sirena-travel.ru
@@ -3092,6 +3099,7 @@
 *.s7technics.ru
 *.s7tl.ru
 *.saas.msgtech.ru
+*.saas.works.sbertech.ru
 *.sab.tomsk.ru
 *.saby.dev
 *.saby.qa
@@ -4857,6 +4865,7 @@ akado-telecom.ru
 akado.ru
 akashi.vk-portal.net
 akbars.ru
+akbf.ru
 akc.mkb.ru
 akcept.ru
 akesadmin.vneshbank.ru
@@ -5276,6 +5285,7 @@ app.live.mts.ru
 app.mdigital.ru
 app.mdm.sberins.ru
 app.mvk.com
+app.omnypay.ru
 app.rsb.ru
 app.sber.ru
 app.sberbank.ru
@@ -10494,6 +10504,7 @@ krscrb.mznso.ru
 krskstate.ru
 krtech.ru
 krtu.ru
+krylov-center.ru
 krym-skk.ru
 ks.lemark.su
 ksamur.ru
@@ -14960,6 +14971,7 @@ sa-db-test.gazprombank.ru
 sa2.ru
 saas-storeinfra-analytics-sdexproxy.rambler.ru
 saas-tech.ru
+saas.works.sbertech.ru
 sab.tomsk.ru
 saby.dev
 saby.qa
@@ -15121,6 +15133,8 @@ sberdevices.ru
 sberdex-s3.samokat.ru
 sberdisk.ru
 sberdocs.sberbank.ru
+sberedu.ru
+sbereducation.ru
 sberegaem-vmeste.ru
 sbergeo.sberbank.ru
 sbergiletalks.sber.ru
@@ -18371,6 +18385,7 @@ www.api2.spasibobonus.ru
 www.apigw.pskb.com
 www.apk.vtb.ru
 www.app.mdigital.ru
+www.app.omnypay.ru
 www.app.sber.ru
 www.app.sberbank.ru
 www.apps.sber.ru

@@ -130,6 +130,7 @@ airport33.ru
 akado-telecom.ru
 akado.ru
 akbars.ru
+akbf.ru
 akcept.ru
 akibank.ru
 akiselev.group
@@ -1636,6 +1637,7 @@ krskcit.ru
 krskstate.ru
 krtech.ru
 krtu.ru
+krylov-center.ru
 krym-skk.ru
 ksamur.ru
 ksb-auto.com
@@ -2259,6 +2261,7 @@ omesc.ru
 omgups.ru
 omk-it.ru
 omk.ru
+omnypay.ru
 omskparlament.ru
 omskzan.ru
 omsomsk.ru
@@ -2892,6 +2895,8 @@ sberclass.ru
 sbercloud.tech
 sberdevices.ru
 sberdisk.ru
+sberedu.ru
+sbereducation.ru
 sberegaem-vmeste.ru
 sberentertainment.ru
 sberfactoring.ru
