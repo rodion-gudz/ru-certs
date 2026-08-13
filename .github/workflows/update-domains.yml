@@ -1,0 +1,46 @@
+name: Обновление списка доменов Russian Trusted CA
+
+on:
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Ограничить проход (для отладки), 0 = всё'
+        default: '0'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-domains
+  cancel-in-progress: true
+
+jobs:
+  walk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: true
+
+      - name: Установка uv
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        with:
+          enable-cache: true
+          prune-cache: true
+
+      - name: Установка зависимостей
+        run: uv sync --locked
+
+      - name: Сбор актуального списка доменов из CT-логов
+        run: uv run python ru_ct_walker.py --base --limit ${{ github.event.inputs.limit || 0 }}
+
+      - name: Коммит и пуш изменений
+        uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
+        with:
+          file_pattern: ru_ca_domains.txt ru_ca_domains.json ru_ca_domains_for_constraints.txt ru_ct_progress.json
+          commit_message: 'chore: актуализация списка доменов (run ${{ github.run_number }})'
