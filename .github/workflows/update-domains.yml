@@ -37,7 +37,7 @@ jobs:
         run: uv sync --locked
 
       - name: Сбор актуального списка доменов из CT-логов
-        run: uv run python ru_ct_walker.py --base --limit ${{ github.event.inputs.limit || 0 }}
+        run: uv run python ru_ct_walker.py --verbose --limit ${{ github.event.inputs.limit || 0 }}
 
       - name: Коммит и пуш изменений
         uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
