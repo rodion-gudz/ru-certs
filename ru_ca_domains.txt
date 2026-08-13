@@ -4479,6 +4479,7 @@
 360.bolzen.pro
 39.rospotrebnadzor.ru
 3ds-tst.ingobank.ru
+3ds.bank.yandex.ru
 3ds.chelindbank.ru
 3ds.domrfbank.ru
 3ds.gazprombank.ru
@@ -5347,6 +5348,7 @@ armgs-proxy.ru
 armgs.team
 armhde.magnit.ru
 armonko.ru
+arsprom.ru
 artamonovigor.ru
 artek.org
 artifactory.rnd.dev.sberdevices.ru
@@ -5953,6 +5955,7 @@ b2b-yota-dev.test-middle.megafon.ru
 b2b.alfastrah.ru
 b2b.alrosa.ru
 b2b.avangard.ru
+b2b.bank.yandex.ru
 b2b.dom.ru
 b2b.domru.ru
 b2b.koshelek.app
@@ -6024,6 +6027,7 @@ bank.solid.ru
 bank.testkontur.ru
 bank.wb.ru
 bank.wildberries.ru
+bank.yandex.ru
 banka-ui.dev
 bankdom.ru
 bankdomrf.ru
@@ -9336,6 +9340,7 @@ heimdall.develop.ci.k8ng.alfa.link
 heimdall.prelive.alfabank.ru
 heimdall.preprod.ci.k8ng.alfa.link
 helloinvestment.ru
+help-chat.bank.yandex.ru
 help.ai-bank.ru
 help.cyberprotect.ru
 help.gazprombank.investments
@@ -12288,6 +12293,7 @@ my-stage-ptaf.domrfbank.ru
 my.1440.space
 my.agroros.ru
 my.alfabank.ru
+my.bank.yandex.ru
 my.bukep.ru
 my.centrinvest.com
 my.centrinvest.ru
@@ -13509,6 +13515,8 @@ pccard.my.domrfbank.ru
 pchtb.ru
 pchtbnk.ru
 pci-dss.wb-bank.ru
+pcidss.bank.yandex.ru
+pcidss.uat.bank.yandex.ru
 pd.giga.chat
 pd.oneme.ru
 pd.sberdevices.ru
@@ -14665,6 +14673,7 @@ rns.ncagp.ru
 rnuchet.rosneft.ru
 roadkursk.ru
 roaming.mts.ru
+robottest7.dostavista.ru
 rock-digital.ru
 rock-up.ru
 rocketozon.by
@@ -17206,6 +17215,7 @@ uacrussia.ru
 uaig73.ru
 uat-mesh.ad-tech.ru
 uat.ad-tech.ru
+uat.bank.yandex.ru
 uat.cdnsbbol.sberbank.ru
 uat.gazprombank.investments
 uat.newton.investments
