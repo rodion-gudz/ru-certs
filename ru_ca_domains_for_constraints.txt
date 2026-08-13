@@ -345,6 +345,7 @@ b22e.ru
 bahmurov.ru
 baikalcredobank.ru
 baikalinc.ru
+balaes.ru
 balakovo-bank.ru
 balance39.ru
 balans2.ru
@@ -505,6 +506,7 @@ c-k.ru
 ca-magnit.ru
 cadtech.ru
 capella-spb.ru
+capital-am.ru
 capital-bank.ru
 capital-journal.ru
 capitalbank.ru
@@ -714,6 +716,7 @@ dealsy.ru
 dealsy.tech
 debitoriya.ru
 decosystems.ru
+defense.insure
 delivery.ru
 delo.ru
 delovayakolbasa.ru
@@ -728,6 +731,7 @@ depository.ru
 derbent-parking.ru
 derzhava.ru
 detbolnvr.ru
+dev-portal.ru
 devmail.ru
 devops-centre.ru
 devvk.team
@@ -868,6 +872,7 @@ echo-platform.ru
 ecocat.biz
 ecolant.net
 ecolantvyksa.ru
+ecom-plus.ru
 econombank.ru
 economyrk.ru
 ecospher.ru
@@ -974,6 +979,7 @@ eulher.ru
 eurasian-bank.ru
 euroalliance.ru
 everialife.ru
+evgrp.ru
 evome.ru
 evonpf.ru
 evostat.ru
@@ -1024,6 +1030,7 @@ fgbu-yalta.ru
 fgbuusz.ru
 fgis-saturn.ru
 fgsrb.ru
+fgup-ohrana.ru
 fguzmo.ru
 fhdgso.ru
 ficto.ru
@@ -1038,6 +1045,7 @@ fineapp.ru
 fingram26.ru
 finity.global
 finombudsman.ru
+finorma.ru
 fins.money
 finstarbank.ru
 fintarget.ru
@@ -1093,6 +1101,7 @@ fusionbrain.ai
 fx-games.ru
 g4lab.com
 ga-airport.ru
+gain-up.ru
 gainstech.ru
 gainup.ru
 ganzara.ru
@@ -1116,6 +1125,7 @@ gazprombanktech.ru
 gazpromexport.com
 gazpromexport.ru
 gazprompay.ru
+gazpromre.ru
 gazpromstroytek.ru
 gbsuson-pdin.ru
 gbsv.ru
@@ -1392,6 +1402,8 @@ ined.ru
 inel23.ru
 inet.vtb
 infarktanet.ru
+infinitum-tc.ru
+info-uaz.ru
 infodec.ru
 infoline-rk.ru
 inforion.ru
@@ -1975,6 +1987,7 @@ ms-web.ru
 msbapps.ru
 msbps.ru
 mschcentr74.ru
+msgrf.ru
 msgtech.ru
 mshornikov.com
 mshsk.ru
@@ -2234,6 +2247,7 @@ ofd-magnit.ru
 ofd-ya.ru
 ofoms.ru
 ofukem.ru
+ogk2.ru
 oiltelecom.ru
 oilterminal.ru
 oinet.ru
@@ -2450,6 +2464,7 @@ pndfr.ru
 pni4spb.ru
 pnzreg.ru
 po-rubly.ru
+pochta.ru
 pochtabank.ru
 podarocheck.ru
 pofd.ru
@@ -2667,6 +2682,7 @@ rnrc.ru
 roadkursk.ru
 rock-digital.ru
 rock-up.ru
+rocketbank.ru
 rocketozon.by
 roddom-krd.ru
 rodnik-altaya.com
@@ -2686,6 +2702,7 @@ rosbank.ru
 roscap.com
 roscap.ru
 roscherk.su
+rosdolg.com
 rosdolg.ru
 rosevrobank.ru
 rosinkas.ru
@@ -2779,6 +2796,7 @@ rusradio.ru
 russiacalling.com
 russiacalling.ru
 russian-trusted.ru
+russianpost.ru
 russianspacesystems.ru
 russitabank.ru
 rustank.ru
@@ -2975,6 +2993,7 @@ school495.ru
 scloud.ru
 scoring.ru
 screspect.ru
+sd-next.ru
 sdco.ru
 sdisk.ru
 sdm-gallery.ru
@@ -3069,6 +3088,7 @@ sinaralab.ru
 sipaero.ru
 sirena-travel.ru
 sirfol.ru
+sistema-capital.com
 sistema-re.ru
 sistemagorod.ru
 sj-dev.ru
@@ -3151,6 +3171,7 @@ solid.ru
 solidarnost.ru
 sollers-auto.com
 sollers-engineering.com
+sollersalabuga.ru
 sonarplus.ru
 sosbs.ru
 sosnovka-dk.ru
@@ -3195,6 +3216,7 @@ spasibosberbank.events
 spasibosberbank.online
 spasibosberbank.ru
 spasibotest.ru
+spasskievorota.ru
 spaymentextra.ru
 spaymentsplus.ru
 spb.ru
@@ -3210,6 +3232,9 @@ spbmiac.ru
 spboms.ru
 spbsad23.ru
 spbti.ru
+specdep.me
+specdep.org
+specdep.ru
 spechd.ru
 spectrumdata.ru
 spectrumscoring.ru
@@ -3257,6 +3282,7 @@ standoff365.com
 star-pro.ru
 star-smile.ru
 starcrb.ru
+starlink.ru
 starompos.ru
 startcm.ru
 startups.su
@@ -3461,6 +3487,7 @@ tfomseao.ru
 tfomsra.ru
 tfomsrb.ru
 tfomssk.ru
+tgc1.ru
 tgk11.com
 thanks-ces.com
 thbank.ru
@@ -3630,6 +3657,7 @@ unicredit.ru
 unicreditbank.ru
 unistock.cloud
 united.ru
+uniteller.ru
 unitybroker.ru
 unlim-soft.ru
 untar.ru
@@ -3643,6 +3671,7 @@ uprvetrk.ru
 upz.ru
 uralairlines.ru
 uralaz.ru
+uralexpress.ru
 uralfd.ru
 uralfinance.ru
 uralmash-kartex.ru
@@ -3835,11 +3864,13 @@ vtbf.ru
 vtbforex.ru
 vtbgroup.com
 vtbinfra.ru
+vtbmobile.ru
 vtbnpf.ru
 vtbreg.ru
 vtbrussia.ru
 vtbsd.com
 vtbsd.ru
+vtkbank.ru
 vyksa-culture.ru
 vympel-rybinsk.ru
 vzavod.ru
