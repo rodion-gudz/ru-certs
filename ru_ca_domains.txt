@@ -10950,6 +10950,7 @@ lm-static.rt.ru
 lm.ncagp.ru
 lm.rt.ru
 lmc.spasibosb.ru
+lms.apu.fsin.gov.ru
 lms.lomt.ru
 lms.miac.gov74.ru
 lms.tavolga.center
@@ -12216,6 +12217,7 @@ motivpay.ru
 motor.ru
 motozavod.ru
 movix.ru
+moy-igrushki.ru
 moy.magnit.ru
 moydvorec.ru
 mp-dev.nrb.ru
@@ -12361,6 +12363,7 @@ musickion.ru
 muz-3.ru
 muzcomedy.ru
 mv.corpp.ru
+mvb.fsin.gov.ru
 mvbol.ru
 mvd.ru
 mvfd1.ru
