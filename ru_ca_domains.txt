@@ -507,6 +507,7 @@
 *.burda.ru
 *.burgaz.ru
 *.burgerkingrus.ru
+*.burmed.ru
 *.burzakup.ru
 *.bus.gov.ru
 *.business-credit.ru
@@ -751,6 +752,7 @@
 *.dagmintrud.ru
 *.daily.afisha.ru
 *.daitspc-stage.cloud.vk.com
+*.dam.mtsmedia.ru
 *.dap.gov.ru
 *.data-registry-api.vk.team
 *.data-studio.ru
@@ -1345,6 +1347,7 @@
 *.gnppregion.ru
 *.go.mail.ru
 *.golodyaev.ru
+*.goods.ru
 *.gopublic.online
 *.gorbank.spb.ru
 *.gorod74.ru
@@ -1487,6 +1490,7 @@
 *.hr-abk.ru
 *.hr.mail.ru
 *.hr.vk.team
+*.hronikivremeni.ru
 *.hrtek.vk.com
 *.hrtek.vk.ru
 *.hub.nspd.rosreestr.gov.ru
@@ -1501,6 +1505,7 @@
 *.ibe-stage.travelmore.ru
 *.ibgroup.ru
 *.ibispb.ru
+*.ibs.ru
 *.ibsmb.agw.api.db.vtb
 *.ibsmb.agw.api.gost.db.vtb.ru
 *.ibsmb.agw.api.gost.if.db-test.vtb.ru
@@ -1678,6 +1683,8 @@
 *.itbez.ru
 *.itcomp.tech
 *.itmrl.ru
+*.iturup.online
+*.iturupbank.ru
 *.iva-tech.ru
 *.ivgoradm.ru
 *.ivi.ru
@@ -1754,6 +1761,7 @@
 *.kino.mail.ru
 *.kinokurort.ru
 *.kion.ru
+*.kionstroki.ru
 *.kk.ru
 *.kkbmk.ru
 *.kkccon.stv.socinfo.ru
@@ -1825,6 +1833,7 @@
 *.kvartplata.info
 *.kvartplata.ru
 *.kvvu-mo.21-school.ru
+*.kxte.ru
 *.kz.cloud.vk.com
 *.kz.cloud.vk.kz
 *.kz.ozon.com
@@ -1894,6 +1903,7 @@
 *.lkp.msb.gpb.ru
 *.lktroika.ru
 *.lo-miac.ru
+*.local.newton-technology.ru
 *.local.vlc.ru
 *.locko-bank.info
 *.locko-bank.su
@@ -2035,6 +2045,8 @@
 *.megafon.mail.ru
 *.megafon.ru
 *.megakontrol.ru
+*.megamarket.ru
+*.megamarket.tech
 *.megaplan.ru
 *.megatech-it.ru
 *.meinfx.ru
@@ -2050,6 +2062,7 @@
 *.metib.ru
 *.metro.spb.ru
 *.metropolik.ru
+*.metrowagonmash.ru
 *.mf55.ru
 *.mfa.gazprombank.ru
 *.mfc-25.ru
@@ -2059,6 +2072,7 @@
 *.mfk-bank.ru
 *.mfnso.ru
 *.mfsk.ru
+*.mg1.mtsmedia.ru
 *.mglk.ru
 *.mgn-city.ru
 *.mgn.metro.spb.ru
@@ -2216,6 +2230,7 @@
 *.mts.ru
 *.mtsbank.ru
 *.mtsdengi.ru
+*.mtsmedia.ru
 *.mtt.ru
 *.multicarta.ru
 *.multimedia.mil.ru
@@ -2228,6 +2243,7 @@
 *.music.kion.ru
 *.music.vk.com
 *.music.vk.ru
+*.muzlab.ru
 *.mvd.ru
 *.mvk.com
 *.mvs-bank.ru
@@ -2509,6 +2525,7 @@
 *.ospos.dev
 *.ospos.ru
 *.oss.ertelecom.ru
+*.osu.ru
 *.ot.gov.ru
 *.otello.ru
 *.otpbank.ru
@@ -2578,6 +2595,7 @@
 *.pay47.ru
 *.payanyway.ru
 *.payconnect.ru
+*.paygwsec.sberbank-tele.com
 *.payment.rambler.ru
 *.paymentkit.ru
 *.paymgate.ru
@@ -2724,6 +2742,7 @@
 *.prod.sovcomins.ru
 *.prod.sravni.market
 *.prod.sravni.ru
+*.prod.trcont.ru
 *.prod.ya.magnit.ru
 *.prod2.nspd.rosreestr.gov.ru
 *.production.vklanding.com
@@ -2802,6 +2821,7 @@
 *.quarton.ru
 *.quto.ru
 *.r-express.ru
+*.r-one.io
 *.r-ulybka.ru
 *.r.mycdn.me
 *.r.okcdn.ru
@@ -3327,6 +3347,7 @@
 *.shbv-rcpu.asudd.net
 *.shbv1.asudd.net
 *.shbv2.asudd.net
+*.shiptor.ru
 *.shmr.ru
 *.shop.fc-zenit.ru
 *.shop.megafon.ru
@@ -3435,6 +3456,7 @@
 *.souzmult.ru
 *.souzmultpark.ru
 *.sov-teh.com
+*.sova-trading.com
 *.sovcombank-am.ru
 *.sovcombank-leasing.ru
 *.sovcombank.business
@@ -3596,6 +3618,8 @@
 *.stream.eaglecdn.com
 *.streaming.eagleplatform.com
 *.strelkacard.ru
+*.stroki.kion.ru
+*.strokikion.ru
 *.stroytransgaz.com
 *.stroytransgaz.ru
 *.structure.mil.ru
@@ -3745,6 +3769,7 @@
 *.terskyrayon.ru
 *.test-er.ru
 *.test-inspector.gosuslugi.ru
+*.test-megamarket.ru
 *.test-pgwh.nsd.ru
 *.test-teams.sovcombank.ru
 *.test.broker-sb.io
@@ -4346,6 +4371,7 @@
 *.xn--b1afbkon4ai1b.xn--p1ai
 *.xn--b1afqbrascj.xn--p1ai
 *.xn--b1afyi.xn--p1ai
+*.xn--b1agajadjtdhcxg6d.xn--p1ai
 *.xn--b1agmh1ai8d.xn--p1ai
 *.xn--b1agmh1ai8d.xn--p1ai.ru
 *.xn--b1ajw.xn--p1ai
@@ -4452,6 +4478,7 @@
 *.zvooq.com
 *.zvooq.ru
 *.zvq.me
+*.zvuk-b2b.com
 *.zvuk-hifi.ru
 *.zvuk.com
 0001cmnode01.msk.mts.ru
@@ -4651,6 +4678,7 @@ aanda.ru
 aat-arti.ru
 ab-mortgage.alfastrah.ru
 ab.vk.team
+aba.ctrlz.ru
 abakanvodokanal.ru
 abank-load.ingobank.ru
 abank.ru
@@ -5327,6 +5355,7 @@ api2.stage.jump.taxi
 api4pao.client.sbertech.ru
 apidev.alfabank.ru
 apidoc.jump.finance
+apigw.kion.ru
 apigw.pskb.com
 apijw.jump.finance
 apijwd.jump.taxi
@@ -7065,6 +7094,7 @@ clinped.pro
 clm.mtsbank.ru
 cloud-edu.1c.ru
 cloud.21-school.ru
+cloud.almaz-antey.ru
 cloud.ao-star.ru
 cloud.barnaultransmash.ru
 cloud.bspb.ru
@@ -7548,6 +7578,7 @@ dagmintrud.ru
 daily.afisha.ru
 daily.qtom.ru
 daitspc-stage.cloud.vk.com
+dam.mtsmedia.ru
 danopotapstudio.ru
 dap.gov.ru
 dapp.sbertech.ru
@@ -9570,6 +9601,7 @@ hradmin.sbercity.ru
 hrbot.pskb.com
 hrc-event.ru
 hrmoscow.ru
+hronikivremeni.ru
 hrsites-api-talents.tbank-online.com
 hrsites-api-vacancies.srv-hub.org
 hrsites-api-vacancies.tbank-online.com
@@ -9693,6 +9725,7 @@ ibr.delo.ru
 ibr.gebank.ru
 ibr.sinara.ru
 ibs-consulting.ru
+ibs.ru
 ibsmb-go.api.vtb.ru
 ibsmb.agw.api.db.vtb.ru
 ibsmb.agw.api.gost.db.vtb.ru
@@ -10242,6 +10275,7 @@ isso-dev.mts.ru
 isso.mts.ru
 issras.ru
 istok.tch.ru
+isup.almaz-antey.ru
 it-brigita.ru
 it-earth.ru
 it-grad.ru
@@ -10529,6 +10563,7 @@ kio.commim.spb.ru
 kion-music.ru
 kion.ru
 kionmusic.ru
+kionstroki.ru
 kiosk.rostatus.ru
 kirovskij-cson.stv.socinfo.ru
 kirrb.ru
@@ -10684,6 +10719,7 @@ kvd5.spb.ru
 kvint.mkb.ru
 kvvu-mo.21-school.ru
 kwapp.spaymentsplus.ru
+kxte.ru
 kz.cloud.vk.com
 kz.cloud.vk.kz
 kz.ozon.com
@@ -10963,6 +10999,7 @@ lndresearch.sberuniversity.ru
 lnvrb.mznso.ru
 lo-miac.ru
 loans.magnit.ru
+local.newton-technology.ru
 local.vlc.ru
 locko-bank.info
 locko-bank.su
@@ -11184,6 +11221,7 @@ mail-pda.smailbox.ru
 mail-psy.edu.ru
 mail.06.rospotrebnadzor.ru
 mail.09.rospotrebnadzor.ru
+mail.10.rospotrebnadzor.ru
 mail.25.rospotrebnadzor.ru
 mail.31.rospotrebnadzor.ru
 mail.35.rospotrebnadzor.ru
@@ -11212,6 +11250,7 @@ mail.ai-academy.ru
 mail.airkey.cloud.sinara.ru
 mail.alfabank.ru
 mail.alfastrah.ru
+mail.almaz-antey.ru
 mail.amurshipyard.ru
 mail.api.hightracker.pro
 mail.api.mobilecheck.pro
@@ -11507,6 +11546,7 @@ mail.rossiya-airlines.ru
 mail.rostatus.ru
 mail.rostfinance.ru
 mail.rostov-gorod.info
+mail.rpnrb.ufanet.ru
 mail.rrc-altay.ru
 mail.rsb.ru
 mail.rtlog.ru
@@ -11809,6 +11849,7 @@ md-demo.knd.gov.ru
 mdb-testing.one-infra.ru
 mdb.one-infra.ru
 mdb.vk.team
+mdd.yandex.net
 mddr-cert.couriers.ru
 mdeng.ru
 mdigital.ru
@@ -11956,6 +11997,7 @@ mfnso.ru
 mfo-kkt-test.mtsbank.ru
 mfo-kkt.mtsbank.ru
 mfsk.ru
+mg1.mtsmedia.ru
 mglk.ru
 mgm-mm.rostfinance.ru
 mgm-zbx.rostfinance.ru
@@ -12347,6 +12389,7 @@ mts.mtsbank.ru
 mts.ru
 mtsbank.ru
 mtsdengi.ru
+mtsmedia.ru
 mtt.ru
 mufg.ru
 mui-uiebs.mkb.ru
@@ -12824,6 +12867,7 @@ nwgnv.ru
 nx-docker.alfastrah.ru
 nx.s2b.tech
 nxtc.ingobank.ru
+nz-am.ru
 nzk.rosneft.ru
 o-courier.ru
 o.gis-sc.krasnodar.ru
@@ -13162,6 +13206,7 @@ oskol.registrator-rekom.ru
 ospos.dev
 ospos.ru
 oss.ertelecom.ru
+osu.ru
 ot.gov.ru
 otchet.gcgs.ru
 otel.demo.gigalegal.sber.ru
@@ -13644,6 +13689,7 @@ payecom.ru
 payer.creditural.ru
 payflow.ertelecom.ru
 payform.tkbbank.ru
+paygwsec.sberbank-tele.com
 paykeeper-preprod.mkb.ru
 paykeeper.mkb.ru
 payment.alfabank.ru
@@ -13868,6 +13914,7 @@ pochta.ingosinvest.ru
 pochta.ru
 pochta.zavod-plastmass.ru
 pochtabank.ru
+pochtobank.ru
 podarki.vk.team
 podarocheck.ru
 podeli.alfagen.alfabank.ru
@@ -14406,6 +14453,7 @@ quiz.tbank-online.com
 quto.ru
 r-19.ru
 r-express.ru
+r-one.io
 r-ulybka.ru
 r.1cupis.ru
 r.atbbank.ru
@@ -14819,6 +14867,7 @@ rko.sme.absolutbank.ru
 rkomi.ru
 rks.digital
 rl0.ru
+rline.pro
 rlp.minzdrav.gov.ru
 rm.dm.alfabank.ru
 rmail.oparina4.ru
@@ -15837,6 +15886,10 @@ skazka.tricolor.ru
 skbbank.ru
 skbfinance.ru
 skblab.ru
+skdpu-mpa.thbank.ru
+skdpu.thbank.ru
+skdpu01.thbank.ru
+skdpu02.thbank.ru
 skgelios.ru
 ski.pionerka.ru
 skif.rt.ru
@@ -16043,6 +16096,7 @@ soft72.ru
 softvideo.ru
 sokol-kaluga.ru
 solar-appscreener.sovcombank.group
+solid-mn.ru
 solid.ru
 solidarnost.ru
 solvo-web-public.ct.ncsp.com
@@ -16085,6 +16139,7 @@ souzdvdelast.deltacredit.ru
 souzmult.ru
 souzmultpark.ru
 sov-teh.com
+sova-trading.com
 sova.mgn-city.ru
 sovcom.bank
 sovcom.club
@@ -16538,6 +16593,8 @@ streaming.eagleplatform.com
 strelkacard.ru
 strelkapay.ru
 stroi.domrfbank.ru
+stroki.kion.ru
+strokikion.ru
 stroytransgaz.com
 stroytransgaz.ru
 sts.alfastrah.ru
@@ -17503,6 +17560,7 @@ umcso.ru
 umcusp.ru
 umfc42.ru
 umfc48.ru
+umius.ru
 umpgku.ru
 umu.vtb.ru
 uni.omk.ru
@@ -17687,6 +17745,7 @@ vcs-inet-edge-b-04sk.sber.ru
 vcs-inet-edge-b-05sk.sber.ru
 vcs-inet-edge-b-06sk.sber.ru
 vcs-inet-edge-b.sber.ru
+vcs.almaz-antey.ru
 vcs.deltacredit.ru
 vcs.demo-inspector.gosuslugi.ru
 vcs.dzo-sbercom.sberbank.ru
@@ -21218,6 +21277,7 @@ xn--b1afqbrascj.xn--p1ai
 xn--b1afyi.xn--p1ai
 xn--b1aga6abebid.xn--d1aqf.xn--p1ai
 xn--b1agaal1aqiecry.xn--p1ai
+xn--b1agajadjtdhcxg6d.xn--p1ai
 xn--b1agd0aean.xn--d1aqf.xn--p1ai
 xn--b1agmh1ai8d.xn--p1ai
 xn--b1ajk9a.xn--c1avg
@@ -21454,6 +21514,7 @@ zvo.ru
 zvooq.com
 zvooq.ru
 zvq.me
+zvuk-b2b.com
 zvuk-hifi.ru
 zvuk.com
 zvuk.team
