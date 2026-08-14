@@ -5451,6 +5451,7 @@ artzapchasti.ru
 arxdshi.stv.muzkult.ru
 arzgir-cson.stv.socinfo.ru
 as-updater.vkteam.ru
+as.tcsbank.ru
 as.vk.team
 asdasda.t-boys.ru
 ashmao.ru
@@ -8118,6 +8119,7 @@ dtb1.ru
 du.ingosinvest-am.ru
 duma-an.speechpro.com
 dumadzr.ru
+dv-test.neuro.net
 dv.rtksp.ru
 dvaugla.ru
 dvbank.ru
@@ -9109,6 +9111,7 @@ git.demo.sberpravo.ru
 git.demo2.sberpravo.ru
 git.dev.sberpravo.ru
 git.ift.legalbpm.sberpravo.ru
+git.klgd.su
 git.legalbpm.sberpravo.ru
 git.linuxtesting.ru
 git.minzdrav.gov.ru
@@ -10430,6 +10433,7 @@ kascloud.onprem.ru
 kasko.vtb.ru
 kasmail.onprem.ru
 kaspersky.ru
+kassa.moneta.ru
 kassa.payanyway.ru
 kassa.rambler.ru
 kav-crb.ru
@@ -10900,6 +10904,7 @@ lk.tkbbank.ru
 lk.tomskrts.ru
 lk.vikingbank.ru
 lk.vitabank.ru
+lk.voicebot.megafon.ru
 lk.vzavod.ru
 lk.wifi-auth.megafon.ru
 lk.yfc.ru
@@ -11890,6 +11895,8 @@ megaplan.ru
 megatech-it.ru
 meinfx.ru
 memdm.crpt.ru
+memo.klgd.su
+memos.klgd.su
 meow.edgecenter.online
 merch-cpg-dg.money.mail.ru
 merch-cpg.money.mail.ru
@@ -13802,6 +13809,7 @@ plan.budgetnn.ru
 plan.mfsk.ru
 plan2.budgetnn.ru
 planar-elements.ru
+planer.klgd.su
 planetaibs.ru
 planning.rustest.ru
 plat-forma.ru
@@ -15071,6 +15079,7 @@ s-broiler.ru
 s.assistant.demo.moneta.ru
 s.cards.demo.moneta.ru
 s.demo.moneta.ru
+s.demo.sbp.payanyway.ru
 s.gazprombank.ru
 s.gis-sc.krasnodar.ru
 s.gpb.ru
