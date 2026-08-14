@@ -80,6 +80,7 @@ acti.ru
 activebc.ru
 activebt.ru
 ad-tech.ru
+adl3be.name
 adm-syzran.ru
 admbg.org
 admbg.ru
@@ -1369,6 +1370,8 @@ i-spo.ru
 ibank-nbsrf.ru
 ibgroup.ru
 ibispb.ru
+ibs-consulting.ru
+ibs.ru
 ibstech.ru
 ic-trend.ru
 icbcmoscow.ru
@@ -2452,6 +2455,7 @@ pkitrans.ru
 plagate.ru
 plait.ru
 planar-elements.ru
+planetaibs.ru
 plat-forma.ru
 platformaexpert.ru
 platformaofd.ru
@@ -3477,6 +3481,7 @@ teachersday.ru
 teatrvfk.ru
 tech-inv.org
 techdobro.ru
+technodrom.ru
 technologiya.ru
 technoscore.ru
 tecscheme.org

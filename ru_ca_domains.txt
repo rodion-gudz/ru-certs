@@ -4784,6 +4784,7 @@ adfs.uaz.ru
 adfssvc.rencredit.ru
 adgenerator.max.ru
 adgpost.sonarplus.ru
+adl3be.name
 adm-nav.rustest.ru
 adm-planning.rustest.ru
 adm-syzran.ru
@@ -7235,6 +7236,7 @@ control-plane.vk.team
 control-ul.ingobank.ru
 conversion.psbank.ru
 copilot.vk.team
+core-logistic-orders.ext-proxy.prod.yandex-bank.net
 core-sbol.chastyami.shop
 core.konus.group
 core.lk-b2b.mts.ru
@@ -9687,6 +9689,7 @@ ibmobile.avangard.ru
 ibr.delo.ru
 ibr.gebank.ru
 ibr.sinara.ru
+ibs-consulting.ru
 ibsmb-go.api.vtb.ru
 ibsmb.agw.api.db.vtb.ru
 ibsmb.agw.api.gost.db.vtb.ru
@@ -10426,6 +10429,7 @@ kascloud.onprem.ru
 kasko.vtb.ru
 kasmail.onprem.ru
 kaspersky.ru
+kassa.payanyway.ru
 kassa.rambler.ru
 kav-crb.ru
 kav.modulbank.ru
@@ -11356,6 +11360,7 @@ mail.ib.sinara.ru
 mail.ibr.delo.ru
 mail.ibr.gebank.ru
 mail.ibr.sinara.ru
+mail.ibs.ru
 mail.ift.gigalegal.sber.ru
 mail.ift.legalbpm.sberpravo.ru
 mail.ift.legalforms.sberpravo.ru
@@ -13793,6 +13798,7 @@ plan.budgetnn.ru
 plan.mfsk.ru
 plan2.budgetnn.ru
 planar-elements.ru
+planetaibs.ru
 planning.rustest.ru
 plat-forma.ru
 platezh.vtb24.ru
@@ -15015,6 +15021,7 @@ rustore-search.cloud.vk.team
 rustore.ru
 rustore.tv
 rvc.ru
+rvpn.thbank.ru
 rw.kinef.ru
 rwa.alfabank.ru
 rwb.ru
@@ -16834,6 +16841,7 @@ tech.vk.com
 tech.vk.ru
 techdobro.ru
 techlab.s7.ru
+technodrom.ru
 technologiya.ru
 technoscore.ru
 techpass-test.sberbank-service.ru
@@ -17940,6 +17948,7 @@ vpn.russianpost.ru
 vpn.russitabank.ru
 vpn.sber.ru
 vpn.seller.ad-tech.ru
+vpn.thbank.ru
 vpn.tkbip.ru
 vpn.toyotafs.ru
 vpn.tricolor.ru
@@ -18012,6 +18021,7 @@ vts.gazprombank.ru
 vtt.insignitus.ru
 vva-mo.21-school.ru
 vvo.21-school.ru
+vvpn.thbank.ru
 vw-test.mkb.ru
 vw.hr-dev.sberbank.ru
 vw.hr-draft.sberbank.ru
