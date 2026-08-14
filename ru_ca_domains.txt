@@ -10262,6 +10262,7 @@ itf-p07asl-sp3.gazprombank.ru
 itf-p07asl-sp4.gazprombank.ru
 itf-p07asl-sp5.gazprombank.ru
 itf-p07asl-sp6.gazprombank.ru
+itfederation.ru
 itk.krasnodar.ru
 itmagnit.ru
 itmkb.ru
@@ -21157,6 +21158,7 @@ xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80ajghhoc2aj1c8b.xn--p1ai
 xn--80ajijsfw.xn--d1aqf.xn--p1ai
 xn--80ajj9a.xn--39-dlcej5afybuehh.xn--p1ai
+xn--80akakmejco9a.xn--p1ai
 xn--80akcrghjp.xn--p1ai
 xn--80akhbyjw.xn--d1acj3b
 xn--80akijuiemcz7e.xn--p1ai

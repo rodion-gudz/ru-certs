@@ -1512,6 +1512,7 @@ itb.ru
 itbank.ru
 itbez.ru
 itcomp.tech
+itfederation.ru
 itmagnit.ru
 itmkb.ru
 itmrl.ru
@@ -4090,6 +4091,7 @@ xn--80ahclcba9ameqejaeh.xn--p1ai
 xn--80aimavhgct.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80ajghhoc2aj1c8b.xn--p1ai
+xn--80akakmejco9a.xn--p1ai
 xn--80akcrghjp.xn--p1ai
 xn--80akhbyjw.xn--d1acj3b
 xn--80akijuiemcz7e.xn--p1ai
