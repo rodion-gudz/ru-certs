@@ -960,6 +960,7 @@ enrollme.plus
 enrollme.ru
 enterly.ru
 entertainment-ads.ru
+entrustment.ru
 eosago21-vek.ru
 epd47.ru
 epd56.ru
@@ -1124,6 +1125,7 @@ gaoysport.ru
 garant.ru
 garo62.ru
 gasinv.ru
+gasuibs.ru
 gavan-nsk.ru
 gazeks.com
 gazeta.ru
@@ -2032,6 +2034,7 @@ mt-plan.ru
 mtechnologies.pro
 mtronics.ru
 mts-office.ru
+mts.investments
 mts.ru
 mtsbank.ru
 mtsdengi.ru
@@ -2321,6 +2324,7 @@ omsomsk.ru
 omspk.ru
 omstula.ru
 omus1.ru
+on-media.ru
 one-infra.ru
 onecld.ru
 onefactor.com
@@ -2555,6 +2559,7 @@ prologsklad.ru
 promelec.ru
 prometey-spb.org
 pronashevse.ru
+proptech.ru
 proresurs.ru
 prosdr.ru
 proshkola.ru
@@ -2607,9 +2612,11 @@ qwdc.ru
 r-19.ru
 r-express.ru
 r-one.io
+r-one.ru
 r-ulybka.ru
 r-x.team
 r0.ru
+r1.team
 r1864.ru
 rabotavkuzbasse.ru
 radionebo.com
@@ -2633,6 +2640,7 @@ rapporto.tech
 raspisanie-btt.ru
 ratings.ru
 rawenstvo.ru
+razdva.org
 razvitie-stav.ru
 razz.ru
 rb-collect.ru
@@ -2954,6 +2962,7 @@ sberbankactivno.ru
 sberbankaktivno.ru
 sberbankins.ru
 sberbankvmeste.ru
+sberbb.ru
 sberbs.ru
 sberbusiness.live
 sbercib.ru
@@ -2994,6 +3003,7 @@ sberseller.ru
 sbershop.ru
 sbersova.ru
 sberspasibo.ru
+sbertarget.ru
 sbertech.ru
 sbertransport.ru
 sbertroika.ru
@@ -3693,6 +3703,7 @@ ufrkv.ru
 ug-rr.ru
 ugrartc.ru
 ugzko.ru
+uk-formula.ru
 uk174.ru
 uklad.group
 ukpir.ru
@@ -3774,6 +3785,7 @@ veb-leasing.com
 veb-leasing.ru
 veb.ru
 veblife.ru
+vectorcapital.ru
 vedomosti.ru
 vega-rus.net
 vektrumsport.ru
@@ -4201,6 +4213,7 @@ xn--j1adu7b.xn--p1ai
 xn--j1afbdo3a.xn--p1ai
 xn--j1agba.xn--p1ai
 xn--j1andg1c.xn--p1ai
+xn--l1aaifd.xn--p1ai
 xn--l1acdln.xn--p1ai
 xn--l1aelhk.xn--p1ai
 xn--l1agf.xn--p1ai
