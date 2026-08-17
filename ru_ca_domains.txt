@@ -4616,6 +4616,7 @@
 3dsserver.alfabank.ru
 3ma.ahml.ru
 41.rospotrebnadzor.ru
+43.rospotrebnadzor.ru
 4388167-securos.vs.ertelecom.ru
 44zakupki.budgetnn.ru
 45.rospotrebnadzor.ru
@@ -12438,6 +12439,7 @@ mx.inforion.ru
 mx.lynx-texts.ru
 mx.mkp.ru.net
 mx.mufg.ru
+mx.ns-bank.ru
 mx.prod.yandex-bank.net
 mx.roadkursk.ru
 mx.tfoms52.ru
@@ -12821,6 +12823,7 @@ nrcki.ru
 nrczh.ru
 nri-atlas.rt.ru
 nrservice.ru
+ns-bank.ru
 ns.ogk2.ru
 ns0.ru
 ns2.speechpro.com
@@ -16087,6 +16090,7 @@ soc-t.sinara.ru
 soc23.ru
 socfmba.ru
 sochi.tricolor.ru
+social-card.ru
 social-insurance.sfr.gov.ru
 social-uchebnik.t-j.ru
 social.invest-media.tbank.ru
@@ -19939,6 +19943,7 @@ www.npo-rtc.ru
 www.npovk.ru
 www.nprts.ru
 www.nrb.ru
+www.ns-bank.ru
 www.nsbank.ru
 www.nsg-ins.ru
 www.nsgsoft.ru
