@@ -14846,6 +14846,7 @@ retail5.kuzbank.ru
 rev.avangard.ru
 rev2.avangard.ru
 rex-motors.ru
+rf-cheats.ru
 rfcbank.ru
 rfs.deltacredit.ru
 rg.gov.ru
@@ -17265,6 +17266,7 @@ tmobile-mc.auth.alfabank.ru
 tmobile-zeus.alfabank.ru
 tmobile-zeus.auth.alfabank.ru
 tmobile.auth.alfabank.ru
+tms.demo.moneta.dev
 tms.sberbank.ru
 tmsg-p2p.online-tb.com
 tmsg-p2p.tbank-online.com
