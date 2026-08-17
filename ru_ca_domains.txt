@@ -11785,6 +11785,7 @@ matrix.katantsev.ru
 matrix.shivacat.ru
 mattermost.alfastrah.ru
 mattermost.avangard.ru
+matznay.ru
 max-bot.bestwayservice.ru
 max.bidfox.ru
 max.emm.hr-ift.sberbank.ru
@@ -18275,6 +18276,7 @@ wf.mobile.sbrf.ru
 wfi-p1mnl-psn.net.gazprombank.ru
 wfi-p2mnl-psn.net.gazprombank.ru
 wfm-my.v1.market
+wfm.megafon.ru
 wfm.rshb.ru
 wh-cpg-dg.money.mail.ru
 wh-cpg.money.mail.ru
