@@ -429,6 +429,7 @@
 *.bee-saturn.ru
 *.beeline.ru
 *.belgorod.21-school.ru
+*.benzin-rpgu.ru
 *.bestproducts.mail.ru
 *.beta-class365.ru
 *.beta.finuslugi.ru
@@ -6224,6 +6225,7 @@ belapk.ru
 belgorod.21-school.ru
 belon.ru
 belsocbank.ru
+benzin-rpgu.ru
 bestproducts.mail.ru
 beta-class365.ru
 beta-odac.ca.sbrf.ru
@@ -10101,6 +10103,7 @@ integration-shbv.asudd.net
 integrations.1cdialog.com
 integriks.ru
 intelcube.ru
+intellectum.info
 intelwebs.ru
 interbank.tkbbank.ru
 intercomp.ru
@@ -11035,6 +11038,7 @@ logistics.gazprombank.ru
 logon.recfaces.ru
 logon.rfaces.ru
 logout.sberuniversity.ru
+logs-afina.megafon.ru
 logs-dsp.ad-tech.ru
 logs.ngenix.net
 lokobank.ru
@@ -17858,6 +17862,7 @@ vitabank.ru
 vitabank.spb.ru
 vitains.ru
 vito.sbrf.ru
+vitrina.tv
 vitrinadp.sber.ru
 vk-alma.speechpro.com
 vk-apps.com
@@ -18766,6 +18771,7 @@ www.bcs-bank.com
 www.bcs-bank.ru
 www.belapk.ru
 www.belgorod.21-school.ru
+www.benzin-rpgu.ru
 www.beta.db.vtb.ru
 www.beta.sberbank.co.in
 www.betcity.ru
