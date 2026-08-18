@@ -6916,6 +6916,7 @@ cert-test.bidzaar.com
 cert.ingos.ru
 cert.sbertv.ru
 cert.spasibo.digital
+cert1.ext-www-staging.megafon.ru
 certauth.adfs.nnk.ru
 certauth.adfs.uaz.ru
 certauth.fs.mtsbank.ru
