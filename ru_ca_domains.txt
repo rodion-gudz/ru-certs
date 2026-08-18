@@ -10086,6 +10086,7 @@ infoblox.open.ru
 infodec.ru
 infomail.atbbank.ru
 infopage.volga.rt.ru
+infoportal.megafon.ru
 inforion.ru
 informlaw.ru
 informseti.ru
@@ -12281,6 +12282,7 @@ mobterm.ncsp.ru
 mock.staging.mgw.mts.ru
 modem.czs-anadyr.ru
 moderita.ru
+modulbank.ru
 modulbuh.ru
 module.ru
 moex.com
@@ -16002,6 +16004,7 @@ sl.otpbank.ru
 sladonezh.ru
 slavneft.ru
 slider.vkteam.ru
+slizzz.ru
 slk.fhdgso.ru
 slon-e.ru
 slona.me
