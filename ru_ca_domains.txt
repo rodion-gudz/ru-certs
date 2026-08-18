@@ -15197,6 +15197,7 @@ s-a1.vtb.ru
 s-a2.vtb.ru
 s-broiler.ru
 s.assistant.demo.moneta.ru
+s.assistant.moneta.ru
 s.cards.demo.moneta.ru
 s.demo.moneta.ru
 s.demo.sbp.payanyway.ru
@@ -16972,6 +16973,7 @@ teamid.sber.ru
 teams.magnit.ru
 teams.sovcombank.ru
 teams.vk.com
+teamservice.mtsbank.ru
 teatr.tricolor.ru
 teatrvfk.ru
 tebs.sovcombank.ru
@@ -18587,6 +18589,7 @@ www.3dsecure.sinara.ru
 www.3dsecure.yoomoney.ru
 www.3dsp.vtb.ru
 www.3dsp2.vtb.ru
+www.43.rospotrebnadzor.ru
 www.45.rospotrebnadzor.ru
 www.46.rospotrebnadzor.ru
 www.46cge.rospotrebnadzor.ru
