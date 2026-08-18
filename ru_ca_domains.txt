@@ -8917,6 +8917,7 @@ fosrls.rshb-ins.ru
 fostest.rshb-ins.ru
 foto.mail.ru
 foto.my.mail.ru
+foto.myhome365.ru
 fotopitera.ru
 fourth-m12.asudd.net
 fourth1-m12.asudd.net
@@ -17050,6 +17051,7 @@ test-inspector.gosuslugi.ru
 test-interconnect.t-j.ru
 test-invest.vtb.ru
 test-jazz.sberbank.ru
+test-le-8.certhub-beta.onecld.ru
 test-lk-ecomm.psbank.ru
 test-lk.rt.ru
 test-logging.tap2phone.ru
