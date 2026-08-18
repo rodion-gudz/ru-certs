@@ -11913,6 +11913,7 @@ mdk1.mtsbank.ru
 mdk2.mtsbank.ru
 mdk3.mtsbank.ru
 mdlp.crpt.ru
+mdm-dev.megafon.ru
 mdm-s.bki-okb.ru
 mdm.mfk-bank.ru
 mdm.ocs.ru
@@ -11923,6 +11924,8 @@ mdm.sberins.ru
 mdm.sberuniversity.ru
 mdm.vtb.ru
 mdmlab.bashneft.ru
+mdmt-dev.megafon.ru
+mdmt-seg.megafon.ru
 mdp.kion.ru
 mdrive.magnit.ru
 mec-backend-sync.services.ocs.ru
@@ -15712,6 +15715,7 @@ sedo.omsomsk.ru
 sedomb.energo.ru
 seg.deltacredit.ru
 seg.mdm.ocs.ru
+seg.megafon.ru
 segd.ru
 seid-auth.rosneft.ru
 seid.rosneft.ru
