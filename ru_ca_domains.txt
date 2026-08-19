@@ -2535,6 +2535,7 @@
 *.oreka.ru
 *.orelkapremont.ru
 *.oreol-2010.ru
+*.orexchange.ru
 *.orgp.spb.ru
 *.origination.ru
 *.orion.akbars.ru
@@ -2719,6 +2720,7 @@
 *.pp.sovcomins.ru
 *.ppsbp-api-dg.money.mail.ru
 *.ppsbp-api.money.mail.ru
+*.pr-cbs.ru
 *.pradas.ru
 *.pradas.su
 *.pravmin74.ru
@@ -3049,6 +3051,7 @@
 *.rkomi.ru
 *.rks.digital
 *.rl0.ru
+*.rline.pro
 *.rma.vkteam.ru
 *.rmg.ru
 *.rms.u6.ru
@@ -3650,6 +3653,7 @@
 *.streaming.eagleplatform.com
 *.strelkacard.ru
 *.stroki.kion.ru
+*.stroki.mts.ru
 *.strokikion.ru
 *.stroytransgaz.com
 *.stroytransgaz.ru
@@ -4176,6 +4180,7 @@
 *.vlc.ru
 *.vniia.ru
 *.vniifk.ru
+*.vodokanal.spb.ru
 *.voduberegi.ru
 *.voip.ozon.ru
 *.voip.s7corp.ru
@@ -4522,6 +4527,7 @@
 002-1ct-tst-01.sibintek.ru
 002-prj-web-02.sibintek.ru
 01.rospotrebnadzor.ru
+04.rospotrebnadzor.ru
 04gov.ru
 06.rospotrebnadzor.ru
 09.rospotrebnadzor.ru
@@ -4649,6 +4655,7 @@
 3dsr02.sbrf.ru
 3dsr03.sbrf.ru
 3dsserver.alfabank.ru
+3dssrv.otpbank.ru
 3ma.ahml.ru
 41.rospotrebnadzor.ru
 43.rospotrebnadzor.ru
@@ -4785,6 +4792,7 @@ acs.cloud.ru
 acs.gazprombank.ru
 acs.in-bank.ru
 acs.mkb.ru
+acs.mtsdengi.ru
 acs.payecom.ru
 acs.payments.sberbank.ru
 acs.raiffeisen.ru
@@ -5472,6 +5480,7 @@ appsmail.ru
 appt.tch.ru
 apptracer.ru
 apptracer.vkteam.ru
+appuat.astrasend.ru
 appweb.broker.vtb.ru
 april-capital.ru
 april-investments.ru
@@ -6722,6 +6731,7 @@ capitalt.ru
 capsula.vk.com
 car-broker.ru
 carcade.com
+card.otpbank.ru
 cardcredit.ru
 cardio.ru
 cardlock.mkb.ru
@@ -6975,6 +6985,7 @@ cfmc.ru
 cfo-front.alfabank.ru
 cft.ift.sberbank.ru
 cgbp.ru
+cge.onego.ru
 cge49.ru
 cgkipd.ru
 cgorod.pw
@@ -7016,6 +7027,7 @@ chat.mts.ru
 chat.mtsbank.ru
 chat.novikom.ru
 chat.onkolog24.ru
+chat.otpbank.ru
 chat.psbank.ru
 chat.rcoko27.ru
 chat.sberbankins.ru
@@ -8394,6 +8406,7 @@ efr.rshb.ru
 efs-sbbol-ift-mobile.testsbi.sberbank.ru
 efs-sbbol-ift-web.testsbi.sberbank.ru
 efsemp-procs-lb-in-sowa.sigma.sbrf.ru
+egaisretail.ru
 ege.gosuslugi.ru
 eggs-game.magnit.ru
 egisso.ru
@@ -9331,6 +9344,7 @@ gosoc.ru
 gosschool.ru
 gossortrf.ru
 gost-os.ru
+gost.bstrv.ru
 gost.codifast.ru
 gost.nkrapivindev.ru
 gostelekom.ru
@@ -10216,6 +10230,7 @@ interrao-orel.ru
 interrao.ru
 interteh.info
 intertexinform.ru
+interview-ejudge-core.prod.digital-interview.t-tech.ru
 intha01.sovcomins.ru
 intha02.sovcomins.ru
 intourist.ru
@@ -10662,6 +10677,7 @@ kilbil.ru
 kinef.ru
 kinokurort.ru
 kio.commim.spb.ru
+kion-login-develop.mts.ru
 kion-music.ru
 kion.ru
 kionmusic.ru
@@ -11001,6 +11017,7 @@ lk.car.bistrodengi.ru
 lk.css-rzd.ru
 lk.css.rzd.ru
 lk.digital.uralsib.ru
+lk.egaisretail.ru
 lk.gazfond-pn.ru
 lk.geliuscap.ru
 lk.hospital.karelia.ru
@@ -11102,6 +11119,7 @@ lms.tavolga.center
 lndresearch.sberuniversity.ru
 lnvrb.mznso.ru
 lo-miac.ru
+loan.otpbank.ru
 loans.magnit.ru
 local.newton-technology.ru
 local.vlc.ru
@@ -11326,6 +11344,7 @@ mail-pda.rambler.ru
 mail-pda.sdisk.ru
 mail-pda.smailbox.ru
 mail-psy.edu.ru
+mail.01.rospotrebnadzor.ru
 mail.06.rospotrebnadzor.ru
 mail.09.rospotrebnadzor.ru
 mail.10.rospotrebnadzor.ru
@@ -13303,6 +13322,7 @@ orenburg-gov.ru
 orenburgneft.rosneft.ru
 orenklip.online
 oreol-2010.ru
+orexchange.ru
 orgp.spb.ru
 origin.cargo.s7.ru
 origin.helpcenter.s7.ru
@@ -14004,9 +14024,11 @@ platformaexpert.ru
 platformaofd.ru
 platformatd.ru
 platformrp.ru
+platformst.ru
 plati-online.ru
 platichastyami.ru
 platiecom.ru
+platipomiru.absolutbank.ru
 platiqr.ru
 platiqrift.sberbank.ru
 playful-pixel.site
@@ -14161,6 +14183,7 @@ ppg-service-subj-requestlogger.t-hack.ru
 pps.gazprombank.ru
 ppsbp-api.money.mail.ru
 ppx.rambler.ru
+pr-cbs.ru
 pr.rtksp.ru
 practica.pro.consyst-os.ru
 practicum.sberclass.ru
@@ -14185,6 +14208,7 @@ pre-s3.cscampus.ru
 pre-sso.cscampus.ru
 pre.cscampus.ru
 preaccel.sberclass.ru
+preacs.mtsdengi.ru
 predg-rb.ru
 preidentity.tbank-online.com
 prelive.achat.alfabank.ru
@@ -14984,6 +15008,7 @@ retail5.kuzbank.ru
 rev.avangard.ru
 rev2.avangard.ru
 rex-motors.ru
+rex-render.mts.ru
 rf-cheats.ru
 rfcbank.ru
 rfs.deltacredit.ru
@@ -15036,6 +15061,7 @@ rnaero.rosneft.ru
 rnbitumen.rosneft.ru
 rnbunker.rosneft.ru
 rncb.ru
+rnd.otpbank.ru
 rndragmet.rosneft.ru
 rnholding.rosneft.ru
 rnko.ru
@@ -15581,6 +15607,7 @@ sbm.sberbank.ru
 sbmcollege.ru
 sbmetrics.2gis.io
 sbmpsi.sberbank.ru
+sbnk.ru
 sbnray.ru
 sborprint.ru
 sbox.payecom.ru
@@ -15650,6 +15677,7 @@ scf.alfabank.ru
 sch435.ru
 sch435.spb.ru
 school-134.ru
+school-24.tagan.ru
 school-orphan.ru
 school.ncagp.ru
 school12-61.ru
@@ -15886,6 +15914,7 @@ sfsext.pochtabank.ru
 sftbee.alfabank.ru
 sftp-loyalty.cardsmobile.ru
 sftp-loyalty.koshelek.app
+sftp.crms-media.mts.ru
 sgateway.ozon.ru
 sgateway.ozonru.me
 sgo-b2b1.vks.rshb.ru
@@ -16757,6 +16786,7 @@ strelkacard.ru
 strelkapay.ru
 stroi.domrfbank.ru
 stroki.kion.ru
+stroki.mts.ru
 strokikion.ru
 stroytransgaz.com
 stroytransgaz.ru
@@ -17265,6 +17295,7 @@ test4.t-boys.ru
 test4.test3.certhub-test.vk.com
 test5.api.vtb.ru
 test6.api.vtb.ru
+testacs.mtsdengi.ru
 testamcalls.alfabank.ru
 testapi.gazprombank.ru
 testapi.sbp.gazprombank.ru
@@ -18151,6 +18182,8 @@ vniifk.ru
 vnm.transneft.ru
 vo.ertelecom.ru
 voda.gov.ru
+vodokanal-museum.ru
+vodokanal-zagorod.ru
 vodolaga.ru
 voduberegi.ru
 voex.msg.gpb.ru
@@ -18687,6 +18720,7 @@ ww1234w.t-boys.ru
 ww123w.t-boys.ru
 www-f1.tbank.ru
 www-test.tbank.ru
+www.01.rospotrebnadzor.ru
 www.04gov.ru
 www.06.rospotrebnadzor.ru
 www.09.rospotrebnadzor.ru
@@ -18863,6 +18897,7 @@ www.app.sberbank.ru
 www.apps.sber.ru
 www.apps.sberbank.ru
 www.appserv.cplsb.ru
+www.appuat.astrasend.ru
 www.appweb.broker.vtb.ru
 www.april-capital.ru
 www.aq.ru
@@ -19023,6 +19058,7 @@ www.callerid.sovcombank.ru
 www.capital-bank.ru
 www.capitalbank.ru
 www.carcade.com
+www.card.otpbank.ru
 www.cardcredit.ru
 www.cardio.ru
 www.carthalva.ru
@@ -19084,6 +19120,7 @@ www.chat-test-ds.bspb.ru
 www.chat-test.bspb.ru
 www.chat-turn.vtb.ru
 www.chat.bspb.ru
+www.chat.otpbank.ru
 www.chat.vtb.ru
 www.chat.vtbgroup.com
 www.chat4.vtb.ru
@@ -20295,6 +20332,7 @@ www.platform.gov.ru
 www.platformaofd.ru
 www.platformatd.ru
 www.platformrp.ru
+www.platformst.ru
 www.plati-online.ru
 www.plcm.ru
 www.plein.com
@@ -20325,6 +20363,7 @@ www.portalsd.mts.ru
 www.post.pochtabank.ru
 www.ppclient.ru
 www.pps.gazprombank.ru
+www.pr-cbs.ru
 www.pradas.ru
 www.pradas.su
 www.pravmin74.ru
@@ -20613,6 +20652,7 @@ www.sberunity.ru
 www.sbidea.ru
 www.sbionline.ru
 www.sbmcollege.ru
+www.sbnk.ru
 www.sbnray.ru
 www.sbp-api.gazprombank.investments
 www.sbp-api.uat.gazprombank.investments
@@ -21317,6 +21357,7 @@ xn----7sbb1amddko8c7b4b.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
 xn----7sbbracufnnnpmtz7r.xn--d1aqf.xn--p1ai
+xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----7sbnqazjhcv.xn--p1ai
 xn----7sbnqvigct4i.xn--p1ai
@@ -21389,6 +21430,7 @@ xn--80aac0anodvhks.xn--p1ai
 xn--80aaccfkbs3a3a1ai.xn--p1ai
 xn--80aaccp4ajwpkgbl4lpb.xn--p1ai
 xn--80aacgvulkfjl.xn--p1ai
+xn--80aadbk0bjofbqx.xn--p1ai
 xn--80aadcfns8adpnjcoj.xn--p1ai
 xn--80aadpbzme7al1k.xn--p1ai
 xn--80aaeeri9a0a.xn--p1ai

@@ -287,6 +287,7 @@ asterx23.ru
 astgoz.ru
 astk-insur.ru
 astrahovanie.ru
+astrasend.ru
 astrobl.ru
 astrovolga.ru
 astrovolga.tech
@@ -500,6 +501,7 @@ bscbalt.ru
 bspb.ru
 bssys.com
 bstbank.ru
+bstrv.ru
 budgetnn.ru
 buduryadom.ru
 bukep.ru
@@ -918,6 +920,7 @@ edu54.ru
 efadevelopment.ru
 efbank.ru
 efis-nco.ru
+egaisretail.ru
 egisso.ru
 egisznso.ru
 egopay.ru
@@ -2335,6 +2338,7 @@ on-media.ru
 one-infra.ru
 onecld.ru
 onefactor.com
+onego.ru
 oneliya.ru
 onelya.ru
 oneme.ru
@@ -2371,6 +2375,7 @@ orelkapremont.ru
 orenburg-gov.ru
 orenklip.online
 oreol-2010.ru
+orexchange.ru
 org.ru
 origimato.ru
 origination.ru
@@ -2496,6 +2501,7 @@ platformaexpert.ru
 platformaofd.ru
 platformatd.ru
 platformrp.ru
+platformst.ru
 plati-online.ru
 platichastyami.ru
 platichastyamiuat.ru
@@ -2532,6 +2538,7 @@ polyot.ru
 porprokat.ru
 portal-da.ru
 ppclient.ru
+pr-cbs.ru
 pradas.ru
 pradas.su
 pravmin74.ru
@@ -3494,6 +3501,7 @@ t2.ru
 t2zvooq.ru
 t8.ru
 tabrasa.ru
+tagan.ru
 tagancity.ru
 tagapp.ru
 tahtapni.ru
@@ -3901,6 +3909,8 @@ vnashemdvore.ru
 vneshbank.ru
 vniia.ru
 vniifk.ru
+vodokanal-museum.ru
+vodokanal-zagorod.ru
 vodolaga.ru
 voduberegi.ru
 voiptools.ru
@@ -4037,6 +4047,7 @@ xn----7sbb1amddko8c7b4b.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
 xn----7sbcgoab9a0awmnp.xn--p1ai
+xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----7sbnqazjhcv.xn--p1ai
 xn----7sbnqvigct4i.xn--p1ai
@@ -4105,6 +4116,7 @@ xn--80aac0anodvhks.xn--p1ai
 xn--80aaccfkbs3a3a1ai.xn--p1ai
 xn--80aaccp4ajwpkgbl4lpb.xn--p1ai
 xn--80aacgvulkfjl.xn--p1ai
+xn--80aadbk0bjofbqx.xn--p1ai
 xn--80aadcfns8adpnjcoj.xn--p1ai
 xn--80aadpbzme7al1k.xn--p1ai
 xn--80aaeeri9a0a.xn--p1ai
