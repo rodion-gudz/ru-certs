@@ -369,6 +369,7 @@ bank-mscb.ru
 bank-peresvet.ru
 bank.in
 bank131.ru
+bank45.ru
 banka-ui.dev
 bankdolinsk.ru
 bankdom.ru
@@ -847,6 +848,7 @@ dostavista.ru
 dou27.ru
 dou5-shakhty.ru
 dpce.ru
+dpomipk.ru
 dpr-gov.ru
 draga.ru
 dreamwoodpark.com
@@ -1881,6 +1883,7 @@ medfair.ru
 mediascope.net
 medkhv.ru
 megafon.ru
+megafonpro.ru
 megakontrol.ru
 megamarket.ru
 megamarket.tech

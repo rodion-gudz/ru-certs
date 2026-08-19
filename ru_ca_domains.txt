@@ -387,6 +387,7 @@
 *.bank.ozonru.me
 *.bank.testkontur.ru
 *.bank131.ru
+*.bank45.ru
 *.bankdom.ru
 *.bankdomrf.ru
 *.bankelita.ru
@@ -6183,6 +6184,7 @@ bank.testkontur.ru
 bank.wb.ru
 bank.wildberries.ru
 bank.yandex.ru
+bank45.ru
 banka-ui.dev
 bankdom.ru
 bankdomrf.ru
@@ -6918,6 +6920,7 @@ cert.ingos.ru
 cert.sbertv.ru
 cert.spasibo.digital
 cert1.ext-www-staging.megafon.ru
+cert2.ext-www-staging.megafon.ru
 certauth.adfs.nnk.ru
 certauth.adfs.uaz.ru
 certauth.fs.mtsbank.ru
@@ -7919,6 +7922,7 @@ digidoc.ru
 digital-assessment.ru
 digital-cert.alfa-businesstrip.ru
 digital-cert.alfabank.ru
+digital-marketplace.megafon.ru
 digital-wb.ru
 digital.alfabank.ru
 digital.magnit.ru
@@ -8138,6 +8142,7 @@ dp.vtb.ru
 dpce.ru
 dpgw.alfastrah.ru
 dpo.ncagp.ru
+dpomipk.ru
 dpr-gov.ru
 dprofile-test.sinara.ru
 dprofile.sinara.ru
@@ -10530,6 +10535,7 @@ kav.modulbank.ru
 kav.teleportbank.ru
 kb-71.ru
 kb-mvsbank.ru
+kb.bank45.ru
 kb.ertelecom.ru
 kb.kk.bank
 kb.kk.ru
@@ -10624,6 +10630,7 @@ kirovskij-cson.stv.socinfo.ru
 kirrb.ru
 kirzdrav.ru
 kk.bank
+kk.megafon.ru
 kk.ru
 kkbmk.ru
 kkccon.stv.socinfo.ru
@@ -10869,6 +10876,7 @@ license-service-pd.sberdevices.ru
 license-service.sberdevices.ru
 life.akbars.ru
 life.belsocbank.ru
+life.megafon.ru
 lifefor2.ru
 lifepay.mkb.ru
 lifepoint.club
@@ -11217,6 +11225,7 @@ m.gkif.ru
 m.hole-nevermind.ru
 m.komission.vtb.ru
 m.lesegais.ru
+m.megafonpro.ru
 m.oaovoentorg.ru
 m.odnoklasniki.by
 m.odnoklasniki.ru
@@ -12270,6 +12279,7 @@ mobile2.broker.vtb.ru
 mobilebanker-preprod.domrfbank.ru
 mobilebmc.tander.ru
 mobilecheck.pro
+mobileid.megafon.ru
 mobilelab.alfabank.ru
 mobilemail.toyotafs.ru
 mobilesm.alfabank.ru
@@ -12478,6 +12488,7 @@ musickion.ru
 muz-3.ru
 muzcomedy.ru
 mv.corpp.ru
+mvasa.megafon.ru
 mvb.fsin.gov.ru
 mvbol.ru
 mvd.ru
@@ -12994,6 +13005,7 @@ ofd-magnit.ru
 ofd-ya.ru
 ofd.phoenix-dnr.ru
 offer.tbank-online.com
+offers-admin.megafon.ru
 offerts.key.rt.ru
 office-demo.mkb.ru
 office.domrfbank.ru
@@ -14937,6 +14949,7 @@ ritm.mtsbank.ru
 ritmb.mtsbank.ru
 rjazz.sberbank.ru
 rk.dev.nspd.rosreestr.gov.ru
+rk.megafon.ru
 rk.nspd.rosreestr.gov.ru
 rk.stage.nspd.rosreestr.gov.ru
 rk.test.nspd.rosreestr.gov.ru
@@ -16069,6 +16082,7 @@ smpig.mts.ru
 smr.group
 smrtc.ru
 smrtk.srv.rt.ru
+sms-filter.megafon.ru
 sms-status.mkb.ru
 smsagreement.centervolonterov.ru
 smsapi.smailru.net
@@ -18371,6 +18385,7 @@ whiteboard.sberbank.ru
 whiteboard.talk.magnit.ru
 whiteboard.talktst.magnit.ru
 whitei.net
+whocalls.megafon.ru
 whp-findep-web.sovcombank.group
 wi-fi-internet.tricolor.ru
 wibes.ru
@@ -19633,6 +19648,7 @@ www.kasko.vtb.ru
 www.kassa.rambler.ru
 www.kav-crb.ru
 www.kb-mvsbank.ru
+www.kb.bank45.ru
 www.kb.nib-samara.ru
 www.kb51.ru
 www.kbsammit.ru
@@ -21598,6 +21614,7 @@ zeppelin.eye.salute.ru
 zero-m12.asudd.net
 zeus-api.tj-app.ru
 zfin.mkb.ru
+zg-test.megafon.ru
 zgr.im
 zhivagobank.ru
 zmtech.bz
