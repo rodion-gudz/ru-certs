@@ -2975,6 +2975,7 @@ sberbusiness.live
 sbercib.ru
 sbercity.ru
 sberclass.ru
+sbercloud.ru
 sbercloud.tech
 sberdevices.ru
 sberdisk.ru
@@ -3544,6 +3545,7 @@ tele3med.ru
 telecontact.ru
 telefon.ru
 teleportbank.ru
+temocenter.ru
 tender32.ru
 tensor.ru
 tern.ru

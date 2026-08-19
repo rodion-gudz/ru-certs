@@ -2389,6 +2389,8 @@
 *.npf-sng.ru
 *.npf-transneft.ru
 *.npff.ru
+*.npfsb.ru
+*.npfsberbanka.ru
 *.npk.ru
 *.npo-rtc.ru
 *.npovk.ru
@@ -3264,6 +3266,7 @@
 *.sbermegamarket.ru
 *.sbermobile.ru
 *.sberned.ru
+*.sbernpf.ru
 *.sberseller.ru
 *.sberspasibo.ru
 *.sbertarget.ru
@@ -3277,6 +3280,7 @@
 *.sbis.ru
 *.sblabs.ru
 *.sbmcollege.ru
+*.sbrnpf.ru
 *.sbspasibo.ru
 *.sbt.msk.ru
 *.sbud.rshb.ru
@@ -3787,6 +3791,7 @@
 *.telefon.ru
 *.telemed30.doctor30.ru
 *.teleportbank.ru
+*.temocenter.ru
 *.temryk.asudd.net
 *.temryuk-a289.asudd.net
 *.tender.rosneft.com
@@ -5648,6 +5653,8 @@ auth.app.grunwald.ru
 auth.avangard.ru
 auth.demo-inspector.gosuslugi.ru
 auth.demo1.hycl.ru
+auth.demo2.hycl.ru
+auth.demo3.hycl.ru
 auth.dev-inspector.gosuslugi.ru
 auth.domrfbank.ru
 auth.eagleplatform.com
@@ -7076,6 +7083,7 @@ ci.legalforms.sberpravo.ru
 ci.pwa.sberpravo.ru
 ci.sberpravo.ru
 ci.spb.ru
+ci02370825-prom-obs.ru-moscow-1.hc.sbercloud.ru
 ci07827899-prom-npfsb.sber.ru
 ci10347572-ift-paybackdsberads.ift.ad-tech.ru
 ci10347572-prom-paybackdsberads.prod.ad-tech.ru
@@ -7307,6 +7315,8 @@ consil.oparina4.ru
 console-gateway-sgmd.sberdevices.ru
 console-gateway.sberdevices.ru
 console.demo1.hycl.ru
+console.demo2.hycl.ru
+console.demo3.hycl.ru
 console.minio.cyberkoala.ru
 console.s3-2.cyberkoala.ru
 consul.portal.vk.team
@@ -8085,6 +8095,8 @@ docs.bcs-bank.ru
 docs.cashout.vk.com
 docs.data.rt.ru
 docs.demo1.hycl.ru
+docs.demo2.hycl.ru
+docs.demo3.hycl.ru
 docs.etna.ai
 docs.inkey.rt.ru
 docs.key.rt.ru
@@ -11856,6 +11868,8 @@ marketolog.mts.ru
 marketplace-integrations-dev.credistory.ru
 marketplace.bgfbank.ru
 marketplace.demo1.hycl.ru
+marketplace.demo2.hycl.ru
+marketplace.demo3.hycl.ru
 markirovka.ru
 mars.deltacredit.ru
 marusia.mail.ru
@@ -13310,6 +13324,8 @@ os.kbs.recfaces.ru
 osago.sberbank.ru
 osago.vtb.ru
 osconfig.demo1.hycl.ru
+osconfig.demo2.hycl.ru
+osconfig.demo3.hycl.ru
 osd.demo.gigalegal.sber.ru
 osd.demo.sberpravo.ru
 osd.gigalegal.sber.ru
@@ -14265,6 +14281,8 @@ prod.ya.magnit.ru
 prod2.nspd.rosreestr.gov.ru
 prodobro.ru
 product.demo1.hycl.ru
+product.demo2.hycl.ru
+product.demo3.hycl.ru
 production.vklanding.com
 production.vklanding.ru
 productreg.rt.ru
@@ -15258,6 +15276,7 @@ s-broiler.ru
 s.assistant.demo.moneta.ru
 s.assistant.moneta.ru
 s.cards.demo.moneta.ru
+s.cards.moneta.ru
 s.demo.moneta.ru
 s.demo.sbp.payanyway.ru
 s.gazprombank.ru
@@ -15671,10 +15690,12 @@ sda-rproxy2.speechpro.com
 sdb-downloads.ocs.ru
 sdco.ru
 sde-ftps.esphere.ru
+sde.cplsb.ru
 sde.first-am.ru
 sde.npfsb.ru
 sde2.docdoc.ru
 sde2.sbernpf.ru
+sdeclient.cplsb.ru
 sdeftp01.sberbank-tele.com
 sdex-dwh-ftps.sberinsur.ru
 sdex.sbbuild.ru
@@ -17073,6 +17094,7 @@ telemetry.inkey.rt.ru
 telemetry.key.rt.ru
 teleportbank.ru
 telework.alfabank.ru
+temocenter.ru
 temp.mtsbank.ru
 temryk.asudd.net
 temryuk-a289.asudd.net
@@ -17415,9 +17437,17 @@ tnkf.su
 tochka.com
 today.sberbankvmeste.ru
 tofu-dbaas.demo1.hycl.ru
+tofu-dbaas.demo2.hycl.ru
+tofu-dbaas.demo3.hycl.ru
 tofu-iaas.demo1.hycl.ru
+tofu-iaas.demo2.hycl.ru
+tofu-iaas.demo3.hycl.ru
 tofu-iam.demo1.hycl.ru
+tofu-iam.demo2.hycl.ru
+tofu-iam.demo3.hycl.ru
 tofu-mcm.demo1.hycl.ru
+tofu-mcm.demo2.hycl.ru
+tofu-mcm.demo3.hycl.ru
 toggles.vk.team
 tolkoposmotri.tricolor.ru
 tolokonnikov.ru
@@ -17775,6 +17805,8 @@ urv.magnit.ru
 usadba-shop.ru
 user.alfa-plata.alfastrah.ru
 user.demo1.hycl.ru
+user.demo2.hycl.ru
+user.demo3.hycl.ru
 user.sberclass.ru
 userapi.com
 uservpn.sberins.ru
@@ -17879,6 +17911,8 @@ vc.key.rt.ru
 vc.videos.livejournal.com
 vcd.ertelecom.ru
 vcm-fluent-bit-plugin.demo1.hycl.ru
+vcm-fluent-bit-plugin.demo2.hycl.ru
+vcm-fluent-bit-plugin.demo3.hycl.ru
 vconf.gazprombank.ru
 vcs-01.inspector.gosuslugi.ru
 vcs-02.inspector.gosuslugi.ru
@@ -18093,11 +18127,19 @@ vm.mts.ru
 vm.oaovoentorg.ru
 vmeste.sber.ru
 vmm-admin.demo1.hycl.ru
+vmm-admin.demo2.hycl.ru
+vmm-admin.demo3.hycl.ru
 vmm-agent.demo1.hycl.ru
+vmm-agent.demo2.hycl.ru
+vmm-agent.demo3.hycl.ru
 vmm-mgmt.demo1.hycl.ru
+vmm-mgmt.demo2.hycl.ru
+vmm-mgmt.demo3.hycl.ru
 vms.mkp.ru.net
 vnashemdvore.ru
 vnc.demo1.hycl.ru
+vnc.demo2.hycl.ru
+vnc.demo3.hycl.ru
 vnd.ncagp.ru
 vngcrb.mznso.ru
 vniia.ru
