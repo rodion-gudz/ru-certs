@@ -1377,6 +1377,7 @@ hrmoscow.ru
 hronikivremeni.ru
 hrtp.ru
 hva.im
+hycl.ru
 i-college.ru
 i-dgtl.ru
 i-exam.ru
@@ -3095,6 +3096,7 @@ service-business.ru
 service-gazprompay.ru
 servicecdn.ru
 servionica.ru
+sesufa.ru
 sev-tech.ru
 sever-tech.com
 severgazbank.ru

@@ -222,6 +222,9 @@
 *.api.alfa-plata.alfastrah.ru
 *.api.cs7777.vk.com
 *.api.cs7777.vk.ru
+*.api.demo1.hycl.ru
+*.api.demo2.hycl.ru
+*.api.demo3.hycl.ru
 *.api.express.aslife.ru
 *.api.mdlp.crpt.ru
 *.api.megafon.ru
@@ -793,6 +796,9 @@
 *.demo.1c.ru
 *.demo.faktura.ru
 *.demo.nspd.rosreestr.gov.ru
+*.demo1.hycl.ru
+*.demo2.hycl.ru
+*.demo3.hycl.ru
 *.dengi.ru
 *.dengograd.ru
 *.depagro32.ru
@@ -3645,6 +3651,7 @@
 *.stroytransgaz.ru
 *.structure.mil.ru
 *.structure.old.mil.ru
+*.student.magnit.ru
 *.study.vk.team
 *.stw.21-school.ru
 *.sunlight.net
@@ -4858,6 +4865,9 @@ admin-psy.gosuslugi.ru
 admin.artamonovigor.ru
 admin.bcs-bank.ru
 admin.bi.sdp.sber.ru
+admin.demo1.hycl.ru
+admin.demo2.hycl.ru
+admin.demo3.hycl.ru
 admin.ift.sbertransport.ru
 admin.keycloak.3d.platformaexpert.ru
 admin.krtu.ru
@@ -5236,7 +5246,10 @@ api.corisys.ru
 api.creditural.ru
 api.dbo-dengi.online
 api.demo.sberpravo.ru
+api.demo1.hycl.ru
+api.demo2.hycl.ru
 api.demo2.sberpravo.ru
+api.demo3.hycl.ru
 api.dev.giga.chat
 api.dev.sberpravo.ru
 api.developer.sber.ru
@@ -9052,6 +9065,7 @@ gate2.spaymentextra.ru
 gate2.spaymentsplus.ru
 gateout-prod.forshtadt.ru
 gateway-domapi.domrfbank.ru
+gateway.chat.msbapps.ru
 gateway.chat.psbank.ru
 gateway.chatdev.psbank.ru
 gateway.chattest.psbank.ru
@@ -9876,6 +9890,7 @@ idea.omk.ru
 idemo.bspb.ru
 ident.tch.ru
 identity-lki.yfc.ru
+identity.chat.msbapps.ru
 identity.chat.psbank.ru
 identity.chatdev.psbank.ru
 identity.chattest.psbank.ru
@@ -13066,6 +13081,7 @@ omiko-app.omk.ru
 omiko-dev.omk.ru
 omiko.omk.ru
 omk.ru
+omnibot.chat.msbapps.ru
 omnibot.chat.psbank.ru
 omnichannel.mts.ru
 omnichat-b2b.rt.ru
@@ -15784,6 +15800,7 @@ servicescontrol.sibintek.ru
 servicex.cardsmobile.ru
 servionica.ru
 sessions.key.rt.ru
+sesufa.ru
 sev-tech.ru
 sev.speechpro.com
 seventh-m12.asudd.net
@@ -16700,6 +16717,7 @@ sts01group.s7corp.ru
 stt.tinkoff.ru
 studaccel.sberclass.ru
 studappeals.tricolor.ru
+student.magnit.ru
 student.sber.ru
 students-beta.sberclass.ru
 students.rosseti-lenenergo.ru
@@ -18389,6 +18407,7 @@ whocalls.megafon.ru
 whp-findep-web.sovcombank.group
 wi-fi-internet.tricolor.ru
 wibes.ru
+widget.chat.msbapps.ru
 widget.chat.psbank.ru
 widget.chatdev.psbank.ru
 widget.chattest.psbank.ru
