@@ -6948,6 +6948,7 @@ cert.sbertv.ru
 cert.spasibo.digital
 cert1.ext-www-staging.megafon.ru
 cert2.ext-www-staging.megafon.ru
+cert3.ext-www-staging.megafon.ru
 certauth.adfs.nnk.ru
 certauth.adfs.uaz.ru
 certauth.fs.mtsbank.ru
@@ -14995,6 +14996,7 @@ rgk-aero.ru
 rgs.ru
 rgvarchive.ru
 rheumatolog.su
+ria.ru
 rief.sber.ru
 rifpark.ru
 rikt.ru
@@ -16445,6 +16447,7 @@ spsc.ru
 sptz.ru
 sputnik.lenta.com
 sputnik.tricolor.ru
+sputniknews.ru
 spvb.ru
 sq2.go.mail.ru
 squadus.tricolor.ru
@@ -17110,6 +17113,7 @@ tensor.ru
 term-cpg-dg.money.mail.ru
 term-cpg.money.mail.ru
 termgate.tppsandbox.nspk.ru
+termidesk.ru
 terminal.mtsbank.ru
 tern.ru
 terra.rt.ru
