@@ -4698,6 +4698,7 @@ a.gis-sc.krasnodar.ru
 a.oktima.ru
 a.vsw.ru
 a2.psbank.ru
+a2p-voice.megafon.ru
 aa.mail.ru
 aaa.t-boys.ru
 aaaaaa.t-boys.ru
@@ -4930,6 +4931,7 @@ afisha.ru
 afmg.ru
 afo.autofinancebank.ru
 ag.alfastrah.ru
+ag.mobileid.megafon.ru
 agatos.ru
 agencycontrol.ru
 agent-a2p.mts.ru
@@ -5171,6 +5173,7 @@ ap.bspb.ru
 apanrb.ru
 apapi.alfabank.ru
 apay.avangard.ru
+api-a2p-voice.megafon.ru
 api-app.kilbil.ru
 api-avito.mtsbank.ru
 api-ble-test.domrfbank.ru
@@ -5396,6 +5399,9 @@ api2.stage.jump.taxi
 api4pao.client.sbertech.ru
 apidev.alfabank.ru
 apidoc.jump.finance
+apigw.demo1.hycl.ru
+apigw.demo2.hycl.ru
+apigw.demo3.hycl.ru
 apigw.kion.ru
 apigw.pskb.com
 apijw.jump.finance
@@ -5641,6 +5647,7 @@ auth.app-assistent.open.ru
 auth.app.grunwald.ru
 auth.avangard.ru
 auth.demo-inspector.gosuslugi.ru
+auth.demo1.hycl.ru
 auth.dev-inspector.gosuslugi.ru
 auth.domrfbank.ru
 auth.eagleplatform.com
@@ -7299,6 +7306,7 @@ connector.kubankredit.ru
 consil.oparina4.ru
 console-gateway-sgmd.sberdevices.ru
 console-gateway.sberdevices.ru
+console.demo1.hycl.ru
 console.minio.cyberkoala.ru
 console.s3-2.cyberkoala.ru
 consul.portal.vk.team
@@ -7765,6 +7773,7 @@ demo.kassa.moneta.ru
 demo.kassa.payanyway.ru
 demo.keptstore.ai
 demo.keptstore.ru
+demo.mobileid.megafon.ru
 demo.nspd.rosreestr.gov.ru
 demo.podpis.sber.ru
 demo.pwa.sberpravo.ru
@@ -7978,6 +7987,7 @@ discovery-portal.testing.vk.team
 discovery-portal.ucp-testing.one-infra.ru
 discovery-portal.ucp.one-infra.ru
 discovery-portal.vk.team
+discovery.mobileid.megafon.ru
 disk.cyberkoalastudios.com
 disk.open.ru
 disk.sber.ru
@@ -8074,6 +8084,7 @@ docs.andromeda.sbercity.ru
 docs.bcs-bank.ru
 docs.cashout.vk.com
 docs.data.rt.ru
+docs.demo1.hycl.ru
 docs.etna.ai
 docs.inkey.rt.ru
 docs.key.rt.ru
@@ -9278,6 +9289,7 @@ go-test.alfabank.ru
 go.cyberprotect.ru
 go.kilbil.ru
 go.mail.ru
+go.mobileid.megafon.ru
 go.sber-zvuk.com
 go.sber.ru
 gofocus.ru
@@ -9889,6 +9901,7 @@ idassist.ingobank.ru
 idea.omk.ru
 idemo.bspb.ru
 ident.tch.ru
+identification.megafon.ru
 identity-lki.yfc.ru
 identity.chat.msbapps.ru
 identity.chat.psbank.ru
@@ -11842,6 +11855,7 @@ marketing.ocs.ru
 marketolog.mts.ru
 marketplace-integrations-dev.credistory.ru
 marketplace.bgfbank.ru
+marketplace.demo1.hycl.ru
 markirovka.ru
 mars.deltacredit.ru
 marusia.mail.ru
@@ -12805,6 +12819,7 @@ nkcgv.ncagp.ru
 nko-rr.ru
 nkomobi.ru
 nkpis.ru
+nloto.megafon.ru
 nlp2.devices.sberbank.ru
 nlp2b2b.devices.sberbank.ru
 nlp2b2c.devices.sberbank.ru
@@ -13294,6 +13309,7 @@ os-pro-znaniya.rt.ru
 os.kbs.recfaces.ru
 osago.sberbank.ru
 osago.vtb.ru
+osconfig.demo1.hycl.ru
 osd.demo.gigalegal.sber.ru
 osd.demo.sberpravo.ru
 osd.gigalegal.sber.ru
@@ -14248,6 +14264,7 @@ prod.sovcomins.ru
 prod.ya.magnit.ru
 prod2.nspd.rosreestr.gov.ru
 prodobro.ru
+product.demo1.hycl.ru
 production.vklanding.com
 production.vklanding.ru
 productreg.rt.ru
@@ -14259,6 +14276,7 @@ profile-lt.sber.ru
 profile-psi.sber.ru
 profile-uat.sber.ru
 profile.ad-tech.ru
+profile.megafon.ru
 profile.sber.ru
 profitserv.ru
 profzan.trud25.ru
@@ -14306,6 +14324,8 @@ promo.sber.ru
 promo.sberspasibo.ru
 promo.veb.ru
 promo.vtb.ru
+promo.zg-test.megafon.ru
+promocode.megafon.ru
 pronashevse.ru
 proptech.ru
 propusk.oopt.rkomi.ru
@@ -14711,6 +14731,7 @@ radar.doma.ai
 radar.fuelup.ru
 radar.imgsmail.ru
 radar.in.doma.ai
+radar.megafon.ru
 radar.sberleasing.ru
 radio.roma.msk.ru
 radionebo.com
@@ -15809,6 +15830,7 @@ severgazbank.ru
 severstal.com
 sevesk.ru
 sevnb.ru
+sevstar.net
 sf-kras.ru
 sf.slavneft.ru
 sf.vbrr.ru
@@ -16105,6 +16127,7 @@ smsagreement.centervolonterov.ru
 smsapi.smailru.net
 smsc.ru
 smscom-api.phoenix-dnr.ru
+smsfilter-admin.megafon.ru
 smsgate-dg.one-infra.ru
 smsgate.1c.ru
 smsgold.ru
@@ -16445,6 +16468,7 @@ ssl.sberbank.ru
 sslk.org
 sslvpn.econombank.ru
 ssmp.mznso.ru
+sso-a2p-voice.megafon.ru
 sso-alpha.vtb.ru
 sso-app.vtb.ru
 sso-app.vtbgroup.com
@@ -16924,6 +16948,7 @@ tanya.msural.ru
 tap.vk.team
 tap2phone.ru
 tapplink.org
+target.megafon.ru
 target.my.com
 target.recfaces.ru
 target.rfaces.ru
@@ -17389,6 +17414,10 @@ tndr.ubrr.ru
 tnkf.su
 tochka.com
 today.sberbankvmeste.ru
+tofu-dbaas.demo1.hycl.ru
+tofu-iaas.demo1.hycl.ru
+tofu-iam.demo1.hycl.ru
+tofu-mcm.demo1.hycl.ru
 toggles.vk.team
 tolkoposmotri.tricolor.ru
 tolokonnikov.ru
@@ -17745,6 +17774,7 @@ ururu.preprod-cdn.edgecenter.online
 urv.magnit.ru
 usadba-shop.ru
 user.alfa-plata.alfastrah.ru
+user.demo1.hycl.ru
 user.sberclass.ru
 userapi.com
 uservpn.sberins.ru
@@ -17848,6 +17878,7 @@ vc.kamaz.ru
 vc.key.rt.ru
 vc.videos.livejournal.com
 vcd.ertelecom.ru
+vcm-fluent-bit-plugin.demo1.hycl.ru
 vconf.gazprombank.ru
 vcs-01.inspector.gosuslugi.ru
 vcs-02.inspector.gosuslugi.ru
@@ -18061,8 +18092,12 @@ vm-asc.rs.ru
 vm.mts.ru
 vm.oaovoentorg.ru
 vmeste.sber.ru
+vmm-admin.demo1.hycl.ru
+vmm-agent.demo1.hycl.ru
+vmm-mgmt.demo1.hycl.ru
 vms.mkp.ru.net
 vnashemdvore.ru
+vnc.demo1.hycl.ru
 vnd.ncagp.ru
 vngcrb.mznso.ru
 vniia.ru
