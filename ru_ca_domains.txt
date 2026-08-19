@@ -1112,6 +1112,7 @@
 *.er-gosduma.ru
 *.er.ru
 *.era-invest.ru
+*.erai.ru
 *.ertelecom.ru
 *.ervu.rt-sk.ru
 *.es.1c.ru
@@ -3855,6 +3856,7 @@
 *.third1-m12.asudd.net
 *.third2-m12.asudd.net
 *.third3-m12.asudd.net
+*.thuricum.ru
 *.ticketland.ru
 *.tickets.vk.com
 *.tickets.vk.ru
@@ -5512,6 +5514,7 @@ arcticspg.ru
 arenda.ahml.ru
 arenda.domrf.ru
 arendadomrf.ru
+arendazalov.spb.ru
 areopad-tls.rt.ru
 aresbank.ru
 argds.ru
@@ -6749,6 +6752,7 @@ carthalva.ru
 cascana-nuc.alfastrah.ru
 cascana.alfastrah.ru
 caseman.mts.ru
+cash.otpbank.ru
 cashbox.jump.finance
 cashloan.vtb.ru
 cast.kion.ru
@@ -8315,6 +8319,7 @@ ecom-plus.ru
 ecom.akbars.ru
 ecom.alfabank.ru
 ecom.md.magnit.ru
+ecom.otpbank.ru
 ecom.raiffeisen.ru
 ecom.rsb.ru
 ecom.sberbank.ru
@@ -8577,6 +8582,7 @@ eqzaim.ru
 er-gosduma.ru
 er.ru
 era-invest.ru
+erai.ru
 eris.tinkoffjournal.ru
 erlight.r-x.team
 erp.akiselev.group
@@ -10428,6 +10434,7 @@ itsm-gw.speechpro.com
 itsm.sberbank-service.ru
 itsm.spasibosb.ru
 itstart.vkteam.ru
+iturup.online
 iturupbank.ru
 iva-le.energo.ru
 iva-tech.ru
@@ -12010,6 +12017,7 @@ mech-belka.io
 mechel.com
 mechel.ru
 med-to.ru
+med-vdk.ru
 med.21-school.ru
 meddoc.ddprod.ru
 medfair.ru
@@ -13365,6 +13373,7 @@ otel.gigalegal.sber.ru
 otello.ru
 othoro.ru
 otp.sberbank.ru
+otpbank.ru
 otpbank.time-messenger.ru
 otpravka.pochta.ru
 otpssd-yc-foreman.srv-hub.org
@@ -14159,6 +14168,7 @@ pos.rsb.ru
 posgate01.finstarbank.ru
 posgate02.finstarbank.ru
 positron-test.mkb.ru
+poslogin.otpbank.ru
 post.balaes.ru
 post.c-k.ru
 post.cstream.ru
@@ -14628,6 +14638,7 @@ r.fuelup.ru
 r.gis-sc.krasnodar.ru
 r.mycdn.me
 r.okcdn.ru
+r.otpbank.ru
 r.sberleasing.ru
 r.userapi.com
 r.vk.com
@@ -16519,6 +16530,7 @@ ssfo.rt.ru
 sshop.tricolor.ru
 ssl.sberbank.ru
 sslk.org
+sslvpn.cloud.ru
 sslvpn.econombank.ru
 ssmp.mznso.ru
 sso-a2p-voice.megafon.ru
@@ -17384,6 +17396,7 @@ third1-m12.asudd.net
 third2-m12.asudd.net
 third3-m12.asudd.net
 thpoint.ru
+thuricum.ru
 tib.gazprombank.ru
 ticket.flypobeda.ru
 ticketland.ru
@@ -17997,6 +18010,7 @@ vdi5.gazprombank.ru
 vdicc.tricolor.ru
 vdigate.severstal.com
 vdigw.ertelecom.ru
+vdk-spp.ru
 vdr.gazprombank.ru
 vdr.krasnipi.ru
 vdr.rosneft.ru
@@ -18239,6 +18253,7 @@ vpn-scv2.sovcombank.group
 vpn.asntl.ru
 vpn.bspb.ru
 vpn.c-k.ru
+vpn.cloud.ru
 vpn.cplsb.ru
 vpn.cstream.ru
 vpn.eapteka.sigma.sbrf.ru
@@ -19064,6 +19079,7 @@ www.cardio.ru
 www.carthalva.ru
 www.cascana-nuc.alfastrah.ru
 www.cascana.alfastrah.ru
+www.cash.otpbank.ru
 www.catalog.smartmarket.sber.ru
 www.cb.mtsbank.ru
 www.cbdc.domrfbank.ru
@@ -19333,6 +19349,7 @@ www.ecar-airbus.ru
 www.ecdn.sovcombank.ru
 www.echo.omk.ru
 www.ecocat.biz
+www.ecom.otpbank.ru
 www.ecoturcentr.ru
 www.ecpk-mon.sibintek.ru
 www.ecpk-vm.sibintek.ru
@@ -19747,6 +19764,7 @@ www.itf-p07asl-sp3.gazprombank.ru
 www.itf-p07asl-sp5.gazprombank.ru
 www.itf-p07asl-sp6.gazprombank.ru
 www.itsm.spasibosb.ru
+www.iturupbank.ru
 www.izh.21-school.ru
 www.izzzi.sberbusiness.live
 www.j.tbank.ru
@@ -20258,6 +20276,7 @@ www.origination.ru
 www.osago.sberbank.ru
 www.osago.vtb.ru
 www.osgrm.ru
+www.otpbank.ru
 www.owa.mtsbank.ru
 www.owi.spasibobonus.ru
 www.owi.spasibobonus.sigma.sbrf.ru
@@ -20986,6 +21005,7 @@ www.tfomseao.ru
 www.tfomssk.ru
 www.thbank.ru
 www.themm.ru
+www.thuricum.ru
 www.ticketland.ru
 www.tigersoft.ru
 www.time2pay.ru
@@ -21350,6 +21370,7 @@ xn-----6kcac3atcmgyh7di1b.xn--80aafclckjcqurgbdjcpde4b.xn--p1ai
 xn-----7kcgdlfd3dhry1h.xn--p1ai
 xn----7sbaaabg3empormehdn6b2j3b.xn--p1ai
 xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
+xn----7sbabgkcfy0anwjbja7a.xn--p1ai
 xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
 xn----7sbabhpxokex8c.xn--p1ai
 xn----7sbapmmvk3aflf8ktb.xn--d1aqf.xn--p1ai
@@ -21517,6 +21538,7 @@ xn--90adi.xn--p1ai
 xn--90aebg8ajbbpc3f.xn--p1ai
 xn--90aenc5bq.xn--p1ai
 xn--90aeoaoap.xn--d1aqf.xn--p1ai
+xn--90agc3adhkeq3d.xn--p1ai
 xn--90agctq7g.xn--80akijuiemcz7e.xn--p1ai
 xn--90ahujfeif.xn--p1ai
 xn--90aiajje0ahibxc.xn--p1ai

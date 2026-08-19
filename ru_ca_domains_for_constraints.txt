@@ -982,6 +982,7 @@ eqzaim.ru
 er-gosduma.ru
 er.ru
 era-invest.ru
+erai.ru
 ertelecom.ru
 eskigov.ru
 esocode.ru
@@ -1882,6 +1883,7 @@ mech-belka.io
 mechel.com
 mechel.ru
 med-to.ru
+med-vdk.ru
 medexpress.ru
 medfair.ru
 mediascope.net
@@ -3587,6 +3589,7 @@ thehrp.ru
 themm.ru
 thotels.ru
 thpoint.ru
+thuricum.ru
 ticketland.ru
 tigersoft.ru
 tim-crb.ru
@@ -3804,6 +3807,7 @@ vasy.ru
 vbank.ru
 vbrr.ru
 vbudushee.ru
+vdk-spp.ru
 vdspb.ru
 veb-leasing.com
 veb-leasing.ru
@@ -4041,6 +4045,7 @@ xmes.ru
 xn-----7kcgdlfd3dhry1h.xn--p1ai
 xn----7sbaaabg3empormehdn6b2j3b.xn--p1ai
 xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
+xn----7sbabgkcfy0anwjbja7a.xn--p1ai
 xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
 xn----7sbabhpxokex8c.xn--p1ai
 xn----7sbb1amddko8c7b4b.xn--p1ai
@@ -4184,6 +4189,7 @@ xn--90adf1affdogfm1isa.xn--p1ai
 xn--90adi.xn--p1ai
 xn--90aebg8ajbbpc3f.xn--p1ai
 xn--90aenc5bq.xn--p1ai
+xn--90agc3adhkeq3d.xn--p1ai
 xn--90ahujfeif.xn--p1ai
 xn--90aiajje0ahibxc.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
