@@ -6495,6 +6495,7 @@ book.sbercity.ru
 booking-tec.ru
 booking.mkb.ru
 booking.rostatus.ru
+books.megafon.ru
 boom.ru
 boostdevelopment.ru
 bootcamp-sberid.pcbltools.ru
