@@ -386,6 +386,7 @@ bankintegral.ru
 bankiros.ru
 bankkaluga.ru
 bankline.ru
+bankofkazan.ru
 bankro.tech
 bankrsi.ru
 banksaratov.ru
@@ -1540,6 +1541,7 @@ it-service57.ru
 it-sirius.ru
 it24online.ru
 it4prof.ru
+itadmin.su
 itarctica.ru
 itb.ru
 itbank.ru
@@ -1565,6 +1567,7 @@ izobrb.ru
 jfn.su
 jira-tcsbank.ru
 jivo.ru
+jobsmodern.ru
 joy.money
 joymoney.ru
 jtirussia.ru
@@ -1705,6 +1708,7 @@ ksb-auto.com
 ksdgb.ru
 kskkaluga.ru
 ksp-tmr.ru
+ksp34.ru
 ksp74.ru
 kspbr.ru
 kspstav.ru
@@ -2023,6 +2027,7 @@ motor.ru
 motozavod.ru
 movix.ru
 moy-igrushki.ru
+moy-m-portal.ru
 moydvorec.ru
 mp-bank.ru
 mpaes.ru
@@ -2469,6 +2474,7 @@ paymentkit.ru
 paymgate.ru
 paymo.ru
 paywb.com
+pbprog.ru
 pcbk.ru
 pcbltools.ru
 pchtb.ru
@@ -2543,6 +2549,7 @@ pochta.ru
 pochtabank.ru
 pochtobank.ru
 podarocheck.ru
+podpiskimf.ru
 pofd.ru
 pofd.su
 pogardshi.ru
@@ -3324,6 +3331,7 @@ spasibotest.ru
 spasskievorota.ru
 spaymentextra.ru
 spaymentsplus.ru
+spb-neo.ru
 spb.ru
 spbbank.ru
 spbclearing.ru
@@ -3365,6 +3373,7 @@ sptz.ru
 sputniknews.ru
 spvb.ru
 spwh.ru
+sravni-team.ru
 sravni.id
 sravni.market
 sravni.ru
@@ -3751,6 +3760,7 @@ ugzko.ru
 uk-formula.ru
 uk174.ru
 uklad.group
+ukpi.ru
 ukpir.ru
 ukplus.ru
 ukraina.ru
@@ -3824,6 +3834,7 @@ v1.market
 vamprivet.ru
 variti.io
 vasmfpro.ru
+vasmpro.ru
 vasy.ru
 vbank.ru
 vbrr.ru

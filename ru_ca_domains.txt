@@ -29,6 +29,7 @@
 *.21-school.ru
 *.21-vek.spb.ru
 *.22-1.ru
+*.24.rospotrebnadzor.ru
 *.25.rospotrebnadzor.ru
 *.2fa.gazprombank.ru
 *.2gis.by
@@ -45,6 +46,7 @@
 *.56.rospotrebnadzor.ru
 *.5646son.ru
 *.62.rospotrebnadzor.ru
+*.69.rospotrebnadzor.ru
 *.70.rospotrebnadzor.ru
 *.72ms.ru
 *.72to.ru
@@ -404,6 +406,7 @@
 *.bankiros.ru
 *.bankkaluga.ru
 *.bankline.ru
+*.bankofkazan.ru
 *.bankro.tech
 *.banksaratov.ru
 *.bankstavr.ru
@@ -851,6 +854,7 @@
 *.dev.sberdevices.ru
 *.dev.sovcombank.group
 *.dev.sovcomins.ru
+*.dev.sravni-team.ru
 *.dev.t.o3.ru
 *.dev.tau.vk.com
 *.dev.tau.vk.ru
@@ -1013,6 +1017,7 @@
 *.eagleplatform.com
 *.eao.drsk.ru
 *.eas.startups.su
+*.easm.ptsecurity.com
 *.eatpbank.ru
 *.ebp01.roskazna.ru
 *.ebp02.roskazna.ru
@@ -1210,6 +1215,7 @@
 *.files.attachmail.ru
 *.files.mail.ru
 *.filjus.ru
+*.finam.ru
 *.finambank.com
 *.finambank.ru
 *.finance.gov.ru
@@ -1706,6 +1712,7 @@
 *.it-kizlyar.ru
 *.it-marathon.21-school.ru
 *.it4prof.ru
+*.itadmin.su
 *.itb.ru
 *.itbez.ru
 *.itcomp.tech
@@ -1724,6 +1731,7 @@
 *.izh.21-school.ru
 *.jivo.ru
 *.job.bspb.ru
+*.jobsmodern.ru
 *.join.megafon.ru
 *.joy.money
 *.joymoney.ru
@@ -2162,6 +2170,7 @@
 *.mkgtu.ru
 *.mkkbs.ru
 *.mkp.ru.net
+*.ml.prod.sravni-team.ru
 *.ml.ptsecurity.ru
 *.mlg.ru
 *.mlidata.vkteam.ru
@@ -2211,6 +2220,7 @@
 *.motor.ru
 *.motozavod.ru
 *.movix.ru
+*.moy-m-portal.ru
 *.moydvorec.ru
 *.mp-bank.ru
 *.mp.kion.ru
@@ -2361,6 +2371,7 @@
 *.nioch.nsc.ru
 *.nipigrado.ru
 *.nixwan.ru
+*.nkcbank.ru
 *.nko-rr.ru
 *.nkomobi.ru
 *.nkpis.ru
@@ -2465,6 +2476,7 @@
 *.odntkirov.ru
 *.ofd-initpro.ru
 *.ofd-magnit.ru
+*.office.finam.ru
 *.ofoms.ru
 *.ofukem.ru
 *.ogk2.ru
@@ -2716,6 +2728,7 @@
 *.podarki.vk.team
 *.podarocheck.ru
 *.podorozhnik.spb.ru
+*.podpiskimf.ru
 *.pofd.ru
 *.pofd.su
 *.pogardshi.ru
@@ -2778,6 +2791,7 @@
 *.prod.platform.md.magnit.ru
 *.prod.platform.tatar.ru
 *.prod.sovcomins.ru
+*.prod.sravni-team.ru
 *.prod.sravni.market
 *.prod.sravni.ru
 *.prod.trcont.ru
@@ -3525,6 +3539,7 @@
 *.spasibosberbank.ru
 *.spasibotest.ru
 *.spasskievorota.ru
+*.spb-neo.ru
 *.spbbank.ru
 *.spbclearing.ru
 *.spbeias.ru
@@ -3569,6 +3584,7 @@
 *.spsc.ru
 *.sptz.ru
 *.spvb.ru
+*.sravni-team.ru
 *.sravni.id
 *.sravni.market
 *.sravni.ru
@@ -4078,6 +4094,7 @@
 *.variti.io
 *.vas-mo.21-school.ru
 *.vasmfpro.ru
+*.vasmpro.ru
 *.vbudushee.ru
 *.vc.videos.livejournal.com
 *.vcs.gazprom.ru
@@ -4619,6 +4636,7 @@
 22-1.ru
 223zakupki.budgetnn.ru
 24.akbars.ru
+24.rospotrebnadzor.ru
 2440090.ru
 25.ctlog.digital.gov.ru
 25.rospotrebnadzor.ru
@@ -4703,6 +4721,7 @@
 62.rospotrebnadzor.ru
 63.rospotrebnadzor.ru
 65.rospotrebnadzor.ru
+69.rospotrebnadzor.ru
 6ma.ahml.ru
 70.rospotrebnadzor.ru
 72to.ru
@@ -5089,6 +5108,7 @@ alfadirect.ru
 alfadisk.alfabank.ru
 alfafuture.ru
 alfagen.alfabank.ru
+alfaglobal-test.alfabank.ru
 alfago.alfabank.ru
 alfagotest.alfabank.ru
 alfaid-fhp.alfabank.ru
@@ -5363,6 +5383,7 @@ api.psi.legalbpm.sberpravo.ru
 api.psi.legalforms.sberpravo.ru
 api.psi.sbertransport.ru
 api.public.crms-media.mts.ru
+api.pvoss.sbertech.ru
 api.r.vk.com
 api.r.vk.ru
 api.reviews.2gis.com
@@ -5375,6 +5396,7 @@ api.s7corp.ru
 api.sb.mdlp.crpt.ru
 api.sber.bank.in
 api.sber.pro
+api.sberbank-service.ru
 api.sberbankins.ru
 api.sberbusiness.live
 api.sbercib.ru
@@ -6252,6 +6274,7 @@ bankglobus.ru
 bankintegral.ru
 bankiros.ru
 bankline.ru
+bankofkazan.ru
 bankok.akbars.ru
 bankro.tech
 banksaratov.ru
@@ -8312,6 +8335,7 @@ earco.ru
 eas.pzhv.ru
 eas.sberbank.ru
 eas.startups.su
+easm.ptsecurity.com
 easycert.sberbank.ru
 easycert.sigma.sbrf.ru
 eatpbank.ru
@@ -8922,6 +8946,7 @@ filexchange.gersains.ru
 filjus.ru
 fin-id.ru
 fin-talks.ru
+finam.ru
 finambank.com
 finambank.ru
 finance.gov.ru
@@ -9069,6 +9094,7 @@ fs.mtsbank.ru
 fs.tch.ru
 fsev.tech
 fsm.sberbank-service.ru
+fsmtest.sberbank-service.ru
 fsnsamara.ru
 fstec.gov.ru
 fstec.ru
@@ -10442,6 +10468,7 @@ it-service57.ru
 it.sch435.ru
 it24online.ru
 it4prof.ru
+itadmin.su
 itarctica.ru
 itb.ru
 itbank.ru
@@ -10548,6 +10575,7 @@ job.jump.finance
 job.mtsbank.ru
 job.psbank.ru
 job.veb.ru
+jobsmodern.ru
 jobtst.psbank.ru
 join-meet.tgk11.com
 join.bspb.ru
@@ -10837,6 +10865,7 @@ ksmg2.voz.ru
 ksmm.sbercity.ru
 ksmob.sbercity.ru
 ksp-tmr.ru
+ksp34.ru
 ksp74.ru
 kspbr.ru
 kspstav.ru
@@ -11102,6 +11131,7 @@ lk.svm.psb.services
 lk.szavoz.gov.ru
 lk.tkbbank.ru
 lk.tomskrts.ru
+lk.ukpi.ru
 lk.vikingbank.ru
 lk.vitabank.ru
 lk.voicebot.megafon.ru
@@ -12449,6 +12479,7 @@ motor.ru
 motozavod.ru
 movix.ru
 moy-igrushki.ru
+moy-m-portal.ru
 moy.magnit.ru
 moydvorec.ru
 mp-dev.nrb.ru
@@ -12894,6 +12925,7 @@ nioch.nsc.ru
 nipigrado.ru
 niti.ru
 nixwan.ru
+nkcbank.ru
 nkcgv.ncagp.ru
 nko-rr.ru
 nkomobi.ru
@@ -13119,6 +13151,7 @@ offers-admin.megafon.ru
 offerts.key.rt.ru
 office-demo.mkb.ru
 office.domrfbank.ru
+office.finam.ru
 office.kvartplata.ru
 office.mkb.ru
 office.pochtabank.ru
@@ -13919,6 +13952,7 @@ pb3.vbrr.ru
 pb4.vbrr.ru
 pb5.vbrr.ru
 pbl546.ingobank.ru
+pbprog.ru
 pbs.mkp.ru.net
 pc.aq.ru
 pccard-dev.domrfbank.ru
@@ -14122,6 +14156,7 @@ podarocheck.ru
 podeli.alfagen.alfabank.ru
 podorozhnik.spb.ru
 podpis.sber.ru
+podpiskimf.ru
 pofd.ru
 pofd.su
 pogardshi.ru
@@ -14963,6 +14998,7 @@ region.ncagp.ru
 region.ru
 regionsoft.le-dv.ru
 registrator-rekom.ru
+registry-rpa.sberbank-service.ru
 registry.domoy.ru
 registry.dt.multicarta.ru
 registry.tbank.ru
@@ -15198,6 +15234,7 @@ rovesnik74.ru
 rowangame.ru
 rowi.com
 rowi.tech
+royal-bank.ru
 rp.vyb.spb.ru
 rpm-doctor.zdrav74.ru
 rpm-gateway.zdrav74.ru
@@ -15796,6 +15833,7 @@ sdp.21-school.ru
 sdp.sber.ru
 sdrok.salute.ru
 seaf.sberbank.ru
+seafile.sberbank-service.ru
 search-service-test.rosneft.ru
 search-service.rosneft.ru
 search.srv-hub.org
@@ -15900,7 +15938,9 @@ senk.spwh.ru
 sense.alfabank.ru
 sensorcloud.ru
 sentry-infra.tander.ru
+sentry-itusluga.sberbank-service.ru
 sentry-mobile.alfabank.ru
+sentry-sprint.sberbank-service.ru
 sentry-test-mobile.alfabank.ru
 sentry.avangard.ru
 sentry.midep.ru
@@ -16543,6 +16583,7 @@ sr2019.mkb.ru
 sr2020.mkb.ru
 sradar.evotor.ru
 sradfs.ncsp.com
+sravni-team.ru
 sravni.id
 sravni.market
 sravni.ru
@@ -17819,6 +17860,7 @@ uk-formula.ru
 uk.sbercity.ru
 uk174.ru
 uklad.group
+ukpi.ru
 ukpir.ru
 ukraina.ru
 ukrfc.ru
@@ -17959,6 +18001,7 @@ vant.ippe.ru
 variti.io
 vas-mo.21-school.ru
 vasmfpro.ru
+vasmpro.ru
 vats.rt.ru
 vault-nca.tusvc.bcs.ru
 vault-okd-nca.tusvc.bcs.ru
@@ -18801,6 +18844,7 @@ www.2048c.spasibosb.ru
 www.21-school.ru
 www.21-vek.spb.ru
 www.22-1.ru
+www.24.rospotrebnadzor.ru
 www.25.rospotrebnadzor.ru
 www.25let.omk.ru
 www.2w.ru
@@ -18827,6 +18871,7 @@ www.56.rospotrebnadzor.ru
 www.61.rospotrebnadzor.ru
 www.62.rospotrebnadzor.ru
 www.65.rospotrebnadzor.ru
+www.69.rospotrebnadzor.ru
 www.70.rospotrebnadzor.ru
 www.7304488.ru
 www.79.rospotrebnadzor.ru
@@ -19906,6 +19951,7 @@ www.krtu.ru
 www.ksamur.ru
 www.kskkaluga.ru
 www.ksp-tmr.ru
+www.ksp34.ru
 www.ksp74.ru
 www.ksrf.ru
 www.kuban-spnb.ru
@@ -20916,6 +20962,7 @@ www.sportigraklgd.ru
 www.sportrezerv24.ru
 www.sppt.alfabank.ru
 www.spsc.ru
+www.sravni-team.ru
 www.sredi-cvetov.ru
 www.srmfc.ru
 www.srt-vpn01.sovcombank.group
@@ -21137,6 +21184,7 @@ www.ugzko.ru
 www.uiosago.alfastrah.ru
 www.uismb.api.vtb.ru
 www.uk174.ru
+www.ukpi.ru
 www.ukrfc.ru
 www.ukshmao.ru
 www.ulminfin.ru
