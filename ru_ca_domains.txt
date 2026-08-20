@@ -10188,6 +10188,7 @@ inmx.rambler-co.ru
 inmx.rambler.ru
 inno.tech
 innovative-solutions.vk.company.ru
+inosmi.ru
 inpas.time-messenger.ru
 ins-sys.ru
 ins.malltech.ru
@@ -14789,6 +14790,7 @@ radar.megafon.ru
 radar.sberleasing.ru
 radio.roma.msk.ru
 radionebo.com
+radiosputnik.ru
 rag.vk.team
 ragdemo.speechpro.com
 raif.ru
@@ -15033,6 +15035,8 @@ rgs.ru
 rgvarchive.ru
 rheumatolog.su
 ria.ru
+riamediabank.ru
+rian.ru
 rief.sber.ru
 rifpark.ru
 rikt.ru
@@ -17775,6 +17779,7 @@ uk.sbercity.ru
 uk174.ru
 uklad.group
 ukpir.ru
+ukraina.ru
 ukrfc.ru
 ukshmao.ru
 ulminfin.ru

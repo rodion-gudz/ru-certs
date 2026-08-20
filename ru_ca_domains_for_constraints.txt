@@ -1462,6 +1462,7 @@ ingostartup.ru
 inist.ru
 inist.systems
 inno.tech
+inosmi.ru
 ins-sys.ru
 insales.ru
 insideok.ru
@@ -2636,6 +2637,7 @@ r1.team
 r1864.ru
 rabotavkuzbasse.ru
 radionebo.com
+radiosputnik.ru
 raif.ru
 raiffeisen-capital.ru
 raiffeisen.ru
@@ -2738,6 +2740,8 @@ rgvarchive.ru
 rhc.ru
 rheumatolog.su
 ria.ru
+riamediabank.ru
+rian.ru
 rifpark.ru
 rikt.ru
 ris61edu.ru
@@ -3734,6 +3738,7 @@ uk174.ru
 uklad.group
 ukpir.ru
 ukplus.ru
+ukraina.ru
 ukrfc.ru
 ukshmao.ru
 ulminfin.ru
