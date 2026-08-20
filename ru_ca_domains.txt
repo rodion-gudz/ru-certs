@@ -15324,6 +15324,7 @@ s.gpb.ru
 s.lenta.ru
 s.sber.ru
 s.sberbank.ru
+s.sbp.payanyway.ru
 s.tbao.su
 s.team.centrinvest.ru
 s.vneshbank.ru
