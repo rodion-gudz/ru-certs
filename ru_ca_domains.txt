@@ -4733,6 +4733,7 @@
 79cge.rospotrebnadzor.ru
 7ma.ahml.ru
 86vks.mchs.ru
+8800.megafon.ru
 9ma.ahml.ru
 9s7.ru
 a-3.ru
@@ -12624,6 +12625,7 @@ multitest.ok.ru
 multstrana.ru
 mup-ir-centr.ru
 mupirvostochnoe.ru
+mur.edgecenter.online
 muratovs.ru
 murmankukla.ru
 music-transfer.ru
@@ -13444,6 +13446,7 @@ oskelly.time-messenger.ru
 oskol.registrator-rekom.ru
 ospos.dev
 ospos.ru
+oss-ekx.megalabs.ru
 oss.ertelecom.ru
 osu.ru
 ot.gov.ru
@@ -14460,6 +14463,7 @@ promo.sberspasibo.ru
 promo.veb.ru
 promo.vtb.ru
 promo.zg-test.megafon.ru
+promo.zg.megafon.ru
 promocode.megafon.ru
 pronashevse.ru
 proptech.ru
@@ -21895,6 +21899,7 @@ zero-m12.asudd.net
 zeus-api.tj-app.ru
 zfin.mkb.ru
 zg-test.megafon.ru
+zg.megafon.ru
 zgr.im
 zhivagobank.ru
 zmtech.bz
