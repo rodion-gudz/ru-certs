@@ -6198,6 +6198,7 @@ b2b.mts.ru
 b2b.ocs.ru
 b2b.sberbankins.ru
 b2b.vbrr.ru
+b2b.yota.ru
 b2bapi.deltacredit.ru
 b2bapi.max.ru
 b2bapi2.max.ru
@@ -8363,6 +8364,7 @@ eco.koshelek.app
 ecocat.biz
 ecolant.net
 ecolantvyksa.ru
+ecology-ext.megafon.ru
 ecology.megafon.ru
 ecom-api.magnit.ru
 ecom-bank.ozon.ru
@@ -9227,9 +9229,11 @@ geo-dev.test-middle.megafon.ru
 geo-dstest-02.speechpro.com
 geo-eip.meteo.ru
 geo-t.geoapi.sberbank.ru
+geo-test.megafon.ru
 geo.demo.megafon.ru
 geo.geoapi.sberbank.ru
 geo.magnit.ru
+geo.megafon.ru
 geo.psbank.ru
 geo1.geoapi.sberbank.ru
 geo1.online.sberbank.ru
@@ -13234,6 +13238,7 @@ omsu.cscampus.ru
 omsu.kamp-ext-if.vtb.ru
 omsu.kamp-ext-rr.vtb.ru
 omv-dev.demo.megafon.ru
+omv.megafon.ru
 on-media.ru
 onb-dmz.fgw.db.vtb.ru
 onboarding.bki-okb.ru
