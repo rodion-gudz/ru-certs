@@ -12508,6 +12508,7 @@ mp.mkb.ru
 mp.nrb.ru
 mp.sberbankins.ru
 mp.sberpravo.ru
+mp.tch.ru
 mpaes.ru
 mpclickstream.online.sberbank.ru
 mpcompany.ru
@@ -13099,6 +13100,7 @@ nwgnv.ru
 nx-docker.alfastrah.ru
 nx.s2b.tech
 nxtc.ingobank.ru
+nxtcld.tch.ru
 nz-am.ru
 nzk.rosneft.ru
 o-courier.ru
@@ -15067,6 +15069,7 @@ reports.rc.senat.sberbank.ru
 reports.rostov-tfoms.ru
 reports.senat.sberbank.ru
 reports.speechxplore.ru
+reports.tch.ru
 reports247.sber.ru
 reportst.tch.ru
 repository.cloud-bss.ertelecom.ru
