@@ -15415,6 +15415,7 @@ s.gazprombank.ru
 s.gis-sc.krasnodar.ru
 s.gpb.ru
 s.lenta.ru
+s.online.if.vtb.ru
 s.sber.ru
 s.sberbank.ru
 s.sbp.payanyway.ru
