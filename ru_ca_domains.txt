@@ -4642,6 +4642,7 @@
 25.rospotrebnadzor.ru
 25let.omk.ru
 26.ctlog.digital.gov.ru
+26.rospotrebnadzor.ru
 27.ctlog.digital.gov.ru
 2fa-linx.it-grad.ru
 2fa.icb.domrf.ru
