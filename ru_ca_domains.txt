@@ -18344,6 +18344,7 @@ voltage.mkb.ru
 voltagelab.ru
 vorkuta.ru
 voronezh.tricolor.ru
+vorontsov.msk.ru
 voskhod.ru
 vospdom.ru
 vostbank.ru
