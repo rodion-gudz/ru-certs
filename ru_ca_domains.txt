@@ -7090,6 +7090,7 @@ cert1.ext-www-staging.megafon.ru
 cert2.ext-www-staging.megafon.ru
 cert3.ext-www-staging.megafon.ru
 cert4.ext-www-staging.megafon.ru
+cert5.ext-www-staging.megafon.ru
 certauth.adfs.nnk.ru
 certauth.adfs.uaz.ru
 certauth.fs.mtsbank.ru
