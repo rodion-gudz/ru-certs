@@ -159,6 +159,7 @@
 *.airkaluga.ru
 *.airlinescloud.online
 *.airport33.ru
+*.aisubp.mos.ru
 *.akado-telecom.ru
 *.akado.ru
 *.akbars.ru
@@ -236,6 +237,7 @@
 *.api.music.mts.ru
 *.api.r.vk.com
 *.api.r.vk.ru
+*.api.r2.vk.ru
 *.api.s7.ru
 *.api.s7corp.ru
 *.api.s7tl.ru
@@ -825,6 +827,7 @@
 *.dev.1c.link
 *.dev.ad-tech.ru
 *.dev.ai.mosreg.ru
+*.dev.aisubp.mos.ru
 *.dev.app.giga.chat
 *.dev.app.sberdevices.ru
 *.dev.apps.mosreg.ru
@@ -1569,6 +1572,7 @@
 *.id.cs7777.vk.ru
 *.id.r.vk.com
 *.id.r.vk.ru
+*.id.r2.vk.ru
 *.id.rambler.ru
 *.id.sber.ru
 *.id.tau.vk.com
@@ -1984,6 +1988,7 @@
 *.m.cs7777.vk.ru
 *.m.odnoklassniki.ru
 *.m.ok.ru
+*.m.r2.vk.ru
 *.m.smailru.net
 *.m.tau.vk.com
 *.m.tau.vk.ru
@@ -2051,6 +2056,7 @@
 *.mcbank.ru
 *.mcbankrus.ru
 *.mcclinics.ru
+*.mco-panacea.ru
 *.mconsulting.ru
 *.mcplat.com
 *.mcplat.ru
@@ -2248,6 +2254,7 @@
 *.ms.ok.ru
 *.ms.r.vk.com
 *.ms.r.vk.ru
+*.ms.r2.vk.ru
 *.ms.vk.com
 *.ms.vk.ru
 *.mschcentr74.ru
@@ -2313,6 +2320,7 @@
 *.myteam.mail.ru
 *.myteam.vmailru.net
 *.mytrk.link
+*.mywi.fi
 *.mz19.ru
 *.mz26.ru
 *.mziork.ru
@@ -2352,6 +2360,7 @@
 *.news.mail.ru
 *.news.ms.r.vk.com
 *.news.ms.r.vk.ru
+*.news.ms.r2.vk.ru
 *.news.ms.vk.com
 *.news.ms.vk.ru
 *.newton-technology.ru
@@ -2914,6 +2923,8 @@
 *.r17.rosreestr.ru
 *.r18.rosreestr.ru
 *.r19.rosreestr.ru
+*.r2.vk.ru
+*.r2.vkvideo.ru
 *.r20.rosreestr.ru
 *.r21.rosreestr.ru
 *.r21.spb.ru
@@ -3614,6 +3625,7 @@
 *.stage-dfo.ru
 *.stage-mesh.ad-tech.ru
 *.stage.ai.mosreg.ru
+*.stage.aisubp.mos.ru
 *.stage.amazme.ru
 *.stage.cloud.vk.com
 *.stage.domapi.domrfbank.ru
@@ -3649,6 +3661,7 @@
 *.static.kion.ru
 *.static.r.vk.com
 *.static.r.vk.ru
+*.static.r2.vk.ru
 *.statregistr.rosstat.gov.ru
 *.statskkmorf.ru
 *.stavcreative.ru
@@ -3659,6 +3672,7 @@
 *.stavminprom.ru
 *.stavregion.ru
 *.stavropolarena.ru
+*.stavzags.ru
 *.stavzan.ru
 *.staxi.spb.ru
 *.stc-groups.ru
@@ -3842,12 +3856,14 @@
 *.test-megamarket.ru
 *.test-pgwh.nsd.ru
 *.test-teams.sovcombank.ru
+*.test.aisubp.mos.ru
 *.test.broker-sb.io
 *.test.domapi.domrfbank.ru
 *.test.egisz.rosminzdrav.ru
 *.test.gosuslugi.ru
 *.test.gu.ru
 *.test.isogd.mosreg.ru
+*.test.kbo.aisubp.mos.ru
 *.test.kion.ru
 *.test.mdrive.magnit.ru
 *.test.nspd.rosreestr.gov.ru
@@ -4095,6 +4111,7 @@
 *.vamto.mil.ru
 *.vamto.old.mil.ru
 *.variti.io
+*.varvsn-mo.21-school.ru
 *.vas-mo.21-school.ru
 *.vasmfpro.ru
 *.vasmpro.ru
@@ -4399,6 +4416,7 @@
 *.xn--80aab6bidapdqr.xn--p1ai
 *.xn--80aabtwbbuhbiqdxddn.xn--p1ai
 *.xn--80aac0anodvhks.xn--p1ai
+*.xn--80aacbbdr0duaris.xn--p1ai
 *.xn--80aaccp4ajwpkgbl4lpb.xn--p1ai
 *.xn--80aadcfns8adpnjcoj.xn--p1ai
 *.xn--80aaefwccm7aekgee1axnu1pla.xn--p1ai
@@ -4417,6 +4435,7 @@
 *.xn--80abfedt6amof8k3a.xn--p1ai
 *.xn--80abfedtavrkbe1aq0c.xn--p1ai
 *.xn--80abidppcrd6g.xn--p1ai
+*.xn--80acbjgmges7ca.xn--p1ai
 *.xn--80acttv9e.xn--p1ai
 *.xn--80adciaa0a3bbrqjd1e.xn--p1ai
 *.xn--80aeeerlelgkc1a.xn--h1adghi.xn--p1ai
@@ -4434,6 +4453,8 @@
 *.xn--80akxamidgr5f.xn--p1ai
 *.xn--80aphfga3a3b.xn--p1ai
 *.xn--80asndblhi.xn--p1ai
+*.xn--90ab.com
+*.xn--90ab5b.xn--p1ai
 *.xn--90ab5f.xn--p1ai
 *.xn--90adf1affdogfm1isa.xn--p1ai
 *.xn--90aenc5bq.xn--p1ai
@@ -4650,6 +4671,7 @@
 2fa-linx.it-grad.ru
 2fa.icb.domrf.ru
 2fa.it-grad.ru
+2fsp.otpbank.ru
 2gis.by
 2gis.com
 2gis.io
@@ -4685,6 +4707,7 @@
 3ds2.myskb.ru
 3dsec.albank.ru
 3dsec.sberbank.ru
+3dsecure.otpbank.ru
 3dsecure.sinara.ru
 3dsecure.yoomoney.ru
 3dsp.vtb.ru
@@ -5059,6 +5082,7 @@ ais.snbank.ru
 ais3-test.vtb.ru
 aislod.rcoko27.ru
 aisnalogtaxmon.alfabank.ru
+aisubp.mos.ru
 akado-telecom.ru
 akado.ru
 akashi.vk-portal.net
@@ -5236,6 +5260,7 @@ api-app.kilbil.ru
 api-avito.mtsbank.ru
 api-ble-test.domrfbank.ru
 api-el-vote.mos.ru
+api-elreg.ik66.ru
 api-ext-test.mtsbank.ru
 api-ext.dbo-dengi.online
 api-ext.mtsbank.ru
@@ -6375,6 +6400,7 @@ bgncrb.mznso.ru
 bgol.akbars.ru
 bgol2.akbars.ru
 bgol3.akbars.ru
+bhs.otpbank.ru
 bi-bi.ru
 bi-reports247.sber.ru
 bi.04gov.ru
@@ -6637,6 +6663,7 @@ broker-sb.ru
 broker-sberbank.ru
 broker-t.ingobank.ru
 broker-test.rshb.ru
+broker-tst.otpbank.ru
 broker.gazprombank.ru
 broker.gpb.ru
 broker.ingobank.ru
@@ -6783,6 +6810,7 @@ capitalt.ru
 capsula.vk.com
 car-broker.ru
 carcade.com
+card-test.otpbank.ru
 card.otpbank.ru
 cardcredit.ru
 cardio.ru
@@ -6874,6 +6902,7 @@ cdep.ru
 cdmail.r7.ncsp.ru
 cdn-app.giga.chat
 cdn-app.sberdevices.ru
+cdn-deg.mos.ru
 cdn-investor-psi.sberbank.ru
 cdn-investor.sberbank.ru
 cdn-mobile-nuc.alfastrah.ru
@@ -7034,6 +7063,7 @@ certs.tigersoft.ru
 certs2.mob-trs.org
 certs2.t-mydocs.ru
 certs2.t-tps.org
+cexpress.otpbank.ru
 cfa.digital
 cfg.srv-hub.org
 cfg.tbank-online.com
@@ -7105,6 +7135,7 @@ chatcb.csctest.sberbank.ru
 chatdev.psbank.ru
 chatnc.csc.sberbank.ru
 chattest.novikom.ru
+chattest.otpbank.ru
 chattest.psbank.ru
 chebarcul.ru
 check.bspb.ru
@@ -7901,6 +7932,7 @@ dev.acs.gazprombank.ru
 dev.ad-tech.ru
 dev.ai.mosreg.ru
 dev.airflow-gigastorm.eye.salute.ru
+dev.aisubp.mos.ru
 dev.apps.mosreg.ru
 dev.bank.yandex.ru
 dev.broker-sb.io
@@ -8535,6 +8567,7 @@ elknw.rt.ru
 elko.ru
 ellisbank.com
 eln.sfr.gov.ru
+elreg.ik66.ru
 elreg.mos.ru
 elvees.ru
 email.admsurgut.ru
@@ -11233,6 +11266,7 @@ login.db.vtb.ru
 login.domrfbank.ru
 login.geoscan.ru
 login.if.db-test.vtb.ru
+login.ik66.ru
 login.kubankredit.ru
 login.mos.ru
 login.pochtabank.ru
@@ -11384,6 +11418,7 @@ m.odnoklassniki.eu
 m.odnoklassniki.lv
 m.odnoklassniki.ru
 m.odnoklassniki.tj
+m.okna-leningrad.ru
 m.prostobank.online
 m.smailru.net
 m.tbao.su
@@ -12052,6 +12087,7 @@ mcf-edge.alpha-dev.ru
 mcf-probe.alpha-dev.ru
 mchat.mkb.ru
 mcloud.psbank.ru
+mco-panacea.ru
 mconsulting.ru
 mcplat.com
 mcplat.ru
@@ -12788,6 +12824,7 @@ mytm.goodoldlion.ru
 mytrk.link
 myweb.domrfbank.ru
 mywebtest.domrfbank.ru
+mywi.fi
 mz-nefteproduct.rosneft.ru
 mz19.ru
 mz26.ru
@@ -13198,6 +13235,7 @@ okko-crm.sber.ru
 okko-openid.sber.ru
 okl.lt
 oklive.app
+okna-leningrad.ru
 oko.mkb.ru
 oktech.ru
 oktus.sber.ru
@@ -14776,6 +14814,8 @@ r18.rosreestr.ru
 r1864.ru
 r19.rosreestr.ru
 r2-test.vtb.ru
+r2.vk.ru
+r2.vkvideo.ru
 r2.vtb.ru
 r20.rosreestr.ru
 r21.rosreestr.ru
@@ -15123,6 +15163,7 @@ rev.avangard.ru
 rev2.avangard.ru
 rex-motors.ru
 rex-render.mts.ru
+rezonit.ru
 rf-cheats.ru
 rfcbank.ru
 rfs.deltacredit.ru
@@ -15887,6 +15928,7 @@ secure-payment-way.ru
 secure-paymentsolution.ru
 secure-test.api.sinara.ru
 secure.api.sinara.ru
+secure.otpbank.ru
 secure.sirena-travel.ru
 secure.tbank-online.com
 secure.ypmn.ru
@@ -16721,6 +16763,7 @@ stage-mesh.ad-tech.ru
 stage-my.jump.finance
 stage-work.jump.finance
 stage.ai.mosreg.ru
+stage.aisubp.mos.ru
 stage.cloud.vk.com
 stage.domapi.domrf.ru
 stage.domrfbank.ru
@@ -16850,6 +16893,7 @@ stavregion.ru
 stavropol.tricolor.ru
 stavropolarena.ru
 stavspk.ru
+stavzags.ru
 stavzan.ru
 staxi.spb.ru
 stc-nexus.speechpro.com
@@ -17336,6 +17380,7 @@ test-vtbo.api.vtb.ru
 test.19dx.ru
 test.3ds.payment.ru
 test.acq.gazprombank.ru
+test.aisubp.mos.ru
 test.alfastrahoms.ru
 test.api.sinara.ru
 test.api.vtb.ru
@@ -17356,6 +17401,7 @@ test.gigalegal.sberbank.ru
 test.hr.sberbank.ru
 test.ipfran.ru
 test.isogd.mosreg.ru
+test.kbo.aisubp.mos.ru
 test.mdeng.ru
 test.mdrive.magnit.ru
 test.mgtlogistic.ru
@@ -18031,6 +18077,7 @@ valen.keenetic.link
 values-book.omk.ru
 vant.ippe.ru
 variti.io
+varvsn-mo.21-school.ru
 vas-mo.21-school.ru
 vasmfpro.ru
 vasmpro.ru
@@ -18893,6 +18940,7 @@ www.3ds.roscap.com
 www.3ds1.myskb.ru
 www.3ds1.sinara.ru
 www.3ds2.domrfbank.ru
+www.3dsecure.otpbank.ru
 www.3dsecure.sinara.ru
 www.3dsecure.yoomoney.ru
 www.3dsp.vtb.ru
@@ -19207,6 +19255,7 @@ www.callerid.sovcombank.ru
 www.capital-bank.ru
 www.capitalbank.ru
 www.carcade.com
+www.card-test.otpbank.ru
 www.card.otpbank.ru
 www.cardcredit.ru
 www.cardio.ru
@@ -19278,6 +19327,7 @@ www.chat5.vtb.ru
 www.chat6.vtb.ru
 www.chat7.vtb.ru
 www.chatbank.ru
+www.chattest.otpbank.ru
 www.chebarcul.ru
 www.checkib.avangard.ru
 www.checkindex.ru
@@ -20111,6 +20161,7 @@ www.lynx-texts.ru
 www.m-trm.ru
 www.m.bspb.ru
 www.m.komission.vtb.ru
+www.m.okna-leningrad.ru
 www.m.shop.tricolor.ru
 www.m2mtt.ru
 www.ma.nrb.ru
@@ -20153,6 +20204,7 @@ www.mbrb.rr.test.vtb.ru
 www.mbuz-kgb.ru
 www.mcbank.ru
 www.mcbankrus.ru
+www.mco-panacea.ru
 www.mcrssar.ru
 www.mcst.ru
 www.mdm.rambler-co.ru
@@ -20368,6 +20420,7 @@ www.ofukem.ru
 www.ogk2.ru
 www.oiltelecom.ru
 www.okbank.ru
+www.okna-leningrad.ru
 www.okvd48.ru
 www.old.bspb.ru
 www.old.omk.ru
@@ -20679,6 +20732,7 @@ www.reso.ru
 www.restapi-buh.sovcombank.ru
 www.restart.auto
 www.restream.ru
+www.rezonit.ru
 www.rga-samara.ru
 www.rgantd.ru
 www.rgvarchive.ru
@@ -20859,6 +20913,7 @@ www.secretoutlet.com
 www.secrets.tbank.ru
 www.secrets.tinkoff.ru
 www.secure.api.sinara.ru
+www.secure.otpbank.ru
 www.secure.ypmn.ru
 www.securecardpayment.ru
 www.sed-com.orb.ru
@@ -21044,6 +21099,7 @@ www.stavminobr.ru
 www.stavminprom.ru
 www.stavregion.ru
 www.stavropolarena.ru
+www.stavzags.ru
 www.stomatology-kmv26.ru
 www.stomatrk.ru
 www.storage-wallet-test.mdigital.ru
@@ -21256,6 +21312,7 @@ www.v.rt.ru
 www.v.sber.ru
 www.vacr.vtb.ru
 www.values-book.omk.ru
+www.varvsn-mo.21-school.ru
 www.vas-mo.21-school.ru
 www.vbrr.ru
 www.vc.videos.livejournal.com
@@ -21592,6 +21649,7 @@ xn--80aabahoyob1afmqly.xn--p1ai
 xn--80aabb0crq.xn--p1ai
 xn--80aabtwbbuhbiqdxddn.xn--p1ai
 xn--80aac0anodvhks.xn--p1ai
+xn--80aacbbdr0duaris.xn--p1ai
 xn--80aaccfkbs3a3a1ai.xn--p1ai
 xn--80aaccp4ajwpkgbl4lpb.xn--p1ai
 xn--80aacgvulkfjl.xn--p1ai
@@ -21631,6 +21689,7 @@ xn--80abfedtavrkbe1aq0c.xn--p1ai
 xn--80abge0cc.xn--80aeimkqakctc.xn--p1ai
 xn--80abidppcrd6g.xn--p1ai
 xn--80abjdvbtgfj1l.xn--p1ai
+xn--80acbjgmges7ca.xn--p1ai
 xn--80acgfbsl1azdqr.xn--d1aqf.xn--p1ai
 xn--80acttv9e.xn--p1ai
 xn--80adbv1agb.xn--p1ai
@@ -21674,7 +21733,9 @@ xn--80atbdbsooh2gqb.xn--d1aqf.xn--p1ai
 xn--80atq.xn--90ab2c.xn--p1ai
 xn--80aveie.xn--d1auahegc7h.xn--p1ai
 xn--80az8a.xn--d1aqf.xn--p1ai
+xn--90ab.com
 xn--90ab2c.xn--p1ai
+xn--90ab5b.xn--p1ai
 xn--90ab5f.xn--p1ai
 xn--90aciba4b0afgk.xn--p1ai
 xn--90adf1affdogfm1isa.xn--p1ai
