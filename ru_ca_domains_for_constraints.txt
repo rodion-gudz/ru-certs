@@ -2352,6 +2352,7 @@ omesc.ru
 omgups.ru
 omk-it.ru
 omk.ru
+omnis-university.ru
 omnypay.ru
 omskparlament.ru
 omskzan.ru
@@ -2395,6 +2396,7 @@ orbank.ru
 orbita.ru
 ord-lab.ru
 oreka.ru
+orel-edu.ru
 orel.ru
 orelkapremont.ru
 orenburg-gov.ru
@@ -2795,6 +2797,7 @@ roomlink.ru
 ros-air.ru
 rosatom.com
 rosatom.ru
+rosatomflot.ru
 rosbank-auto.ru
 rosbank-dom.ru
 rosbank-leasing.ru
@@ -3849,6 +3852,7 @@ veb-leasing.com
 veb-leasing.ru
 veb.ru
 veblife.ru
+vebrf-am.ru
 vectorcapital.ru
 vedomosti.ru
 vega-rus.net

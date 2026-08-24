@@ -1297,6 +1297,7 @@
 *.fzo.gov.ru
 *.g45.tambov.gov.ru
 *.ga-airport.ru
+*.ga.finam.ru
 *.gain-up.ru
 *.gainup.ru
 *.games-admin.odkl.ru
@@ -2102,6 +2103,7 @@
 *.metropolik.ru
 *.metrowagonmash.ru
 *.mf55.ru
+*.mfa.finam.ru
 *.mfa.gazprombank.ru
 *.mfc-25.ru
 *.mfc-kursk.ru
@@ -3090,6 +3092,7 @@
 *.rodnik-altaya.com
 *.roomlink.ru
 *.ros-air.ru
+*.rosatomflot.ru
 *.rosavtodor.gov.ru
 *.rosbank-auto.ru
 *.rosbank-dom.ru
@@ -9134,6 +9137,7 @@ fzo.gov.ru
 g.gis-sc.krasnodar.ru
 g45.tambov.gov.ru
 ga-airport.ru
+ga.finam.ru
 gain-up.ru
 gainstech.ru
 gainup.ru
@@ -11152,6 +11156,7 @@ lk2.vzavod.ru
 lka.rosneft.ru
 lkbank.bcs.ru
 lkbroker.mkb.ru
+lkc.test.ns-bank.ru
 lkcash.sinara.ru
 lkdoc.infoline-rk.ru
 lke.registrator-rekom.ru
@@ -12202,6 +12207,7 @@ mf55.ru
 mfa-portal.gazprombank.ru
 mfa.aoglonass.ru
 mfa.esp.s7corp.ru
+mfa.finam.ru
 mfa.gazprombank.ru
 mfa2.vtb.ru
 mfa2rr.vtb.ru
@@ -13265,6 +13271,7 @@ online-anketa.alfabank.ru
 online-dev.sberbankins.ru
 online-express.ru
 online-prep.sberbankins.ru
+online-test.orel-edu.ru
 online-tst.sberbankins.ru
 online.aaacapital.ru
 online.abank.ru
@@ -14079,6 +14086,7 @@ pixmart.ru
 pixso.alfabank.ru
 pk.i-spo.ru
 pk.ncagp.ru
+pk.omnis-university.ru
 pk1-ckad.asudd.net
 pk1.asudd.net
 pk3.asudd.net
@@ -15202,6 +15210,7 @@ root.root.t-software.tech
 root.t-software.tech
 rors.expe-cl01.css.rzd.ru
 ros-air.ru
+rosatomflot.ru
 rosatomtalents-beta.sberclass.ru
 rosatomtalents.sberclass.ru
 rosavtodor.gov.ru
@@ -18135,6 +18144,7 @@ vdspb.ru
 ve.ad-tech.ru
 veb.ru
 veblife.ru
+vebrf-am.ru
 vectorcapital.ru
 ved.mtsbank.ru
 vedomosti.ru
@@ -20693,6 +20703,7 @@ www.rock-up.ru
 www.roddom-krd.ru
 www.rodnik-altaya.com
 www.romny28-npa.ru
+www.rosatomflot.ru
 www.rosleshoz.ru
 www.rosneft-bitumen.ru
 www.rosneft.com
