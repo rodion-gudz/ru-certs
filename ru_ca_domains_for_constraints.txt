@@ -73,6 +73,7 @@ absolutvip.ru
 academcity.ru
 academresource.online
 accidentlaw.ru
+achimdevelopment.ru
 ack-it.online
 acontoso.ru
 acptl.ru
@@ -513,6 +514,7 @@ bulet70.ru
 bumblue.ru
 buninlib.ru
 burda.ru
+burdc.ru
 burgaz.ru
 burgerkingrus.ru
 burmed.ru
@@ -1151,6 +1153,7 @@ gazeks.com
 gazeta.ru
 gazfond-pn.ru
 gazfond.ru
+gazprom-agnks.ru
 gazprom-arena.com
 gazprom-media.com
 gazprom.com
@@ -1881,6 +1884,7 @@ matznay.ru
 max.ru
 maxiarm.ru
 maximum.ru
+maxlib.ru
 mbafin.ru
 mbrd.ru
 mbuz-kgb.ru
@@ -3477,6 +3481,7 @@ svmdev.ru
 svmspb.ru
 svoe-rodnoe.ru
 svoe-selo.ru
+svoe-shef.ru
 svoe-travel.ru
 svoe-zagorodom.ru
 svoe.ru

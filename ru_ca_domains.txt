@@ -521,6 +521,7 @@
 *.buninlib.orel.ru
 *.buninlib.ru
 *.burda.ru
+*.burdc.ru
 *.burgaz.ru
 *.burgerkingrus.ru
 *.burmed.ru
@@ -1316,6 +1317,7 @@
 *.gazeta.ru
 *.gazfond-pn.ru
 *.gazfond.ru
+*.gazprom-agnks.ru
 *.gazprom-arena.com
 *.gazprom-media.com
 *.gazprom.com
@@ -3739,6 +3741,7 @@
 *.svodka.stc-groups.ru
 *.svoe-rodnoe.ru
 *.svoe-selo.ru
+*.svoe-shef.ru
 *.svoe-travel.ru
 *.svoe-zagorodom.ru
 *.svoe.ru
@@ -4594,6 +4597,7 @@
 002-1ct-tst-01.sibintek.ru
 002-prj-web-02.sibintek.ru
 01.rospotrebnadzor.ru
+03.rospotrebnadzor.ru
 04.rospotrebnadzor.ru
 04gov.ru
 06.rospotrebnadzor.ru
@@ -4844,6 +4848,7 @@ access.westcall.spb.ru
 account.2gis.com
 account.cyberprotect.ru
 account.tbki.ru
+achimdevelopment.ru
 ack-it.online
 acme-test-nuc.asdkola.org
 aconf.rt.ru
@@ -7658,6 +7663,7 @@ crstory.ru
 crt-test-alpha.ru
 crutch.msk.ru
 crvsp.ru
+crypto.region.ru
 crypto.rosatom.ru
 cryptoarm.ru
 cryptoauth.gebank.ru
@@ -8474,6 +8480,7 @@ edinoevideo.ru
 edinros.ru
 editor-sqd.absolutbank.ru
 edo.gupti.ru
+edo.region.ru
 edo.uprio.ru
 edo.vostokgosplan.ru
 edocom.ru
@@ -9237,6 +9244,7 @@ gaz.f-pvo.ru
 gazeta.ru
 gazfond-pn.ru
 gazfond.ru
+gazprom-agnks.ru
 gazprom-arena.com
 gazprom-media.com
 gazprombank.investments
@@ -11286,6 +11294,7 @@ login.kubankredit.ru
 login.mos.ru
 login.pochtabank.ru
 login.rcoko27.ru
+login.region.ru
 login.srm2.magnit.ru
 login.unicredit.ru
 logistics.gazprombank.ru
@@ -12060,6 +12069,7 @@ max.screspect.ru
 max.ukplus.ru
 maxiarm.ru
 maximum.ru
+maxlib.ru
 mb.as50464.net
 mb.domrfbank.ru
 mb.transneft.ru
@@ -16835,6 +16845,8 @@ staros-sslp-psi-md.devicestest.sberbank.ru
 staros-static-ift-md.devicestest.sberbank.ru
 staros-static-md.devices.sberbank.ru
 staros-static-psi-md.devicestest.sberbank.ru
+start-career-braincamp.bspb.ru
+start-career-connect.bspb.ru
 start.kk.bank
 start.uralsib.ru
 startcm.ru
@@ -17074,6 +17086,7 @@ svmdev.ru
 svmspb.ru
 svoe-rodnoe.ru
 svoe-selo.ru
+svoe-shef.ru
 svoe-travel.ru
 svoe-zagorodom.ru
 svoe.ru
@@ -18833,6 +18846,7 @@ workspace.sber247.ru
 workspace.vk.ru
 workspace2.magnit.ru
 workspad.com
+workspad.sberinsur.ru
 wos.mail.ru
 wow.preprod-cdn.edgecenter.online
 wowsale.ru
@@ -20223,6 +20237,7 @@ www.master-university.rt.ru
 www.masterchain.ru
 www.mattermost.alfastrah.ru
 www.maxiarm.ru
+www.maxlib.ru
 www.mb.domrfbank.ru
 www.mb.vtb.ru
 www.mb.vtbgroup.com
