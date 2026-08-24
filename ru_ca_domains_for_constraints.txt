@@ -189,6 +189,7 @@ alrosa.ru
 alrosait.ru
 altaiensb.ru
 altaigov.ru
+altastroy-nn.ru
 altermodus.ru
 altspu.ru
 alupka-art.ru
@@ -283,6 +284,7 @@ aslife.ru
 asntl.ru
 aspcom.ru
 asseta-am.ru
+ast-ins.ru
 astais.ru
 astcsm.ru
 asterium.ru
@@ -749,6 +751,7 @@ delo.ru
 delovayakolbasa.ru
 deltacredit.ru
 dengi.ru
+dengivdelo.ru
 dengograd.ru
 depagro32.ru
 depfin70.ru
@@ -968,6 +971,7 @@ energy-invest.ru
 energy-tracker.ru
 enforta.com
 enforta.ru
+enicom.ru
 enisei-gis.ru
 eniseigis.ru
 enisey-gis.ru
@@ -1235,6 +1239,7 @@ globus-coins.ru
 glolime.ru
 gltlab.ru
 gmgs.ru
+gmt-gazprom.ru
 gnicpm.ru
 gnppregion.ru
 gofocus.ru
@@ -1779,6 +1784,7 @@ letidor.ru
 letobank.ru
 levashov-studio.ru
 lexgarant.ru
+lgt.ru
 libdiv.ru
 liberty-tur.ru
 librarykrasnoturinsk.ru
@@ -3145,6 +3151,7 @@ seosan.io
 septemcapital.ru
 sergeykhotimskiy.ru
 sermet.ru
+sertifikaty-mincifry.ru
 serv-food.ru
 serverce.ru
 service-business.ru
@@ -3209,6 +3216,7 @@ simulationhub.pro
 sinara-finance.ru
 sinara.ru
 sinaralab.ru
+sineft.ru
 sipaero.ru
 sirena-travel.ru
 sirfol.ru
@@ -4085,6 +4093,7 @@ wildberries.global
 wildberries.moscow
 wildberries.ru
 wildberries.su
+wildberries.tm
 wildcordyceps.ru
 wiminvest.ru
 wimsavings.ru
@@ -4221,6 +4230,7 @@ xn--80adbv1agb.xn--p1ai
 xn--80adbvdrrdn3buj1grakh.xn--p1ai
 xn--80adciaa0a3bbrqjd1e.xn--p1ai
 xn--80addfq2alq.xn--p1ai
+xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80aegbkvxddlre.xn--p1ai
 xn--80aeimkqakctc.xn--p1ai
 xn--80aeiunabfe8a.xn--p1ai

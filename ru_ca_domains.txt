@@ -198,6 +198,7 @@
 *.alrosa.ru
 *.altaiensb.ru
 *.altaigov.ru
+*.altastroy-nn.ru
 *.altermodus.ru
 *.altspu.ru
 *.alzoro.ru
@@ -304,6 +305,7 @@
 *.aslife.ru
 *.aspcom.ru
 *.asseta-am.ru
+*.ast-ins.ru
 *.astais.ru
 *.astcsm.ru
 *.asterium.ru
@@ -618,6 +620,7 @@
 *.chat-test.bspb.ru
 *.chat.bspb.ru
 *.chat.creditural.ru
+*.chat.mco-panacea.ru
 *.chbrr.crimea.com
 *.chebarcul.ru
 *.check.easycert.sberbank.ru
@@ -808,8 +811,13 @@
 *.demo-inspector.gosuslugi.ru
 *.demo-user.alfa-plata.alfastrah.ru
 *.demo.1c.ru
+*.demo.cnp.mosreg.ru
+*.demo.crct.mosreg.ru
+*.demo.easuz.mosreg.ru
+*.demo.erai.ru
 *.demo.faktura.ru
 *.demo.nspd.rosreestr.gov.ru
+*.demo.pik.mosreg.ru
 *.demo1.hycl.ru
 *.demo2.hycl.ru
 *.demo3.hycl.ru
@@ -828,7 +836,9 @@
 *.dev.1c.link
 *.dev.ad-tech.ru
 *.dev.ai.mosreg.ru
+*.dev.aiplatform.mosreg.ru
 *.dev.aisubp.mos.ru
+*.dev.akbars.ru
 *.dev.app.giga.chat
 *.dev.app.sberdevices.ru
 *.dev.apps.mosreg.ru
@@ -1116,6 +1126,7 @@
 *.energy-tracker.ru
 *.enforta.com
 *.enforta.ru
+*.enicom.ru
 *.enpv.ru
 *.ens.mil.ru
 *.ens.old.mil.ru
@@ -1381,6 +1392,7 @@
 *.gksar.ru
 *.globaloet.ru
 *.globalports.com
+*.gmt-gazprom.ru
 *.gnicpm.ru
 *.gnppregion.ru
 *.go.mail.ru
@@ -1908,6 +1920,7 @@
 *.letters.kremlin.ru
 *.letters.mil.ru
 *.letters.old.mil.ru
+*.lgt.ru
 *.libdiv.ru
 *.librarykrasnoturinsk.ru
 *.libsmr.ru
@@ -1923,6 +1936,8 @@
 *.linus.su
 *.linuxtesting.ru
 *.list.ru
+*.live-dmz.akbars.ru
+*.live-int.akbars.ru
 *.live.vkplay.ru
 *.live.vkvideo.ru
 *.livejournal.com
@@ -1935,6 +1950,7 @@
 *.ljplus.ru
 *.lk-penza.pnzreg.ru
 *.lk.admsvtl.ru
+*.lk.mco-panacea.ru
 *.lk.megafon.ru
 *.lk.roomlink.ru
 *.lk.wifi-auth.megafon.ru
@@ -1970,6 +1986,9 @@
 *.loop.smarttravel.ru
 *.lot-online.ru
 *.lovina.vkpartner.ru
+*.loyalty-ldt.akbars.ru
+*.loyalty-preprod.akbars.ru
+*.loyalty-test.akbars.ru
 *.loyalty.akbars.ru
 *.lp.kion.ru
 *.lpk.21-school.ru
@@ -2276,6 +2295,7 @@
 *.msk1.direct-credit.ru
 *.msp.akbars.ru
 *.mspbank.ru
+*.mspp.akbars.ru
 *.msr.orb.ru
 *.mtronics.ru
 *.mts-office.ru
@@ -3082,6 +3102,7 @@
 *.rgs.ru
 *.rgvarchive.ru
 *.rhc.ru
+*.ria.ru
 *.ric.mil.ru
 *.ric.old.mil.ru
 *.rikt.ru
@@ -3449,6 +3470,7 @@
 *.sinara-finance.ru
 *.sinara.ru
 *.sinaralab.ru
+*.sineft.ru
 *.sipaero.ru
 *.sirena-travel.ru
 *.sistema-capital.com
@@ -3628,6 +3650,8 @@
 *.stacks.vk-portal.net
 *.stage-dc.ru
 *.stage-dfo.ru
+*.stage-dmz.akbars.ru
+*.stage-int.akbars.ru
 *.stage-mesh.ad-tech.ru
 *.stage.ai.mosreg.ru
 *.stage.aisubp.mos.ru
@@ -4371,6 +4395,7 @@
 *.wildberries.moscow
 *.wildberries.ru
 *.wildberries.su
+*.wildberries.tm
 *.wiminvest.ru
 *.wimsavings.ru
 *.winelab.ru
@@ -5022,6 +5047,7 @@ afisha.mail.ru
 afisha.ru
 afmg.ru
 afo.autofinancebank.ru
+ag.alfabank.ru
 ag.alfastrah.ru
 ag.mobileid.megafon.ru
 agatos.ru
@@ -5193,6 +5219,7 @@ alrosa.ru
 alrosait.ru
 altaiensb.ru
 altaigov.ru
+altastroy-nn.ru
 altermodus.ru
 altspu.ru
 alupka-art.ru
@@ -5654,6 +5681,7 @@ assist24.kk.ru
 assist24.kubankredit.ru
 assistant.sberbankins.ru
 assistant.veb.ru
+ast-ins.ru
 ast.sber.ru
 astais.ru
 astcsm.ru
@@ -7126,6 +7154,7 @@ chat.invest.psbank.ru
 chat.jump.finance
 chat.jump.taxi
 chat.mbrd.ru
+chat.mco-panacea.ru
 chat.mes.rshb.ru
 chat.mts.ru
 chat.mtsbank.ru
@@ -7894,7 +7923,11 @@ demo.1c.ru
 demo.avangard.ru
 demo.bifit.ru
 demo.bitrix24.payanyway.ru
+demo.cnp.mosreg.ru
+demo.crct.mosreg.ru
 demo.db.vtb.ru
+demo.easuz.mosreg.ru
+demo.erai.ru
 demo.faktura.ru
 demo.felix.rt.ru
 demo.fx.bspb.ru
@@ -7908,6 +7941,7 @@ demo.keptstore.ai
 demo.keptstore.ru
 demo.mobileid.megafon.ru
 demo.nspd.rosreestr.gov.ru
+demo.pik.mosreg.ru
 demo.podpis.sber.ru
 demo.pwa.sberpravo.ru
 demo.sberpravo.ru
@@ -7950,8 +7984,10 @@ dev.1c.link
 dev.acs.gazprombank.ru
 dev.ad-tech.ru
 dev.ai.mosreg.ru
+dev.aiplatform.mosreg.ru
 dev.airflow-gigastorm.eye.salute.ru
 dev.aisubp.mos.ru
+dev.akbars.ru
 dev.apps.mosreg.ru
 dev.bank.yandex.ru
 dev.broker-sb.io
@@ -7987,6 +8023,7 @@ dev.test-jazz.sberbank.ru
 dev.ubrr.ru
 dev.yadro.com
 dev2.nspd.rosreestr.gov.ru
+dev2.region.broker
 dev3.atm72.ru
 dev4.webquik-test.sberbank.ru
 dev4e.webquik-test.sberbank.ru
@@ -8059,6 +8096,7 @@ diainvest.ru
 dialin.admsurgut.ru
 dialin.deltacredit.ru
 dialin.expobank.ru
+dialin.fc-zenit.ru
 dialin.gazeks.com
 dialin.ingos.ru
 dialin.ntv.ru
@@ -8942,6 +8980,7 @@ fciit.ru
 fcitep.ru
 fcs.mac.mos.ru
 fcsm.akbars.ru
+fcz-skype.fc-zenit.ru
 fdom.su
 fdst.mkb.ru
 feature-analysis.rc.senat.sberbank.ru
@@ -9432,6 +9471,7 @@ gltlab.ru
 gm.sdp.sber.ru
 gmgs.ru
 gmpro-beta.sigma.sbrf.ru
+gmt-gazprom.ru
 gnicpm.ru
 gnkb2.mznso.ru
 gnkpb3.mznso.ru
@@ -9771,6 +9811,7 @@ history.rt.ru
 hiteknsk.ru
 hitfm.ru
 hivkuban.ru
+hkion.kion.ru
 hkptes.ru
 hlv.ru
 hmbonline.kbhmb.ru
@@ -10031,6 +10072,7 @@ id.alfastrahoms.ru
 id.app-assistent.open.ru
 id.bizregis.ru
 id.cyberkoala.ru
+id.dengivdelo.ru
 id.digitaldocuments.kz
 id.domrf.ru
 id.domrfbank.ru
@@ -10055,6 +10097,7 @@ id.tochka.com
 id.vtb.ru
 idassist.ingobank.ru
 idea.omk.ru
+idecovpn.fc-zenit.ru
 idemo.bspb.ru
 ident.tch.ru
 identification.megafon.ru
@@ -11061,6 +11104,7 @@ letters.saratov.gov.ru
 levashov-studio.ru
 lexgarant.ru
 lexview.spb.ru
+lgt.ru
 lib.kr-cbs.ru
 libdiv.ru
 liberty-tur.ru
@@ -11122,6 +11166,8 @@ lists.linuxtesting.ru
 litellm.eye.salute.ru
 litgolos.ru
 littlerepulsive.rambler.ru
+live-dmz.akbars.ru
+live-int.akbars.ru
 live.open.ru
 live.vkplay.ru
 live.vkvideo.ru
@@ -11174,6 +11220,7 @@ lk.kk.ru
 lk.kolpinonet.ru
 lk.kubankredit.ru
 lk.kvartplata.info
+lk.mco-panacea.ru
 lk.megafon.ru
 lk.mkb.ru
 lk.myonlinetips.ru
@@ -11210,6 +11257,7 @@ lk.wifi-auth.megafon.ru
 lk.yfc.ru
 lk2.vzavod.ru
 lka.rosneft.ru
+lka.test.ns-bank.ru
 lkbank.bcs.ru
 lkbroker.mkb.ru
 lkc.test.ns-bank.ru
@@ -11219,6 +11267,7 @@ lke.registrator-rekom.ru
 lkgph.rt.ru
 lki.yfc.ru
 lkint.alfadirect.ru
+lkion.kion.ru
 lkk-prod.transneft.ru
 lkk-test.transneft.ru
 lkk-usr-pp.transneft.ru
@@ -11227,6 +11276,7 @@ lkk.lenenergo.ru
 lkka-urv.magnit.ru
 lkka.v1.market
 lknew.gazfond-pn.ru
+lko.test.ns-bank.ru
 lko.tppsandbox.nspk.ru
 lkp-test.mtsbank.ru
 lkp.a-rnr.ru
@@ -11316,6 +11366,9 @@ love.qtom.ru
 low-code.t-bank-app.ru
 loyalty-admin.cardsmobile.ru
 loyalty-api.tbank-online.com
+loyalty-ldt.akbars.ru
+loyalty-preprod.akbars.ru
+loyalty-test.akbars.ru
 loyalty.akbars.ru
 loyift-api.spasibotest.ru
 loyift-grafana.spasibotest.ru
@@ -11389,6 +11442,7 @@ lyncdiscover.deltacredit.ru
 lyncdiscover.depfin.kirov.ru
 lyncdiscover.ecolant.net
 lyncdiscover.ecolantvyksa.ru
+lyncdiscover.fc-zenit.ru
 lyncdiscover.gazeks.com
 lyncdiscover.giotek.ru
 lyncdiscover.ingos.ru
@@ -11508,6 +11562,7 @@ mail.46cge.rospotrebnadzor.ru
 mail.47.rospotrebnadzor.ru
 mail.49.rospotrebnadzor.ru
 mail.52.rospotrebnadzor.ru
+mail.54.rospotrebnadzor.ru
 mail.62.rospotrebnadzor.ru
 mail.79.rospotrebnadzor.ru
 mail.79cge.rospotrebnadzor.ru
@@ -12198,6 +12253,7 @@ meet.cloud.ru
 meet.deltacredit.ru
 meet.ertelecom.ru
 meet.expobank.ru
+meet.fc-zenit.ru
 meet.gazeks.com
 meet.ingos.ru
 meet.ntv.ru
@@ -12663,6 +12719,7 @@ mskvpn.sinara.ru
 mslcrb.mznso.ru
 msns.niic.nsc.ru
 mspbank.ru
+mspp.akbars.ru
 msr.orb.ru
 msreport.bcs.ru
 mss.meteo.ru
@@ -14426,6 +14483,7 @@ prim.drsk.ru
 primavera.market
 prime.inforion.ru
 primorsky.ru
+priovtb.com
 pritok.ru
 private-banking.ru
 private-mc.auth.alfabank.ru
@@ -14914,8 +14972,11 @@ r89.rosreestr.ru
 r92.rosreestr.ru
 ra-tech.pochtabank.ru
 ra.pochtabank.ru
+ra.rsb.ru
 ra.sinara.ru
 ra.transneft.ru
+ra1.rsb.ru
+ra2.rsb.ru
 rabbit.ci.legalbpm.sberpravo.ru
 rabbit.ci.sberpravo.ru
 rabbit.demo.sberpravo.ru
@@ -16050,6 +16111,7 @@ sep.vk.team
 septemcapital.ru
 sergeykhotimskiy.ru
 sermet.ru
+sertifikaty-mincifry.ru
 serv-food.ru
 serverce.ru
 servers.eaglecdn.com
@@ -16200,6 +16262,7 @@ simulationhub.pro
 sinara-finance.ru
 sinara.ru
 sinaralab.ru
+sineft.ru
 single.cscampus.ru
 single.kamp-ext-if.vtb.ru
 single.kamp-ext-rr.vtb.ru
@@ -16215,6 +16278,7 @@ sip.depfin.kirov.ru
 sip.ecolant.net
 sip.ecolantvyksa.ru
 sip.expobank.ru
+sip.fc-zenit.ru
 sip.gazeks.com
 sip.gge.ru
 sip.giotek.ru
@@ -16278,6 +16342,7 @@ ski.pionerka.ru
 skif.rt.ru
 skillaz.magnit.ru
 skino.tricolor.ru
+skion.kion.ru
 skiorganaizer.ru
 skit.rt.ru
 skitsp.rt.ru
@@ -16790,6 +16855,8 @@ staff-acquisition.magnit.ru
 stage-api-itsm.sbertech.ru
 stage-dc.ru
 stage-dfo.ru
+stage-dmz.akbars.ru
+stage-int.akbars.ru
 stage-mesh.ad-tech.ru
 stage-my.jump.finance
 stage-work.jump.finance
@@ -17348,6 +17415,7 @@ tender.omk.ru
 tender.rosneft.com
 tender.rosneft.ru
 tender32.ru
+tenders.etp-avtodor.ru
 tensor.ru
 term-cpg-dg.money.mail.ru
 term-cpg.money.mail.ru
@@ -18478,6 +18546,7 @@ vpn.novikom.ru
 vpn.pochtabank.ru
 vpn.rostfinance.ru
 vpn.rr.test.vtb.ru
+vpn.rsb.ru
 vpn.rts.ru
 vpn.russianpost.ru
 vpn.russitabank.ru
@@ -18494,8 +18563,10 @@ vpn01.itcomp.tech
 vpn01.sovcombank.group
 vpn02.itcomp.tech
 vpn02.sovcombank.group
+vpn1.rsb.ru
 vpn2.bspb.ru
 vpn2.finstarbank.ru
+vpn2.rsb.ru
 vpn3.osgrm.ru
 vpnaccess.avangard.ru
 vpncloud.sberins.ru
@@ -18802,6 +18873,7 @@ wildberries.global
 wildberries.moscow
 wildberries.ru
 wildberries.su
+wildberries.tm
 wildcordyceps.ru
 wiminvest.ru
 wimsavings.ru
@@ -18992,6 +19064,7 @@ www.46.rospotrebnadzor.ru
 www.46cge.rospotrebnadzor.ru
 www.49.rospotrebnadzor.ru
 www.52.rospotrebnadzor.ru
+www.54.rospotrebnadzor.ru
 www.56.rospotrebnadzor.ru
 www.61.rospotrebnadzor.ru
 www.62.rospotrebnadzor.ru
@@ -19361,6 +19434,7 @@ www.chat-test-ds.bspb.ru
 www.chat-test.bspb.ru
 www.chat-turn.vtb.ru
 www.chat.bspb.ru
+www.chat.mco-panacea.ru
 www.chat.otpbank.ru
 www.chat.vtb.ru
 www.chat.vtbgroup.com
@@ -20147,6 +20221,7 @@ www.lk-hr.pskb.com
 www.lk-penza.pnzreg.ru
 www.lk.admsvtl.ru
 www.lk.ismet.sovcomlife.ru
+www.lk.mco-panacea.ru
 www.lk.noosferabank.ru
 www.lk.omsomsk.ru
 www.lk.sinara-finance.ru
@@ -21006,6 +21081,7 @@ www.simulationhub.pro
 www.sinara-finance.ru
 www.sinara.ru
 www.sinaralab.ru
+www.sineft.ru
 www.sipmobile.alfastrah.ru
 www.sistemagorod.ru
 www.sj-dev.ru
@@ -21743,6 +21819,7 @@ xn--80adbvdrrdn3buj1grakh.xn--p1ai
 xn--80adciaa0a3bbrqjd1e.xn--p1ai
 xn--80addfq2alq.xn--p1ai
 xn--80aeeerlelgkc1a.xn--h1adghi.xn--p1ai
+xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80aegbkvxddlre.xn--p1ai
 xn--80aeimkqakctc.xn--p1ai
 xn--80aeiunabfe8a.xn--p1ai
