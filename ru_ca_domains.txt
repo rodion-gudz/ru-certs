@@ -1875,6 +1875,7 @@
 *.kvartplata.ru
 *.kvvu-mo.21-school.ru
 *.kxte.ru
+*.kz-wbwh.tech
 *.kz.cloud.vk.com
 *.kz.cloud.vk.kz
 *.kz.ozon.com
@@ -3196,8 +3197,10 @@
 *.rustore.tv
 *.rvc.ru
 *.rw.kinef.ru
+*.rwb-corp.com
 *.rwb.ru
 *.rwbautomation.ru
+*.rwbautomation.tech
 *.rwbgeo.ru
 *.rwbp.ru
 *.ryazan.gov.ru
@@ -4310,6 +4313,7 @@
 *.wb-cloud.ru
 *.wb.ru
 *.wbautomation.ru
+*.wbautomation.tech
 *.wbbasket.ru
 *.wbcontent.ru
 *.wbdaily.ru
@@ -4327,6 +4331,7 @@
 *.wbrep.ru
 *.wbschool.ru
 *.wbsmart.ru
+*.wbstatic.net
 *.wbstatic.ru
 *.wbwh.ru
 *.wealthim.ru
@@ -4348,6 +4353,7 @@
 *.westcall.cloud
 *.westcall.spb.ru
 *.whitei.net
+*.wibes.com
 *.wibes.ru
 *.widget.kion.ru
 *.wifi.akado-telecom.ru
@@ -4356,6 +4362,9 @@
 *.wifi.rt.ru
 *.wifi.ru
 *.wifi.westcall.spb.ru
+*.wildberries.at
+*.wildberries.be
+*.wildberries.global
 *.wildberries.moscow
 *.wildberries.ru
 *.wildberries.su
@@ -4435,6 +4444,7 @@
 *.xn--80abfedt6amof8k3a.xn--p1ai
 *.xn--80abfedtavrkbe1aq0c.xn--p1ai
 *.xn--80abidppcrd6g.xn--p1ai
+*.xn--80abmi5aecftcl4j.xn--90ab5b.xn--p1ai
 *.xn--80acbjgmges7ca.xn--p1ai
 *.xn--80acttv9e.xn--p1ai
 *.xn--80adciaa0a3bbrqjd1e.xn--p1ai
@@ -5786,6 +5796,8 @@ auto-tst.sberbankins.ru
 auto.jump.finance
 auto.lukoil.ru
 auto.mail.ru
+auto.market.omk.ru
+auto.omk.ru
 auto.sberbankins.ru
 auto.vtb.ru
 auto.youla.io
@@ -6320,6 +6332,7 @@ bashneft-azs.ru
 bashneft.com
 bashneft.ru
 basseiny.online
+batashevgolos.omk.ru
 batist.pro
 bazrb.ru
 bb-metro.spb.ru
@@ -10517,6 +10530,7 @@ itarctica.ru
 itb.ru
 itbank.ru
 itbez.ru
+itc.omk.ru
 itcomp.tech
 itf-p07asl-sc1.gazprombank.ru
 itf-p07asl-sc2.gazprombank.ru
@@ -10957,6 +10971,7 @@ kvint.mkb.ru
 kvvu-mo.21-school.ru
 kwapp.spaymentsplus.ru
 kxte.ru
+kz-wbwh.tech
 kz.cloud.vk.com
 kz.cloud.vk.kz
 kz.ozon.com
@@ -13902,6 +13917,7 @@ partners.sovcombank.ru
 partners.tech.vk.com
 partnership-new.alfabank.ru
 partnership.alfabank.ru
+partnerstvo.omk.ru
 partnert.deltacredit.ru
 partnervpn.yadro.com
 partnervpn2.yadro.com
@@ -14205,6 +14221,7 @@ pnzreg.ru
 po-rubly.ru
 po.psbank.ru
 pobeda.lenenergo.ru
+pobeda.omk.ru
 pobeda.rosseti-lenenergo.ru
 pochta.cchgeu.ru
 pochta.ingosinvest.ru
@@ -15421,8 +15438,10 @@ rvc.ru
 rvpn.thbank.ru
 rw.kinef.ru
 rwa.alfabank.ru
+rwb-corp.com
 rwb.ru
 rwbautomation.ru
+rwbautomation.tech
 rwbgeo.ru
 rwbp.ru
 ryazan.gov.ru
@@ -16126,6 +16145,7 @@ shorspb.ru
 shpakrb.ru
 shriftik.ru
 shrtn.sinara.ru
+shukhov.omk.ru
 si.rtksp.ru
 si.sberbankins.ru
 si20-psi.sberbank.ru
@@ -16529,6 +16549,7 @@ soz.megafon.ru
 sp-msk50-ise-psn2.net.gazprombank.ru
 sp-msk51-ise-psn2.net.gazprombank.ru
 sp.devices.sberbank.ru
+sp.omk.ru
 sp01.rosleshoz.ru
 sp03.ru
 sp05.rosleshoz.ru
@@ -18566,6 +18587,7 @@ wb-basket.ru
 wb-cloud.ru
 wb.ru
 wbautomation.ru
+wbautomation.tech
 wbbasket.ru
 wbc.msg.gpb.ru
 wbcontent.ru
@@ -18585,6 +18607,7 @@ wbplattech.ru
 wbrep.ru
 wbschool.ru
 wbsmart.ru
+wbstatic.net
 wbstatic.ru
 wbwh.ru
 wbx-meeting.mosoblbank.ru
@@ -18713,6 +18736,7 @@ whitei.net
 whocalls.megafon.ru
 whp-findep-web.sovcombank.group
 wi-fi-internet.tricolor.ru
+wibes.com
 wibes.ru
 widget.chat.msbapps.ru
 widget.chat.psbank.ru
@@ -18759,6 +18783,9 @@ wifire.megafon.ru
 wiki.sberbank-service.ru
 wiki.tinko.ru
 wiki.vkbudgeting.ru
+wildberries.at
+wildberries.be
+wildberries.global
 wildberries.moscow
 wildberries.ru
 wildberries.su
@@ -19147,6 +19174,7 @@ www.auth.pochtabank.ru
 www.auth.sinara-finance.ru
 www.authd-pd.domrfbank.ru
 www.authr.sinara-finance.ru
+www.auto.market.omk.ru
 www.auto.vtb.ru
 www.autodiscover.akbars.ru
 www.autodiscover.pr.vtb.ru
@@ -20270,6 +20298,7 @@ www.mobipass.passonline.ru
 www.mobmsb.cdn.gpb.ru
 www.mobsbortst.pochtabank.ru
 www.moderita.ru
+www.modulbank.ru
 www.modulbuh.ru
 www.monomah.ru
 www.monument.lenenergo.ru
@@ -20949,6 +20978,7 @@ www.shakhty-edu.ru
 www.shmr.ru
 www.shop.tricolor.ru
 www.shriftik.ru
+www.shukhov.omk.ru
 www.sibintek-soft.rosneft.ru
 www.sibintek-soft.ru
 www.sibintek.rosneft.ru
@@ -21689,6 +21719,7 @@ xn--80abfedtavrkbe1aq0c.xn--p1ai
 xn--80abge0cc.xn--80aeimkqakctc.xn--p1ai
 xn--80abidppcrd6g.xn--p1ai
 xn--80abjdvbtgfj1l.xn--p1ai
+xn--80abmi5aecftcl4j.xn--90ab5b.xn--p1ai
 xn--80acbjgmges7ca.xn--p1ai
 xn--80acgfbsl1azdqr.xn--d1aqf.xn--p1ai
 xn--80acttv9e.xn--p1ai

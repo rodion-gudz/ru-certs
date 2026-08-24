@@ -1745,6 +1745,7 @@ kvartplata.info
 kvartplata.ru
 kvd-yeisk.ru
 kxte.ru
+kz-wbwh.tech
 kzgroup.ru
 kzmayak.ru
 la2rm.ru
@@ -2915,8 +2916,10 @@ rustore.ru
 rustore.team
 rustore.tv
 rvc.ru
+rwb-corp.com
 rwb.ru
 rwbautomation.ru
+rwbautomation.tech
 rwbgeo.ru
 rwbp.ru
 ryazanszn.ru
@@ -4034,6 +4037,7 @@ wb-basket.ru
 wb-cloud.ru
 wb.ru
 wbautomation.ru
+wbautomation.tech
 wbbasket.ru
 wbcontent.ru
 wbdaily.ru
@@ -4051,6 +4055,7 @@ wbplattech.ru
 wbrep.ru
 wbschool.ru
 wbsmart.ru
+wbstatic.net
 wbstatic.ru
 wbwh.ru
 wealthim.ru
@@ -4064,10 +4069,14 @@ werlock.ru
 westcall.cloud
 westcall.net
 whitei.net
+wibes.com
 wibes.ru
 widgetecom.ru
 wifi.ru
 wifiradar.ru
+wildberries.at
+wildberries.be
+wildberries.global
 wildberries.moscow
 wildberries.ru
 wildberries.su
