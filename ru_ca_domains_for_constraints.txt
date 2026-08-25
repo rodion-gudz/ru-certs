@@ -286,6 +286,7 @@ aslife.ru
 asntl.ru
 aspcom.ru
 asseta-am.ru
+ast-innovation.ru
 ast-ins.ru
 astais.ru
 astcsm.ru
@@ -1137,6 +1138,7 @@ freepascal.ru
 freetato.ru
 freshstartme.ru
 frmrus.ru
+frprf.ru
 frsd.ru
 fsev.tech
 fsg.ru
@@ -1144,6 +1146,7 @@ fsnsamara.ru
 fss.ru
 fstec.ru
 fsvps.ru
+ft-crypto.ru
 ftoroplast4.ru
 fuckoff.site
 fuelup.ru
@@ -1212,6 +1215,7 @@ geovestnik.ru
 gersains.ru
 gerzel.ru
 gesbt.ru
+getcourse.ru
 getfinance.ru
 gethalva.ru
 getmuseum.ru
@@ -1492,6 +1496,7 @@ ingo.ru
 ingo360.ru
 ingoauto.ru
 ingobank.ru
+ingobroker.ru
 ingopro.ru
 ingos.ru
 ingosinvest-am.ru
@@ -1506,6 +1511,7 @@ insales.ru
 insideok.ru
 insignitus.ru
 inspector-cloud.ru
+instamart.ru
 instant-pay.ru
 integ32.ru
 integriks.ru
@@ -1693,6 +1699,7 @@ komtet.ru
 komzrt.ru
 konfs.ru
 konkrs.ru
+konsierge.com
 kontur.ru
 konus.group
 kopss43.ru
@@ -2406,6 +2413,7 @@ onego.ru
 oneliya.ru
 onelya.ru
 oneme.ru
+oneplacecollection.online
 onixt.ru
 onkolog24.ru
 onlime.ru
@@ -2453,6 +2461,7 @@ osgrm.ru
 ospos.dev
 ospos.ru
 osu.ru
+otais.ru
 otello.ru
 othoro.ru
 otpbank.ru
@@ -3004,6 +3013,7 @@ samregion.ru
 samspace.ru
 sapod.ru
 saratovenergo.ru
+sasco.ru
 satel.org
 saturn-kuban.ru
 savebee.ru
@@ -3083,6 +3093,7 @@ sberleasing.ru
 sberlegal.ru
 sberlive.ru
 sberlogistics.ru
+sbermarket.tech
 sbermed.ai
 sbermegamarket.ru
 sbermobile.ru

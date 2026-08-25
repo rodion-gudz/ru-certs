@@ -716,6 +716,7 @@
 *.connect.ru
 *.connector.kubankredit.ru
 *.connector.kubcred.ru
+*.consultant.ru
 *.consultantdv.ru
 *.content-flow.vk.team
 *.contrada-capital.ru
@@ -771,6 +772,7 @@
 *.css.rzd.ru
 *.cti-connect.wb.ru
 *.cti-platform.wb.ru
+*.cts1-test.ast-innovation.ru
 *.ctx.mts.ru
 *.cu.dzen.ru
 *.culture.gosuslugi.ru
@@ -1307,6 +1309,7 @@
 *.frmrus.ru
 *.frontend.agencycontrol.ru
 *.frontera.net.ru
+*.frprf.ru
 *.frsd.ru
 *.fsev.tech
 *.fsnsamara.ru
@@ -1314,6 +1317,7 @@
 *.fstec.ru
 *.fsvps.gov.ru
 *.fsvps.ru
+*.ft-crypto.ru
 *.ft.vk.com
 *.fugovp.ru
 *.function.mil.ru
@@ -1374,6 +1378,7 @@
 *.geotron.spacecorp.ru
 *.gesbt.ru
 *.get.ruitb.ru
+*.getcourse.ru
 *.getfinance.ru
 *.getmuseum.ru
 *.getukk.ru
@@ -1687,6 +1692,7 @@
 *.insideok.ru
 *.inspector-cloud.ru
 *.inspector.gosuslugi.ru
+*.instamart.ru
 *.instana.obs.mts.ru
 *.instant-pay.ru
 *.int.lk-b2b.mts.ru
@@ -2582,6 +2588,7 @@
 *.oneliya.ru
 *.onelya.ru
 *.oneme.ru
+*.oneplacecollection.online
 *.online-express.ru
 *.online.bankstavr.ru
 *.online.gazprombank.ru
@@ -3320,6 +3327,7 @@
 *.sandbox.sbertech.ru
 *.sapod.ru
 *.saratovenergo.ru
+*.sasco.ru
 *.satel.org
 *.sats.spb.ru
 *.saturn-kuban.ru
@@ -3358,6 +3366,7 @@
 *.sberintegro.ru
 *.sberleasing.ru
 *.sberlogistics.ru
+*.sbermarket.tech
 *.sbermed.ai
 *.sbermegamarket.ru
 *.sbermobile.ru
@@ -5237,6 +5246,7 @@ alis.vacr.vtb.ru
 alko.aoapz.ru
 allinpower.ru
 alljava.ru
+allo.tochka.com
 allure.cloud.ru
 almazova.21-school.ru
 alpha-class365.ru
@@ -5543,6 +5553,7 @@ api.test-adaptation.rt.ru
 api.testpsb.pvcd.ru
 api.thotels.ru
 api.tinkoff.ai
+api.tochka.com
 api.tourbytrain.com
 api.tvoyodbo.online
 api.udms.kion.ru
@@ -7344,6 +7355,7 @@ clientrix.cplsb.ru
 climamos.ru
 clinped.pro
 clm.mtsbank.ru
+cloud-antiddos.megafon.ru
 cloud-edu.1c.ru
 cloud.10.rospotrebnadzor.ru
 cloud.21-school.ru
@@ -7511,6 +7523,7 @@ console.demo3.hycl.ru
 console.minio.cyberkoala.ru
 console.s3-2.cyberkoala.ru
 consul.portal.vk.team
+consultant.ru
 consultantdv.ru
 consumer-operations.alfabank.ru
 contacts.r7.ncsp.ru
@@ -7777,6 +7790,8 @@ cts-back-t-cl.msg.gpb.ru
 cts.aaacapital.ru
 cts.domrf.online
 cts.domrfbank.ru
+cts1-test.ast-innovation.ru
+cts2-test.ast-innovation.ru
 cts2.domrf.online
 ctst-cnv-app02.sberins.ru
 ctst-cnv-lb03.sberins.ru
@@ -8459,6 +8474,8 @@ dvmi.ru
 dvv1.ru
 dyn.tinkoff.ru
 dyna-vbo.as50464.net
+dynamika.pskb.com
+dynamika2.pskb.com
 dyurtyuli-m12.asudd.net
 dyurtyuli-vpu2-m12.asudd.net
 dyurtyuli1-m12.asudd.net
@@ -8747,6 +8764,7 @@ enrollme.plus
 enrollme.ru
 ens.mdm.ocs.ru
 ent.bcs.ru
+enter.tochka.com
 enter.unicredit.ru
 enterly.ru
 enterpriseregistration.alfastrah.ru
@@ -8847,6 +8865,7 @@ etp.interrao-orel.ru
 etpgaz.gazprombank.ru
 etpgp.rzd.ru
 etpz.ru
+ets-test.ast-innovation.ru
 ets.1c.ru
 ets.domrf.online
 ets.domrfbank.ru
@@ -9019,6 +9038,7 @@ factoring.mtsbank.ru
 factoring.psbank.ru
 factoring.rshb.ru
 factoring.ru
+factoring.sinara.ru
 fak.wb-bank.ru
 fakel-russia.com
 fakel-russia.ru
@@ -9255,6 +9275,7 @@ frontapi-test2.vtb.ru
 frontapi.vtb.ru
 frontera.net.ru
 frp.deltacredit.ru
+frprf.ru
 fs.mtsbank.ru
 fs.tch.ru
 fsev.tech
@@ -9263,6 +9284,7 @@ fsmtest.sberbank-service.ru
 fsnsamara.ru
 fstec.gov.ru
 fstec.ru
+ft-crypto.ru
 ft.vk.com
 ft3-certificates-epsilon-mpl-api-ext.g4lab.com
 ft3-certificates-tlm-weblk-ext.g4lab.com
@@ -9380,6 +9402,7 @@ gd.rtksp.ru
 gdkbsmp.mznso.ru
 gdou14spb.ru
 gds.krao.ru
+gdsvostok.ru
 gebank.ru
 geckon01.ru
 gelstompol.ru
@@ -9418,6 +9441,7 @@ gerzel.ru
 gesbt.ru
 get.ruitb.ru
 get.skbfinance.ru
+getcourse.ru
 getfinance.ru
 gethalva.ru
 getmuseum.ru
@@ -9582,6 +9606,7 @@ gost-os.ru
 gost.bstrv.ru
 gost.codifast.ru
 gost.nkrapivindev.ru
+gost.otais.ru
 gostelekom.ru
 gostorgi.tverreg.ru
 gostpki.vtb.ru
@@ -9942,6 +9967,7 @@ hr.ocs.ru
 hr.sber.pro
 hr.sber.ru
 hr.sberbank.ru
+hr.tochka.com
 hr.vk.team
 hradmin.sbercity.ru
 hrbot.pskb.com
@@ -9993,6 +10019,7 @@ i2t-doc.abr.ru
 i2t.abr.ru
 iac.spb.ru
 iam.ads.sber.ru
+iamx.tochka.com
 iap.nso.ru
 iapp.sberins.sber.ru
 ias-adm.spasibobonus.ru
@@ -10412,6 +10439,7 @@ ingo.ru
 ingo360.ru
 ingoauto.ru
 ingobank.ru
+ingobroker.ru
 ingopro.ru
 ingos.ru
 ingosinvest-am.ru
@@ -10991,6 +11019,7 @@ komtet.ru
 komzrt.ru
 konfs.ru
 konkrs.ru
+konsierge.com
 kontragent.magnit.ru
 kopss43.ru
 koriphey-beta.sberclass.ru
@@ -11068,6 +11097,7 @@ kubankredit.ru
 kubcred.ru
 kubusiness.mkb.ru
 kubzan.ru
+kuc-vankor.rosneft.ru
 kuizo.ru
 kulsmi.ru
 kultura.press
@@ -11367,6 +11397,7 @@ lkp.tppsandbox.nspk.ru
 lkpreprod.psbank.ru
 lkptest.a-rnr.ru
 lkptest2.a-rnr.ru
+lkr.pskb.com
 lkr.sinara-finance.ru
 lkt.tatenergo.ru
 lktroika.ru
@@ -11749,6 +11780,7 @@ mail.esia-p.centrinvest.ru
 mail.esia.centrinvest.ru
 mail.evateam.sovcombank.ru
 mail.express-bank.ru
+mail.factoring.sinara.ru
 mail.fakel-russia.com
 mail.fakel-russia.ru
 mail.ffoms.gov.ru
@@ -13466,6 +13498,7 @@ oneheart.sber.pro
 oneliya.ru
 onelya.ru
 oneme.ru
+oneplacecollection.online
 onetime.mws.ru
 onlc.alfabank.ru
 online-alpha.vtb.ru
@@ -15769,6 +15802,7 @@ sappms.sbercity.ru
 sappss.sbercity.ru
 saratov-npz.rosneft.ru
 saratov.gov.ru
+sasco.ru
 satel.org
 sats.spb.ru
 saturn-kuban.ru
@@ -16411,6 +16445,7 @@ site-2d-atrd.aaacapital.ru
 site-2d-trxz.aaacapital.ru
 site-2p-zzrx.aaacapital.ru
 site-2t-bzyd.aaacapital.ru
+site-api.centrinvest.ru
 site.bnpltests.ru
 sixth-m12.asudd.net
 sixth1-m12.asudd.net
@@ -17268,6 +17303,8 @@ sw.qtom.ru
 swimschool.moscow
 swtmedia.ru
 symptomcheker.ru
+synapse-test-kc.ast-innovation.ru
+synapse-test.ast-innovation.ru
 sync.rambler.ru
 synt.vacr.vtb.ru
 system.gkif.ru
@@ -19590,6 +19627,7 @@ www.company.pochtabank.ru
 www.compass.com.ru
 www.confluence.sovcombank.ru
 www.connect.ru
+www.consultant.ru
 www.copp78.ru
 www.corp.dbo.gazprombank.ru
 www.corp.domrfbank.ru
@@ -19747,6 +19785,8 @@ www.dtb1.ru
 www.dumadzr.ru
 www.dvbank.ru
 www.dvmi.ru
+www.dynamika.pskb.com
+www.dynamika2.pskb.com
 www.e-com.sberbusiness.live
 www.e-lk.pskb.com
 www.eaglecdn.com
@@ -19826,6 +19866,7 @@ www.faberlic.com
 www.faberlic.ru
 www.factoring.psbank.ru
 www.factoring.rshb.ru
+www.factoring.sinara.ru
 www.fakel-russia.com
 www.fakel-russia.ru
 www.fam-penza.pnzreg.ru
@@ -19874,6 +19915,7 @@ www.front.pochtabank.ru
 www.frontapi-dbokib.vtb.ru
 www.frontapi-test.vtb.ru
 www.frontera.net.ru
+www.frprf.ru
 www.frsd.ru
 www.fsnsamara.ru
 www.fstec.ru
@@ -19915,6 +19957,7 @@ www.geovestnik.ru
 www.geowfm.dv.rt.ru
 www.gersains.ru
 www.get.skbfinance.ru
+www.getcourse.ru
 www.getfinance.ru
 www.gethalva.ru
 www.gfs.gov.ru
@@ -20122,6 +20165,7 @@ www.informseti.ru
 www.infowatch.com
 www.infowatch.ru
 www.infteh.ru
+www.ingobroker.ru
 www.ingosinvest-am.ru
 www.ingosinvest.ru
 www.inist.ru
@@ -20273,6 +20317,7 @@ www.kuban-spnb.ru
 www.kubanfarm.ru
 www.kubank.ru
 www.kubankredit.ru
+www.kuc-vankor.rosneft.ru
 www.kuizo.ru
 www.kulsmi.ru
 www.kultura.press
@@ -20347,6 +20392,7 @@ www.lkk-usr-pp.transneft.ru
 www.lkk-usr.transneft.ru
 www.lkk.lenenergo.ru
 www.lkp.bspb.ru
+www.lkr.pskb.com
 www.lkr.sinara-finance.ru
 www.lmc.spasibosb.ru
 www.lms.tavolga.center
