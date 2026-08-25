@@ -1080,6 +1080,7 @@
 *.eeko.cgkipd.ru
 *.efadevelopment.ru
 *.efbank.ru
+*.efir.sber.ru
 *.egis.garo62.ru
 *.egisso.ru
 *.egisz.rosminzdrav.ru
@@ -2734,6 +2735,7 @@
 *.pk5-ckad.asudd.net
 *.pk5.asudd.net
 *.pk5n-ckad.asudd.net
+*.pkc.21-school.ru
 *.pkitrans.ru
 *.plait.ru
 *.planar-elements.ru
@@ -3442,6 +3444,7 @@
 *.sfo-veleta.ru
 *.sfr.gov.ru
 *.sfri.ru
+*.sgmu.21-school.ru
 *.shagp1.ru
 *.shagp2.ru
 *.shagym.ru
@@ -5551,6 +5554,7 @@ apk1.vtb.ru
 apkbank.ru
 apm.mtsbank.ru
 apmt.mtsbank.ru
+app-1c-prod.cplsb.ru
 app-3.safe-mobile.ru
 app-mic001.open.ru
 app-mobiron004.open.ru
@@ -7585,6 +7589,7 @@ cp.osgrm.ru
 cp.sberinsur.ru
 cp.sberlegal.ru
 cp.transneft.ru
+cpa.pobedapartners.ru
 cpc-police.madbum.ru
 cpex03.sberins.ru
 cpex04.sberins.ru
@@ -7691,6 +7696,7 @@ crm2t-n.aaacapital.ru
 crm2t.aaacapital.ru
 crmbpm.spasibosb.sigma.sbrf.ru
 cross-kpk.ru
+crossover.pay.sberbank.ru
 crpt.ru
 crptech.ru
 crrintegro.ru
@@ -14228,6 +14234,7 @@ pk4.asudd.net
 pk5-ckad.asudd.net
 pk5.asudd.net
 pk5n-ckad.asudd.net
+pkc.21-school.ru
 pkfoms.ru
 pkg.sbercloud.tech
 pki.akiselev.group
@@ -16186,6 +16193,7 @@ sftp-loyalty.koshelek.app
 sftp.crms-media.mts.ru
 sgateway.ozon.ru
 sgateway.ozonru.me
+sgmu.21-school.ru
 sgo-b2b1.vks.rshb.ru
 sgo-rkc-waplb.rshb.ru
 sgo-rkc-wmob.rshb.ru
@@ -16634,6 +16642,7 @@ sowa-api.integrationhub.npfsb.sber.ru
 sowa-api.integrationhub.sbernpf.ru
 sowa-api.integrationhub.sbernpf.sber.ru
 soz.megafon.ru
+sp-1c-app.spasibotest.ru
 sp-msk50-ise-psn2.net.gazprombank.ru
 sp-msk51-ise-psn2.net.gazprombank.ru
 sp.devices.sberbank.ru
@@ -20672,6 +20681,7 @@ www.pin.domrfbank.ru
 www.pionerka.ru
 www.pipeline-science.ru
 www.pirogov-vestnik.ru
+www.pkc.21-school.ru
 www.pkfoms.ru
 www.pki.alfastrah.ru
 www.pki.sovcombank.ru
@@ -21081,6 +21091,7 @@ www.sfera.pochtabank.ru
 www.sfera.ru
 www.sfri.ru
 www.sfsext.pochtabank.ru
+www.sgmu.21-school.ru
 www.shagym.ru
 www.shakhty-edu.ru
 www.shmr.ru
