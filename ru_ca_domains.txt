@@ -2551,6 +2551,7 @@
 *.ok.me
 *.ok.ru
 *.okapps.ru
+*.okbank.ru
 *.okbm.nnov.ru
 *.okbm.ru
 *.okbmei.ru
@@ -4167,6 +4168,7 @@
 *.uslugi.mosreg.ru
 *.usolie-sibirskoe.ru
 *.uss.2gis.com
+*.ussc.ru
 *.usvc.bcs.ru
 *.uszn-taganrog.ru
 *.usznkopeysk.ru
@@ -8737,6 +8739,7 @@ emp-lead.alfabank.ru
 emp-lk.alfabank.ru
 employee-app.magnit.ru
 employee-statements.api.jump.finance
+ems-mp.rt.ru
 ems.tander.ru
 en.bscbalt.ru
 en.ncagp.ru
@@ -9386,6 +9389,7 @@ gazpromexport.ru
 gazprompay.ru
 gazpromre.ru
 gazpromstroytek.ru
+gazpromviet.com
 gb3.mznso.ru
 gb4.mznso.ru
 gbo.gazprombank.ru
@@ -11676,6 +11680,7 @@ mail.47.rospotrebnadzor.ru
 mail.49.rospotrebnadzor.ru
 mail.52.rospotrebnadzor.ru
 mail.54.rospotrebnadzor.ru
+mail.60.rospotrebnadzor.ru
 mail.62.rospotrebnadzor.ru
 mail.79.rospotrebnadzor.ru
 mail.79cge.rospotrebnadzor.ru
@@ -15548,6 +15553,7 @@ rs-express.ru
 rs-portal.capitalbank.ru
 rs.ru
 rsb.ru
+rsexpress.ru
 rsfbc.ru
 rshb-am.ru
 rshb-ins.ru
@@ -16838,6 +16844,7 @@ speech.nx.s2b.tech
 speechpro.com
 speechpro.ru
 speed.kk.bank
+speedtest.rt.ru
 speedtest.ru
 speedtest.tricolor.ru
 sper54.nso.ru
@@ -18276,6 +18283,7 @@ uslugi.mosreg.ru
 usolie-sibirskoe.ru
 uspn-kosh-agach.ru
 uss.2gis.com
+ussc.ru
 ustcrb.mznso.ru
 usup.client.sbertech.ru
 usvc.bcs.ru
@@ -19211,6 +19219,7 @@ www.49.rospotrebnadzor.ru
 www.52.rospotrebnadzor.ru
 www.54.rospotrebnadzor.ru
 www.56.rospotrebnadzor.ru
+www.60.rospotrebnadzor.ru
 www.61.rospotrebnadzor.ru
 www.62.rospotrebnadzor.ru
 www.65.rospotrebnadzor.ru
@@ -21604,6 +21613,7 @@ www.urt-taxr-app1.sovcombank.group
 www.user.alfa-plata.alfastrah.ru
 www.usla.ru
 www.usolie-sibirskoe.ru
+www.ussc.ru
 www.usvc.bcs.ru
 www.usznkopeysk.ru
 www.utable.ru
