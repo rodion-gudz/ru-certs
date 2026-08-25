@@ -361,6 +361,7 @@ baikalcredobank.ru
 baikalinc.ru
 balaes.ru
 balakovo-bank.ru
+balance-ins.ru
 balance39.ru
 balans2.ru
 baltinfocom.ru
@@ -1017,6 +1018,7 @@ eulerhermes.ru
 eulher.ru
 eurasian-bank.ru
 euroalliance.ru
+ev.group
 everialife.ru
 evgrp.ru
 evome.ru
@@ -1620,6 +1622,7 @@ kazgau.ru
 kb-71.ru
 kb-mvsbank.ru
 kb51.ru
+kbagora.ru
 kbb.ru
 kbhmb.ru
 kbptula.ru
@@ -3259,6 +3262,7 @@ smart-cap.ru
 smartagent.online
 smartbuys.ru
 smartdev.ru
+smartproektsystems.ru
 smartro.ru
 smarttravel.ru
 smartway.today
@@ -4038,6 +4042,7 @@ vtbreg.ru
 vtbrussia.ru
 vtbsd.com
 vtbsd.ru
+vtbtoken.ru
 vtkbank.ru
 vyksa-culture.ru
 vympel-rybinsk.ru
