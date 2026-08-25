@@ -203,6 +203,7 @@
 *.altastroy-nn.ru
 *.altermodus.ru
 *.altspu.ru
+*.altynbank.com
 *.alzoro.ru
 *.am.ozon.com
 *.am.ru
@@ -260,7 +261,9 @@
 *.app.mvk.com
 *.app.workspace.vk.ru
 *.apps.k8s-dev.lan.ubrr.ru
+*.apps.k8s-infra.lan.ubrr.ru
 *.apps.k8s-predp.lan.ubrr.ru
+*.apps.k8s-prod.lan.ubrr.ru
 *.apps.k8s-test.lan.ubrr.ru
 *.appsec.onecld.ru
 *.appsgeotron.spacecorp.ru
@@ -718,6 +721,7 @@
 *.contrada-capital.ru
 *.control-plane.vk.team
 *.copilot.vk.team
+*.copp78.ru
 *.corp.fgup-ohrana.ru
 *.corp.geoscan.ru
 *.corp.lukoil.com
@@ -760,6 +764,7 @@
 *.cska.old.mil.ru
 *.csnp.cea.gov.ru
 *.cson.stv.socinfo.ru
+*.csonkr.ru
 *.csp-ugra.ru
 *.csr-spb.ru
 *.css-rzd.ru
@@ -774,6 +779,7 @@
 *.cyberprotect.ru
 *.czn47.ru
 *.d-technologies.ru
+*.d2insur.ru
 *.da-cpu.asudd.net
 *.da-pvp.asudd.net
 *.dagmintrud.ru
@@ -1128,6 +1134,7 @@
 *.endowments.ru
 *.energetik13.ru
 *.energobank.ru
+*.energosales.ru
 *.energotransbank.com
 *.energy-tracker.ru
 *.enforta.com
@@ -1253,6 +1260,7 @@
 *.finops.vk.ru
 *.finorma.ru
 *.fins.money
+*.finsb.ru
 *.finstarbank.ru
 *.fintarget.ru
 *.fintech.vk.com
@@ -1364,6 +1372,7 @@
 *.geoportal40.ru
 *.geoscan.ru
 *.geotron.spacecorp.ru
+*.gesbt.ru
 *.get.ruitb.ru
 *.getfinance.ru
 *.getmuseum.ru
@@ -1378,6 +1387,7 @@
 *.gid.vk.com
 *.giga.chat
 *.gigahub.sberdevices.ru
+*.gilenko.ru
 *.ginras.ru
 *.gipsr.ru
 *.girc.spb.ru
@@ -1523,6 +1533,7 @@
 *.hifi-zvuk.ru
 *.hightracker.pro
 *.hill5.ru
+*.himic.ru
 *.hippoparking.ru
 *.hiteknsk.ru
 *.hitfm.ru
@@ -1826,6 +1837,7 @@
 *.kino.mail.ru
 *.kinokurort.ru
 *.kion.ru
+*.kion.stroki.ru
 *.kionstroki.ru
 *.kk.ru
 *.kkbmk.ru
@@ -1878,6 +1890,7 @@
 *.ksp-tmr.ru
 *.ksp74.ru
 *.kspbr.ru
+*.kspbratsk.ru
 *.ksrf.ru
 *.kst-energo.ru
 *.kszn34.ru
@@ -2037,6 +2050,7 @@
 *.mag.21-school.ru
 *.mag1c.ru
 *.magnit.ru
+*.mai.ru
 *.mail-king.ru
 *.mail.artyums.ru
 *.mail.brok.tech
@@ -3742,6 +3756,7 @@
 *.strelkacard.ru
 *.stroki.kion.ru
 *.stroki.mts.ru
+*.stroki.ru
 *.strokikion.ru
 *.stroytransgaz.com
 *.stroytransgaz.ru
@@ -4929,6 +4944,7 @@ acs2.aversbank.ru
 acs2.bspb.ru
 acs2.ccb.ru
 acs2.gazprombank.ru
+acs2.rs.ru
 acs2.sbrf.ru
 acs3.sbrf.ru
 acs4.sbrf.ru
@@ -5239,6 +5255,7 @@ altaigov.ru
 altastroy-nn.ru
 altermodus.ru
 altspu.ru
+altynbank.com
 alupka-art.ru
 alzoro.ru
 am-infinity.ru
@@ -7510,6 +7527,7 @@ control-plane.vk.team
 control-ul.ingobank.ru
 conversion.psbank.ru
 copilot.vk.team
+copp78.ru
 core-logistic-orders.ext-proxy.prod.yandex-bank.net
 core-sbol.chastyami.shop
 core.konus.group
@@ -7739,6 +7757,7 @@ cscampus.ru
 csnp.cea.gov.ru
 cson-stepnoe.stv.socinfo.ru
 cson.stv.socinfo.ru
+csonkr.ru
 csp-ugra.ru
 csr-spb.ru
 csradar.sberbank.ru
@@ -7819,6 +7838,7 @@ d-starosfw-tvmanagement-adv-msk01.sberdevices.ru
 d-technologies.ru
 d.atstpay.pro
 d.gis-sc.krasnodar.ru
+d2insur.ru
 d71.ru
 da-cpu.asudd.net
 da-pvp.asudd.net
@@ -8712,6 +8732,7 @@ endocrincentr.ru
 endowments.ru
 energetik13.ru
 energobank.ru
+energosales.ru
 energotransbank.com
 energy-tracker.ru
 enforta.com
@@ -8744,6 +8765,7 @@ epa-ibsmb-ift.vtb.ru
 epa-ift-sbp.vtb.ru
 epa-ift.vtb.ru
 epa-rr-sbp.vtb.ru
+epa-rr.vtb.ru
 epaa-dmz-inetpubcs-lb.vtb.ru
 epay.sberbank.ru
 epc.akbars.ru
@@ -9110,6 +9132,7 @@ finops.vk.ru
 finorma.ru
 finplace.absolutbank.ru
 fins.money
+finsb.ru
 finstarbank.ru
 fintarget.ru
 fintech.vk.com
@@ -9392,6 +9415,7 @@ geowfm.dv.rt.ru
 gerrit.rnd.dev.sberdevices.ru
 gersains.ru
 gerzel.ru
+gesbt.ru
 get.ruitb.ru
 get.skbfinance.ru
 getfinance.ru
@@ -9433,6 +9457,7 @@ gigaintelligence-dev.eye.salute.ru
 gigaintelligence.eye.salute.ru
 gigalegal.sber.ru
 gigalegal.sberbank.ru
+gilenko.ru
 gilkom-complex.ru
 ginras.ru
 giotek.ru
@@ -9564,6 +9589,7 @@ gosuslugi.ru
 gosuslugi74.ru
 goszakaz44.e-mordovia.ru
 gov-murman.ru
+gov.edwardcode.net
 gov.spb.ru
 gov45.ru
 govirk.ru
@@ -9845,6 +9871,7 @@ hichief.ru
 hifi-zvuk.ru
 hightracker.pro
 hill5.ru
+himic.ru
 hippoparking.ru
 hishef.ru
 history.rosseti-lenenergo.ru
@@ -10015,6 +10042,7 @@ ibank.kremlinbank.ru
 ibank.mcbank.ru
 ibank.nskbl.ru
 ibank.otpbank.ru
+ibank.procommercebank.ru
 ibank.profitbank.ru
 ibank.rsb.ru
 ibank.rusnarbank.ru
@@ -11026,6 +11054,7 @@ ksp-tmr.ru
 ksp34.ru
 ksp74.ru
 kspbr.ru
+kspbratsk.ru
 kspstav.ru
 ksrf.ru
 ksroddom.ru
@@ -11585,6 +11614,7 @@ magnitlab.ru
 magnitpay.ru
 magnum.magnit.ru
 mahjong.spasibosb.ru
+mai.ru
 mail-01.mkb-invest.ru
 mail-02.mkb-invest.ru
 mail-gate.roscap.com
@@ -12229,6 +12259,7 @@ mcx.ru
 mcxrk.ru
 md-audit.alfabank.ru
 md-demo.knd.gov.ru
+md.azbykait.ru
 mdb-testing.one-infra.ru
 mdb.one-infra.ru
 mdb.vk.team
@@ -13014,12 +13045,14 @@ nc.xmes.ru
 nca-check.easycert.sberbank.ru
 nca-tender.rosneft.ru
 ncagp.ru
+ncc-web.psbank.ru
 nccb.ru
 ncrb.mznso.ru
 ncs.ru
 ncsgp.ru
 ncsp.ru
 ndbo-auth.mkb.ru
+ndr.ubrr.ru
 neansk.ru
 need-post.ru
 neg-it.ru
@@ -17119,6 +17152,7 @@ strelkapay.ru
 stroi.domrfbank.ru
 stroki.kion.ru
 stroki.mts.ru
+stroki.ru
 strokikion.ru
 stroytransgaz.com
 stroytransgaz.ru
@@ -17211,6 +17245,7 @@ svm.psb.services
 svm24.ru
 svmdev.ru
 svmspb.ru
+svns.baltlng.ru
 svoe-rodnoe.ru
 svoe-selo.ru
 svoe-shef.ru
@@ -17564,6 +17599,7 @@ test.hr.sberbank.ru
 test.ipfran.ru
 test.isogd.mosreg.ru
 test.kbo.aisubp.mos.ru
+test.krastsvetmet.ru
 test.mdeng.ru
 test.mdrive.magnit.ru
 test.mgtlogistic.ru
@@ -18434,6 +18470,7 @@ vitrinadp.sber.ru
 vk-alma.speechpro.com
 vk-apps.com
 vk-apps.ru
+vk-terminal.ru
 vk-video.production.vklanding.ru
 vk.cc
 vk.click
@@ -19553,6 +19590,7 @@ www.company.pochtabank.ru
 www.compass.com.ru
 www.confluence.sovcombank.ru
 www.connect.ru
+www.copp78.ru
 www.corp.dbo.gazprombank.ru
 www.corp.domrfbank.ru
 www.corpactions.ru
@@ -19593,6 +19631,7 @@ www.crmbpm.spasibosb.sigma.sbrf.ru
 www.cryptoarm.ru
 www.cryptoauth.gebank.ru
 www.cscampus.ru
+www.csonkr.ru
 www.csp-ugra.ru
 www.csr-spb.ru
 www.csradar.sberbank.ru
@@ -19756,6 +19795,7 @@ www.epa-ibsmb-ift.vtb.ru
 www.epa-ift-sbp.vtb.ru
 www.epa-ift.vtb.ru
 www.epa-rr-sbp.vtb.ru
+www.epa-rr.vtb.ru
 www.epgw.alfastrah.ru
 www.eq.domrfbank.ru
 www.erc-rt.ru
@@ -20227,6 +20267,7 @@ www.kskkaluga.ru
 www.ksp-tmr.ru
 www.ksp34.ru
 www.ksp74.ru
+www.kspbratsk.ru
 www.ksrf.ru
 www.kuban-spnb.ru
 www.kubanfarm.ru
@@ -21488,6 +21529,7 @@ www.ulminfin.ru
 www.uln-ix.ru
 www.uloblkazna.ru
 www.umail.ru
+www.umius.ru
 www.umpgku.ru
 www.uni.omk.ru
 www.unicredit.ru
