@@ -39,6 +39,7 @@
 2gis.ru
 2gkb.ru
 2w.ru
+38fbuz.ru
 41fbuz.ru
 47764.net
 47lokb.ru
@@ -399,6 +400,7 @@ bara-capy.site
 barbershops.me
 barnaultransmash.ru
 bars.group
+bashesk.ru
 bashneft-azs.ru
 bashneft.com
 bashneft.ru
@@ -727,6 +729,7 @@ data-tscbank.ru
 databank.ru
 datacloudmail.ru
 datamind.ru
+davay-delit.ru
 db.vtb
 dbo-dengi.online
 dbo-zemcombank.ru
@@ -1615,6 +1618,8 @@ kartahalva.ru
 karthalva.ru
 kartomarket.ru
 kartoteka.ru
+kaspersky-labs.com
+kaspersky.com
 kaspersky.ru
 katantsev.ru
 kav-crb.ru
@@ -2356,6 +2361,7 @@ okko.sport
 okko.tv
 okl.lt
 oklive.app
+okn08.ru
 okna-leningrad.ru
 oktech.ru
 oktima.ru
@@ -2436,6 +2442,7 @@ osu.ru
 otello.ru
 othoro.ru
 otpbank.ru
+otpfinance.ru
 oviont.ru
 ozerskadm.ru
 ozmm-so.ru
@@ -2866,6 +2873,7 @@ rrb.ru
 rrbank.ru
 rrc-altay.ru
 rrcards.ru
+rrcentre.ru
 rrtp.ru
 rs-express.ru
 rs.ru

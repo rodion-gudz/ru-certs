@@ -93,6 +93,8 @@
 *.adfs.magnit.ru
 *.adguard.artyums.ru
 *.adm.nov.ru
+*.adm2.dev.rm.mosreg.ru
+*.adm2.stage.rm.mosreg.ru
 *.admbg.org
 *.admbg.ru
 *.admblag.ru
@@ -418,6 +420,7 @@
 *.barnaultransmash.ru
 *.bars.group
 *.base-beta.moex.com
+*.bashesk.ru
 *.bashneft-azs.ru
 *.bashneft.ru
 *.basseiny.online
@@ -837,6 +840,7 @@
 *.dev.ad-tech.ru
 *.dev.ai.mosreg.ru
 *.dev.aiplatform.mosreg.ru
+*.dev.aismz.mosreg.ru
 *.dev.aisubp.mos.ru
 *.dev.akbars.ru
 *.dev.app.giga.chat
@@ -879,6 +883,7 @@
 *.dev2.nspd.rosreestr.gov.ru
 *.dev3.atm72.ru
 *.dev39.rustore.devmail.ru
+*.develop.issd.mosreg.ru
 *.developers.gazprombank.ru
 *.devices.sberbank.ru
 *.devicestest.sberbank.ru
@@ -1786,6 +1791,8 @@
 *.kartoteka.ru
 *.kascloud.onprem.ru
 *.kasmail.onprem.ru
+*.kaspersky-labs.com
+*.kaspersky.com
 *.kaspersky.ru
 *.kassa.rambler.ru
 *.kav-crb.ru
@@ -3174,6 +3181,7 @@
 *.rr.ru
 *.rrb.ru
 *.rrbank.ru
+*.rrcentre.ru
 *.rrtp.ru
 *.rs.ru
 *.rsb.ru
@@ -4732,6 +4740,7 @@
 35.rospotrebnadzor.ru
 3569259-oo26855.twc1.net
 360.bolzen.pro
+38fbuz.ru
 39.rospotrebnadzor.ru
 3ds-tst.ingobank.ru
 3ds.bank.yandex.ru
@@ -4975,6 +4984,8 @@ adm-syzran.ru
 adm.key.rt.ru
 adm.nov.ru
 adm.syzran.ru
+adm2.dev.rm.mosreg.ru
+adm2.stage.rm.mosreg.ru
 admbg.org
 admbg.ru
 admblag.ru
@@ -7425,6 +7436,8 @@ collab-edge.sberbank.ru
 collab-edge.uralsib.ru
 collab-edge.voiplab-ext.sberbank.ru
 collect-api.activebc.ru
+collector.gmonit.otpbank.ru
+collector.test-gmonit.otpbank.ru
 colnago.ru
 comba.mail.ru
 combo.mail.ru
@@ -7577,7 +7590,9 @@ cosmos-bank.ru
 cosmos.mfk-bank.ru
 cost-price-api.ocs.ru
 counter.rambler.ru
+courier-test.otpbank.ru
 courier.magnit.ru
+courier.otpbank.ru
 couriers.magnit.ru
 course.life.akbars.ru
 cowork.ru
@@ -7669,6 +7684,7 @@ creator.sberbank.ru
 credistory.ru
 credit.iturupbank.ru
 credit.lk.psb.services
+credit.otpbank.ru
 credit.pskb.com
 creditcalc.toyotafs.ru
 crediteurope.ru
@@ -7837,6 +7853,7 @@ datamind.ru
 dataroom.ncsp.com
 datatalks.rt.ru
 dating.rambler.ru
+davay-delit.ru
 db.argds.ru
 db.ertelecom.ru
 db.vtb.ru
@@ -7912,6 +7929,7 @@ decosystems.ru
 defense.insure
 degps.mos.ru
 deletron.ru
+delivery-test.otpbank.ru
 delivery.otpbank.ru
 delivery.ru
 delo.admkonda.ru
@@ -8000,6 +8018,7 @@ dev.ad-tech.ru
 dev.ai.mosreg.ru
 dev.aiplatform.mosreg.ru
 dev.airflow-gigastorm.eye.salute.ru
+dev.aismz.mosreg.ru
 dev.aisubp.mos.ru
 dev.akbars.ru
 dev.apps.mosreg.ru
@@ -8047,6 +8066,7 @@ dev5e.webquik-test.sberbank.ru
 dev5i.webquik-test.sberbank.ru
 develop-com.ci.k8ng.alfa.link
 develop.ci.k8ng.alfa.link
+develop.issd.mosreg.ru
 developer.1c.ru
 developer.deltacredit.ru
 developer.domapi.domrf.ru
@@ -8302,11 +8322,13 @@ dolyami.com
 dolyami.ru
 dom-otmostka.ru
 dom.mail.ru
+dom.mts.ru
 dom.ru
 domapi.domrf.ru
 domapi.domrfbank.ru
 domclick.ru
 domenvironmental.rambler.ru
+domino.otpbank.ru
 domlenta.ru
 domres.ru
 domrf-am.ru
@@ -8477,6 +8499,7 @@ ecology.megafon.ru
 ecom-api.magnit.ru
 ecom-bank.ozon.ru
 ecom-plus.ru
+ecom-tst.otpbank.ru
 ecom.akbars.ru
 ecom.alfabank.ru
 ecom.md.magnit.ru
@@ -8665,6 +8688,8 @@ emb.ru
 emexglobal.time-messenger.ru
 emias.mosreg.ru
 emm.s7corp.ru
+emmds.otpbank.ru
+emmseg.otpbank.ru
 emoji.tinkoffjournal.ru
 emp-anketa.alfabank.ru
 emp-lead.alfabank.ru
@@ -8882,6 +8907,7 @@ exp-edge46.gazprombank.ru
 exp-edge5.gazprombank.ru
 exp-edge6.gazprombank.ru
 exp-space.ru
+exp.tvdb.mts.ru
 exp1.aaacapital.ru
 exp1.msg.gpb.ru
 exp20.msg.gpb.ru
@@ -10777,6 +10803,8 @@ kas.bspb.ru
 kascloud.onprem.ru
 kasko.vtb.ru
 kasmail.onprem.ru
+kaspersky-labs.com
+kaspersky.com
 kaspersky.ru
 kassa.bifit.ru
 kassa.moneta.ru
@@ -11241,6 +11269,7 @@ lk.kvartplata.info
 lk.mco-panacea.ru
 lk.megafon.ru
 lk.mkb.ru
+lk.mts.ru
 lk.myonlinetips.ru
 lk.mysbertips.ru
 lk.noosferabank.ru
@@ -11249,6 +11278,7 @@ lk.ogk2.ru
 lk.omsomsk.ru
 lk.open-broker.ru
 lk.otello.2gis.ru
+lk.otpfinance.ru
 lk.prostobank.online
 lk.psb.services
 lk.rc-kraisneft.ru
@@ -11894,6 +11924,7 @@ mail.rostfinance.ru
 mail.rostov-gorod.info
 mail.rpnrb.ufanet.ru
 mail.rrc-altay.ru
+mail.rrcentre.ru
 mail.rsb.ru
 mail.rtlog.ru
 mail.ru
@@ -13335,6 +13366,7 @@ okko-crm.sber.ru
 okko-openid.sber.ru
 okl.lt
 oklive.app
+okn08.ru
 okna-leningrad.ru
 oko.mkb.ru
 oktech.ru
@@ -13606,6 +13638,7 @@ othoro.ru
 otp.sberbank.ru
 otpbank.ru
 otpbank.time-messenger.ru
+otpfinance.ru
 otpravka.pochta.ru
 otpssd-yc-foreman.srv-hub.org
 otpssd-yc-kafka.srv-hub.org
@@ -15437,6 +15470,7 @@ rrapic-dmz-front-ibsmb-lb.inet.vtb
 rrb.ru
 rrbank.ru
 rrc-altay.ru
+rrcentre.ru
 rrsweb.tch.ru
 rrtp.ru
 rs-express.ru
@@ -15949,6 +15983,7 @@ sch435.ru
 sch435.spb.ru
 school-134.ru
 school-24.tagan.ru
+school-demo.olabank.ru
 school-orphan.ru
 school.ncagp.ru
 school12-61.ru
@@ -16415,6 +16450,7 @@ smartbuys.ru
 smartdev.ru
 smartfin-preprod.mkb.ru
 smartfin.mkb.ru
+smarthome.mts.ru
 smarthome.rt.ru
 smarthome.tricolor.ru
 smartmarket.sber.ru
@@ -16976,6 +17012,7 @@ static.hr-ift.sberbank.ru
 static.hr-qa.sberbank.ru
 static.hr-uat.sberbank.ru
 static.kion.ru
+static.mts.ru
 static.mtsbank.ru
 static.novikom.ru
 static.prelive.alfabank.ru
@@ -17104,6 +17141,7 @@ study.vk.team
 stuff-services.cardsmobile.ru
 stv-dealer.mts.ru
 stv-eshop.mts.ru
+stv.mts.ru
 stw.21-school.ru
 subscribe.info.sberbank.ru
 subscriptions-grpc.key.rt.ru
@@ -17695,6 +17733,7 @@ tigersoft.ru
 tiles.maps.devvk.team
 tiles.maps.mail.ru
 tiles.maps.vk.com
+tiles.mts.ru
 tim-crb.ru
 time-messenger.ru
 time-mobile.v1.market
@@ -19072,6 +19111,7 @@ www.25let.omk.ru
 www.2w.ru
 www.30let.omk.ru
 www.35.rospotrebnadzor.ru
+www.38fbuz.ru
 www.39.rospotrebnadzor.ru
 www.3ds.domrfbank.ru
 www.3ds.gazprombank.ru
@@ -19541,6 +19581,7 @@ www.cpl-ubc-psi.sigma.sbrf.ru
 www.cplsb.ru
 www.cposo.org
 www.crbkurg.ru
+www.credit.otpbank.ru
 www.credit.pskb.com
 www.credits-stage.domrfbank.ru
 www.credits.domrfbank.ru
@@ -19638,7 +19679,9 @@ www.dobroskb.ru
 www.docs-test.sovcombank.ru
 www.docs.sovcombank.ru
 www.doctor30.ru
+www.dom.mts.ru
 www.domclick.ru
+www.domino.otpbank.ru
 www.domrf-am.ru
 www.domrf.com
 www.domrf.ru
@@ -19676,6 +19719,7 @@ www.ecar-airbus.ru
 www.ecdn.sovcombank.ru
 www.echo.omk.ru
 www.ecocat.biz
+www.ecom-tst.otpbank.ru
 www.ecom.otpbank.ru
 www.ecoturcentr.ru
 www.ecpk-mon.sibintek.ru
@@ -19728,6 +19772,7 @@ www.events.sberbusiness.live
 www.evrofinance.ru
 www.ews.akbars.ru
 www.exolve.ru
+www.exp.tvdb.mts.ru
 www.exp20.msg.gpb.ru
 www.expobank.ru
 www.express-bank.ru
@@ -20249,6 +20294,7 @@ www.lk-penza.pnzreg.ru
 www.lk.admsvtl.ru
 www.lk.ismet.sovcomlife.ru
 www.lk.mco-panacea.ru
+www.lk.mts.ru
 www.lk.noosferabank.ru
 www.lk.omsomsk.ru
 www.lk.sinara-finance.ru
@@ -20615,6 +20661,7 @@ www.osago.sberbank.ru
 www.osago.vtb.ru
 www.osgrm.ru
 www.otpbank.ru
+www.otpfinance.ru
 www.owa.mtsbank.ru
 www.owi.spasibobonus.ru
 www.owi.spasibobonus.sigma.sbrf.ru
@@ -20927,6 +20974,7 @@ www.rr-mobile.broker.vtb.ru
 www.rr-mobile2.broker.vtb.ru
 www.rr-pay-test.vtb.ru
 www.rrc-altay.ru
+www.rrcentre.ru
 www.rsb.ru
 www.rshb-ins.ru
 www.rsins.ru
@@ -21130,6 +21178,7 @@ www.sladonezh.ru
 www.smailbox.ru
 www.smart-cap.ru
 www.smartdev.ru
+www.smarthome.mts.ru
 www.smartmarket.sber.ru
 www.smartproektsystems.ru
 www.smartro.ru
@@ -21234,6 +21283,7 @@ www.startwork.rt.ru
 www.stat.eagleplatform.com
 www.stat.mtsbank.ru
 www.statement.rft.ru
+www.static.mts.ru
 www.static.spasibobonus.ru
 www.static01.mts.ru
 www.static02.mts.ru
@@ -21265,6 +21315,7 @@ www.stories.livejournal.com
 www.stream.eaglecdn.com
 www.streaming.eagleplatform.com
 www.strelkapay.ru
+www.stv.mts.ru
 www.stw.21-school.ru
 www.superjob.ru
 www.support.sbertech.ru
@@ -21358,6 +21409,7 @@ www.themm.ru
 www.thuricum.ru
 www.ticketland.ru
 www.tigersoft.ru
+www.tiles.mts.ru
 www.time2pay.ru
 www.tinko.ru
 www.tkbbank.ru
