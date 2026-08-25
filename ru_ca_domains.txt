@@ -2,6 +2,7 @@
 *.09.rospotrebnadzor.ru
 *.10.rospotrebnadzor.ru
 *.100ege.ru
+*.112.megafon.ru
 *.131.ru
 *.1440.space
 *.15.rospotrebnadzor.ru
@@ -2441,6 +2442,7 @@
 *.nkomobi.ru
 *.nkpis.ru
 *.nlb.nexign.com
+*.nloto.megafon.ru
 *.nlrs.ru
 *.nm-conference.ru
 *.nmarket.pro
@@ -3863,6 +3865,7 @@
 *.tander.ru
 *.tap.vk.team
 *.tapplink.org
+*.target.megafon.ru
 *.target.recfaces.ru
 *.target.vk.ru
 *.tarif17.ru
@@ -4675,6 +4678,7 @@
 1.psbank.ru
 10.rospotrebnadzor.ru
 100ege.ru
+112.megafon.ru
 11ma.ahml.ru
 12.rospotrebnadzor.ru
 12ma.ahml.ru
@@ -5847,6 +5851,7 @@ auth.gt-arena54.nso.ru
 auth.gt-statsport.nso.ru
 auth.jazz.sberbank.ru
 auth.meet.cloud.ru
+auth.megafon.ru
 auth.meteo.ru
 auth.pochtabank.ru
 auth.prostobank.online
@@ -6905,6 +6910,7 @@ capitalbcs.ru
 capitalkredit.ru
 capitalt.ru
 capsula.vk.com
+captive.megafon.ru
 car-broker.ru
 carcade.com
 card-test.otpbank.ru
@@ -7977,6 +7983,7 @@ delo.ru
 delotest.04gov.ru
 delovayakolbasa.ru
 deloweb.admblag.ru
+delta-privod.ru
 deltacredit.ru
 demetra.pskb.com
 demo-antispoofing.speechpro.com
@@ -8037,6 +8044,7 @@ desp.rosatom.ru
 detbolnvr.ru
 detest.deltacredit.ru
 deti.mail.ru
+dev-1.staging-mc-2.check-up-online.ru
 dev-chat-sharing.vtb.ru
 dev-chat-turn.vtb.ru
 dev-chat.vtb.ru
@@ -8730,6 +8738,7 @@ email3.sberbank.ru
 emb.ru
 emexglobal.time-messenger.ru
 emias.mosreg.ru
+emm-rtrca.workspad.com
 emm.s7corp.ru
 emmds.otpbank.ru
 emmseg.otpbank.ru
@@ -18416,6 +18425,7 @@ vcs1.domrfbank.ru
 vcs1.roscap.ru
 vcs2.domrfbank.ru
 vcs2.roscap.ru
+vcse1.megafon.ru
 vdc.b2b.domru.ru
 vdc.tricolor.ru
 vdi-cps.cloud.mts.ru
