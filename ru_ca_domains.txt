@@ -1082,6 +1082,7 @@
 *.edo.vostokgosplan.ru
 *.edocom.ru
 *.edromaps.2gis.com
+*.edtechpro.ru
 *.edu-penza.ru
 *.edu.gov.ru
 *.edu.orb.ru
@@ -2886,6 +2887,7 @@
 *.provodnik.ru
 *.prto.ru
 *.psbam.ru
+*.psbii.ru
 *.psbschool.org
 *.psbst.ru
 *.pscb.ru
@@ -7170,6 +7172,7 @@ cft.ift.sberbank.ru
 cgbp.ru
 cge.onego.ru
 cge49.ru
+cgispro.ru
 cgkipd.ru
 cgorod.pw
 cgpb.ru
@@ -8600,6 +8603,7 @@ eds-pp.rosneft.ru
 eds.creditural.ru
 eds.mgn-city.ru
 eds.rosneft.ru
+edtechpro.ru
 edu-assist.me
 edu-assist.ru
 edu-penza.ru
@@ -14749,6 +14753,7 @@ psbid-bff-lkfl-tst.psbank.ru
 psbid-bff-lkfl.psbank.ru
 psbid-lk-tst.psbank.ru
 psbid-lk.psbank.ru
+psbii.ru
 psbschool.org
 pscb.ru
 psi-chat-sharing.vtb.ru
@@ -19514,6 +19519,7 @@ www.card-test.otpbank.ru
 www.card.otpbank.ru
 www.cardcredit.ru
 www.cardio.ru
+www.careers.rosseti-lenenergo.ru
 www.carthalva.ru
 www.cascana-nuc.alfastrah.ru
 www.cascana.alfastrah.ru
@@ -19809,6 +19815,7 @@ www.edemvil.ru
 www.edgecenter.ru
 www.edo.vostokgosplan.ru
 www.eds.rosneft.ru
+www.edtechpro.ru
 www.edu.orb.ru
 www.edu.tbank.ru
 www.education-forms.rt.ru
@@ -20082,6 +20089,7 @@ www.hf-chat-turn.vtb.ru
 www.hf-chat.vtb.ru
 www.hf-pay-test.vtb.ru
 www.hippoparking.ru
+www.history.rosseti-lenenergo.ru
 www.hlv.ru
 www.hmnpf.ru
 www.hosp23.ru
@@ -20851,6 +20859,7 @@ www.pokupay.ru
 www.polus-tomsk.ru
 www.portal-da.ru
 www.portal.pochtabank.ru
+www.portal.rosseti-lenenergo.ru
 www.portalsd.mts.ru
 www.post.pochtabank.ru
 www.ppclient.ru
@@ -20929,6 +20938,7 @@ www.qr.fsg.ru
 www.qtom.ru
 www.qtrm.ru
 www.quickstart.lenenergo.ru
+www.quickstart.rosseti-lenenergo.ru
 www.quik.gazprombank.ru
 www.quik.sinara-finance.ru
 www.quiktest.gazprombank.ru

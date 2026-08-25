@@ -579,6 +579,7 @@ cfa.digital
 cfmc.ru
 cgbp.ru
 cge49.ru
+cgispro.ru
 cgkipd.ru
 cgorod.pw
 cgpb.ru
@@ -934,6 +935,7 @@ edinavigator.com
 edinoevideo.ru
 edinros.ru
 edocom.ru
+edtechpro.ru
 edu-assist.me
 edu-assist.ru
 edu-penza.ru
@@ -2665,6 +2667,7 @@ psb.ru
 psb.services
 psbam.ru
 psbank.ru
+psbii.ru
 psbschool.org
 psbst.ru
 pscb.ru
