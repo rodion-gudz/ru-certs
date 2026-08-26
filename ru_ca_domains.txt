@@ -3637,6 +3637,7 @@
 *.special.mil.ru
 *.special.old.mil.ru
 *.specproject.mail.ru
+*.spectrinvest.ru
 *.spectrumdata.ru
 *.spectrumscoring.ru
 *.speedtest.ru
@@ -4161,6 +4162,7 @@
 *.uralaz.ru
 *.uralfd.ru
 *.uralmash-kartex.ru
+*.uralprombank.ru
 *.uralsib.ru
 *.ureguliryi.ru
 *.urfu.21-school.ru
@@ -9950,6 +9952,7 @@ hospital.karelia.ru
 hospital70.ru
 hospitalvv-sk.ru
 hosting.mts.ru
+hotelgateway.rt.ru
 hotelpost.ru
 hotels-log.tbank-online.com
 hotels.tbank-online.com
@@ -12053,6 +12056,7 @@ mail.spacecorp.ru
 mail.spasibosb.ru
 mail.spasskievorota.ru
 mail.spb-vpn01.sovcombank.group
+mail.spectrinvest.ru
 mail.spimex.com
 mail.spn.sinara-finance.ru
 mail.srt-vpn01.sovcombank.group
@@ -16332,6 +16336,7 @@ shagp1.ru
 shagp2.ru
 shagym.ru
 shakhty-edu.ru
+share.absolutbank.ru
 share.magnit.ru
 shareholder-st-psi.sberbank.ru
 shareholder.sberbank.com
@@ -16850,6 +16855,7 @@ spechd.ru
 specialist-psy.edu.ru
 specialist-psy.gosuslugi.ru
 specproject.mail.ru
+spectrinvest.ru
 spectrumdata.ru
 spectrumscoring.ru
 speech.nx.s2b.tech
@@ -21368,6 +21374,7 @@ www.spbbank.ru
 www.spbclearing.ru
 www.spbexchange.ru
 www.spbgasu.ru
+www.spectrinvest.ru
 www.speedtest.ru
 www.spn.sinara-finance.ru
 www.sportclub24.ru
@@ -21992,6 +21999,7 @@ xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 xn--80aaggvgieoeoa2bo7l.xn--p1ai
 xn--80aagknb0ahdagdcdmhj4d0b.xn--p1ai
 xn--80aahjoncridk6af5k1b.xn--d1aqf.xn--p1ai
+xn--80aaiqpoxy.xn--j1aj5bb.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
 xn--80aal9arbhf.xn--d1aqf.xn--p1ai
 xn--80aald4bq.xn--d1aqf.xn--p1ai
@@ -22091,9 +22099,11 @@ xn--b1aedk2aepjr.xn--p1ai
 xn--b1aekybj1ao.xn--p1ai
 xn--b1aew.xn--p1ai
 xn--b1afabzvcegckfhg.xn--p1ai
+xn--b1afb6bcb.xn--j1aj5bb.xn--p1ai
 xn--b1afbkon4ai1b.xn--p1ai
 xn--b1afinmebjmhdg6c3d.xn--d1aqf.xn--p1ai
 xn--b1afjhrgvdfla9hb.tech
+xn--b1afk4ade.xn--j1aj5bb.xn--p1ai
 xn--b1afqbrascj.xn--p1ai
 xn--b1afyi.xn--p1ai
 xn--b1aga6abebid.xn--d1aqf.xn--p1ai
@@ -22117,12 +22127,14 @@ xn--d1acakl8aqa2a.xn--p1ai
 xn--d1acdfdkjk3b3h7a.xn--d1aqf.xn--p1ai
 xn--d1achcanypala0j.xn--p1ai
 xn--d1achkm1a.xn--d1aqf.xn--p1ai
+xn--d1acoigc6ae0f.xn--j1aj5bb.xn--p1ai
 xn--d1aie4av.xn--p1ai
 xn--d1aiiei7h.xn--p1ai
 xn--d1aqf.xn--p1ai
 xn--d1aqn.xn--p1ai
 xn--d1arj.xn--p1ai
 xn--d1auahegc7h.xn--p1ai
+xn--d1auh.xn--j1aj5bb.xn--p1ai
 xn--d1aur.xn--d1aqf.xn--p1ai
 xn--e1adelejgi.xn--d1aqf.xn--p1ai
 xn--e1adjldbbpv.xn--90ais
@@ -22151,6 +22163,7 @@ xn--j1adc8d.xn--p1ai
 xn--j1afbdo3a.xn--p1ai
 xn--j1agba.xn--p1ai
 xn--j1aidd.xn--80abi0ahidr0b.xn--p1ai
+xn--j1aj5bb.xn--p1ai
 xn--j1ak5b.xn--d1aqf.xn--p1ai
 xn--j1andg1c.xn--p1ai
 xn--j1aon.xn--d1aqf.xn--p1ai
