@@ -17795,6 +17795,7 @@ testmetrics.alfabank.ru
 testmo.ru
 testnucrsa.asntl.ru
 testonline.sberbank.ru
+testoria.net
 testout.sovcomins.ru
 testpay.alfabank.ru
 testpay.mtsbank.ru

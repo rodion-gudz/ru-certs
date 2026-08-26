@@ -3681,6 +3681,7 @@ test-er.ru
 test-megamarket.ru
 testkontur.ru
 testmo.ru
+testoria.net
 testqa.ru
 tetatech.ru
 tfgi-urfo.ru
