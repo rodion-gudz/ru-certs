@@ -1692,6 +1692,7 @@
 *.inmx.rambler.ru
 *.inno.tech
 *.innovative-solutions.vk.company.ru
+*.inosmi.ru
 *.ins-sys.ru
 *.insideok.ru
 *.inspector-cloud.ru
@@ -3061,6 +3062,7 @@
 *.rabotavkuzbasse.ru
 *.radar.imgsmail.ru
 *.radionebo.com
+*.radiosputnik.ru
 *.rag.vk.team
 *.raif.ru
 *.raiffeisen.ru
@@ -3144,6 +3146,8 @@
 *.rgvarchive.ru
 *.rhc.ru
 *.ria.ru
+*.riamediabank.ru
+*.rian.ru
 *.ric.mil.ru
 *.ric.old.mil.ru
 *.rikt.ru
@@ -3670,6 +3674,7 @@
 *.sprv.test.egisz.rosminzdrav.ru
 *.spsc.ru
 *.sptz.ru
+*.sputniknews.ru
 *.spvb.ru
 *.sravni-team.ru
 *.sravni.id
@@ -3754,6 +3759,7 @@
 *.stc-spb.ru
 *.stf.vk.team
 *.stg-sso.keyid.rt.ru
+*.stg.1cupis.org
 *.stg.o3t.me
 *.stg.o3t.ru
 *.stg.ozonru.me
@@ -4134,6 +4140,7 @@
 *.uk-formula.ru
 *.uk174.ru
 *.ukpir.ru
+*.ukraina.ru
 *.ukrfc.ru
 *.ukshmao.ru
 *.ulminfin.ru
@@ -17173,6 +17180,7 @@ stentor.vneshbank.ru
 stepnoe-rb.ru
 stf.vk.team
 stg-sso.keyid.rt.ru
+stg.1cupis.org
 stg.o3t.me
 stg.ozonru.me
 stg.t.o3.ru
