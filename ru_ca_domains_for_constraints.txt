@@ -137,6 +137,7 @@ akbars.ru
 akbf.ru
 akcept.ru
 akibank.ru
+akimovkomedia.ru
 akiselev.group
 akod22.ru
 akrvo.ru
@@ -2301,6 +2302,7 @@ npfsberbanka.ru
 npk.ru
 npnd.ru
 npo-rtc.ru
+npoa.ru
 npovk.ru
 nprts.ru
 nrb.ru
@@ -3501,6 +3503,7 @@ stepnoe-rb.ru
 stgmu.ru
 stk-b.ru
 stkvd.ru
+stm-labs.ru
 stm-ru.ru
 stomatology-kmv26.ru
 stomatrk.ru
@@ -4141,6 +4144,7 @@ wibes.ru
 widgetecom.ru
 wifi.ru
 wifiradar.ru
+wiki-sibiriada.ru
 wildberries.at
 wildberries.be
 wildberries.global
@@ -4247,6 +4251,7 @@ xn--80aacbbdr0duaris.xn--p1ai
 xn--80aaccfkbs3a3a1ai.xn--p1ai
 xn--80aaccp4ajwpkgbl4lpb.xn--p1ai
 xn--80aacgvulkfjl.xn--p1ai
+xn--80aacoonefzg3am8b1fsb.xn--p1ai
 xn--80aadbk0bjofbqx.xn--p1ai
 xn--80aadcfns8adpnjcoj.xn--p1ai
 xn--80aadpbzme7al1k.xn--p1ai
