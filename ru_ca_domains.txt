@@ -14097,6 +14097,7 @@ partiatula.ru
 partizansk.org
 partizansk.org.ru
 partizansk.primorsky.ru
+partner-card-gateway-test.api.mtsbank.ru
 partner-pss-gateway-test.api.mtsbank.ru
 partner-pss-gateway.api.mtsbank.ru
 partner-reestr.ru
@@ -18024,6 +18025,7 @@ trs.app-assistent.open.ru
 trsystem68.ru
 trubodetal.ru
 trubprom.com
+trueconf.elara.ru
 trueconf.slavneft.ru
 trueconfserver.admblag.ru
 truecorp.su
