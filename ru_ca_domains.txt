@@ -13448,6 +13448,7 @@ okcdn.ru
 okko-cms.sber.ru
 okko-crm.sber.ru
 okko-openid.sber.ru
+okko.kz
 okl.lt
 oklive.app
 okn08.ru
@@ -17159,6 +17160,7 @@ stgvaultoctopass.s.o3.ru
 stgvaulttransit.s.o3.ru
 stgvaultts.s.o3.ru
 stimsi.as50464.net
+stk-b.ru
 stk.mznso.ru
 stkvd.ru
 stm.srbank.ru
