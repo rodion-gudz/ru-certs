@@ -46,11 +46,13 @@
 *.52gov.ru
 *.56.rospotrebnadzor.ru
 *.5646son.ru
+*.61.rospotrebnadzor.ru
 *.62.rospotrebnadzor.ru
 *.69.rospotrebnadzor.ru
 *.70.rospotrebnadzor.ru
 *.72ms.ru
 *.72to.ru
+*.73.rospotrebnadzor.ru
 *.9s7.ru
 *.a-3.ru
 *.a-rnr.ru
@@ -468,6 +470,7 @@
 *.bgol2.akbars.ru
 *.bgol3.akbars.ru
 *.bi-bi.ru
+*.bia-tech.ru
 *.bialgam.ru
 *.billing.ru
 *.billing74.ru
@@ -753,6 +756,7 @@
 *.crimearw.ru
 *.crm.rambler-co.ru
 *.crm.u6.ru
+*.croc.ru
 *.crpt.ru
 *.crptech.ru
 *.crrintegro.ru
@@ -1119,6 +1123,7 @@
 *.eis5.roskazna.ru
 *.ejik.site
 *.ekb.ru
+*.el-plat.ru
 *.elec.moscow
 *.elections.mos.ru
 *.electromera.su
@@ -1779,6 +1784,7 @@
 *.izh-bs.ru
 *.izh.21-school.ru
 *.jivo.ru
+*.job-test.bdmz.ru
 *.job.bspb.ru
 *.jobsmodern.ru
 *.join.megafon.ru
@@ -2243,6 +2249,7 @@
 *.mmc.help
 *.mmchelptech.ru
 *.mmk.ru
+*.mmzavod.ru
 *.mna.vk.team
 *.mnogo.app
 *.mnr.gov.ru
@@ -2620,6 +2627,7 @@
 *.operaizh.ru
 *.operator.mail.ru
 *.opinionlab.ru
+*.opkrt.ru
 *.opmoscow.ru
 *.optima.msk.ru
 *.optimal.systems
@@ -4313,6 +4321,7 @@
 *.vkuservideo.com
 *.vkuservideo.net
 *.vkuservideo.ru
+*.vkusnoitochka.ru
 *.vkvideo.cs7777.vk.com
 *.vkvideo.cs7777.vk.ru
 *.vkvideo.ru
@@ -4431,6 +4440,7 @@
 *.web-test.alfabank.ru
 *.web.infteh.ru
 *.web.s7.ru
+*.web3tech.ru
 *.webbankir-api.com
 *.webquik.ru
 *.webstore.mail.ru
@@ -4856,6 +4866,7 @@
 6ma.ahml.ru
 70.rospotrebnadzor.ru
 72to.ru
+73.rospotrebnadzor.ru
 7304488.ru
 74.rospotrebnadzor.ru
 78.rospotrebnadzor.ru
@@ -5068,6 +5079,9 @@ admin.r7.ncsp.ru
 admin.sbersova.ru
 admin.sbertransport.ru
 admin.spasibo.digital
+admin.ssp-preprod.severstalssc.com
+admin.ssp-test.severstalssc.com
+admin.ssp.severstalssc.com
 admin.stage.jump.taxi
 admin.team.centrinvest.ru
 admin.test.ds.severstal.com
@@ -6618,6 +6632,7 @@ bi.vebrf.thehrp.ru
 bi.yarregion-service.pulse-hr.ru
 bi.yarregion.pulse-hr.ru
 bi54.nso.ru
+bia-tech.ru
 bialgam.ru
 biblio-bud.stv.muzkult.ru
 bid.max.ru
@@ -7483,6 +7498,7 @@ coalstar.ru
 cobma.mail.ru
 cobmo.mail.ru
 cobra.sberbank.ru
+codd32.ru
 code.argds.ru
 codeofreliability.sberuniversity.online
 coder.eye.salute.ru
@@ -7778,6 +7794,7 @@ crm.spasibosb.ru
 crm2t-n.aaacapital.ru
 crm2t.aaacapital.ru
 crmbpm.spasibosb.sigma.sbrf.ru
+croc.ru
 cross-kpk.ru
 crossover.pay.sberbank.ru
 crpt.ru
@@ -8716,6 +8733,7 @@ ekmp.alltrains.ru
 eko.ncagp.ru
 ekonomych.ru
 ekvant.baltinvest.com
+el-plat.ru
 el-vote.mos.ru
 elderia.online
 elec.mos.ru
@@ -10829,6 +10847,7 @@ jivo.ru
 jkh.megafon.ru
 job-admin-test.mtsbank.ru
 job-admin.mtsbank.ru
+job-test.bdmz.ru
 job.alfabank.ru
 job.bspb.ru
 job.delo.ru
@@ -11795,6 +11814,7 @@ mail.cdn.sovcomins.ru
 mail.cdn.sovcomnpf.ru
 mail.cdn.tagapp.ru
 mail.cdn.tribastion.ru
+mail.cge.onego.ru
 mail.cge49.ru
 mail.chatbank.ru
 mail.chebarcul.ru
@@ -12260,10 +12280,12 @@ market.surgutneftegas.ru
 marketing.ocs.ru
 marketolog.mts.ru
 marketplace-integrations-dev.credistory.ru
+marketplace-test.otpbank.ru
 marketplace.bgfbank.ru
 marketplace.demo1.hycl.ru
 marketplace.demo2.hycl.ru
 marketplace.demo3.hycl.ru
+marketplace.otpbank.ru
 markirovka.ru
 mars.deltacredit.ru
 marusia.mail.ru
@@ -12380,6 +12402,7 @@ mdmt-dev.megafon.ru
 mdmt-seg.megafon.ru
 mdp.kion.ru
 mdrive.magnit.ru
+mebel-enot.ru
 mec-backend-sync.services.ocs.ru
 mec-backend.services.ocs.ru
 mec.services.ocs.ru
@@ -12495,6 +12518,7 @@ metro.spb.ru
 metropolik.ru
 mex1.voz.ru
 mex2.voz.ru
+mexpress.otpbank.ru
 mf55.ru
 mfa-portal.gazprombank.ru
 mfa.aoglonass.ru
@@ -12651,8 +12675,11 @@ mm.sinara.ru
 mmk-coal.ru
 mmk.ru
 mmm.preprod-cdn.edgecenter.online
+mms-callbackhub-test.otpbank.ru
+mms-callbackhub.otpbank.ru
 mms.sberbank.ru
 mmst.mtsbank.ru
+mmzavod.ru
 mna.vk.team
 mnogo.app
 mnr.gov.ru
@@ -12813,6 +12840,7 @@ mpclickstream.online.sberbank.ru
 mpcompany.ru
 mpff.nrb.ru
 mphdc.tander.ru
+mpi-test.otpbank.ru
 mpi.finstarbank.ru
 mpi.mkb.ru
 mpi.rencredit.ru
@@ -12904,6 +12932,7 @@ mt-test.psbank.ru
 mt.psbank.ru
 mta.expmed.ru
 mta.mkp.ru.net
+mta.otp-bank.ru
 mtechnologies.pro
 mtracker.ocs.ru
 mtronics.ru
@@ -13501,6 +13530,7 @@ okl.lt
 oklive.app
 okn08.ru
 okna-leningrad.ru
+oknazone.ru
 oko.mkb.ru
 oktech.ru
 oktus.sber.ru
@@ -13696,6 +13726,7 @@ operator.mail.ru
 opinionlab.ru
 opis-cdn.tinkoffjournal.ru
 opis-imgproxy.tinkoffjournal.ru
+opkrt.ru
 oplata.mtsbank.ru
 opmoscow.ru
 opros.lenta.com
@@ -13773,6 +13804,8 @@ othoro.ru
 otp.sberbank.ru
 otpbank.ru
 otpbank.time-messenger.ru
+otpconnect.otpbank.ru
+otpconnectm.otpbank.ru
 otpfinance.ru
 otpravka.pochta.ru
 otpssd-yc-foreman.srv-hub.org
@@ -14929,6 +14962,7 @@ pulse-streamhub.mail.ru
 pulse-w.vk.team
 pulse.alfabank.ru
 pulse.mail.ru
+pulse.mp.rzd.ru
 pulse.mtsbank.ru
 pulse.s7.ru
 pulse.sber.ru
@@ -14984,6 +15018,7 @@ pwa.okbank.ru
 pwa.rtksp.ru
 pwa.sberpravo.ru
 pwa.sinara-finance.ru
+pwa2b.bspb.ru
 pwd.mtsbank.ru
 pwdss.ru
 px.ad-tech.ru
@@ -16987,6 +17022,7 @@ ssb35.ru
 sscc.ru
 ssfo.rt.ru
 sshop.tricolor.ru
+ssl-test.megafon.ru
 ssl.sberbank.ru
 sslk.org
 sslvpn.cloud.ru
@@ -17034,9 +17070,12 @@ ssoauth.mtsbank.ru
 ssoitfiva.gazprombank.ru
 ssovdr.gazprombank.ru
 ssp-mediasniper.ad-tech.ru
+ssp-preprod.severstalssc.com
+ssp-test.severstalssc.com
 ssp-vk.ad-tech.ru
 ssp.ad-tech.ru
 ssp.rambler.ru
+ssp.severstalssc.com
 ssp01.rambler.ru
 sspk.spb.ru
 ssrf.ru
@@ -17093,6 +17132,7 @@ staging.senat.sberbank.ru
 staging.tvh.kion.ru
 stalaris.ru
 stallect.ru
+stalsmt.ru
 stand-1.partners.tbki.ru
 stand-2.partners.tbki.ru
 stand.ptsecurity.com
@@ -17117,7 +17157,9 @@ staros-sslp-psi-md.devicestest.sberbank.ru
 staros-static-ift-md.devicestest.sberbank.ru
 staros-static-md.devices.sberbank.ru
 staros-static-psi-md.devicestest.sberbank.ru
+start-career-braincamp-tst.bdmz.ru
 start-career-braincamp.bspb.ru
+start-career-connect-tst.bdmz.ru
 start-career-connect.bspb.ru
 start.kk.bank
 start.uralsib.ru
@@ -17331,6 +17373,7 @@ surgut.21-school.ru
 surgutneftegas.ru
 surgutneftegas39.ru
 surp01.ru
+survey-service.isiao.gov.spb.ru
 survey.magnit.ru
 survey.mkb.ru
 survey.sberbank-service.ru
@@ -18658,6 +18701,7 @@ vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
 vkuservideo.ru
+vkusnoitochka.ru
 vkvideo.ru
 vkworkspace-static.kz
 vkworkspace.kz
@@ -18965,6 +19009,7 @@ web.snavi.ru
 web.speechpro.com
 web.toyotafs.ru
 web1-fact-prd.mtsbank.ru
+web3tech.ru
 webadm.open-broker.ru
 webapi.app-assistent.open.ru
 webapi.passport.rt.ru
@@ -19304,6 +19349,7 @@ www.62.rospotrebnadzor.ru
 www.65.rospotrebnadzor.ru
 www.69.rospotrebnadzor.ru
 www.70.rospotrebnadzor.ru
+www.73.rospotrebnadzor.ru
 www.7304488.ru
 www.79.rospotrebnadzor.ru
 www.9s7.ru
@@ -19761,6 +19807,7 @@ www.crm.noosferabank.ru
 www.crm.rambler-co.ru
 www.crm.spasibosb.ru
 www.crmbpm.spasibosb.sigma.sbrf.ru
+www.croc.ru
 www.cryptoarm.ru
 www.cryptoauth.gebank.ru
 www.cscampus.ru
@@ -20585,6 +20632,7 @@ www.mcrssar.ru
 www.mcst.ru
 www.mdm.rambler-co.ru
 www.mdm.vtb.ru
+www.mebel-enot.ru
 www.mechel.com
 www.mechel.ru
 www.med.21-school.ru
@@ -20800,6 +20848,7 @@ www.ogk2.ru
 www.oiltelecom.ru
 www.okbank.ru
 www.okna-leningrad.ru
+www.oknazone.ru
 www.okvd48.ru
 www.old.bspb.ru
 www.old.omk.ru

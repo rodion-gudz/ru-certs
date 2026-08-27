@@ -435,6 +435,7 @@ bcslife.ru
 bcspremier.ru
 bd23.ru
 bdengi.ru
+bdmz.ru
 bee-saturn.ru
 beeline.ru
 belapk.ru
@@ -452,6 +453,7 @@ bgkrb.ru
 bgkz.ru
 bi-bi.ru
 bi.zone
+bia-tech.ru
 bialgam.ru
 bidfox.ru
 bidzaar.com
@@ -655,6 +657,7 @@ cntrluniv.ru
 co.ee
 coalmetbank.ru
 coalstar.ru
+codd32.ru
 codifast.ru
 colnago.ru
 com.ru
@@ -695,6 +698,7 @@ creditural.ru
 crie.ru
 crimea.com
 crimearw.ru
+croc.ru
 cross-kpk.ru
 crpt.ru
 crptech.ru
@@ -966,6 +970,7 @@ eirc-to.ru
 ejik.site
 ekb.ru
 ekonomych.ru
+el-plat.ru
 elara.ru
 elderia.online
 elec.moscow
@@ -1952,6 +1957,7 @@ mcx.ru
 mcxrk.ru
 mdeng.ru
 mdigital.ru
+mebel-enot.ru
 mech-belka.io
 mechel.com
 mechel.ru
@@ -2041,6 +2047,7 @@ mmc.help
 mmchelptech.ru
 mmk-coal.ru
 mmk.ru
+mmzavod.ru
 mnogo.app
 mo-medsvc.ru
 mob-trs.org
@@ -2396,6 +2403,7 @@ okl.lt
 oklive.app
 okn08.ru
 okna-leningrad.ru
+oknazone.ru
 oktech.ru
 oktima.ru
 okvd48.ru
@@ -2447,6 +2455,7 @@ openbudsk.ru
 openclawai.website
 operaizh.ru
 opinionlab.ru
+opkrt.ru
 opmoscow.ru
 optimal.systems
 orb.ru
@@ -2477,6 +2486,7 @@ osu.ru
 otais.ru
 otello.ru
 othoro.ru
+otp-bank.ru
 otpbank.ru
 otpfinance.ru
 oviont.ru
@@ -3218,6 +3228,7 @@ severgazbank.ru
 severstal.com
 severstalauto.com
 severstalgroup.com
+severstalssc.com
 sevesk.ru
 sevnb.ru
 sevstar.net
@@ -3476,6 +3487,7 @@ stage-dc.ru
 stage-dfo.ru
 stalaris.ru
 stallect.ru
+stalsmt.ru
 standoff365.com
 star-pro.ru
 star-smile.ru
@@ -4020,6 +4032,7 @@ vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
 vkuservideo.ru
+vkusnoitochka.ru
 vkusvill.ru
 vkvideo.ru
 vkworkspace-static.kz
@@ -4136,6 +4149,7 @@ wbstatic.ru
 wbwh.ru
 wealthim.ru
 web-dnk.ru
+web3tech.ru
 webbankir-api.com
 webquik.ru
 websib.ru
