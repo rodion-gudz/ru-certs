@@ -84,6 +84,7 @@ acti.ru
 activebc.ru
 activebt.ru
 ad-tech.ru
+addy.su
 adl3be.name
 adm-syzran.ru
 admbg.org
@@ -483,6 +484,7 @@ bkz.ru
 blacksea.rest
 blokadamus.ru
 blume.dating
+blutz.ru
 bm-bank.ru
 bmki.ru
 bnal.ru
@@ -1724,6 +1726,7 @@ korusconsulting.ru
 koshelek.app
 koshelev-bank.ru
 kostenok.ru
+kotlin-novator.ru
 kpb2.ru
 kpbs.ru
 kpl32.ru
@@ -1875,6 +1878,7 @@ lsfgame.ru
 luchi.ru
 lukoil.com
 lukoil.ru
+lunatech.tech
 lvls.ru
 lycey488.ru
 lynx-texts.ru
@@ -1920,6 +1924,7 @@ mamaev.pro
 mamba.ru
 manbbq.ru
 mango-office.ru
+mapm.ru
 marina-shop.ru
 marinebroker.ru
 maritimebank.com
@@ -3152,6 +3157,7 @@ sbionline.ru
 sbis.link
 sbis.ru
 sblabs.ru
+sblogistica.ru
 sbmcollege.ru
 sbnk.ru
 sbnray.ru
@@ -3809,6 +3815,7 @@ ttk.ru
 ttransp.ru
 tubrb.ru
 tulatrans.ru
+tulunadm.ru
 tupolev.ru
 turbolk.ru
 turbozaim.ru
@@ -3938,6 +3945,7 @@ variti.io
 vasmfpro.ru
 vasmpro.ru
 vasy.ru
+vaultary.ru
 vbank.ru
 vbrr.ru
 vbudushee.ru
@@ -4476,6 +4484,8 @@ zao-trend.ru
 zaovad.com
 zap-mag.ru
 zapadmorf.ru
+zappstore.pro
+zapravit-avto.ru
 zarech.ru
 zavedi-rebenka.ru
 zavod-plastmass.ru
