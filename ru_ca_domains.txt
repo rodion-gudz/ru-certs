@@ -488,6 +488,7 @@
 *.bkfortuna.ru
 *.bki-okb.com
 *.bki-okb.ru
+*.blanc.ru
 *.blokadamus.ru
 *.blume.dating
 *.bm-bank.ru
@@ -522,6 +523,7 @@
 *.bs2.gazprombank.ru
 *.bsbp.gazprombank.ru
 *.bscbalt.ru
+*.bsigroup.ru
 *.bspb.ru
 *.bss.2gis.com
 *.bss.ertelecom.ru
@@ -794,6 +796,7 @@
 *.dagmintrud.ru
 *.daily.afisha.ru
 *.daitspc-stage.cloud.vk.com
+*.dalenabank.ru
 *.dam.mtsmedia.ru
 *.dap.gov.ru
 *.data-registry-api.vk.team
@@ -1366,6 +1369,7 @@
 *.gazprom.ru
 *.gazprombank.investments
 *.gazprombank.ru
+*.gazpromnedra.ru
 *.gazpromstroytek.ru
 *.gbo.gazprombank.ru
 *.gbs.spb.ru
@@ -1427,6 +1431,7 @@
 *.globaloet.ru
 *.globalports.com
 *.gmt-gazprom.ru
+*.gn.com.ru
 *.gnicpm.ru
 *.gnppregion.ru
 *.go.mail.ru
@@ -1868,6 +1873,7 @@
 *.kmp.ru
 *.kmt46.ru
 *.knd.gov.ru
+*.knigozakaz.ru
 *.knk32.ru
 *.kobma.mail.ru
 *.kobmo.mail.ru
@@ -2709,6 +2715,7 @@
 *.panel.eaglecdn.com
 *.pansion.mil.ru
 *.pansion.old.mil.ru
+*.parents.university
 *.paritet.ru
 *.parking.spb.ru
 *.part-kom.ru
@@ -2907,6 +2914,7 @@
 *.proresurs.ru
 *.proshkola.ru
 *.prostobank.online
+*.prosv.ru
 *.provodnik.ru
 *.prto.ru
 *.psbam.ru
@@ -3520,6 +3528,7 @@
 *.shop.fc-zenit.ru
 *.shop.megafon.ru
 *.shopshoplab.ru
+*.shprapp.ru
 *.sibintek.ru
 *.sibir.rt.ru
 *.sibmoll.ru
@@ -3568,6 +3577,7 @@
 *.sladonezh.ru
 *.slavneft.ru
 *.slbank.ru
+*.slr.systems
 *.smailbox.ru
 *.smart-budget.ru
 *.smart-cap.ru
@@ -3792,6 +3802,7 @@
 *.storage-stage.mvk.com
 *.storage.mvk.com
 *.store.rambler.ru
+*.storefrontapp.ru
 *.stories.livejournal.com
 *.stp-egisz.ru
 *.stpadmin.ru
@@ -4617,6 +4628,9 @@
 *.xn--l1aelhk.xn--p1ai
 *.xn--l1agf.xn--p1ai
 *.xn--m1aeig.xn--p1ai
+*.xplanet.tech
+*.xplanetmail.ru
+*.xplonline.com
 *.xrmib.ru
 *.yadro.com
 *.yakovlev.ru
@@ -6481,6 +6495,7 @@ bankofkazan.ru
 bankok.akbars.ru
 bankro.tech
 banksaratov.ru
+bankwallet.ru
 banner.key.rt.ru
 bappcore1-factoring.mtsbank.ru
 bara-capy.site
@@ -6742,6 +6757,7 @@ blacklist.jump.taxi
 blacklist.stage.jump.taxi
 blacksea.rest
 blago.magnit.ru
+blanc.ru
 blender.mp.mts.ru
 blitz.speechpro.com
 block.sberuniversity.ru
@@ -6782,6 +6798,7 @@ bonus-spasibo.ru
 bonus.energotransbank.com
 bonus.kilbil.ru
 bonus.novikom.ru
+bonus.pskb.com
 bonus.uralsib.ru
 book.sbercity.ru
 booking-tec.ru
@@ -6800,6 +6817,7 @@ bot.mfc-nso.ru
 bot.nii-kpg.ru
 botknn.04gov.ru
 botmag.net
+box.preprod-cdn.edgecenter.online
 bpa.moneta.ru
 bpa.payanyway.ru
 bpam.sberuniversity.ru
@@ -7083,6 +7101,7 @@ cdmail.r7.ncsp.ru
 cdn-app.giga.chat
 cdn-app.sberdevices.ru
 cdn-deg.mos.ru
+cdn-ec.tf39besndbx.com
 cdn-investor-psi.sberbank.ru
 cdn-investor.sberbank.ru
 cdn-mobile-nuc.alfastrah.ru
@@ -7516,6 +7535,7 @@ cms-edge2.slavneft-kng.ru
 cms-le.energo.ru
 cms.alfabank.ru
 cms.amet.ru
+cms.avangard.ru
 cms.deltacredit.ru
 cms.slavneft-kng.ru
 cms.vcs.deltacredit.ru
@@ -7726,6 +7746,7 @@ courier.magnit.ru
 courier.otpbank.ru
 couriers.magnit.ru
 course.life.akbars.ru
+coverage.megafon.ru
 cowork.ru
 coworking.mtsbank.ru
 cp.introlan.ru
@@ -7897,8 +7918,10 @@ cts2.domrf.online
 ctst-cnv-app02.sberins.ru
 ctst-cnv-lb03.sberins.ru
 ctst-intg-lb02.sberins.ru
+ctsu-pre.mkb.ru
 ctsu-tst.mkb.ru
 ctsu.mkb.ru
+ctsv-pre.mkb.ru
 ctsv.mkb.ru
 ctweb.ncsp.com
 ctx-cps.cloud.mts.ru
@@ -7966,6 +7989,7 @@ dagmintrud.ru
 daily.afisha.ru
 daily.qtom.ru
 daitspc-stage.cloud.vk.com
+dalenabank.ru
 dam.mtsmedia.ru
 danopotapstudio.ru
 dap.gov.ru
@@ -8987,6 +9011,7 @@ etp.interrao-orel.ru
 etpgaz.gazprombank.ru
 etpgp.rzd.ru
 etpz.ru
+ets-pre.mkb.ru
 ets-test.ast-innovation.ru
 ets.1c.ru
 ets.domrf.online
@@ -9076,6 +9101,7 @@ exp1.msg.gpb.ru
 exp20.msg.gpb.ru
 exp4.msg.gpb.ru
 exp5.msg.gpb.ru
+expe-cluster.rencredit.ru
 expe-lab.voip.sigma.sbrf.ru
 expe-s-lab-n2up.voiplab-ext.sberbank.ru
 expe-s-lab.voiplab-ext.sberbank.ru
@@ -9114,6 +9140,9 @@ express2.roe.ru
 express3.roe.ru
 express4.roe.ru
 expresspk.ru
+expressway-ext-01.avangard.ru
+expressway-ext-02.avangard.ru
+expressway-ext.avangard.ru
 exprw01.vcs.deltacredit.ru
 ext-api.max.ru
 ext-api2.max.ru
@@ -9505,6 +9534,7 @@ gazprombank.tech
 gazprombanktech.ru
 gazpromexport.com
 gazpromexport.ru
+gazpromnedra.ru
 gazprompay.ru
 gazpromre.ru
 gazpromstroytek.ru
@@ -9692,6 +9722,7 @@ gm.sdp.sber.ru
 gmgs.ru
 gmpro-beta.sigma.sbrf.ru
 gmt-gazprom.ru
+gn.com.ru
 gnicpm.ru
 gnkb2.mznso.ru
 gnkpb3.mznso.ru
@@ -9884,6 +9915,7 @@ gvp.gov.ru
 gvsu.gov.ru
 gvtools.ru
 gvv3.mznso.ru
+gw-portal-ext.megafon.ru
 gw-preprod.lenta.com
 gw-vpn.t-access.ru
 gw-vpn.tcsbank.ru
@@ -10913,6 +10945,7 @@ jitsi-test.speechpro.com
 jitsi.mfsk.ru
 jitsi.mkb.ru
 jitsi.moneta.dev
+jitsi.rencredit.ru
 jitsi.sinara.ru
 jitsi.speechpro.com
 jitsi.vympel-rybinsk.ru
@@ -11156,6 +11189,7 @@ kmiac.ru
 kmp.ru
 kmt46.ru
 knd.gov.ru
+knigozakaz.ru
 knk32.ru
 ko.spb.ru
 kobma.mail.ru
@@ -12414,6 +12448,7 @@ max.emm.hr.sberbank.ru
 max.ru
 max.screspect.ru
 max.ukplus.ru
+maxapp.ze.parts
 maxiarm.ru
 maximum.ru
 maxlib.ru
@@ -12457,6 +12492,7 @@ mccm.bspb.ru
 mcdo.moscow
 mcf-edge.alpha-dev.ru
 mcf-probe.alpha-dev.ru
+mchat-pre.mkb.ru
 mchat.mkb.ru
 mcloud.psbank.ru
 mco-panacea.ru
@@ -12770,6 +12806,7 @@ mm.cloud.ru
 mm.mts.ru
 mm.mtsbank.ru
 mm.sinara.ru
+mm2.rencredit.ru
 mmk-coal.ru
 mmk.ru
 mmm.preprod-cdn.edgecenter.online
@@ -13824,6 +13861,7 @@ openapi.raiffeisen.ru
 openapigpb.ru
 openbudsk.ru
 openclawai.website
+openconf.rt.ru
 opengate.sber.ru
 opensearch.russl.skm.pro
 opensource.tbank.ru
@@ -14284,6 +14322,7 @@ parallax-pro.ru
 parent.cscampus.ru
 parent.kamp-ext-if.vtb.ru
 parent.kamp-ext-rr.vtb.ru
+parents.university
 park300.kb.gov.spb.ru
 park300spb.ru
 parking.cscampus.ru
@@ -14947,6 +14986,7 @@ proresurs.ru
 prosdr.ru
 proshkola.ru
 prostobank.online
+prosv.ru
 provodnik.ru
 proxy-autoconf.sberbank-service.ru
 proxy-tst.ingobank.ru
@@ -16741,6 +16781,7 @@ slizzz.ru
 slk.fhdgso.ru
 slon-e.ru
 slona.me
+slr.systems
 sm-developer-profile-sgmd.sberdevices.ru
 sm-developer-profile.sberdevices.ru
 sm.alfabank.ru
@@ -18572,6 +18613,7 @@ v-byod-cert.sbertech.ru
 v-byod-pwd.sbertech.ru
 v-corp-pwd.sbertech.ru
 v-corp.sbertech.ru
+v-dimitriadis.ru
 v-iam.sbertech.ru
 v.gis-sc.krasnodar.ru
 v.ozone.ru
@@ -18970,6 +19012,7 @@ vpn.myautopodpiska.ru
 vpn.nnk.ru
 vpn.novikom.ru
 vpn.pochtabank.ru
+vpn.rencredit.ru
 vpn.rostfinance.ru
 vpn.rr.test.vtb.ru
 vpn.rsb.ru
@@ -18989,9 +19032,11 @@ vpn01.itcomp.tech
 vpn01.sovcombank.group
 vpn02.itcomp.tech
 vpn02.sovcombank.group
+vpn1.rencredit.ru
 vpn1.rsb.ru
 vpn2.bspb.ru
 vpn2.finstarbank.ru
+vpn2.rencredit.ru
 vpn2.rsb.ru
 vpn3.osgrm.ru
 vpnaccess.avangard.ru
@@ -19743,6 +19788,7 @@ www.bankdomrf.ru
 www.banketubiley.ru
 www.bankexp.ru
 www.bankro.tech
+www.bankwallet.ru
 www.bappcore1-factoring.mtsbank.ru
 www.base.pochtabank.ru
 www.bashneft.com
@@ -19771,6 +19817,7 @@ www.bisoft.ru
 www.bitools.sovcombank.ru
 www.bitrix.sbspasibo.ru
 www.bkfortuna.ru
+www.blanc.ru
 www.blog.jump.taxi
 www.bm.sovcombank.ru
 www.bmki.ru
@@ -19779,6 +19826,7 @@ www.bo-sevastopol.ru
 www.bonus-ott.uralsib.ru
 www.bonus-sber.spasibobonus.ru
 www.bonus-spasibo.ru
+www.bonus.pskb.com
 www.bonus.uralsib.ru
 www.brand.rt.ru
 www.brand.sber.ru
@@ -20593,6 +20641,7 @@ www.kkbmk.ru
 www.klf.aero
 www.kmiac.ru
 www.kmt46.ru
+www.knigozakaz.ru
 www.knk32.ru
 www.ko.spb.ru
 www.kolpinonet.ru
@@ -21078,6 +21127,7 @@ www.pages.ecpk-dev.sibintek.ru
 www.pages.ecpk.sibintek.ru
 www.pages.sca.ad-tech.ru
 www.panel.eaglecdn.com
+www.parents.university
 www.paritet.ru
 www.park300spb.ru
 www.parking.spb.ru
@@ -21207,6 +21257,7 @@ www.promo.sberspasibo.ru
 www.promo.veb.ru
 www.pronashevse.ru
 www.prostobank.online
+www.prosv.ru
 www.proxy.spasibobonus.ru
 www.proxy.spasibotest.ru
 www.psb.pvcd.ru
@@ -22216,6 +22267,7 @@ xn----ftbbavnknceifkok1s.xn--p1ai
 xn----ftbmbaamsm6an.xn--p1ai
 xn----gtbyjafgkjo.xn--p1ai
 xn----htbckkutp.xn--p1ai
+xn----ptbg2al7c.xn--p1ai
 xn---33-6cdkdjv2a1ajcfepj.xn--p1ai
 xn---74-5cdkaux2a5aemsld2n.xn--p1ai
 xn--1-ytbsm.xn--p1ai
@@ -22452,8 +22504,11 @@ xn--m1aeig.xn--p1ai
 xn--n1aceo.xn--d1aqf.xn--p1ai
 xn--n1afa.xn--90ab2c.xn--p1ai
 xo16.ru
+xplanet.tech
+xplanetmail.ru
 xplatform-test.alfabank.ru
 xplatform.alfabank.ru
+xplonline.com
 xrmib.ru
 xs-xenapp-1.npfsb.sber.ru
 xs-xenapp-2.npfsb.sber.ru
