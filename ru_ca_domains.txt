@@ -6612,6 +6612,7 @@ bfd.sberbank.ru
 bfd.sbrf.ru
 bfds.sberbank.ru
 bfl-online.mkb.ru
+bfmsk-test.brain-flow.ru
 bg-back.mtsbank.ru
 bg-pp.mtsbank.ru
 bg.alfabank.ru
@@ -13645,6 +13646,7 @@ nx-docker.alfastrah.ru
 nx.s2b.tech
 nxtc.ingobank.ru
 nxtcld.tch.ru
+nya.edgecenter.online
 nz-am.ru
 nzk.rosneft.ru
 o-courier.ru
