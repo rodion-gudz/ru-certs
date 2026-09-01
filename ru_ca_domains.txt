@@ -8663,6 +8663,7 @@ ec-integra.ru
 ec.mfsk.ru
 ec.rsb.ru
 ecar-airbus.ru
+eccdn.servicecdn.ru
 ecdn.sovcombank.ru
 ecert.gov.ru
 echd.ru
@@ -10913,6 +10914,7 @@ jaeger.legalbpm.sberpravo.ru
 jaeger.psi.legalbpm.sberpravo.ru
 jaeger.sberpravo.ru
 janus.tinkoffjournal.ru
+jazz.sber.ru
 jazz.sberbank.ru
 jd.mail.ru
 jeffit-test.omk.ru
@@ -12068,6 +12070,7 @@ mail.karthalva.ru
 mail.kcplant.ru
 mail.kept.by
 mail.kept.ru
+mail.kotlin-novator.ru
 mail.kpl32.ru
 mail.krtu.ru
 mail.kubanfarm.ru
@@ -14383,6 +14386,7 @@ password.mts.ru
 password.mtsbank.ru
 passwork-czi.nso.ru
 pateroclinic.ru
+patheternity.ru
 patient.ncagp.ru
 patientcard.ru
 pay-games.vtb.ru
@@ -18071,6 +18075,7 @@ testshop.tricolor.ru
 testsite.gorbank.spb.ru
 testsite.sberbankins.ru
 teststartwork.rt.ru
+testterraform.sberdevices.ru
 testtest.t-boys.ru
 testtest2.t-boys.ru
 testtesttest.t-boys.ru
@@ -18692,6 +18697,7 @@ vc-msk-expe2.uecrus.com
 vc.inkey.rt.ru
 vc.kamaz.ru
 vc.key.rt.ru
+vc.sberdevices.ru
 vc.videos.livejournal.com
 vcd.ertelecom.ru
 vcm-fluent-bit-plugin.demo1.hycl.ru
