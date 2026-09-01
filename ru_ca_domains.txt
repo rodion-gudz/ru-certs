@@ -1204,6 +1204,7 @@
 *.ev.group
 *.events-files.1c.ru
 *.events.gge.ru
+*.events.sk.ru
 *.everialife.ru
 *.evgrp.ru
 *.evo.ucscards.ru
@@ -9085,6 +9086,7 @@ events.gge.ru
 events.key.rt.ru
 events.koshelek.app
 events.sberbusiness.live
+events.sk.ru
 events.tbank-online.com
 evgrp.ru
 evo.ucscards.ru
