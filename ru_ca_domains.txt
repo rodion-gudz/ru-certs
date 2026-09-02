@@ -6612,6 +6612,7 @@ bfd.sberbank.ru
 bfd.sbrf.ru
 bfds.sberbank.ru
 bfl-online.mkb.ru
+bfmsk-test-files.brain-flow.ru
 bfmsk-test.brain-flow.ru
 bg-back.mtsbank.ru
 bg-pp.mtsbank.ru
