@@ -118,6 +118,7 @@ agroros.ru
 agrosource.ru
 ahml.com
 ahml.ru
+ahstep.ru
 ai-academy.ru
 ai-bank.ru
 ai-journey.ru
@@ -191,6 +192,7 @@ alpha-dev.ru
 alrosa.pro
 alrosa.ru
 alrosait.ru
+alta.ru
 altaiensb.ru
 altaigov.ru
 altastroy-nn.ru
@@ -288,6 +290,7 @@ asiainvestbank.ru
 aslife.ru
 asntl.ru
 aspcom.ru
+aspirelifestyles.ru
 asseta-am.ru
 ast-innovation.ru
 ast-ins.ru
@@ -670,6 +673,7 @@ codifast.ru
 colnago.ru
 com.ru
 comcor.ru
+comfort-max.ru
 comfortcredit.ru
 company.ru
 companyprofile.ru
@@ -1239,6 +1243,7 @@ geniobot.ru
 geobasket.net
 geobasket.ru
 geocartography.ru
+geocos.ru
 geoportal40.ru
 geoscan.ru
 geovestnik.ru
@@ -1702,6 +1707,7 @@ kidsberries.ru
 kiekei.ru
 kilbil.ru
 kinef.ru
+kinojam.tv
 kinokurort.ru
 kion-music.ru
 kion.ru
@@ -1826,6 +1832,7 @@ ladoshkipay.ru
 lala.su
 lanta.ru
 laspace.ru
+latrenta.ru
 lazarusfinance.ru
 le-dv.ru
 lec-press.ru
@@ -1893,6 +1900,7 @@ loonabrowser.ru
 loskiq.ru
 lot-online.ru
 lsfgame.ru
+lubteplo.ru
 luchi.ru
 lukoil.com
 lukoil.ru
@@ -3188,6 +3196,7 @@ sbis.ru
 sblabs.ru
 sblogistica.ru
 sbmcollege.ru
+sbmt.team
 sbnk.ru
 sbnray.ru
 sborprint.ru
@@ -3522,6 +3531,7 @@ ssrf.ru
 st-dnd.ru
 stage-dc.ru
 stage-dfo.ru
+stal.ru
 stalaris.ru
 stallect.ru
 stalsmt.ru
@@ -3592,10 +3602,13 @@ suvlyu.ru
 suz72.ru
 svclient.ru
 svetlogorsk39.ru
+sveza.com
+sveza.ru
 svkexpress.ru
 svm24.ru
 svmdev.ru
 svmspb.ru
+svod31.ru
 svoe-rodnoe.ru
 svoe-selo.ru
 svoe-shef.ru
@@ -3976,6 +3989,7 @@ uulz.ru
 uzagsrk.ru
 v-dimitriadis.ru
 v1.market
+vahpesto.ru
 vamprivet.ru
 variti.io
 vasmfpro.ru
@@ -4247,6 +4261,7 @@ xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
 xn----7sbcgoab9a0awmnp.xn--p1ai
 xn----7sbfckca1ctao1a4l2b.xn--p1ai
+xn----7sbhhgjt4afav0m.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----7sbnqazjhcv.xn--p1ai
 xn----7sbnqvigct4i.xn--p1ai
@@ -4330,6 +4345,7 @@ xn--80aafclckjcqurgbdjcpde4b.xn--p1ai
 xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 xn--80aaggvgieoeoa2bo7l.xn--p1ai
 xn--80aagknb0ahdagdcdmhj4d0b.xn--p1ai
+xn--80aagyfeexajjkifg.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
 xn--80aalqacudkeiwckpc.xn--p1ai
 xn--80aanlzbvihptf.xn--p1ai
