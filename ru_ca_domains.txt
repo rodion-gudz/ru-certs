@@ -12331,6 +12331,7 @@ mail.tkbip.ru
 mail.torg-i.com
 mail.toyotafs.ru
 mail.tribastion.ru
+mail.tulamash.ru
 mail.tvpn01.sovcombank.group
 mail.uez.spb.ru
 mail.ukrfc.ru
@@ -14011,6 +14012,8 @@ ospos.dev
 ospos.ru
 oss-ekx.megalabs.ru
 oss.ertelecom.ru
+ostec-cleaning.ru
+ostec-dispensing.ru
 ostec-materials.ru
 osu.ru
 ot.gov.ru

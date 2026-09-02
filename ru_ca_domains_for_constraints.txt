@@ -2509,6 +2509,8 @@ ortv.ru
 osgrm.ru
 ospos.dev
 ospos.ru
+ostec-cleaning.ru
+ostec-dispensing.ru
 ostec-materials.ru
 osu.ru
 otais.ru
@@ -3845,6 +3847,7 @@ ttender.ru
 ttk.ru
 ttransp.ru
 tubrb.ru
+tulamash.ru
 tulatrans.ru
 tulunadm.ru
 tupolev.ru
