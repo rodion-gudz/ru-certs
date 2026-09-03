@@ -272,6 +272,8 @@
 *.apps.k8s-predp.lan.ubrr.ru
 *.apps.k8s-prod.lan.ubrr.ru
 *.apps.k8s-test.lan.ubrr.ru
+*.apps.okd.prod.digital.rt.ru
+*.apps.okd.stage.digital.rt.ru
 *.appsec.onecld.ru
 *.appsgeotron.spacecorp.ru
 *.appsmail.ru
@@ -801,6 +803,7 @@
 *.dagmintrud.ru
 *.daily.afisha.ru
 *.daitspc-stage.cloud.vk.com
+*.dalena.ru
 *.dalenabank.ru
 *.dam.mtsmedia.ru
 *.dap.gov.ru
@@ -878,6 +881,7 @@
 *.dev.cs7777.vk.com
 *.dev.cs7777.vk.ru
 *.dev.digital.mosreg.ru
+*.dev.digital.rt.ru
 *.dev.dk.mosreg.ru
 *.dev.dobrodel.mosreg.ru
 *.dev.dolgoletie.mosreg.ru
@@ -899,6 +903,8 @@
 *.dev.intmts.ru
 *.dev.isoik.mosreg.ru
 *.dev.kion.ru
+*.dev.market.mosreg.ru
+*.dev.mbs.mosreg.ru
 *.dev.mof.mosreg.ru
 *.dev.nspd.rosreestr.gov.ru
 *.dev.ntv.ru
@@ -2141,6 +2147,7 @@
 *.mamba.ru
 *.manbbq.ru
 *.mango-office.ru
+*.mango-pin.ru
 *.map.razvitie-stav.ru
 *.mapm.ru
 *.maps.2gis.com
@@ -2333,6 +2340,7 @@
 *.moresalonov.ru
 *.morion.com.ru
 *.mos.ru
+*.moscombank.ru
 *.mosedu.ru
 *.mosenergosbit.ru
 *.mosenergosbyt.ru
@@ -2413,6 +2421,7 @@
 *.mupirvostochnoe.ru
 *.murmankukla.ru
 *.music.kion.ru
+*.music.mts.ru
 *.music.vk.com
 *.music.vk.ru
 *.muzlab.ru
@@ -2863,6 +2872,7 @@
 *.pmcloud.sbertech.ru
 *.pmh.moex.com
 *.pni4spb.ru
+*.pnzmed.ru
 *.pnzreg.ru
 *.po-rubly.ru
 *.pochta.ru
@@ -3165,6 +3175,7 @@
 *.real.lk-b2b.mts.ru
 *.realistbank.ru
 *.recfaces.ru
+*.recognition.music.mts.ru
 *.recrut.mil.ru
 *.recrut.old.mil.ru
 *.red-dolphin.ru
@@ -4988,6 +4999,7 @@ aakim.ru
 aanda.ru
 aat-arti.ru
 ab-mortgage.alfastrah.ru
+ab.cloud.mts.ru
 ab.vk.team
 aba.ctrlz.ru
 abakanvodokanal.ru
@@ -5003,6 +5015,7 @@ abcd.t-boys.ru
 abiturient.cchgeu.ru
 abkasko.alfastrah.ru
 abm.alfabank.ru
+abm.cloud.mts.ru
 abmosk.ru
 abmrus.alfabank.ru
 about.enrollme.ru
@@ -5775,6 +5788,8 @@ applink.bcs-bank.ru
 applyform.ru
 apps.gbo.gazprombank.ru
 apps.ift.sbertransport.ru
+apps.okd.prod.digital.rt.ru
+apps.okd.stage.digital.rt.ru
 apps.psi.dropapp.sbertransport.ru
 apps.psi.sbertransport.ru
 apps.sber.ru
@@ -7984,6 +7999,7 @@ cti-connect.wb.ru
 cti-gateway.magnit.ru
 cti-platform.wb.ru
 ctio-frn.spb.ru
+ctrl.datacloud.itphx.ru
 cts-back-t-cl.msg.gpb.ru
 cts.aaacapital.ru
 cts.domrf.online
@@ -8065,6 +8081,7 @@ dagmintrud.ru
 daily.afisha.ru
 daily.qtom.ru
 daitspc-stage.cloud.vk.com
+dalena.ru
 dalenabank.ru
 dam.mtsmedia.ru
 danopotapstudio.ru
@@ -8277,6 +8294,7 @@ dev.broker-sb.io
 dev.cnp.mosreg.ru
 dev.crypto.gsn.mosreg.ru
 dev.digital.mosreg.ru
+dev.digital.rt.ru
 dev.dk.mosreg.ru
 dev.dobrodel.mosreg.ru
 dev.dolgoletie.mosreg.ru
@@ -8300,6 +8318,8 @@ dev.gismogu.mosreg.ru
 dev.isoik.mosreg.ru
 dev.kapmed.ru
 dev.kwapp.spaymentsplus.ru
+dev.market.mosreg.ru
+dev.mbs.mosreg.ru
 dev.mof.mosreg.ru
 dev.nspd.rosreestr.gov.ru
 dev.ntv.ru
@@ -12509,6 +12529,7 @@ management-api.test.domapi.domrf.ru
 management-api.test.domapi.domrfbank.ru
 manbbq.ru
 mango-office.ru
+mango-pin.ru
 map.fgislk-test.gov.ru
 map.fgislk.gov.ru
 map.mgis42.ru
@@ -12951,6 +12972,7 @@ mmm.preprod-cdn.edgecenter.online
 mms-callbackhub-test.otpbank.ru
 mms-callbackhub.otpbank.ru
 mms.sberbank.ru
+mmst-fork01-t.sinara.ru
 mmst.mtsbank.ru
 mmzavod.ru
 mna.vk.team
@@ -14639,6 +14661,7 @@ pchtbnk.ru
 pci-dss.wb-bank.ru
 pcidss.bank.yandex.ru
 pcidss.uat.bank.yandex.ru
+pcr-n2.oparina4.ru
 pd.giga.chat
 pd.oneme.ru
 pd.sberdevices.ru
@@ -14820,6 +14843,7 @@ pnm2.vtb.ru
 pnmrnkb.vtb.ru
 pnwr-test.sberbank-service.ru
 pnwr.sberbank-service.ru
+pnzmed.ru
 pnzreg.ru
 po-rubly.ru
 po.psbank.ru
@@ -18962,6 +18986,7 @@ vebrf-am.ru
 vectorcapital.ru
 ved.mtsbank.ru
 vedomosti.ru
+veeam-sdn.fz152.it-grad.ru
 vega-rus.net
 vegapost.sonarplus.ru
 vektrumsport.ru
@@ -21422,6 +21447,7 @@ www.pni4spb.ru
 www.pnm.vtb.ru
 www.pnm2-test.vtb.ru
 www.pnm2.vtb.ru
+www.pnzmed.ru
 www.pnzreg.ru
 www.pobeda.lenenergo.ru
 www.pobeda.rosseti-lenenergo.ru

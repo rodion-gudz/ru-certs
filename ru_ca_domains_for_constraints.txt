@@ -747,6 +747,7 @@ d-technologies.ru
 d2insur.ru
 d71.ru
 dagmintrud.ru
+dalena.ru
 dalenabank.ru
 danopotapstudio.ru
 daricard.ru
@@ -1619,6 +1620,7 @@ itfederation.ru
 itmagnit.ru
 itmkb.ru
 itmrl.ru
+itphx.ru
 iturup.online
 iturupbank.ru
 iva-tech.ru
@@ -1951,6 +1953,7 @@ mamaev.pro
 mamba.ru
 manbbq.ru
 mango-office.ru
+mango-pin.ru
 mapm.ru
 marina-shop.ru
 marinebroker.ru
@@ -2107,6 +2110,7 @@ moosic.io
 moresalonov.ru
 morskoybank.com
 mos.ru
+moscombank.ru
 mosedu.ru
 mosenergosbit.ru
 mosenergosbyt.ru
@@ -2661,6 +2665,7 @@ pmisk.ru
 pmosk.ru
 pndfr.ru
 pni4spb.ru
+pnzmed.ru
 pnzreg.ru
 po-rubly.ru
 pobedapartners.ru
