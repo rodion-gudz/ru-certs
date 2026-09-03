@@ -1621,6 +1621,7 @@
 *.homecredit.ru
 *.horo.mail.ru
 *.hosa.pd.sberdevices.ru
+*.hosa.sberdevices.ru
 *.hosp23.ru
 *.hospital.karelia.ru
 *.hospital70.ru
@@ -7975,6 +7976,7 @@ crm.open-broker.ru
 crm.prostobank.online
 crm.rambler-co.ru
 crm.spasibosb.ru
+crm.swimly.ru
 crm2t-n.aaacapital.ru
 crm2t.aaacapital.ru
 crmbpm.spasibosb.sigma.sbrf.ru
@@ -8479,6 +8481,8 @@ digital.alfabank.ru
 digital.magnit.ru
 digital.rostatus.ru
 digital.rt.ru
+digital.sber.me
+digital.sber.ru
 digitalcenter.moscow
 digitalcryptography.ru
 digitale.bancaintesa.ru
@@ -15742,6 +15746,7 @@ redirect.jump.finance
 redirector.secrets.tbank.ru
 redirector.secrets.tinkoff.ru
 redkit-lab.work
+redmine.sberbank-ast.ru
 redsquare.rambler.ru
 redstep.qtom.ru
 reestr-proton.ru
@@ -16746,11 +16751,13 @@ senat.sberbank.ru
 senk.spwh.ru
 sense.alfabank.ru
 sensorcloud.ru
+sentry-api.sberdevices.ru
 sentry-infra.tander.ru
 sentry-itusluga.sberbank-service.ru
 sentry-mobile.alfabank.ru
 sentry-sprint.sberbank-service.ru
 sentry-test-mobile.alfabank.ru
+sentry-web.sberdevices.ru
 sentry.avangard.ru
 sentry.midep.ru
 sentry.tinkoffjournal.ru
