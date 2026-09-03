@@ -619,6 +619,7 @@
 *.cdn.max.ru
 *.cdn.ngenix.net
 *.cdn.oneme.ru
+*.cdnvideo-dfs.ivi-mc.ru
 *.cdo-first.ru
 *.ceki.ru
 *.ceph.ntv.ru
@@ -750,6 +751,7 @@
 *.cosmos-bank.ru
 *.cp-prod.web.s7.ru
 *.cp-qa.web.s7.ru
+*.cp.nci-rt.ru
 *.cp.transneft.ru
 *.cp.web.s7.ru
 *.cplsb.ru
@@ -898,11 +900,19 @@
 *.dev.giga.chat
 *.dev.gigamo.mosreg.ru
 *.dev.gismogu.mosreg.ru
+*.dev.gossluzhba.mosreg.ru
+*.dev.helpnearby.mosreg.ru
 *.dev.int.fine.sberdevices.ru
 *.dev.internal.sberdevices.ru
 *.dev.intmts.ru
 *.dev.isoik.mosreg.ru
+*.dev.issd.mosreg.ru
+*.dev.kcr.mosreg.ru
+*.dev.kinomo.mosreg.ru
 *.dev.kion.ru
+*.dev.lod.mosreg.ru
+*.dev.loyalty.mosreg.ru
+*.dev.m.zk.knd.mosreg.ru
 *.dev.market.mosreg.ru
 *.dev.mbs.mosreg.ru
 *.dev.mof.mosreg.ru
@@ -947,6 +957,7 @@
 *.dfm.ru
 *.dfo.ru
 *.dfotech.ru
+*.dfs.ivi-mc.ru
 *.dfsamara.ru
 *.dgkb-krd.ru
 *.dgp13.ru
@@ -960,6 +971,7 @@
 *.digital-org.ru
 *.digital-wb.ru
 *.digital.gov.ru
+*.digital.rt.ru
 *.digitalcryptography.ru
 *.digitalleadersforum.ru
 *.digitalms.ru
@@ -1822,6 +1834,7 @@
 *.iturupbank.ru
 *.iva-tech.ru
 *.ivgoradm.ru
+*.ivi-mc.ru
 *.ivi.ru
 *.ivk.ru
 *.ivmis.ru
@@ -2033,6 +2046,7 @@
 *.live-int.akbars.ru
 *.live.vkplay.ru
 *.live.vkvideo.ru
+*.livecdn.ivi-mc.ru
 *.livejournal.com
 *.livejournal.net
 *.livejournal.org
@@ -2209,6 +2223,7 @@
 *.mediascope.net
 *.medkhv.ru
 *.meds.miac74.ru
+*.megafon-dfs.ivi-mc.ru
 *.megafon.mail.ru
 *.megafon.ru
 *.megakontrol.ru
@@ -2289,6 +2304,7 @@
 *.mintrud.gov.ru
 *.minzdravao.ru
 *.mio26.ru
+*.miranda-media.ru
 *.mirea.ru
 *.mis.egisznso.ru
 *.mistrikov.ru
@@ -2360,6 +2376,7 @@
 *.mp.kion.ru
 *.mp.knd.gov.ru
 *.mpaes.ru
+*.mpbank.online
 *.mpcompany.ru
 *.mpl-stage.sravni.market
 *.mpr26.ru
@@ -2475,6 +2492,7 @@
 *.nbdbank.ru
 *.nbsrf.ru
 *.nccb.ru
+*.nci-rt.ru
 *.ncs.ru
 *.ncsgp.ru
 *.ncsp.com
@@ -3016,6 +3034,7 @@
 *.putevki23.ru
 *.pxit.ru
 *.pyopenrpa.ru
+*.q-admins.ru
 *.qa-dc.ru
 *.qa-dfo.ru
 *.qa.vk.team
@@ -3210,6 +3229,7 @@
 *.repository.cloud-bss.ertelecom.ru
 *.rerihspbhu.ru
 *.reso-life.ru
+*.reso-med.ru
 *.reso.ru
 *.resocreditbank.ru
 *.restart.auto
@@ -3858,6 +3878,7 @@
 *.stg.t.o3.ru
 *.stg.wms.o3.ru
 *.stgmu.ru
+*.stilkuhni.ru
 *.stm-labs.ru
 *.stomatology-kmv26.ru
 *.stomatrk.ru
@@ -7259,6 +7280,7 @@ cdntest03.rshb.ru
 cdntest03mobile.rshb.ru
 cdntest04.rshb.ru
 cdntest05.rshb.ru
+cdnvideo-dfs.ivi-mc.ru
 cdnvideo.iftonline.sberbank.ru
 cdnvideo.online.sberbank.ru
 cdnvideo.online.sbrf.ru
@@ -7711,6 +7733,7 @@ configs.key.rt.ru
 confluence.bcs.ru
 confluence.bspb.ru
 confluence.ocs.ru
+confluence.rt.ru
 confluence.sovcombank.ru
 confluencemi.bcs.ru
 connect.aoprostor.ru
@@ -7842,6 +7865,7 @@ cowork.ru
 coworking.mtsbank.ru
 cp.introlan.ru
 cp.msk.wvro.org
+cp.nci-rt.ru
 cp.nofrr.ru
 cp.osgrm.ru
 cp.sberinsur.ru
@@ -8000,6 +8024,7 @@ cti-gateway.magnit.ru
 cti-platform.wb.ru
 ctio-frn.spb.ru
 ctrl.datacloud.itphx.ru
+ctrl.datacloud.t1-cloud.ru
 cts-back-t-cl.msg.gpb.ru
 cts.aaacapital.ru
 cts.domrf.online
@@ -8315,9 +8340,17 @@ dev.gigalegal.sber.ru
 dev.gigalegal.sberbank.ru
 dev.gigamo.mosreg.ru
 dev.gismogu.mosreg.ru
+dev.gossluzhba.mosreg.ru
+dev.helpnearby.mosreg.ru
 dev.isoik.mosreg.ru
+dev.issd.mosreg.ru
 dev.kapmed.ru
+dev.kcr.mosreg.ru
+dev.kinomo.mosreg.ru
 dev.kwapp.spaymentsplus.ru
+dev.lod.mosreg.ru
+dev.loyalty.mosreg.ru
+dev.m.zk.knd.mosreg.ru
 dev.market.mosreg.ru
 dev.mbs.mosreg.ru
 dev.mof.mosreg.ru
@@ -8402,6 +8435,7 @@ dfa.sber.ru
 dfm.ru
 dfo.ru
 dfotech.ru
+dfs.ivi-mc.ru
 dfsamara.ru
 dg-money.mail.ru
 dgkb-filippskogo.ru
@@ -8444,6 +8478,7 @@ digital-wb.ru
 digital.alfabank.ru
 digital.magnit.ru
 digital.rostatus.ru
+digital.rt.ru
 digitalcenter.moscow
 digitalcryptography.ru
 digitale.bancaintesa.ru
@@ -9464,6 +9499,7 @@ flight.rosneft.ru
 float-ef-app1.sovcombank.group
 flow.halvacard.ru
 flumeter.ru
+flussonic01.tvzvezda.ru
 fly-spy.ru
 flypobeda.ru
 flyrossiya.ru
@@ -9563,6 +9599,7 @@ frp.deltacredit.ru
 frprf.ru
 fs.mtsbank.ru
 fs.tch.ru
+fscher.severstalgroup.com
 fsev.tech
 fsm.sberbank-service.ru
 fsmtest.sberbank-service.ru
@@ -10094,6 +10131,7 @@ h2h.wb-bank.ru
 h43.ru
 ha.blutz.ru
 ha.mkp.ru.net
+hair-boutique.ru
 hakas.megafon.ru
 hakaton.rt.ru
 halva-card.ru
@@ -10624,6 +10662,7 @@ ifvendorlink.vtb.ru
 igcpc.ru
 igrovoy-kop.eco.rt.ru
 ihead.ru
+ihelp.rt.ru
 ihub.devices.sberbank.ru
 ihubift.devicestest.sberbank.ru
 ihubtest.devices.sberbank.ru
@@ -11024,6 +11063,7 @@ iva.mkb.ru
 iva.tupolev.ru
 ivanskr.sel.apitest.team
 ivgoradm.ru
+ivi-mc.ru
 ivi.ru
 ivmis.ru
 ivoblmed.ru
@@ -11628,6 +11668,7 @@ live-int.akbars.ru
 live.open.ru
 live.vkplay.ru
 live.vkvideo.ru
+livecdn.ivi-mc.ru
 livejournal.com
 livejournal.net
 livejournal.org
@@ -11726,6 +11767,7 @@ lkc.test.ns-bank.ru
 lkcash.sinara.ru
 lkdoc.infoline-rk.ru
 lke.registrator-rekom.ru
+lkexpertiza.spb.ru
 lkgph.rt.ru
 lki.partner-reestr.ru
 lki.yfc.ru
@@ -12761,6 +12803,7 @@ meetings.open.ru
 meetings.westcall.net
 meetup.tbank-online.com
 meg-an.speechpro.com
+megafon-dfs.ivi-mc.ru
 megafon.ru
 megakontrol.ru
 megaplan.ru
@@ -12928,6 +12971,7 @@ mir-acs.in-bank.ru
 mir-hce-notifications.prod.yandex-bank.net
 miraccept.econombank.ru
 miraccept.metcom.ru
+miranda-media.ru
 mirconsciousness.rambler.ru
 mirea.ru
 mironchik.com
@@ -13481,6 +13525,7 @@ nca-tender.rosneft.ru
 ncagp.ru
 ncc-web.psbank.ru
 nccb.ru
+nci-rt.ru
 ncrb.mznso.ru
 ncs.ru
 ncsgp.ru
@@ -15376,6 +15421,7 @@ pyopenrpa.ru
 pyrus-integra.sovcombank.group
 pyrusbot-ortikon-test.sovcombank.group
 pyrusbot-ortikon.sovcombank.group
+q-admins.ru
 q.gis-sc.krasnodar.ru
 qa-dc.ru
 qa-dfo.ru
@@ -15805,6 +15851,7 @@ research.sberuniversity.ru
 research.sudir.sberbank.ru
 reserv.fixmail.mts.ru
 reso-life.ru
+reso-med.ru
 reso.ru
 resocreditbank.ru
 resource-consumption.root.t-software.tech
@@ -15875,6 +15922,8 @@ rmail.oparina4.ru
 rmg.ru
 rmp-psi.sber.ru
 rmp.sber.ru
+rmq.datacloud.itphx.ru
+rmq.datacloud.t1-cloud.ru
 rms.sberbank.ru
 rmso.sberbank.ru
 rn-npo.rosneft.ru
@@ -16791,6 +16840,7 @@ shagym.ru
 shakhty-edu.ru
 share.absolutbank.ru
 share.magnit.ru
+share.severstalgroup.com
 shareholder-st-psi.sberbank.ru
 shareholder.sberbank.com
 shares.journal.tinkoff.ru
@@ -17647,6 +17697,7 @@ stgvault.s.o3.ru
 stgvaultoctopass.s.o3.ru
 stgvaulttransit.s.o3.ru
 stgvaultts.s.o3.ru
+stilkuhni.ru
 stimsi.as50464.net
 stk-b.ru
 stk.mznso.ru
@@ -18716,6 +18767,7 @@ uir-ovpn.acti.ru
 uismb.api.vtb.ru
 uk-dif.ru
 uk-formula.ru
+uk-proekt.ru
 uk.sbercity.ru
 uk174.ru
 uklad.group
@@ -20635,6 +20687,7 @@ www.gzhi-web.krasnodar.ru
 www.h.vtb.ru
 www.h2.vtb.ru
 www.h2.vtbgroup.com
+www.hair-boutique.ru
 www.hakaton.rt.ru
 www.halva-card.ru
 www.halva.click
@@ -21134,6 +21187,7 @@ www.mingkhsk.ru
 www.minsoc08.ru
 www.minsoc31.ru
 www.mio26.ru
+www.miranda-media.ru
 www.mirea.ru
 www.mkp.ru.net
 www.mmk.ru
@@ -21222,6 +21276,7 @@ www.nauka.rosneft.ru
 www.navapi.krao.ru
 www.navicom.org
 www.nbdbank.ru
+www.nci-rt.ru
 www.ncs.ru
 www.ncsgp.ru
 www.nekrasovka.ru
@@ -21623,6 +21678,7 @@ www.rerihspbhu.ru
 www.research.sberbank-cib.com
 www.research.sberbank-cib.ru
 www.reso-life.ru
+www.reso-med.ru
 www.reso.ru
 www.restapi-buh.sovcombank.ru
 www.restart.auto
@@ -22189,6 +22245,7 @@ www.ugrartc.ru
 www.ugzko.ru
 www.uiosago.alfastrah.ru
 www.uismb.api.vtb.ru
+www.uk-proekt.ru
 www.uk174.ru
 www.ukpi.ru
 www.ukrfc.ru
@@ -22856,6 +22913,8 @@ zabbix-out.sovcombank.ru
 zabbix.bank.moneta.ru
 zabbix.ci.legalbpm.sberpravo.ru
 zabbix.ci.sberpravo.ru
+zabbix.datacloud.itphx.ru
+zabbix.datacloud.t1-cloud.ru
 zabbix.demo.gigalegal.sber.ru
 zabbix.demo.sberpravo.ru
 zabbix.demo2.sberpravo.ru

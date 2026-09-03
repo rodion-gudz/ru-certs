@@ -1379,6 +1379,7 @@ gvtools.ru
 gz-spb.ru
 h1n.ru
 h43.ru
+hair-boutique.ru
 halva-card.ru
 halva-club.ru
 halva.click
@@ -1626,6 +1627,7 @@ iturupbank.ru
 iva-tech.ru
 ivanovoobl.ru
 ivgoradm.ru
+ivi-mc.ru
 ivi.ru
 ivk.ru
 ivmis.ru
@@ -2064,6 +2066,7 @@ minsoc26.ru
 minsoc31.ru
 minzdravao.ru
 mio26.ru
+miranda-media.ru
 mirea.ru
 mironchik.com
 mistrikov.ru
@@ -2131,6 +2134,7 @@ moy-m-portal.ru
 moydvorec.ru
 mp-bank.ru
 mpaes.ru
+mpbank.online
 mpcompany.ru
 mpr26.ru
 mptk55.ru
@@ -2246,6 +2250,7 @@ nbgi.ru
 nbsrf.ru
 ncagp.ru
 nccb.ru
+nci-rt.ru
 ncs.ru
 ncsgp.ru
 ncsp.com
@@ -2763,6 +2768,7 @@ pyatigorsk-mrd.ru
 pyatigorsk.ru
 pyopenrpa.ru
 pzhv.ru
+q-admins.ru
 qa-dc.ru
 qa-dfo.ru
 qandyapp.ru
@@ -2871,6 +2877,7 @@ renexpress.ru
 repair-calculator.ru
 rerihspbhu.ru
 reso-life.ru
+reso-med.ru
 reso.ru
 resocreditbank.ru
 restart.auto
@@ -3571,6 +3578,7 @@ stc-spb.ru
 stcollector.ru
 stepnoe-rb.ru
 stgmu.ru
+stilkuhni.ru
 stk-b.ru
 stkvd.ru
 stm-labs.ru
@@ -3920,6 +3928,7 @@ ugrartc.ru
 ugzko.ru
 uk-dif.ru
 uk-formula.ru
+uk-proekt.ru
 uk174.ru
 uklad.group
 ukpi.ru
