@@ -2347,6 +2347,7 @@
 *.mo.doc.rscc.ru
 *.mo.edms.permkrai.ru
 *.mo.sed.rospotrebnadzor.ru
+*.mobid.megafon.ru
 *.mobifitness.ru
 *.mobile-tech.finuslugi.ru
 *.mobile.api.crpt.ru
@@ -3058,6 +3059,7 @@
 *.qandyapp.ru
 *.qe.kion.ru
 *.qms.ru
+*.qplus.ru
 *.qsupport.mts.ru
 *.qtom.ru
 *.qtrm.ru
@@ -3826,6 +3828,7 @@
 *.ssrf.ru
 *.st-dnd.ru
 *.stacks.vk-portal.net
+*.stage-cp.megafon.ru
 *.stage-dc.ru
 *.stage-dfo.ru
 *.stage-dmz.akbars.ru
@@ -5946,6 +5949,7 @@ astk-insur.ru
 aston.time-messenger.ru
 astrahovanie.ru
 astrakhan.megafon.ru
+astralinux.ru
 astrobl.ru
 astrovolga.ru
 asu-leader.ru
@@ -7888,6 +7892,8 @@ courier.otpbank.ru
 couriers.magnit.ru
 course.life.akbars.ru
 coverage.megafon.ru
+cowork-stage.ru
+cowork-svc.ru
 cowork.ru
 coworking.mtsbank.ru
 cp.introlan.ru
@@ -9733,6 +9739,7 @@ gazfond.ru
 gazprom-agnks.ru
 gazprom-arena.com
 gazprom-media.com
+gazprom.ru
 gazprombank.investments
 gazprombank.ru
 gazprombank.tech
@@ -13090,6 +13097,7 @@ mobi-rr.vtb.ru
 mobi-vpn-da.vtb.ru
 mobi-vpn-ift.vtb.ru
 mobi-vpn-rr.vtb.ru
+mobid.megafon.ru
 mobidgtw-t.rt.ru
 mobile-api.av.admtyumen.ru
 mobile-calendar.team.centrinvest.ru
@@ -15481,6 +15489,7 @@ qdrant.eye.salute.ru
 qlik.demo.sberpravo.ru
 qms.ru
 qpaycextp.centrinvest.ru
+qplus.ru
 qr-help.tander.ru
 qr.avangard.ru
 qr.centrinvest.ru
@@ -16150,6 +16159,7 @@ ru-msk-dtl-expe.open.ru
 ru-msk-dtl-expe1.open.ru
 ru-msk-dtl-expe2.open.ru
 ru-robot.ru
+ru.intl.ccb.com
 ru.mgo.su
 ru.oljk.ru
 ru.tv
@@ -17579,6 +17589,7 @@ stable.domrfbank.ru
 stacks.vk-portal.net
 staff-acquisition.magnit.ru
 stage-api-itsm.sbertech.ru
+stage-cp.megafon.ru
 stage-dc.ru
 stage-dfo.ru
 stage-dmz.akbars.ru
@@ -17998,6 +18009,7 @@ t2.ru
 t2.vbrr.ru
 t2q.region.broker
 t2zvooq.ru
+tables.mws.ru
 tablet.booking.mkb.ru
 tablet.indaspace.alfastrah.ru
 tabrasa.ru
@@ -20641,6 +20653,7 @@ www.gavan-nsk.ru
 www.gavo.arsvo.ru
 www.gazeta.ru
 www.gazfond-pn.ru
+www.gazprom.ru
 www.gazprombank.investments
 www.gazprombank.ru
 www.gazprompay.ru
