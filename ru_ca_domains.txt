@@ -11195,6 +11195,7 @@ join.mts.ru
 join.rencredit.ru
 join.sber.ru
 join.tbank-online.com
+jokertag.ru
 journal.omk.ru
 journal.tbank.ru
 journal.tinkoff.ru
@@ -17436,6 +17437,7 @@ speechpro.com
 speechpro.ru
 speechprocess.otpbank.ru
 speed.kk.bank
+speedtest.astralinux.ru
 speedtest.megafon.ru
 speedtest.rt.ru
 speedtest.ru
