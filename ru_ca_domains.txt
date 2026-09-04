@@ -482,6 +482,7 @@
 *.billing74info.ru
 *.billionaire.com
 *.binary.alfabank.ru
+*.birweb-qa.1prime.ru
 *.birweb.1prime.ru
 *.bisoft.ru
 *.bistrodengi-mkk.ru
@@ -554,6 +555,7 @@
 *.business.vk.ru
 *.business2.max.ru
 *.buzzoola.com
+*.by.mgo.su
 *.bystrobank.ru
 *.bz.cgkipd.ru
 *.c-zn.ru
@@ -574,10 +576,12 @@
 *.calendartouch.kasmail.onprem.ru
 *.calendartouch.mgred0mail.onprem.ru
 *.calendartouch.tppr.vmailru.net
+*.calendartouch.webmail.gazprom.ru
 *.calendarx.armgs.team
 *.calendarx.kasmail.onprem.ru
 *.calendarx.mgred0mail.onprem.ru
 *.calendarx.tppr.vmailru.net
+*.calendarx.webmail.gazprom.ru
 *.callcenterbook.uralairlines.ru
 *.calls-test.oneme.ru
 *.camera.rt.ru
@@ -695,6 +699,7 @@
 *.cloud.vk.ru
 *.cloud.vk.team
 *.cloud.vkteam.ru
+*.cloud.webmail.gazprom.ru
 *.cloud365.su
 *.clouddc.ru
 *.clouder.pics
@@ -1063,6 +1068,7 @@
 *.drive.modulbank.ru
 *.drive2.ru
 *.drksis.moex.com
+*.drpo.1prime.ru
 *.drsk.ru
 *.ds.ecpk.sibintek.ru
 *.dsa.sovcombank.ru
@@ -1080,6 +1086,7 @@
 *.dvfu.ru
 *.dvv1.ru
 *.dws.cloud.mts.ru
+*.dws.mts-office.mts.ru
 *.dwstest.cloud.mts.ru
 *.dyn.tinkoff.ru
 *.dynamic.kion.ru
@@ -1098,6 +1105,7 @@
 *.e.mgred0mail.onprem.ru
 *.e.mini-mail.ru
 *.e.tppr.vmailru.net
+*.e.webmail.gazprom.ru
 *.e1c-ops.com
 *.eaglecdn.com
 *.eagleplatform.com
@@ -2018,6 +2026,7 @@
 *.lenenergo.ru
 *.lengu.ru
 *.lenoblbti.ru
+*.lensov-theatre.spb.ru
 *.lenta.com
 *.lenta.ru
 *.lenta.tech
@@ -2140,6 +2149,7 @@
 *.magnitogorsk.ru
 *.mai.ru
 *.mail-king.ru
+*.mail-st.webmail.gazprom.ru
 *.mail.artyums.ru
 *.mail.brok.tech
 *.mail.my.com
@@ -2153,6 +2163,7 @@
 *.mailrugroup.ru
 *.mailserver.ru
 *.main.russianpost.ru
+*.makc.ru
 *.makclife.ru
 *.makcm.ru
 *.malchikovma.ru
@@ -2161,8 +2172,12 @@
 *.mamaev.pro
 *.mamba.ru
 *.manbbq.ru
+*.mango-loyalty.ru
 *.mango-office.ru
 *.mango-pin.ru
+*.mangosip.ru
+*.mangotalker.ru
+*.mangotele.com
 *.map.razvitie-stav.ru
 *.mapm.ru
 *.maps.2gis.com
@@ -3015,6 +3030,7 @@
 *.ptkb.ru
 *.ptsecurity.com
 *.ptsecurity.ru
+*.pub.ivi-mc.ru
 *.pubg.mail.ru
 *.public.crms-media.kion.ru
 *.public.geoscan.ru
@@ -3342,6 +3358,7 @@
 *.rttv.ru
 *.rtu-akr.ru
 *.ru-robot.ru
+*.ru.mgo.su
 *.ru.tv
 *.rubank.ru
 *.rudn.21-school.ru
@@ -4135,6 +4152,7 @@
 *.tinsurancefuture.ru
 *.tisp.sibintek.ru
 *.tit-b2b.ru
+*.tivision-mc.ru
 *.tkbbank.com
 *.tkbbank.ru
 *.tkbip.ru
@@ -4556,6 +4574,7 @@
 *.web.s7.ru
 *.web3tech.ru
 *.webbankir-api.com
+*.webmail.gazprom.ru
 *.webquik.ru
 *.webstore.mail.ru
 *.webview-mirror.ru
@@ -5470,6 +5489,7 @@ analytics.creditural.ru
 analytics.root.t-software.tech
 analytics.sdp.sber.ru
 analytics.t-software.tech
+andoc.ru
 android-gate.kk.ru
 android-gate.kubankredit.ru
 android-kb.kk.ru
@@ -6829,6 +6849,7 @@ bio.sveza.ru
 biometriatst.magnit.ru
 bionica.time-messenger.ru
 biportal.sovcombank.ru
+birweb-qa.1prime.ru
 birzha.moscow.rt.ru
 bis.mp-bank.ru
 bisoft.ru
@@ -7051,6 +7072,7 @@ bvs-33.tech.mosreg.ru
 bvs-34.tech.mosreg.ru
 bx24.kubanfarm.ru
 bxapi.sberdevices.ru
+by.mgo.su
 byod.tstore.magnit.ru
 bystrobank.ru
 bzdsit.magnit.ru
@@ -7087,6 +7109,8 @@ calendar.rambler.ru
 calendar.sdisk.ru
 calendar.smailbox.ru
 calendar.team.centrinvest.ru
+calendartouch.webmail.gazprom.ru
+calendarx.webmail.gazprom.ru
 call-1.key.rt.ru
 call.omsomsk.ru
 call.team.centrinvest.ru
@@ -7619,6 +7643,7 @@ cloud.vk.ru
 cloud.vk.team
 cloud.vkteam.ru
 cloud.vympel-rybinsk.ru
+cloud.webmail.gazprom.ru
 cloud365.su
 clouddc.rosneft.ru
 clouddc.ru
@@ -8725,6 +8750,7 @@ driver.ift.sbertransport.ru
 driver.lukoil.ru
 drivers.jump.taxi
 drivers.stage.jump.taxi
+drpo.1prime.ru
 drsk.ru
 drv.lynx-texts.ru
 drx.teleportbank.ru
@@ -8773,6 +8799,7 @@ dvlcrb.mznso.ru
 dvmi.ru
 dvv1.ru
 dws.cloud.mts.ru
+dws.mts-office.mts.ru
 dwstest.cloud.mts.ru
 dyn.tinkoff.ru
 dyna-vbo.as50464.net
@@ -8796,6 +8823,7 @@ e.gis-sc.krasnodar.ru
 e.kasmail.onprem.ru
 e.mail.ru
 e.mgred0mail.onprem.ru
+e.webmail.gazprom.ru
 e1c-ops.com
 e2c.alfabank.ru
 eaglecdn.com
@@ -9190,6 +9218,7 @@ ets.msg.gpb.ru
 etx-in.ru
 eulerhermes.ru
 eurasian-bank.ru
+euroalliance.ru
 ev.group
 ev.rosseti-lenenergo.ru
 evateam.sovcombank.ru
@@ -11592,6 +11621,7 @@ lemark.su
 len-cas.energo.ru
 lenenergo.ru
 lenoblbti.ru
+lensov-theatre.spb.ru
 lenta.com
 lenta.ru
 lenta.tech
@@ -12064,6 +12094,7 @@ mail-pda.rambler.ru
 mail-pda.sdisk.ru
 mail-pda.smailbox.ru
 mail-psy.edu.ru
+mail-st.webmail.gazprom.ru
 mail.01.rospotrebnadzor.ru
 mail.06.rospotrebnadzor.ru
 mail.09.rospotrebnadzor.ru
@@ -12563,6 +12594,7 @@ main.ipc.rssi.ru
 main.russianpost.ru
 main.sso.s7corp.ru
 mais2.nso.ru
+makc.ru
 makclife.ru
 makcm.ru
 makeyev.ru
@@ -12578,8 +12610,12 @@ management-api.stage.domapi.domrfbank.ru
 management-api.test.domapi.domrf.ru
 management-api.test.domapi.domrfbank.ru
 manbbq.ru
+mango-loyalty.ru
 mango-office.ru
 mango-pin.ru
+mangosip.ru
+mangotalker.ru
+mangotele.com
 map.fgislk-test.gov.ru
 map.fgislk.gov.ru
 map.mgis42.ru
@@ -15328,6 +15364,7 @@ ptsecurity.com
 ptsecurity.ru
 pub.fgislk-test.gov.ru
 pub.fgislk.gov.ru
+pub.ivi-mc.ru
 pub2.fgislk-test.gov.ru
 pub2.fgislk.gov.ru
 pub3.fgislk-test.gov.ru
@@ -16113,6 +16150,7 @@ ru-msk-dtl-expe.open.ru
 ru-msk-dtl-expe1.open.ru
 ru-msk-dtl-expe2.open.ru
 ru-robot.ru
+ru.mgo.su
 ru.oljk.ru
 ru.tv
 rubank.ru
@@ -18435,6 +18473,7 @@ tinvest.auth.alfabank.ru
 tips.vtb.ru
 tis-spg.nso.ru
 tit-b2b.ru
+tivision-mc.ru
 tkbbank.com
 tkbbank.ru
 tkbip.ru
@@ -19542,6 +19581,7 @@ webim.vneshbank.ru
 webinars.albank.ru
 webmail.avtobus.spb.ru
 webmail.domru.ru
+webmail.gazprom.ru
 webmail.gazprombank.ru
 webportal.dmz.ncsp.com
 webportal.ncsp.com
@@ -21128,6 +21168,7 @@ www.mail.spasibosb.ru
 www.mailbox.akbars.ru
 www.mailking.ru
 www.mailserver.ru
+www.makc.ru
 www.map.razvitie-stav.ru
 www.mapi.akbars.ru
 www.markdowntableeditor.ru
