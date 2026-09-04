@@ -7228,6 +7228,7 @@ cdn.gbo.gazprombank.ru
 cdn.gpb.ru
 cdn.halvacard.ru
 cdn.hippoparking.ru
+cdn.hub.megafon.ru
 cdn.iftonline.sberbank.ru
 cdn.igrovoy.rt.ru
 cdn.invest.sovcombank.ru
@@ -8623,6 +8624,7 @@ docs.demo1.hycl.ru
 docs.demo2.hycl.ru
 docs.demo3.hycl.ru
 docs.etna.ai
+docs.hub.megafon.ru
 docs.inkey.rt.ru
 docs.key.rt.ru
 docs.kilbil.ru
@@ -10338,6 +10340,7 @@ htv-prls.kion.ru
 htv-rrs.kion.ru
 htv-vsc.kion.ru
 htv-wv.kion.ru
+hub.megafon.ru
 hub.nspd.rosreestr.gov.ru
 hub.sdp.sber.ru
 huggingfacemeta-api.eye.salute.ru
@@ -10767,6 +10770,7 @@ infomail.atbbank.ru
 infopage.volga.rt.ru
 infoportal.megafon.ru
 inforion.ru
+informer.hub.megafon.ru
 informlaw.ru
 informseti.ru
 informsreda.com
