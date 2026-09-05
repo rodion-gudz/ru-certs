@@ -9440,6 +9440,7 @@ feedback.kilbil.ru
 feedback.poll.ertelecom.ru
 feedback.rcoko27.ru
 feedback.sbertips.sberbank.ru
+feedback.wifire.ru
 felix.rt.ru
 ferra.ru
 fesskov.ru
