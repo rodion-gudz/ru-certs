@@ -22994,6 +22994,7 @@ zabbix.legalbpm.sberpravo.ru
 zabbix.mon.sberdevices.ru
 zabbix.psi.legalbpm.sberpravo.ru
 zabbix.sberpravo.ru
+zabbix.sl-tx.ru
 zabbixuib.thbank.ru
 zabota.magnit.ru
 zabroniryi.ru
