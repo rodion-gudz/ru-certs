@@ -15018,6 +15018,7 @@ portal.gazfond-pn.ru
 portal.gkif.ru
 portal.globaloet.ru
 portal.grand-tm.ru
+portal.ingravity.online
 portal.kuzbank.ru
 portal.linuxtesting.ru
 portal.mtsbank.ru
@@ -18695,6 +18696,7 @@ turn-psi.test-jazz.sberbank.ru
 turn-sqd.absolutbank.ru
 turn-squadus.tricolor.ru
 turn.demo-inspector.gosuslugi.ru
+turn.ingravity.online
 turn.inspector.gosuslugi.ru
 turn.jazz.sberbank.ru
 turn.rshb.ru
