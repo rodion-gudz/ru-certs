@@ -287,6 +287,7 @@
 *.aq.ru
 *.aquainf.ru
 *.arbor-vitae.ru
+*.archiv.ru
 *.archive.mil.ru
 *.archive.old.mil.ru
 *.archives.gov.ru
@@ -669,9 +670,11 @@
 *.cifra.cloud
 *.cifra.group
 *.cifra.works
+*.cifroflot.ru
 *.ciogd.spb.ru
 *.cit-sk.net
 *.cit-sk.ru
+*.citis.ru
 *.cito-priorov.ru
 *.citto.ru
 *.city4you.spb.ru
@@ -1034,6 +1037,7 @@
 *.docdoc.ru
 *.docdoc.tel
 *.docs.cashout.vk.com
+*.doctor-credit.ru
 *.doctor30.ru
 *.doctorrb.ru
 *.dohodbroker.ru
@@ -1553,6 +1557,7 @@
 *.grantains.ru
 *.grcc.ru
 *.greencert.ru
+*.grfc.ru
 *.gsfrb.ru
 *.gsnspb.ru
 *.gsrk.ru
@@ -2696,6 +2701,7 @@
 *.omiko-app.omk.ru
 *.omk.ru
 *.omnichannel.mts.ru
+*.omobus.ru
 *.oms.21-school.ru
 *.oms.komifoms.ru
 *.omsk.21-school.ru
@@ -3288,6 +3294,7 @@
 *.rks.digital
 *.rl0.ru
 *.rline.pro
+*.rm.rwb.ru
 *.rma.vkteam.ru
 *.rmg.ru
 *.rms.u6.ru
@@ -4018,6 +4025,7 @@
 *.tagapp.ru
 *.tahtapni.ru
 *.talisman-web.ru
+*.talkto.io
 *.tamga-group.ru
 *.tamtam.chat
 *.tander.ru
@@ -4488,6 +4496,7 @@
 *.volga-capital.ru
 *.volgadmin.ru
 *.volgafin.ru
+*.volgaflot.com
 *.volganet.ru
 *.volgoduma.ru
 *.volgograd.ru
@@ -5104,6 +5113,7 @@ access.westcall.spb.ru
 account.2gis.com
 account.cyberprotect.ru
 account.tbki.ru
+achimdevelopment.com
 achimdevelopment.ru
 ack-it.online
 acme-test-nuc.asdkola.org
@@ -5210,12 +5220,15 @@ admbg.ru
 admblag.ru
 admburla.ru
 admdfa.masterchain.ru
+admin-cordiant-learn.severstal.ru
 admin-dev.test-jazz.sberbank.ru
 admin-ift.test-jazz.sberbank.ru
+admin-kompas.severstal.ru
 admin-lt.test-jazz.sberbank.ru
 admin-psi.test-jazz.sberbank.ru
 admin-psy.edu.ru
 admin-psy.gosuslugi.ru
+admin-study.severstal.ru
 admin.artamonovigor.ru
 admin.bcs-bank.ru
 admin.bi.sdp.sber.ru
@@ -5737,6 +5750,7 @@ api.sberegaem-vmeste.ru
 api.sberpravo.ru
 api.sbertransport.ru
 api.sbrf-cib.ru
+api.sdns.bi.zone
 api.secrets.tbank.ru
 api.secure-card-payment.ru
 api.secure-payment-flow.ru
@@ -5884,6 +5898,7 @@ arag.podeli.alfagen.alfabank.ru
 arbor-vitae.ru
 arch.mail.sovcomlife.ru
 architects.domrf.ru
+archiv.ru
 archives.gov.ru
 archives.ru
 arcrem.ru
@@ -6823,6 +6838,7 @@ bi.vebrf-ift.thehrp.ru
 bi.vebrf.thehrp.ru
 bi.yarregion-service.pulse-hr.ru
 bi.yarregion.pulse-hr.ru
+bi.zone
 bi54.nso.ru
 bia-tech.ru
 bialgam.ru
@@ -7033,6 +7049,7 @@ budgetplan.minfin.ru
 budmuzeum.stv.muzkult.ru
 buduryadom.ru
 bugboard.1c.ru
+bugbounty.bi.zone
 buh.depfin70.ru
 buh.sovcombank.ru
 buh.wb-bank.ru
@@ -7561,6 +7578,7 @@ cifra-broker.ru
 cifra.cloud
 cifra.group
 cifra.works
+cifroflot.ru
 ciktrb.ru
 ciogd.spb.ru
 cishelp.ozon.uz
@@ -7571,6 +7589,7 @@ cit.alfabank.ru
 citalka.ru
 citgos.cit-kuban.ru
 citibankdelast.deltacredit.ru
+citis.ru
 cito-priorov.ru
 citrix.atriumnn.ru
 citrix.mtsbank.ru
@@ -7820,6 +7839,7 @@ control-ul.ingobank.ru
 conversion.psbank.ru
 copilot.vk.team
 copp78.ru
+cordiant-learn.severstal.ru
 core-logistic-orders.ext-proxy.prod.yandex-bank.net
 core-sbol.chastyami.shop
 core.konus.group
@@ -8144,6 +8164,9 @@ d-technologies.ru
 d.atstpay.pro
 d.gis-sc.krasnodar.ru
 d2insur.ru
+d360v2-cordiant-learn.severstal.ru
+d360v2-kompas.severstal.ru
+d360v2-study.severstal.ru
 d71.ru
 da-cpu.asudd.net
 da-pvp.asudd.net
@@ -8687,6 +8710,7 @@ docs.sovcombank.ru
 docs.time-messenger.ru
 docs.tinko.ru
 docs5test.trcont.ru
+doctor-credit.ru
 doctor30.ru
 doctorrb.ru
 docushka.ru
@@ -8774,6 +8798,7 @@ driver.ift.sbertransport.ru
 driver.lukoil.ru
 drivers.jump.taxi
 drivers.stage.jump.taxi
+drp.bi.zone
 drpo.1prime.ru
 drsk.ru
 drv.lynx-texts.ru
@@ -9487,6 +9512,7 @@ fileexch.aspirelifestyles.ru
 files-b.team.centrinvest.ru
 files-n.vneshbank.ru
 files.argds.ru
+files.bi.zone
 files.cyberprotect.ru
 files.energo.ru
 files.hr-dev.sberbank.ru
@@ -10089,6 +10115,7 @@ graylog.ift.legalbpm.sberpravo.ru
 graylog.legalbpm.sberpravo.ru
 graylog.psi.legalbpm.sberpravo.ru
 graylog.sberpravo.ru
+grc.bi.zone
 greenblue.creditural.ru
 greenfield.rc.senat.sberbank.ru
 greenfield.senat.sberbank.ru
@@ -10096,6 +10123,7 @@ greenfield.staging.senat.sberbank.ru
 greenfieldinvest.domrfbank.ru
 greenmarathon.sberbank.ru
 greenpalasdelast.deltacredit.ru
+grfc.ru
 grid.speechpro.com
 gridid-i9.speechpro.com
 groupib-abm.alfabank.ru
@@ -10263,6 +10291,7 @@ helloinvestment.ru
 help-chat.bank.yandex.ru
 help.addy.su
 help.ai-bank.ru
+help.bi.zone
 help.cyberprotect.ru
 help.gazprombank.investments
 help.jump.taxi
@@ -10400,6 +10429,7 @@ hub.nspd.rosreestr.gov.ru
 hub.sdp.sber.ru
 huggingfacemeta-api.eye.salute.ru
 hva.im
+hvt.nornik.ru
 hw-demo.speechpro.com
 hw.onecld.ru
 hyperion.sber.ru
@@ -10571,6 +10601,7 @@ id.admkonda.ru
 id.alfabank.ru
 id.alfastrahoms.ru
 id.app-assistent.open.ru
+id.bi.zone
 id.bizregis.ru
 id.cyberkoala.ru
 id.dengivdelo.ru
@@ -11455,6 +11486,7 @@ komission.vtb.ru
 kommba.mail.ru
 komontrol.ru
 komp-tech.ru
+kompas.severstal.ru
 komsport.spb.ru
 komtet.ru
 komzrt.ru
@@ -11768,6 +11800,7 @@ lk.admsvtl.ru
 lk.alfadirect.ru
 lk.app-assistent.open.ru
 lk.bcs-bank.ru
+lk.bi.zone
 lk.car.bistrodengi.ru
 lk.css-rzd.ru
 lk.css.rzd.ru
@@ -12549,6 +12582,7 @@ mail.urp-taxr-app1.sovcombank.group
 mail.urt-taxr-app1.sovcombank.group
 mail.vbudushee.ru
 mail.vesta.ru
+mail.vk-terminal.ru
 mail.vlk.sovcombank.ru
 mail.volgafin.ru
 mail.vpn-phd.sovcombank.ru
@@ -12781,6 +12815,7 @@ mcs.mail.ru
 mcst.ru
 mcu.kubankredit.ru
 mcu.ncagp.ru
+mcurl.ru
 mcx.ru
 mcxrk.ru
 md-audit.alfabank.ru
@@ -14003,6 +14038,7 @@ omnibot.chat.psbank.ru
 omnichannel.mts.ru
 omnichat-b2b.rt.ru
 omnichat.rt.ru
+omobus.ru
 omon.cplsb.ru
 omr.mtsbank.ru
 oms.21-school.ru
@@ -15922,6 +15958,7 @@ reports247.sber.ru
 reportst.tch.ru
 repository.cloud-bss.ertelecom.ru
 reprogen.ncagp.ru
+reputation.bi.zone
 rerihspbhu.ru
 res-investor.sberbank.ru
 res.creditural.ru
@@ -16004,6 +16041,7 @@ rl0.ru
 rline.pro
 rlp.minzdrav.gov.ru
 rm.dm.alfabank.ru
+rm.rwb.ru
 rmail.oparina4.ru
 rmg.ru
 rmp-psi.sber.ru
@@ -16723,6 +16761,7 @@ sdk.money.mail.ru
 sdlc.cc.linuxtesting.ru
 sdm-gallery.ru
 sdm.ru
+sdns.bi.zone
 sdo.avangard.ru
 sdp.21-school.ru
 sdp.sber.ru
@@ -17226,6 +17265,7 @@ smtp.avtobus.spb.ru
 smtp.baltlng.ru
 smtp.bscbalt.ru
 smtp.crimea.rncb.ru
+smtp.interfax.ru
 smtp.kronshtadt.ru
 smtp.mail.orb.ru
 smtp.ncsp.com
@@ -17866,6 +17906,7 @@ studio.sberdevices.ru
 studio.vk.com
 studio.vk.ru
 study.andromeda.sbercity.ru
+study.severstal.ru
 study.vk.team
 stuff-services.cardsmobile.ru
 stv-dealer.mts.ru
@@ -18061,6 +18102,7 @@ talisman-so.ru
 talisman-web.ru
 talk.magnit.ru
 talk.tconf.ru
+talkto.io
 talktst.magnit.ru
 talos-res.iftonline.sberbank.ru
 talos-res.online.sberbank.ru
@@ -18472,6 +18514,7 @@ third2-m12.asudd.net
 third3-m12.asudd.net
 thpoint.ru
 thuricum.ru
+ti-collector.bi.zone
 tib.gazprombank.ru
 ticket.flypobeda.ru
 ticketland.ru
@@ -19344,6 +19387,7 @@ volbti.ru
 volga-capital.ru
 volgadmin.ru
 volgafin.ru
+volgaflot.com
 volganet.ru
 volgoduma.ru
 volgograd.megafon.ru
@@ -21247,6 +21291,7 @@ www.mcbankrus.ru
 www.mco-panacea.ru
 www.mcrssar.ru
 www.mcst.ru
+www.mcurl.ru
 www.mdm.rambler-co.ru
 www.mdm.vtb.ru
 www.mebel-enot.ru
@@ -22347,6 +22392,7 @@ www.udmurt.ru
 www.udmurtenergoneft.rosneft.ru
 www.udmurtneft.rosneft.ru
 www.udmurtneft.ru
+www.uecrus.com
 www.uemc73.ru
 www.uemz.ru
 www.ufa.21-school.ru
