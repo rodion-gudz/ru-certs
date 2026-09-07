@@ -754,6 +754,10 @@
 *.corpmsp.ru
 *.cos.ngenix.net
 *.cosmos-bank.ru
+*.cowork-dev.ru
+*.cowork-stage.ru
+*.cowork-svc.ru
+*.cowork.ru
 *.cp-prod.web.s7.ru
 *.cp-qa.web.s7.ru
 *.cp.nci-rt.ru
@@ -990,6 +994,7 @@
 *.dipos.ru
 *.direct-credit.dev
 *.direct-credit.ru
+*.directstar.ru
 *.dis.vk.com
 *.dis.vk.ru
 *.disc-o.cloud
@@ -1465,6 +1470,8 @@
 *.gibdd.mail.ru
 *.gid.vk.com
 *.giga.chat
+*.gigab2b.ru
+*.gigaenterprise.ai
 *.gigahub.sberdevices.ru
 *.gilenko.ru
 *.ginras.ru
@@ -1740,6 +1747,7 @@
 *.infinitum-tc.ru
 *.info-uaz.ru
 *.infodec.ru
+*.informhd.ru
 *.informseti.ru
 *.informsreda.com
 *.infosysco.ru
@@ -3669,6 +3677,7 @@
 *.skkmorf.ru
 *.skkmpc.ru
 *.skkpodmoskovie.ru
+*.skladrom.ru
 *.skm.pro
 *.skmiac.ru
 *.skmmp.ru
@@ -4340,6 +4349,7 @@
 *.utg-express.ru
 *.utg.group
 *.utmn.ru
+*.uwca.ru
 *.v8.1c.ru
 *.vamto.mil.ru
 *.vamto.old.mil.ru
@@ -5088,6 +5098,7 @@ access.kamaz.org
 access.kamaz.ru
 access.rencredit.ru
 access.transneft.ru
+access.uwca.ru
 access.vtb.ru
 access.westcall.spb.ru
 account.2gis.com
@@ -6229,6 +6240,7 @@ autodiscover.hva.im
 autodiscover.i.doktor.kr
 autodiscover.image.mail.sovcomlife.ru
 autodiscover.index20.ru
+autodiscover.informhd.ru
 autodiscover.ins-sys.ru
 autodiscover.kartahalva.ru
 autodiscover.karthalva.ru
@@ -6435,6 +6447,7 @@ autourist72.ru
 av.deltacredit.ru
 av.expobank.ru
 av.ntv.ru
+av.uwca.ru
 avangard.ru
 avatar.vtb.ru
 avatars.rambler.ru
@@ -7500,6 +7513,7 @@ checkimpulse.ru
 checkin.flypobeda.ru
 checkindex.ru
 checkout.ozon.ru
+checkrsa.cn.fsg.ru
 checkssl.lenta.com
 chel.21-school.ru
 chel.megafon.ru
@@ -7747,6 +7761,7 @@ compass.com.ru
 concentrate.rambler.ru
 conf.profil.mos.ru
 conf.rshb-ins.ru
+conf.uwca.ru
 conference-10-centralimpcluster.mts.ru
 conference-2-centralimpcluster.mts.ru
 conference-2-css-rzd.css.rzd.ru
@@ -8491,6 +8506,7 @@ dialin.fc-zenit.ru
 dialin.gazeks.com
 dialin.ingos.ru
 dialin.ntv.ru
+dialin.uwca.ru
 dialog-regions.ru
 dialog.info
 dialog.online
@@ -8541,6 +8557,7 @@ direct-credit.ru
 direct.creditural.ru
 direct.sbbolmobile.sberbank.ru
 direct.sbbolmobiletest.sberbank.ru
+directstar.ru
 directum.gosapteka18.ru
 directum.sbercity.ru
 dis.vk.com
@@ -8672,6 +8689,7 @@ docs.tinko.ru
 docs5test.trcont.ru
 doctor30.ru
 doctorrb.ru
+docushka.ru
 dodo.time-messenger.ru
 dogovor.diok.krasnodar.ru
 dogovor.gazfond-pn.ru
@@ -10808,6 +10826,7 @@ infopage.volga.rt.ru
 infoportal.megafon.ru
 inforion.ru
 informer.hub.megafon.ru
+informhd.ru
 informlaw.ru
 informseti.ru
 informsreda.com
@@ -11115,6 +11134,7 @@ ivoblmed.ru
 ivoblmed.su
 ivuslugi.ru
 iws.tch.ru
+ix-m3-tt-qa-sipproxy01.homeagents.ru
 izh.21-school.ru
 izobrb.ru
 izzzi.sberbusiness.live
@@ -11783,6 +11803,7 @@ lk.otpfinance.ru
 lk.prostobank.online
 lk.psb.services
 lk.rc-kraisneft.ru
+lk.region-am.ru
 lk.region-dk.ru
 lk.region.broker
 lk.registrator-rekom.ru
@@ -12008,6 +12029,7 @@ lyncdiscover.porprokat.ru
 lyncdiscover.stalaris.ru
 lyncdiscover.stallect.ru
 lyncdiscover.trubodetal.ru
+lyncdiscover.uwca.ru
 lyncdiscover.vrk-3.ru
 lyncdiscover.vsw.ru
 lyncdiscover.vyksa-culture.ru
@@ -12301,6 +12323,7 @@ mail.ift.gigalegal.sber.ru
 mail.ift.legalbpm.sberpravo.ru
 mail.ift.legalforms.sberpravo.ru
 mail.image.mail.sovcomlife.ru
+mail.informhd.ru
 mail.ingeos.info
 mail.ins-sys.ru
 mail.ipc.rssi.ru
@@ -12846,6 +12869,7 @@ meet.ntv.ru
 meet.omk.ru
 meet.rosneft.ru
 meet.uralsib.ru
+meet.uwca.ru
 meeting-test.psbank.ru
 meeting.avangard.ru
 meeting.psbank.ru
@@ -14350,6 +14374,7 @@ owa.hlv.ru
 owa.hva.im
 owa.i.doktor.kr
 owa.image.mail.sovcomlife.ru
+owa.informhd.ru
 owa.kartahalva.ru
 owa.karthalva.ru
 owa.kept.by
@@ -14784,6 +14809,7 @@ people.open.ru
 people.sber.ru
 people.sberbank.ru
 people.sovcombank.ru
+perepis2002.ru
 peretok.ru
 perfluence.io
 perfluence.net
@@ -15146,6 +15172,7 @@ prim.drsk.ru
 prim.megafon.ru
 primavera.market
 prime.inforion.ru
+primersvedosa.ru
 primorsky.ru
 priovtb.com
 pritok.ru
@@ -15731,6 +15758,7 @@ ravpn6.sberbank.ru
 ravpn7.sberbank.ru
 ravpntest2.ingos.ru
 rawenstvo.ru
+raxly.ru
 ray.giga.salute.ru
 razdva.org
 razvitie-stav.ru
@@ -16839,6 +16867,7 @@ services.ncagp.ru
 servicescontrol.sibintek.ru
 servicex.cardsmobile.ru
 servionica.ru
+servolk.ru
 sessions.key.rt.ru
 sesufa.ru
 sev-tech.ru
@@ -16859,6 +16888,7 @@ sfb-edge.megafon.ru
 sfb-edge01.megafon.ru
 sfb-web.mtsbank.ru
 sfb.mtsbank.ru
+sfb.uwca.ru
 sfedu.ru
 sfera-t1.ru
 sfera-test.pochtabank.ru
@@ -17014,6 +17044,7 @@ sip.stallect.ru
 sip.stpr.ru
 sip.surgutneftegas.ru
 sip.trubodetal.ru
+sip.uwca.ru
 sip.vcs.deltacredit.ru
 sip.voiptools.ru
 sip.vsw.ru
@@ -17072,6 +17103,7 @@ skkmo.ru
 skkmorf.ru
 skkmpc.ru
 skkpodmoskovie.ru
+skladrom.ru
 skm.pro
 skmiac.ru
 skmmp.ru
@@ -18797,6 +18829,7 @@ ucb.ru
 ucbreport.ru
 uchebnik-social.t-j.ru
 uchi.ru
+uchihanzi.ru
 uchilische-centr-invalidov.ru
 ucp-testing.one-infra.ru
 ucp.one-infra.ru
@@ -18950,6 +18983,7 @@ utmn.ru
 utpp.inform.gazprom.ru
 uulz.ru
 uvs-tender.rosneft.ru
+uwca.ru
 uzagsrk.ru
 uzedo.bspb.ru
 v-byod-cert.sbertech.ru
@@ -20295,6 +20329,7 @@ www.chattest.otpbank.ru
 www.chebarcul.ru
 www.checkib.avangard.ru
 www.checkindex.ru
+www.checkrsa.cn.fsg.ru
 www.chel.21-school.ru
 www.chelindbank.ru
 www.chelnyvodokanal.ru
@@ -20469,6 +20504,7 @@ www.dobroskb.ru
 www.docs-test.sovcombank.ru
 www.docs.sovcombank.ru
 www.doctor30.ru
+www.docushka.ru
 www.dom.mts.ru
 www.domclick.ru
 www.domino.otpbank.ru
@@ -21529,6 +21565,7 @@ www.pchtb.ru
 www.pchtbnk.ru
 www.pensiya.veb.ru
 www.people.sovcombank.ru
+www.perepis2002.ru
 www.perfluence.io
 www.perfluence.net
 www.perfluence.ru
@@ -21700,6 +21737,7 @@ www.ravpn.pochtabank.ru
 www.ravpn2.pochtabank.ru
 www.ravpn3.pochtabank.ru
 www.rawenstvo.ru
+www.raxly.ru
 www.razdva.org
 www.razvitie-stav.ru
 www.rb-collect.ru
@@ -21958,6 +21996,7 @@ www.service.gazprombank.ru
 www.servicecdn.ru
 www.services.fintender.ru
 www.services.livejournal.com
+www.servolk.ru
 www.sev-tech.ru
 www.sever-tech.com
 www.sevnb.ru
@@ -21998,6 +22037,7 @@ www.skgelios.ru
 www.ski.pionerka.ru
 www.skkmorf.ru
 www.skkpodmoskovie.ru
+www.skladrom.ru
 www.skm.pro
 www.skmiac.ru
 www.skmmp.ru
@@ -22300,6 +22340,7 @@ www.ubc.spasibosb.ru
 www.ubrr.ru
 www.ucb.im
 www.ucb.ru
+www.uchihanzi.ru
 www.ucparma.ru
 www.udms.kion.ru
 www.udmurt.ru
