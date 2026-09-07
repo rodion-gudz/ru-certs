@@ -15941,6 +15941,7 @@ repair-calculator.ru
 repair.vtb.ru
 repo.aaacapital.ru
 repo.spasibobonus.ru
+report-nuc.tst.mobile.yandex.net
 report-viewer.addy.su
 report.depfin70.ru
 report.mfsk.ru
@@ -17738,6 +17739,7 @@ start-career-connect.bspb.ru
 start.kk.bank
 start.uralsib.ru
 startcm.ru
+startup-nuc.tst.mobile.yandex.net
 startups.su
 startupsummit.ru
 startwork.rt.ru
