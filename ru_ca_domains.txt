@@ -7443,6 +7443,7 @@ cfmc.ru
 cfo-front.alfabank.ru
 cft.ift.sberbank.ru
 cgbp.ru
+cge-amur.ru
 cge.onego.ru
 cge49.ru
 cgispro.ru
