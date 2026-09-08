@@ -2854,6 +2854,7 @@
 *.payanyway.ru
 *.payconnect.ru
 *.paygwsec.sberbank-tele.com
+*.payhd.ru
 *.payment.rambler.ru
 *.paymentkit.ru
 *.paymgate.ru
@@ -3529,6 +3530,7 @@
 *.sberintegro.ru
 *.sberleasing.ru
 *.sberlogistics.ru
+*.sbermarket.ru
 *.sbermarket.tech
 *.sbermed.ai
 *.sbermegamarket.ru
@@ -6336,6 +6338,7 @@ autodiscover.oparina4.ru
 autodiscover.ord.ozon.ru
 autodiscover.ozmm-so.ru
 autodiscover.partners.sovcombank.ru
+autodiscover.payhd.ru
 autodiscover.people.sovcombank.ru
 autodiscover.pki.sovcombank.ru
 autodiscover.planeta-mall.ru
@@ -8673,15 +8676,18 @@ dlos.cscampus.ru
 dlrc.mznso.ru
 dltru.org
 dm.alfabank.ru
+dm.rrcki.ru
 dm.spasibosb.ru
 dm22.spasibosb.ru
 dmclk.ru
+dmdev.rrcki.ru
 dmh-api.inkey.rt.ru
 dmh-api.key.rt.ru
 dmh-api.rt.ru
 dmitriykhotimskiy.ru
 dmp.magnit.ru
 dms-ugsk.ru
+dmtest.rrcki.ru
 dmz-knt-ift-intg01.sberbankins.ru
 dmz-knt-ift-intg02.sberbankins.ru
 dmz-knt-ift-intg03.sberbankins.ru
@@ -9697,6 +9703,8 @@ fpsu.le.openbanking.sber.ru
 fpvsim.geoscan.ru
 fr.key.rt.ru
 fractel.ru
+frade.spasibosb.ru
+frade.spasibotest.ru
 fraktel.ru
 freelance.addy.su
 freepascal.ru
@@ -10378,6 +10386,7 @@ hlv.ru
 hmbonline.kbhmb.ru
 hmnpf.ru
 hnted.mkb.ru
+hobby-horse.club
 hohma-ch.pro
 hold-lm.test.nextcontact.ru
 hole-nevermind.ru
@@ -12491,6 +12500,7 @@ mail.open-broker.ru
 mail.orb.ru
 mail.partner.sinara.ru
 mail.partners.sovcombank.ru
+mail.payhd.ru
 mail.people.sovcombank.ru
 mail.perm.ru
 mail.pervbank.ru
@@ -14495,6 +14505,7 @@ owa.ogk2.ru
 owa.onlinetours.ru
 owa.ozon.ru
 owa.partners.sovcombank.ru
+owa.payhd.ru
 owa.people.sovcombank.ru
 owa.pki.sovcombank.ru
 owa.plide.ru
@@ -14822,6 +14833,7 @@ payer.creditural.ru
 payflow.ertelecom.ru
 payform.tkbbank.ru
 paygwsec.sberbank-tele.com
+payhd.ru
 paykeeper-preprod.mkb.ru
 paykeeper.mkb.ru
 payment.alfabank.ru
@@ -15385,6 +15397,8 @@ prostobank.online
 prosv.ru
 provodnik.ru
 proxy-autoconf.sberbank-service.ru
+proxy-manager-ift.giga.salute.ru
+proxy-manager.giga.salute.ru
 proxy-tst.ingobank.ru
 proxy.ingobank.ru
 proxy.spasibobonus.ru
@@ -20024,6 +20038,7 @@ www.25let.omk.ru
 www.2w.ru
 www.30let.omk.ru
 www.35.rospotrebnadzor.ru
+www.36.rospotrebnadzor.ru
 www.38fbuz.ru
 www.39.rospotrebnadzor.ru
 www.3ds.domrfbank.ru
