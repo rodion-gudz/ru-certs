@@ -133,6 +133,7 @@
 *.adygheya.ru
 *.aeromax-group.ru
 *.aeromax.pro
+*.aerosila.ru
 *.aes192.ru
 *.afisha.mail.ru
 *.afisha.ru
@@ -613,6 +614,7 @@
 *.ccb2.ru
 *.ccbrussia.ru
 *.cctv.sptz.ru
+*.cdek.ru
 *.cdekfin.ru
 *.cdekpay.ru
 *.cdep.ru
@@ -2553,6 +2555,7 @@
 *.nic.ru
 *.nico-bank.ru
 *.nii-kpg.ru
+*.nii-nk.ru
 *.nii-vektor.ru
 *.niige.ru
 *.niip.ru
@@ -3302,6 +3305,7 @@
 *.roadkursk.ru
 *.rock-digital.ru
 *.rock-up.ru
+*.rocketbank.ru
 *.roddom-krd.ru
 *.rodnik-altaya.com
 *.roomlink.ru
@@ -5294,6 +5298,7 @@ aegis.onecld.ru
 aero.rsb.ru
 aeromax-group.ru
 aeromax.pro
+aerosila.ru
 aes192.ru
 af-pixel.mtsbank.ru
 afam.mfk-bank.ru
@@ -6578,7 +6583,9 @@ b2c-admin.credistory.ru
 b2c-dbofl-web-auth-test.domrfbank.ru
 b2c-dbofl-web-auth.domrfbank.ru
 b2c-dbofl-web-domapi.domrfbank.ru
+b2c-dbofl-web-pccard.domrfbank.ru
 b2c-invest-mobile-auth.domrfbank.ru
+b2c-invest-mobile-pccard.domrfbank.ru
 b2c.client.sbertech.ru
 b2c.passport.rt.ru
 b2o.megafon.ru
@@ -7258,6 +7265,7 @@ cctv.sptz.ru
 cd.regulinvest.ru
 cddisk.r7.corp.znanierussia.ru
 cddisk.r7.ncsp.ru
+cdek.ru
 cdekfin.ru
 cdekpay.ru
 cdep.ru
@@ -16083,6 +16091,7 @@ roaming.mts.ru
 robottest7.dostavista.ru
 rock-digital.ru
 rock-up.ru
+rocketbank.ru
 rocketozon.by
 roddom-krd.ru
 rodnik-altaya.com
@@ -19191,6 +19200,7 @@ vegapost.sonarplus.ru
 vektrumsport.ru
 veles-capital.ru
 velesib.ru
+velken.ru
 velosport.ru
 venets-bank.ru
 venus.magnitcosmetic.ru
@@ -20041,6 +20051,7 @@ www.admpgo.ru
 www.adtech.rambler.ru
 www.aeromax-group.ru
 www.aeromax.pro
+www.aerosila.ru
 www.afisha.ru
 www.afmg.ru
 www.afo.autofinancebank.ru

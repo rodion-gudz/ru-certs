@@ -108,6 +108,7 @@ adpo-edu.ru
 adygheya.ru
 aeromax-group.ru
 aeromax.pro
+aerosila.ru
 aes192.ru
 afisha.ru
 afmg.ru
@@ -578,6 +579,7 @@ ccb.ru
 ccb2.ru
 ccbrussia.ru
 cchgeu.ru
+cdek.ru
 cdekfin.ru
 cdekpay.ru
 cdep.ru
@@ -2312,6 +2314,7 @@ nic-itep.ru
 nic.ru
 nico-bank.ru
 nii-kpg.ru
+nii-nk.ru
 nii-vektor.ru
 niidpo.ru
 niige.ru
@@ -4067,6 +4070,7 @@ vega-rus.net
 vektrumsport.ru
 veles-capital.ru
 velesib.ru
+velken.ru
 velosport.ru
 venets-bank.ru
 verbilki-snt.ru
