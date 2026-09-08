@@ -929,7 +929,12 @@
 *.dev.m.zk.knd.mosreg.ru
 *.dev.market.mosreg.ru
 *.dev.mbs.mosreg.ru
+*.dev.mcsumo.mosreg.ru
+*.dev.mku.mosreg.ru
+*.dev.mno.minblag.mosreg.ru
 *.dev.mof.mosreg.ru
+*.dev.monitoring.mosreg.ru
+*.dev.moyapk.mosreg.ru
 *.dev.nspd.rosreestr.gov.ru
 *.dev.ntv.ru
 *.dev.o3t.me
@@ -2034,9 +2039,11 @@
 *.lan.ubrr.ru
 *.lanta.ru
 *.laspace.ru
+*.lazurmedical.ru
 *.learn.geoscan.ru
 *.learning.ozon.ru
 *.lec.team
+*.lecta.ru
 *.lemark.su
 *.lenenergo.ru
 *.lengu.ru
@@ -2508,6 +2515,7 @@
 *.n-sys.ru
 *.n3health.ru
 *.na-podpisi.ru
+*.nadzor26.ru
 *.nagaev.biz
 *.nakarantine.ru
 *.nalog.gov.ru
@@ -3301,6 +3309,7 @@
 *.rma.vkteam.ru
 *.rmg.ru
 *.rms.u6.ru
+*.rn-grp.ru
 *.rnrc.ru
 *.roadkursk.ru
 *.rock-digital.ru
@@ -4183,6 +4192,7 @@
 *.tl-technologies.ru
 *.tm26.ru
 *.tmeetings.ru
+*.tmk.pnzmed.ru
 *.tmkpenza.ru
 *.tmn-obl.ru
 *.tnkf.su
@@ -4198,6 +4208,7 @@
 *.tools.sberdevices.ru
 *.top100.rambler.ru
 *.top100.ru
+*.topsbi.ru
 *.torg-i.com
 *.torgi.gov.ru
 *.touchngo.ru
@@ -4280,6 +4291,7 @@
 *.uc-gpb.ru
 *.ucbreport.ru
 *.uchi.ru
+*.uchitel.club
 *.ucp-testing.one-infra.ru
 *.ucp.one-infra.ru
 *.ucparma.ru
@@ -4963,6 +4975,7 @@
 31.rospotrebnadzor.ru
 35.rospotrebnadzor.ru
 3569259-oo26855.twc1.net
+36.rospotrebnadzor.ru
 360.bolzen.pro
 38fbuz.ru
 39.rospotrebnadzor.ru
@@ -5349,6 +5362,7 @@ ai-vesna.ru
 ai.dudu2.ru
 ai.ibs.ru
 ai.kion.ru
+ai.nsud.gosuslugi.ru
 ai.sber.ru
 ai.sfn-am.ru
 ai72.ru
@@ -7936,6 +7950,7 @@ courier.otpbank.ru
 couriers.magnit.ru
 course.life.akbars.ru
 coverage.megafon.ru
+cowork-dev.ru
 cowork-stage.ru
 cowork-svc.ru
 cowork.ru
@@ -8130,6 +8145,7 @@ ctxidp.mtsbank.ru
 cu.dzen.ru
 cuadro1.donland.ru
 cucm.amet.ru
+culture.gosuslugi.ru
 cultureapps.vtb.ru
 cumbersome.rambler.ru
 cup.amet.ru
@@ -8434,7 +8450,12 @@ dev.loyalty.mosreg.ru
 dev.m.zk.knd.mosreg.ru
 dev.market.mosreg.ru
 dev.mbs.mosreg.ru
+dev.mcsumo.mosreg.ru
+dev.mku.mosreg.ru
+dev.mno.minblag.mosreg.ru
 dev.mof.mosreg.ru
+dev.monitoring.mosreg.ru
+dev.moyapk.mosreg.ru
 dev.nspd.rosreestr.gov.ru
 dev.ntv.ru
 dev.o3t.me
@@ -8688,6 +8709,7 @@ doc.lemark.su
 doc.lk.psb.services
 doc.rostatus.ru
 doc.rscc.ru
+doc.sfmo.ru
 docagent.sberbank-service.ru
 docdoc.pro
 docdoc.ru
@@ -8781,6 +8803,7 @@ download.smailbox.ru
 download.srv-hub.org
 downloads.time-messenger.ru
 dp-app01-t.sinara.ru
+dp-release.bcslife.ru
 dp-repo.vk.com
 dp.1tv.ru
 dp.mdm.sberins.ru
@@ -9034,6 +9057,8 @@ egisz.angelsit.ru
 egisznso.ru
 egl.mts.ru
 egovdev.ru
+egovm.ru
+egovmd.ru
 egrz.ru
 eic.ru
 eid-bis.1cupis.ru
@@ -9730,6 +9755,7 @@ fw.raiffeisen.ru
 fworkspace.sber247.ru
 fx-games.ru
 fx.bspb.ru
+fzo.gosuslugi.ru
 fzo.gov.ru
 g.gis-sc.krasnodar.ru
 g45.tambov.gov.ru
@@ -10028,6 +10054,7 @@ goshior.ru
 goskey.ru
 gosoc.ru
 gosschool.ru
+gossluzhba.gov.ru
 gossortrf.ru
 gost-os.ru
 gost.bstrv.ru
@@ -10039,6 +10066,7 @@ gostorgi.tverreg.ru
 gostpki.vtb.ru
 gosuslugi.ru
 gosuslugi74.ru
+gosweb.gosuslugi.ru
 goszakaz.otpbank.ru
 goszakaz44.e-mordovia.ru
 gov-murman.ru
@@ -10152,6 +10180,7 @@ gtech-gus.tbank-online.com
 gti.bi.zone
 gtyprofill.ru
 gu-st.ru
+gu.ru
 gu.spb.ru
 guard.cscampus.ru
 guard.kamp-ext-if.vtb.ru
@@ -10191,6 +10220,7 @@ gw-vpn.t-access.ru
 gw-vpn.tcsbank.ru
 gw.api.vtb.ru
 gw.bspb.ru
+gw.gosuslugi.ru
 gw.lenta.com
 gw.platichastyami.ru
 gw.speechpro.com
@@ -11656,6 +11686,7 @@ laverna.journal.tinkoff.ru
 laverna.t-j.ru
 lawis.sovcombank.ru
 lazarusfinance.ru
+lazurmedical.ru
 lb-ss.webquik-test.sberbank.ru
 lb-t1.webquik-test.sberbank.ru
 lb-w2q.webquik-test.sberbank.ru
@@ -11679,6 +11710,7 @@ leasing.ozon.ru
 leasing.wildberries.ru
 lec-press.ru
 lec.team
+lecta.ru
 leda.forabank.ru
 legal.deltacredit.ru
 legal.magnit.ru
@@ -11809,6 +11841,7 @@ lk.admsvtl.ru
 lk.alfadirect.ru
 lk.app-assistent.open.ru
 lk.bcs-bank.ru
+lk.bcslife.ru
 lk.bi.zone
 lk.car.bistrodengi.ru
 lk.css-rzd.ru
@@ -13577,6 +13610,7 @@ myqualification.rambler.ru
 myram.ru
 myregistry.cyberkoala.ru
 mysbertips.ru
+myschool.edu.ru
 mysite.gktravel.ru
 myskb.ru
 myt.srv-hub.org
@@ -13615,6 +13649,7 @@ n.gktravel.ru
 n3health.ru
 n8n.vk.team
 na-podpisi.ru
+nadzor26.ru
 nagaev.biz
 nakarantine.ru
 nalog.uprio.ru
@@ -13678,6 +13713,7 @@ new-lk-developer.vtb.ru
 new-online.econombank.ru
 new-to-bank.delivery.alfabank.ru
 new-top100.rambler.ru
+new.bcslife.ru
 new.domlenta.ru
 new.eagleplatform.com
 new.iro38.ru
@@ -14895,6 +14931,8 @@ pg.creditural.ru
 pg2.creditural.ru
 pga.gazprombank.ru
 pgo-npa.ru
+pgs.rtlabs.ru
+pgss3.gosuslugi.ru
 pgtest.bspb.ru
 pgwh.nsd.ru
 pgwh2.nsd.ru
@@ -15844,6 +15882,7 @@ rcraduga.ru
 rd.otpbank.ru
 rd6.mznso.ru
 rd7.mznso.ru
+rdb.ru
 rdc.spb.ru
 rdcp.metcom.ru
 rdekonorack.ru
@@ -16060,6 +16099,7 @@ rmq.datacloud.itphx.ru
 rmq.datacloud.t1-cloud.ru
 rms.sberbank.ru
 rmso.sberbank.ru
+rn-grp.ru
 rn-npo.rosneft.ru
 rn-uchet.rosneft.ru
 rn-wt-web.rosneft.ru
@@ -16085,6 +16125,7 @@ rnlibmdppr01.rosneft.ru
 rnlibmdppr02.rosneft.ru
 rnrc.ru
 rns.ncagp.ru
+rnt.ru
 rnuchet.rosneft.ru
 roadkursk.ru
 roaming.mts.ru
@@ -16804,6 +16845,7 @@ secure-paymentsolution.ru
 secure-test.api.sinara.ru
 secure.api.sinara.ru
 secure.otpbank.ru
+secure.raiffeisen.ru
 secure.sirena-travel.ru
 secure.tbank-online.com
 secure.ypmn.ru
@@ -17594,6 +17636,7 @@ srv-nap01.utmn.ru
 srv-nap02.utmn.ru
 srv-nap03.utmn.ru
 srv.rt.ru
+srv1.bcslife.ru
 srv1cweb.uspekh.ru
 srvchat.uspekh.ru
 ss.svm.psb.services
@@ -17854,6 +17897,7 @@ stm-labs.ru
 stm.srbank.ru
 stock-api.ocs.ru
 stock.lemark.su
+stom11.ru
 stomatology-kmv26.ru
 stomatrk.ru
 stomshop.time-messenger.ru
@@ -18359,6 +18403,8 @@ test.ds.severstal.com
 test.ecomm.payment.ru
 test.gigalegal.sber.ru
 test.gigalegal.sberbank.ru
+test.gosuslugi.ru
+test.gu.ru
 test.hr.sberbank.ru
 test.ipfran.ru
 test.isogd.mosreg.ru
@@ -18482,6 +18528,7 @@ testsbi.sberbank.ru
 testsbp.nkbank.ru
 testsecurepay.rsb.ru
 testsecurepay2.rsb.ru
+testsecurepaysv.rsb.ru
 testsense.alfabank.ru
 testshop.tricolor.ru
 testsite.gorbank.spb.ru
@@ -18596,6 +18643,7 @@ tma.tricolor.ru
 tmb.megafon.ru
 tmeetings.ru
 tmiaf.ru
+tmk.pnzmed.ru
 tmkpenza.ru
 tmn-obl.ru
 tmobile-mc.auth.alfabank.ru
@@ -18641,6 +18689,7 @@ tools.alfabank.ru
 top.kion.ru
 top100.rambler.ru
 top100.ru
+topsbi.ru
 torg-i.com
 torgi.gov.ru
 torgi223.depfin70.ru
@@ -18886,6 +18935,7 @@ uchebnik-social.t-j.ru
 uchi.ru
 uchihanzi.ru
 uchilische-centr-invalidov.ru
+uchitel.club
 ucp-testing.one-infra.ru
 ucp.one-infra.ru
 ucparma.ru
@@ -20251,6 +20301,13 @@ www.bcmc.gazprombank.ru
 www.bcmplatform.ru
 www.bcs-bank.com
 www.bcs-bank.ru
+www.bcs-insur.ru
+www.bcs-insurance.ru
+www.bcs-life.ru
+www.bcsins.ru
+www.bcsinsur.ru
+www.bcslife.online
+www.bcslife.ru
 www.belapk.ru
 www.belgorod.21-school.ru
 www.benzin-rpgu.ru
@@ -21161,8 +21218,10 @@ www.landing.sberbank.ru
 www.lanta.ru
 www.latrenta.ru
 www.lawis.sovcombank.ru
+www.lazurmedical.ru
 www.lc.rkc-gku.ru
 www.lec.team
+www.lecta.ru
 www.lei-code.ru
 www.lemark.su
 www.lenenergo.ru
@@ -21435,6 +21494,7 @@ www.mz26.ru
 www.mziork.ru
 www.n-sys.ru
 www.na-podpisi.ru
+www.nadzor26.ru
 www.nameste.ru
 www.narco42.ru
 www.nationalclearingcentre.ru
@@ -22349,6 +22409,7 @@ www.tl-technologies.ru
 www.tls2.ru
 www.tm.upz.ru
 www.tm26.ru
+www.tmk.pnzmed.ru
 www.tmkpenza.ru
 www.tochka.com
 www.top100.rambler.ru
@@ -22400,6 +22461,7 @@ www.ubrr.ru
 www.ucb.im
 www.ucb.ru
 www.uchihanzi.ru
+www.uchitel.club
 www.ucparma.ru
 www.udms.kion.ru
 www.udmurt.ru
@@ -22695,6 +22757,7 @@ www333.t-boys.ru
 www345.t-boys.ru
 wwwmcc.t-boys.ru
 wwww.t-boys.ru
+wwwwwtest.t-boys.ru
 wwwwwww.t-boys.ru
 wxp-svcadp-app2.sovcombank.group
 x-callback.open.ru
