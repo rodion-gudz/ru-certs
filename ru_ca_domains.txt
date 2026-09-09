@@ -7123,6 +7123,7 @@ businessib.venets-bank.ru
 businesspreprod.domrfbank.ru
 businesstest.domrfbank.ru
 businesstest.toyotafs.ru
+businesstestvpn.domrfbank.ru
 buzzoola.com
 bvs-31.tech.mosreg.ru
 bvs-32.tech.mosreg.ru
@@ -7933,8 +7934,10 @@ corporate.avangard.ru
 corporate.mkb.ru
 corporate.psbank.ru
 corpoud.domrfbank.ru
+corpoudvpn.domrfbank.ru
 corppreprod.domrfbank.ru
 corptest.domrfbank.ru
+corptestvpn.domrfbank.ru
 corpuniver-test.rt.ru
 corpuniver-upd.rt.ru
 corpuniver.rt.ru
@@ -8470,6 +8473,7 @@ dev.qdlocal.bspb.ru
 dev.region.broker
 dev.rgis.mosreg.ru
 dev.sberbankins.ru
+dev.sberdevices.com
 dev.sberdevices.ru
 dev.sberpravo.ru
 dev.sbp.payanyway.ru
@@ -13796,6 +13800,7 @@ nkcgv.ncagp.ru
 nko-rr.ru
 nkomobi.ru
 nkpis.ru
+nloto-api.middle.megafon.ru
 nloto.megafon.ru
 nlp2.devices.sberbank.ru
 nlp2b2b.devices.sberbank.ru
@@ -15876,6 +15881,7 @@ rbs2pcx-psi.sberbank.ru
 rbs2pcx.sberbank.ru
 rbs2sprmift.sberbank.ru
 rc-mesh.ad-tech.ru
+rc-mfid.megafon.ru
 rc.ad-tech.ru
 rc.alfa-bank.net
 rc.ncagp.ru
