@@ -3842,6 +3842,7 @@
 *.sovcomnpf.ru
 *.sovcomsecure-2.ru
 *.soz.megafon.ru
+*.space.otpbank.ru
 *.spacecorp.ru
 *.spasibo.digital
 *.spasibo.market
@@ -17746,6 +17747,7 @@ sp95.rosleshoz.ru
 space.domrf.ru
 space.domrfbank.ru
 space.gazprombank.ru
+space.otpbank.ru
 spacecorp.ru
 spark.giga.salute.ru
 spartakiada.consultant.ru
@@ -23027,6 +23029,7 @@ www.zenit.ru
 www.znvo.ru
 www.zppk.ru
 www.zpr.remeks.online
+www.zulip.otpbank.ru
 www.zvo.ru
 www1.t-boys.ru
 www123.t-boys.ru
@@ -23519,6 +23522,7 @@ zrnao.ru
 zskuzbass.ru
 zspd.rcoko27.ru
 zubrit.ocs.ru
+zulip.otpbank.ru
 zvezda-atp.ru
 zvezda.spb.ru
 zvezdy-2026.magnit.ru
