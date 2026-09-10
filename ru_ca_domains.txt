@@ -9997,6 +9997,7 @@ gigadataprovider-api.eye.salute.ru
 gigaenterprise.ai
 gigagateway.eye.salute.ru
 gigagateway.ift.eye.salute.ru
+gigaguru.tech
 gigahub.sberdevices.ru
 gigaint-back.eye.salute.ru
 gigaintelligence-dev.eye.salute.ru
@@ -13028,6 +13029,7 @@ meet.omk.ru
 meet.rosneft.ru
 meet.uralsib.ru
 meet.uwca.ru
+meeting-mgw.avangard.ru
 meeting-test.psbank.ru
 meeting.avangard.ru
 meeting.psbank.ru
@@ -13735,6 +13737,7 @@ n.19dx.ru
 n.gis-sc.krasnodar.ru
 n.gktravel.ru
 n3health.ru
+n8n.sevstar.net
 n8n.vk.team
 na-podpisi.ru
 nadzor26.ru
