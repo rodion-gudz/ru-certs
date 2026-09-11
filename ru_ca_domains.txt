@@ -5436,6 +5436,7 @@ ai-mnesis.ru
 ai-proxy.vk.team
 ai-rpa.sberbank-service.ru
 ai-vesna.ru
+ai.d-agency.su
 ai.dudu2.ru
 ai.ibs.ru
 ai.kion.ru
@@ -9663,10 +9664,12 @@ feature-flow.vk.team
 feature-services.tinkoffjournal.ru
 feature1.domrfbank.ru
 feature2.domrfbank.ru
+fed-adfs.megafon.ru
 federation.mts.ru
 fedsfm.ru
 feedback-platform-api.tbank-online.com
 feedback.kilbil.ru
+feedback.megafon.ru
 feedback.poll.ertelecom.ru
 feedback.rcoko27.ru
 feedback.sbertips.sberbank.ru
@@ -9698,6 +9701,7 @@ fifth2-m12.asudd.net
 file01.achimgaz.ru
 fileexch.aspirelifestyles.ru
 files-b.team.centrinvest.ru
+files-mfr.megafon.ru
 files-n.vneshbank.ru
 files.argds.ru
 files.bi.zone
@@ -10381,6 +10385,7 @@ gvsu.gov.ru
 gvtools.ru
 gvv3.mznso.ru
 gw-portal-ext.megafon.ru
+gw-portal-ext.staging.megafon.ru
 gw-preprod.lenta.com
 gw-vpn.t-access.ru
 gw-vpn.tcsbank.ru
@@ -11276,6 +11281,8 @@ iptv.rt.ru
 iq-chat-pre.mkb.ru
 iqchannels-pre-private.mcb.ru
 iqhr.rt.ru
+iqm2lk.megafon.ru
+iqm3lk.megafon.ru
 ir-2.ozone.ru
 ir-3.ozone.ru
 ir.bs.gazprombank.ru
@@ -11462,6 +11469,7 @@ join.mts.ru
 join.rencredit.ru
 join.sber.ru
 join.tbank-online.com
+join1.megafon.ru
 jokertag.ru
 journal.omk.ru
 journal.tbank.ru
@@ -11824,6 +11832,7 @@ kvartplata.ru
 kvd-yeisk.ru
 kvd5.spb.ru
 kvint.mkb.ru
+kvk-tcs-cl01.megafon.ru
 kvvu-mo.21-school.ru
 kwapp.spaymentsplus.ru
 kxte.ru
@@ -12341,6 +12350,7 @@ m1-sipproxy01.homeagents.online
 m1-sipproxy02.homeagents.online
 m1-test.broker.ru
 m12.asudd.net
+m2m.megafon.ru
 m2mtt.ru
 m2q.region.broker
 m2q2.region.broker
@@ -12908,6 +12918,7 @@ mango-pin.ru
 mangosip.ru
 mangotalker.ru
 mangotele.com
+manuals.megafon.ru
 map.fgislk-test.gov.ru
 map.fgislk.gov.ru
 map.mgis42.ru
@@ -13023,7 +13034,10 @@ mcb.ru
 mcba.mkb.ru
 mcbank.ru
 mcbxyz.su
+mcc-portal-beta.megafon.ru
+mcc-portal.megafon.ru
 mcc.alfabank.ru
+mcca-dlr-test.megafon.ru
 mcclinics.ru
 mccm.bspb.ru
 mcdo.moscow
@@ -13127,6 +13141,7 @@ meet.expobank.ru
 meet.fc-zenit.ru
 meet.gazeks.com
 meet.ingos.ru
+meet.megafon.ru
 meet.ntv.ru
 meet.omk.ru
 meet.rosneft.ru
@@ -13344,6 +13359,8 @@ mli.ed-industry.ru
 mlistork.vkteam.ru
 mlk.onlime.ru
 mlk.rt.ru
+mlkm-stage.megafon.ru
+mlkm.megafon.ru
 mlogin2.ingos.ru
 mm-t.sinara.ru
 mm-t2.sinara.ru
@@ -13458,6 +13475,8 @@ modulbuh.ru
 moduldev.ru
 module.ru
 moex.com
+molkom1c-test.megafon.ru
+molkom1c.megafon.ru
 momo.gorp.msk.ru
 mon-test.dmz.gazprombank.ru
 moneta.dev
@@ -13601,6 +13620,9 @@ msk-exp-e2-vpn.uralsib.ru
 msk-exp-e2.uralsib.ru
 msk-ix.ru
 msk-scv1.sovcombank.group
+msk-tcs-app01.megafon.ru
+msk-tcs-cl02.megafon.ru
+msk-tcs-cl03.megafon.ru
 msk-vcse.megafon.ru
 msk-vpn01.sovcombank.group
 msk-vpn02.sovcombank.group
@@ -14157,6 +14179,7 @@ nvbo.mkb.ru
 nvg.ru
 nvs-prime.inforion.ru
 nvs.konus.group
+nw-tcs-cl01.megafon.ru
 nwgnv.ru
 nx-docker.alfastrah.ru
 nx.s2b.tech
@@ -15060,6 +15083,8 @@ paymentsdrpa.payecom.ru
 paymentsift.sberbank.ru
 paymentsift2.sberbank.ru
 paymgate.ru
+pays-test.megafon.ru
+pays.megafon.ru
 payselection-preprod.mkb.ru
 paytest.avangard.ru
 paywb.com
@@ -15219,6 +15244,7 @@ plan.mfsk.ru
 plan2.budgetnn.ru
 planar-elements.ru
 planer.klgd.su
+planer.megafon.ru
 planeta-mall.ru
 planetaibs.ru
 planning.rustest.ru
@@ -15349,6 +15375,7 @@ portal.grand-tm.ru
 portal.ingravity.online
 portal.kuzbank.ru
 portal.linuxtesting.ru
+portal.megafon.ru
 portal.mtsbank.ru
 portal.oaovoentorg.ru
 portal.pochtabank.ru
@@ -16426,6 +16453,7 @@ rowi.com
 rowi.tech
 royal-bank.ru
 rp.vyb.spb.ru
+rpas.megafon.ru
 rpm-doctor.zdrav74.ru
 rpm-gateway.zdrav74.ru
 rpm-grafana.zdrav74.ru
@@ -16554,6 +16582,7 @@ rwbautomation.ru
 rwbautomation.tech
 rwbgeo.ru
 rwbp.ru
+ry5a.megafon.ru
 ryazan.gov.ru
 ryazanszn.ru
 rzb.ru
@@ -17205,8 +17234,13 @@ sf-kras.ru
 sf.slavneft.ru
 sf.vbrr.ru
 sf1.slavneft.ru
+sfb-dvweb.megafon.ru
 sfb-edge.megafon.ru
 sfb-edge01.megafon.ru
+sfb-mskweb.megafon.ru
+sfb-vlgweb.megafon.ru
+sfb-vlgweb02.megafon.ru
+sfb-web.megafon.ru
 sfb-web.mtsbank.ru
 sfb.mtsbank.ru
 sfb.uwca.ru
@@ -17457,6 +17491,7 @@ smailbox.ru
 smart-bit.time-messenger.ru
 smart-budget.ru
 smart-cap.ru
+smart-jkh-gslb.megafon.ru
 smart-jkh.megafon.ru
 smart.nso.ru
 smart.tricolor.ru
@@ -17813,6 +17848,8 @@ spkk-static-web.online.sberbank.ru
 spkk-static-web.sberbank.ru
 spkk-static.sberbank.ru
 spn.sinara-finance.ru
+spokdealer.megafon.ru
+spokdealer2.megafon.ru
 sport.m.vkvideo.cs7777.vk.com
 sport.mail.ru
 sport.sbt.msk.ru
@@ -17912,6 +17949,7 @@ sso.kamp-ext-if.vtb.ru
 sso.kamp-ext-rr.vtb.ru
 sso.key.rt.ru
 sso.magnit.ru
+sso.megafon.ru
 sso.mng.cloud.ru
 sso.mosreg.ru
 sso.mtsbank.ru
@@ -18464,6 +18502,7 @@ tc.oparina4.ru
 tc394.ru
 tc404.ru
 tcenter.ru
+tcglst.megafon.ru
 tchat.tricolor.ru
 tcitest.qwdc.ru
 tcmknso.mznso.ru
@@ -18603,6 +18642,7 @@ test-nuc-45.certhub-beta.vkteam.ru
 test-nuc-rsa.severstal.com
 test-nuc1.severstal.com
 test-nuc2.severstal.com
+test-openapi.megafon.ru
 test-openapi.vtb.ru
 test-opros.vtb.ru
 test-pay.vtb.ru
@@ -19034,6 +19074,7 @@ trustverse.ru
 ts.magnit.ru
 tsargrad.tv
 tsbnk.ru
+tsd1c.megafon.ru
 tsecrets.ru
 tsnsapozhok.ru
 tsslab.ru
@@ -19254,6 +19295,8 @@ unynya.preprod-cdn.edgecenter.online
 uobr.ru
 uor-nsk.ru
 uot.krtu.ru
+upay-test-zone-a.megafon.ru
+upay-test-zone-b.megafon.ru
 upbkk.ru
 upd.mobile-test.sbrf.ru
 upd.mobile.sbrf.ru
@@ -19287,6 +19330,7 @@ urfu.21-school.ru
 urgaps.ru
 uriahas.ru
 url-shortener.sberbank-service.ru
+url-tcs-cl01.megafon.ru
 urp-taxr-app1.sovcombank.group
 urp-tgate-app1.sovcombank.group
 urp-tgate-app2.sovcombank.group
@@ -19365,6 +19409,7 @@ vas.otpbank.ru
 vasmfpro.ru
 vasmpro.ru
 vast.otpbank.ru
+vats-cp.megafon.ru
 vats.rt.ru
 vault-nca.tusvc.bcs.ru
 vault-okd-nca.tusvc.bcs.ru
@@ -19547,6 +19592,7 @@ vipnet2131.mosreg.ru
 virtual-assistant.magnit.ru
 virustest.gov.ru
 visa.bancaintesa.ru
+visitor.megafon.ru
 visitvmz.omk.ru
 visitvmznew.omk.ru
 visor.sberbank.ru
@@ -19640,6 +19686,8 @@ vlb100.ru
 vlbb.ru
 vlc.ru
 vlclient.ru
+vlg-tcs-cl01.megafon.ru
+vlg-tcs-cl02.megafon.ru
 vlg-vcse.megafon.ru
 vlk.sovcombank.ru
 vlzstoki.ru
@@ -20031,7 +20079,10 @@ wf.mobile-test.sbrf.ru
 wf.mobile.sbrf.ru
 wfi-p1mnl-psn.net.gazprombank.ru
 wfi-p2mnl-psn.net.gazprombank.ru
+wfm-mobile.megafon.ru
 wfm-my.v1.market
+wfm-oss.megafon.ru
+wfm-t.megafon.ru
 wfm.megafon.ru
 wfm.rshb.ru
 wfmapp.otpbank.ru
@@ -20057,6 +20108,7 @@ widget.kk.bank
 widget.scpl.sber247.ru
 widgetecom.ru
 widgetecom.sberbank.ru
+wifi-auth.megafon.ru
 wifi-it.ertelecom.ru
 wifi.dom.ru
 wifi.domru.ru
