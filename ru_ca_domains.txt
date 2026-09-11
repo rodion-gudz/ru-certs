@@ -1925,6 +1925,7 @@
 *.k8s.eas.startups.su
 *.k8s.intmts.ru
 *.k8s.ntv.ru
+*.k8s.ru.mgo.su
 *.k8s.vk-apps.com
 *.kachestvozhizni.ru
 *.kadastr.ru
@@ -5141,6 +5142,7 @@ a.gis-sc.krasnodar.ru
 a.oktima.ru
 a.vsw.ru
 a2.psbank.ru
+a2p-voice-int.megafon.ru
 a2p-voice.megafon.ru
 aa.mail.ru
 aaa.t-boys.ru
@@ -5204,6 +5206,7 @@ access.vtb.ru
 access.westcall.spb.ru
 account.2gis.com
 account.cyberprotect.ru
+account.megafon.ru
 account.tbki.ru
 achimdevelopment.com
 achimdevelopment.ru
@@ -5379,6 +5382,7 @@ ads.vk.com
 adsp.sberbank-service.ru
 adtech.rambler.ru
 adygea.megafon.ru
+adygea.staging.megafon.ru
 adygheya.ru
 aebonline-api.albank.ru
 aef-cloud-prom.sberdevices.ru
@@ -5502,6 +5506,7 @@ alabuga.ru
 aladdin-rd.ru
 aladdin.ru
 alania.megafon.ru
+alania.staging.megafon.ru
 albank.ru
 albert2.edgevideo.ru
 albvvp.ru
@@ -5586,8 +5591,10 @@ altaiensb.ru
 altaigov.ru
 altastroy-nn.ru
 altay.megafon.ru
+altay.staging.megafon.ru
 altermodus.ru
 altrep.megafon.ru
+altrep.staging.megafon.ru
 altspu.ru
 altynbank.com
 alupka-art.ru
@@ -5611,6 +5618,7 @@ amplisens.ru
 amrro.ru
 amur.drsk.ru
 amur.megafon.ru
+amur.staging.megafon.ru
 amurobl.ru
 an.jtirussia.ru
 analiz.depfin70.ru
@@ -5668,6 +5676,7 @@ ap.bspb.ru
 apanrb.ru
 apapi.alfabank.ru
 apay.avangard.ru
+api-a2p-voice-int.megafon.ru
 api-a2p-voice.megafon.ru
 api-app.kilbil.ru
 api-avito.mtsbank.ru
@@ -5900,6 +5909,7 @@ api.web.calls.cyberkoala.ru
 api.wifi-auth.megafon.ru
 api.wildcordyceps.ru
 api.yourfintech.online
+api2.fintarget.ru
 api2.spasibobonus.ru
 api2.stage.jump.taxi
 api4pao.client.sbertech.ru
@@ -5937,6 +5947,7 @@ app-wtlan004.open.ru
 app.echo-platform.ru
 app.edu-assist.me
 app.edu-assist.ru
+app.factoring.megafon.ru
 app.fgislk-test.gov.ru
 app.fgislk.gov.ru
 app.gpb.ru
@@ -6016,6 +6027,7 @@ aresbank.ru
 argds.ru
 argocd.gigacollector.sberdevices.ru
 arhangelsk.megafon.ru
+arhangelsk.staging.megafon.ru
 arhitektura32.ru
 arhofoms.ru
 arhzan.ru
@@ -6079,6 +6091,7 @@ astk-insur.ru
 aston.time-messenger.ru
 astrahovanie.ru
 astrakhan.megafon.ru
+astrakhan.staging.megafon.ru
 astralinux.ru
 astrobl.ru
 astrovolga.ru
@@ -6772,6 +6785,7 @@ barnaultransmash.ru
 bars.group
 base.pochtabank.ru
 bashkortostan.megafon.ru
+bashkortostan.staging.megafon.ru
 bashneft-azs.ru
 bashneft.com
 bashneft.ru
@@ -6824,6 +6838,7 @@ beepayxppg3.beeline.ru
 beesender.domrf.ru
 beko.dom.mail.ru
 bel.megafon.ru
+bel.staging.megafon.ru
 belapk.ru
 belgorod.21-school.ru
 belon.ru
@@ -7123,6 +7138,7 @@ bricsclear.group
 brillworld.ru
 bris-cloud.ru
 brn.megafon.ru
+brn.staging.megafon.ru
 brok.tech
 broker-dev.rshb.ru
 broker-fp.rshb.ru
@@ -7184,6 +7200,7 @@ burda.ru
 burgaz.ru
 burgerkingrus.ru
 buryatia.megafon.ru
+buryatia.staging.megafon.ru
 burzakup.ru
 bus.gov.ru
 business-api.megafon.ru
@@ -7249,6 +7266,7 @@ ca.megafon.ru
 ca.rambler.ru
 ca.tch.ru
 ca1.beeline.ru
+ca2.megafon.ru
 cab.novatek44.ru
 cab.platichastyami.ru
 cabinet.almaz-rpe.ru
@@ -7369,6 +7387,7 @@ ccif.vtb.ru
 ccm-exp-e.mts.ru
 ccm-exp-e1.mts.ru
 ccm-exp-ecl.mts.ru
+ccmp-study.megafon.ru
 ccp-analytics.root.t-software.tech
 ccp-analytics.t-software.tech
 ccp-catalog-widgets.root.t-software.tech
@@ -7645,6 +7664,7 @@ chattest.otpbank.ru
 chattest.psbank.ru
 chebarcul.ru
 chechnya.megafon.ru
+chechnya.staging.megafon.ru
 check.bspb.ru
 check.hr-dev.sberbank.ru
 check.hr-draft.sberbank.ru
@@ -7665,6 +7685,7 @@ checkrsa.cn.fsg.ru
 checkssl.lenta.com
 chel.21-school.ru
 chel.megafon.ru
+chel.staging.megafon.ru
 cheladm.ru
 chelindbank.ru
 chelinvest.ru
@@ -7674,9 +7695,11 @@ chemical.ru
 chernadmin.ru
 cherpwd.stal.ru
 chestnyznak.ru
+chicago.megafon.ru
 childrest.ru
 chipitsine-vpn.ddns.net
 chita.megafon.ru
+chita.staging.megafon.ru
 chlcrb.mznso.ru
 chmz.ru
 chncrb.mznso.ru
@@ -7686,8 +7709,10 @@ chscrb.mznso.ru
 chsmb-go.api.vtb.ru
 chsmb.api.vtb.ru
 chukotka.megafon.ru
+chukotka.staging.megafon.ru
 chus-bi.ru
 chuvashia.megafon.ru
+chuvashia.staging.megafon.ru
 chuvstvodolga.ru
 chzt.ru
 ci.bcs.ru
@@ -8031,6 +8056,7 @@ corp.psi.sbertransport.ru
 corp.royal-bank.ru
 corp.sberintegro.ru
 corp.sbertransport.ru
+corp.staging.megafon.ru
 corp.vk.ru
 corpactions.ru
 corpdev.domrfbank.ru
@@ -8065,6 +8091,7 @@ courier.otpbank.ru
 couriers.magnit.ru
 course.life.akbars.ru
 coverage.megafon.ru
+coverage.staging.megafon.ru
 cowork-dev.ru
 cowork-stage.ru
 cowork-svc.ru
@@ -8315,6 +8342,7 @@ da.sfr.gov.ru
 dac-wallet.cardsmobile.ru
 dadata.key.rt.ru
 dagestan.megafon.ru
+dagestan.staging.megafon.ru
 dagmintrud.ru
 daily.afisha.ru
 daily.qtom.ru
@@ -8932,6 +8960,7 @@ doozm.ru
 dorogisk.ru
 dos.protect.megafon.ru
 dostavka.magnit.ru
+dostup.megafon.ru
 dosug.metro.spb.ru
 dot.nagaev.biz
 dots.proitr.ru
@@ -8952,6 +8981,7 @@ dp-release.bcslife.ru
 dp-repo.vk.com
 dp.1tv.ru
 dp.mdm.sberins.ru
+dp.megafon.ru
 dp.otpbank.ru
 dp.tbank-online.com
 dp.vtb.ru
@@ -9060,6 +9090,7 @@ eagleplatform.com
 eaist2-f.mos.ru
 eao.drsk.ru
 eao.megafon.ru
+eao.staging.megafon.ru
 earco.ru
 eas.pzhv.ru
 eas.sberbank.ru
@@ -9149,6 +9180,7 @@ edgecl1.gazprombank.ru
 edgen.toyotafs.ru
 edi.magnit-info.ru
 edinavigator.com
+edinici.ru
 edinoevideo.ru
 edinros.ru
 editor-sqd.absolutbank.ru
@@ -9547,6 +9579,7 @@ expe.sberbank.ru
 expe.tgk11.com
 expe1.rencredit.ru
 expe2.rencredit.ru
+expert.fintarget.ru
 expert.rcoko27.ru
 expert.vk.com
 expmedia1.kk.bank
@@ -9703,6 +9736,9 @@ fileexch.aspirelifestyles.ru
 files-b.team.centrinvest.ru
 files-mfr.megafon.ru
 files-n.vneshbank.ru
+files-nw.megafon.ru
+files-sib.megafon.ru
+files-vlg.megafon.ru
 files.argds.ru
 files.bi.zone
 files.cyberprotect.ru
@@ -9716,6 +9752,7 @@ files.hr.sberbank.ru
 files.ifte.scpl.enablers.sbrf.ru
 files.ifte.scpl.sber247.ru
 files.igrovoy.rt.ru
+files.megafon.ru
 files.noosferabank.ru
 files.otp.sberbank.ru
 files.rosleshoz.ru
@@ -9725,6 +9762,7 @@ filexchange.gersains.ru
 filjus.ru
 fin-id.ru
 fin-talks.ru
+fin.megafon.ru
 finam.ru
 finambank.com
 finambank.ru
@@ -9762,6 +9800,7 @@ first-m12.asudd.net
 fiscc-cff.ingobank.ru
 fiscc-pms.ingobank.ru
 fisheye.bcs.ru
+fix-b2blk.megafon.ru
 fixmail.mts.ru
 fizpartnerint.alfabank.ru
 fkpkk.ru
@@ -9900,6 +9939,7 @@ ftp.akiselev.group
 ftp.speechpro.com
 ftp.truecorp.su
 ftpd.bki-okb.com
+ftps-dev.datacloud.t1-cloud.ru
 ftps.intercomp.ru
 ftps01.taxcom.ru
 fts-stage.tkbbank.ru
@@ -10434,6 +10474,7 @@ ha.blutz.ru
 ha.mkp.ru.net
 hair-boutique.ru
 hakas.megafon.ru
+hakas.staging.megafon.ru
 hakaton.rt.ru
 halva-card.ru
 halva-club.ru
@@ -10827,6 +10868,7 @@ id.domrfbank.ru
 id.electronicsignature.ru
 id.ingosinvest-am.ru
 id.magnit.ru
+id.megafon.ru
 id.mgn-city.ru
 id.mtsbank.ru
 id.online-tb.com
@@ -11104,6 +11146,7 @@ ingosinvest-am.ru
 ingosinvest.ru
 ingostartup.ru
 ingushetia.megafon.ru
+ingushetia.staging.megafon.ru
 inist.ru
 inist.systems
 inkas.bspb.ru
@@ -11115,6 +11158,7 @@ innovative-solutions.vk.company.ru
 inosmi.ru
 inotes.otpbank.ru
 inpas.time-messenger.ru
+inplat-widget.megafon.ru
 ins-sys.ru
 ins.malltech.ru
 insales.ru
@@ -11210,6 +11254,7 @@ invoices.key.rt.ru
 invsol.ru
 io.udsu.ru
 ioc.mkb.ru
+ioffe.ru
 ios-gate.kk.ru
 ios-gate.kubankredit.ru
 ios-kb.kk.ru
@@ -11299,6 +11344,7 @@ irkat.ru
 irkopeka4.ru
 irkut.com
 irkutsk.megafon.ru
+irkutsk.staging.megafon.ru
 irkutsk.sveza.ru
 irm-psi.sberbank.ru
 irm.sberbank.ru
@@ -11373,6 +11419,7 @@ itstart.vkteam.ru
 iturup.online
 iturupbank.ru
 iv.megafon.ru
+iv.staging.megafon.ru
 iva-le.energo.ru
 iva-tech.ru
 iva.mkb.ru
@@ -11457,6 +11504,7 @@ job.jump.finance
 job.megafon.ru
 job.mtsbank.ru
 job.psbank.ru
+job.staging.megafon.ru
 job.veb.ru
 jobsmodern.ru
 jobtst.psbank.ru
@@ -11510,15 +11558,18 @@ kalashnikov.club
 kalashnikov.media
 kalashnikovconcern.ru
 kaliningrad.megafon.ru
+kaliningrad.staging.megafon.ru
 kalitva-land.ru
 kalmpriroda.ru
 kalmstroy.ru
 kalmykia.megafon.ru
+kalmykia.staging.megafon.ru
 kalmzdrav.ru
 kalugacard.ru
 kamaz.org
 kamaz.ru
 kamchatka.megafon.ru
+kamchatka.staging.megafon.ru
 kamkabel.ru
 kamonco.ru
 kamp-ext-if.vtb.ru
@@ -11530,6 +11581,7 @@ kapi.dev.jump.finance
 kapi.jump.finance
 kapmed.ru
 karelia.megafon.ru
+karelia.staging.megafon.ru
 karkasdvor.ru
 karma.gazprombank.investments
 karmahelp.ru
@@ -11570,6 +11622,7 @@ kblion.ertelecom.ru
 kbo.aisubp.mos.ru
 kbptula.ru
 kbr.megafon.ru
+kbr.staging.megafon.ru
 kbs.rosatom.ru
 kbsammit.ru
 kbscrb.mznso.ru
@@ -11577,6 +11630,7 @@ kbsmc.mznso.ru
 kc.team.centrinvest.ru
 kc.vneshbank.ru
 kchr.megafon.ru
+kchr.staging.megafon.ru
 kckcrb.mznso.ru
 kclext.otpbank.ru
 kcncrb.mznso.ru
@@ -11592,6 +11646,7 @@ kedolk.lenta.com
 kedom.lenta.com
 keenwilling.rambler.ru
 kem.megafon.ru
+kem.staging.megafon.ru
 kemcardio.ru
 kemcdo.ru
 kept.by
@@ -11632,6 +11687,7 @@ kgm.ru
 khab.drsk.ru
 khakassia.travel
 khb.megafon.ru
+khb.staging.megafon.ru
 khv.21-school.ru
 kiali.demo.gigalegal.sber.ru
 kiali.demo.sberpravo.ru
@@ -11656,6 +11712,7 @@ kionmusic.ru
 kionstroki.ru
 kiosk.rostatus.ru
 kirov.megafon.ru
+kirov.staging.megafon.ru
 kirov.sveza.ru
 kirovskij-cson.stv.socinfo.ru
 kirrb.ru
@@ -11671,6 +11728,7 @@ kl.kion.ru
 klecks-operator.srv-hub.org
 klf.aero
 klg.megafon.ru
+klg.staging.megafon.ru
 klgd.su
 klnpost.sonarplus.ru
 klookva.ru
@@ -11704,6 +11762,7 @@ komba.mail.ru
 kombo.mail.ru
 kombu.mail.ru
 komi.megafon.ru
+komi.staging.megafon.ru
 komicsm.ru
 komifoms.ru
 komission.vtb.ru
@@ -11741,12 +11800,14 @@ kraken-cls.rambler.ru
 kraken-mdt.rambler.ru
 kraken.rambler.ru
 kras.megafon.ru
+kras.staging.megafon.ru
 krasdomkino.ru
 krasfin.ru
 krasmechta.ru
 krasnarm.ru
 krasnodar.megafon.ru
 krasnodar.ru
+krasnodar.staging.megafon.ru
 krasnodar.sveza.ru
 krasnogvardeiskoe.info
 krasnoyarsk.sveza.ru
@@ -11772,6 +11833,7 @@ krylov-center.ru
 krym-skk.ru
 ks.lemark.su
 ks.megafon.ru
+ks.staging.megafon.ru
 ksamur.ru
 ksc.speechpro.com
 ksdgb.ru
@@ -11794,6 +11856,7 @@ ksrf.ru
 ksroddom.ru
 kst-energo.ru
 kstr.megafon.ru
+kstr.staging.megafon.ru
 ksup-bim.sberbank.ru
 kts39.ru
 kuban-spnb.ru
@@ -11809,6 +11872,7 @@ kulsmi.ru
 kultura.press
 kupibilet70.ru
 kurgan.megafon.ru
+kurgan.staging.megafon.ru
 kurgan.sveza.ru
 kurgangrc.ru
 kurganobl.ru
@@ -11885,6 +11949,7 @@ lc.megafon.ru
 lc.mfsk.ru
 lc.rkc-gku.ru
 lc.rt.ru
+lc.staging.megafon.ru
 lcrsip.voiptools.ru
 le-crt-pl-mltp-tif.speechpro.com
 le-ext-grd-smpl.speechpro.com
@@ -12286,6 +12351,7 @@ lyncdiscover.fc-zenit.ru
 lyncdiscover.gazeks.com
 lyncdiscover.giotek.ru
 lyncdiscover.ingos.ru
+lyncdiscover.megafon.ru
 lyncdiscover.mfnso.ru
 lyncdiscover.omk.ru
 lyncdiscover.ozmm-so.ru
@@ -12372,6 +12438,7 @@ mads.magnit.ru
 mag.21-school.ru
 mag1c.ru
 magadan.megafon.ru
+magadan.staging.megafon.ru
 magarach-institut.ru
 magentbeb.tcsbank.ru
 magentbep.tcsbank.ru
@@ -12946,6 +13013,7 @@ maps.vk.com
 maps.vk.team
 margin.fx.bspb.ru
 mariel.megafon.ru
+mariel.staging.megafon.ru
 marina-shop.ru
 marinebroker.ru
 mark.sber.ru
@@ -13040,6 +13108,7 @@ mcc.alfabank.ru
 mcca-dlr-test.megafon.ru
 mcclinics.ru
 mccm.bspb.ru
+mccm.megafon.ru
 mcdo.moscow
 mcf-edge.alpha-dev.ru
 mcf-probe.alpha-dev.ru
@@ -13158,6 +13227,7 @@ meetings.open.ru
 meetings.westcall.net
 meetup.tbank-online.com
 meg-an.speechpro.com
+megacoach.megafon.ru
 megafon-dfs.ivi-mc.ru
 megafon.ru
 megakontrol.ru
@@ -13173,6 +13243,8 @@ merch-cpg.money.mail.ru
 merch.magnit.ru
 merchant-api.sbp.rshb.ru
 merchantportal.rsb.ru
+merchants-bsa.megafon.ru
+merchants.megafon.ru
 mercurial.bcs.ru
 mercury-api.secrets.tbank.ru
 mercury-api.secrets.tinkoff.ru
@@ -13282,6 +13354,7 @@ micro-passenger.sbertransport.ru
 microbe.ru
 micron-uat.mtsbank.ru
 micron.mtsbank.ru
+microservices.megafon.ru
 middle-api.magnit.ru
 mig-os.ru
 mig.magnit.ru
@@ -13501,6 +13574,7 @@ moodle.rcoko27.ru
 moonlightwell.ru
 moosic.io
 mordovia.megafon.ru
+mordovia.staging.megafon.ru
 moresalonov.ru
 morion.com.ru
 morskoybank.com
@@ -13508,6 +13582,7 @@ mos-metro-cn-aio.speechpro.com
 mos.ru
 moscoms.ru
 moscow.megafon.ru
+moscow.staging.megafon.ru
 mosedu.ru
 mosenergosbit.ru
 mosenergosbyt.ru
@@ -13621,6 +13696,7 @@ msk-exp-e2.uralsib.ru
 msk-ix.ru
 msk-scv1.sovcombank.group
 msk-tcs-app01.megafon.ru
+msk-tcs-cl01.megafon.ru
 msk-tcs-cl02.megafon.ru
 msk-tcs-cl03.megafon.ru
 msk-vcse.megafon.ru
@@ -13678,6 +13754,7 @@ mur.edgecenter.online
 muratovs.ru
 murmankukla.ru
 murmansk.megafon.ru
+murmansk.staging.megafon.ru
 murmansk.sveza.ru
 music-transfer.ru
 music.kion.ru
@@ -13891,6 +13968,7 @@ nationalclearingcentre.ru
 native.domrfbank.ru
 natk.ru
 nauengine.org
+naufor.fintarget.ru
 nauka.rosneft.ru
 nauwfm.magnit.ru
 nav.rustest.ru
@@ -14032,6 +14110,7 @@ nmchdd.ru
 nmt54.ru
 nn.21-school.ru
 nn.megafon.ru
+nn.staging.megafon.ru
 nn.sveza.ru
 nnc.rosneft.ru
 nniirt.ru
@@ -14089,6 +14168,7 @@ nov.21-school.ru
 nova.vk.team
 novatek.asugo.ru
 novgorod.megafon.ru
+novgorod.staging.megafon.ru
 novikom.ru
 novise12.mfnso.ru
 novkfo.ru
@@ -14143,6 +14223,7 @@ nsis.ru
 nsiws.transneft.ru
 nsk.21-school.ru
 nsk.megafon.ru
+nsk.staging.megafon.ru
 nskbl.ru
 nskmc.mznso.ru
 nso.ru
@@ -14327,6 +14408,7 @@ oms.rsb.ru
 omsk-vo.ertelecom.ru
 omsk.21-school.ru
 omsk.megafon.ru
+omsk.staging.megafon.ru
 omskparlament.ru
 omskzan.ru
 omsomsk.ru
@@ -14466,10 +14548,12 @@ open.api.vtb.ru
 open.asiainvestbank.ru
 open.bukep.ru
 open.ru
+openapi.fintarget.ru
 openapi.megafon.ru
 openapi.psbank.ru
 openapi.raif.ru
 openapi.raiffeisen.ru
+openapi2.fintarget.ru
 openapigpb.ru
 openbudsk.ru
 openclawai.website
@@ -14480,6 +14564,7 @@ opensource.tbank.ru
 openspace.creditural.ru
 operaizh.ru
 operator.mail.ru
+operator.megafon.ru
 opinionlab.ru
 opis-cdn.tinkoffjournal.ru
 opis-imgproxy.tinkoffjournal.ru
@@ -14508,10 +14593,12 @@ ord.vk.com
 ord.vk.ru
 ordcrb.mznso.ru
 order.mitsubishi-motors-finance.ru
+ordering.staging.megafon.ru
 oreka.ru
 orelkapremont.ru
 orenburg-gov.ru
 orenburg.megafon.ru
+orenburg.staging.megafon.ru
 orenburgneft.rosneft.ru
 orenklip.online
 oreol-2010.ru
@@ -14529,6 +14616,7 @@ origination.ru
 orion.akbars.ru
 orionsoft.ru
 orl.megafon.ru
+orl.staging.megafon.ru
 ornpz.ru
 oros.sber.ru
 ors-aero.ru
@@ -14547,6 +14635,7 @@ osd.demo.sberpravo.ru
 osd.gigalegal.sber.ru
 osd.sberpravo.ru
 osetia.megafon.ru
+osetia.staging.megafon.ru
 osgrm.ru
 oskelly.time-messenger.ru
 oskol.registrator-rekom.ru
@@ -14962,6 +15051,7 @@ partner.deltacredit.ru
 partner.domrfbank.ru
 partner.igrovoy.rt.ru
 partner.mads.magnit.ru
+partner.megafon.ru
 partner.otpbank.ru
 partner.sinara.ru
 partner.yookassa.ru
@@ -15083,6 +15173,7 @@ paymentsdrpa.payecom.ru
 paymentsift.sberbank.ru
 paymentsift2.sberbank.ru
 paymgate.ru
+pays-mf.megafon.ru
 pays-test.megafon.ru
 pays.megafon.ru
 payselection-preprod.mkb.ru
@@ -15094,6 +15185,7 @@ pb2.vbrr.ru
 pb3.vbrr.ru
 pb4.vbrr.ru
 pb5.vbrr.ru
+pbc.megafon.ru
 pbl546.ingobank.ru
 pbprog.ru
 pbs.mkp.ru.net
@@ -15105,6 +15197,7 @@ pccard-stage.domrfbank.ru
 pccard-test.domrfbank.ru
 pccard.domrfbank.ru
 pccard.my.domrfbank.ru
+pccard.myweb.domrfbank.ru
 pchtb.ru
 pchtbnk.ru
 pci-dss.wb-bank.ru
@@ -15130,6 +15223,7 @@ pensiya.veb.ru
 pentaschool.ru
 pentestmy.centrinvest.ru
 penza.megafon.ru
+penza.staging.megafon.ru
 people.open.ru
 people.sber.ru
 people.sberbank.ru
@@ -15144,6 +15238,7 @@ perimeter-iep9ahtee1uamais.t-hack.ru
 perm-vo.ertelecom.ru
 perm.21-school.ru
 perm.megafon.ru
+perm.staging.megafon.ru
 perm.sveza.ru
 permenergosbyt.ru
 permkrai.ru
@@ -19379,6 +19474,7 @@ v-corp-pwd.sbertech.ru
 v-corp.sbertech.ru
 v-dimitriadis.ru
 v-iam.sbertech.ru
+v.bankdomrf.ru
 v.gis-sc.krasnodar.ru
 v.ozone.ru
 v.rt.ru
@@ -22483,6 +22579,7 @@ www.skbfinance.ru
 www.skblab.ru
 www.skgelios.ru
 www.ski.pionerka.ru
+www.skkmorf-sevkav.ru
 www.skkmorf.ru
 www.skkpodmoskovie.ru
 www.skladrom.ru
