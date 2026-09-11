@@ -149,6 +149,7 @@ akiselev.group
 akod22.ru
 akrvo.ru
 aksayland.ru
+aktiv-rso.ru
 akveduk52.ru
 akyamal.ru
 al-tom.ru
@@ -820,6 +821,8 @@ derbent-parking.ru
 derzhava.ru
 detbolnvr.ru
 dev-portal.ru
+dev-stroyka.ru
+dev-vkplay.ru
 devmail.ru
 devops-centre.ru
 devvk.team
@@ -922,6 +925,7 @@ donor-surgut.ru
 donses.ru
 doozm.ru
 dorogisk.ru
+dorstroycom.ru
 dostavista.ru
 dou27.ru
 dou5-shakhty.ru
@@ -1073,6 +1077,7 @@ era-invest.ru
 erai.ru
 erc-rt.ru
 erec.ru
+ermakbank.ru
 ertelecom.ru
 eskigov.ru
 esocode.ru
@@ -1156,6 +1161,7 @@ fin-talks.ru
 finam.ru
 finambank.com
 finambank.ru
+finasb.ru
 fineapp.ru
 fingram26.ru
 finity.global
@@ -1179,6 +1185,7 @@ flumeter.ru
 fly-spy.ru
 flyaurora.ru
 flypobeda.ru
+flyredwings.com
 flyredwings.ru
 flyrossiya.ru
 fmba-gcgie.ru
@@ -1623,6 +1630,7 @@ ip-besplatno.ru
 ipb.ru
 ipfran.ru
 ipk19.ru
+ippay.ru
 ippe.ru
 ippss.ru
 ipsnok.ru
@@ -2060,6 +2068,7 @@ megafon.ru
 megafonpro.ru
 megakontrol.ru
 megalabs.ru
+megalocator.ru
 megamarket.ru
 megamarket.tech
 megaplan.ru
@@ -2467,6 +2476,7 @@ oblteh.ru
 oboronregistr.ru
 obramur.ru
 obrbratsk.ru
+oc-vektor.ru
 ocenka.mobi
 ocourier.ru
 ocs.ru
@@ -3507,6 +3517,7 @@ soft-start.ru
 soft72.ru
 softvideo.ru
 sog.ru
+sogaz-clinic.ru
 sogaz-life.ru
 sogaz.ru
 soglasie.ru
@@ -4048,6 +4059,7 @@ umpgku.ru
 uni.rest
 unicredit.ru
 unicreditbank.ru
+unimatic.ru
 unistock.cloud
 united.ru
 uniteller.ru
@@ -4558,6 +4570,7 @@ xn--d1acakl8aqa2a.xn--p1ai
 xn--d1achcanypala0j.xn--p1ai
 xn--d1aie4av.xn--p1ai
 xn--d1aiiei7h.xn--p1ai
+xn--d1amfhcy.xn--p1ai
 xn--d1aqf.xn--p1ai
 xn--d1aqn.xn--p1ai
 xn--d1arj.xn--p1ai
