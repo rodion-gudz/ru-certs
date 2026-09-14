@@ -7157,6 +7157,7 @@ brand.rt.ru
 brand.sber.ru
 brand.veb.ru
 brandanalytics.ru
+brandhub.megafon.ru
 bratsk-city.ru
 bratska.ru
 brazil.gazprom.ru
@@ -7358,6 +7359,7 @@ career.s7.ru
 career.zaryad.magnit.ru
 career.zvuk.com
 careers.rosseti-lenenergo.ru
+cargo.megafon.ru
 carmenta.journal.tinkoff.ru
 carmenta.t-j.ru
 cars.mail.ru
@@ -9689,6 +9691,7 @@ factor.ingobank.ru
 factoring.alfabank.ru
 factoring.kk.bank
 factoring.kk.ru
+factoring.megafon.ru
 factoring.mkb.ru
 factoring.mtsbank.ru
 factoring.otpbank.ru
@@ -12147,6 +12150,7 @@ lk.bcs-bank.ru
 lk.bcslife.ru
 lk.bi.zone
 lk.car.bistrodengi.ru
+lk.cloud.megafon.ru
 lk.css-rzd.ru
 lk.css.rzd.ru
 lk.digital.uralsib.ru
@@ -13408,6 +13412,7 @@ micron-uat.mtsbank.ru
 micron.mtsbank.ru
 microservices.megafon.ru
 middle-api.magnit.ru
+middle.megafon.ru
 mig-os.ru
 mig.magnit.ru
 migom.info
@@ -14648,6 +14653,7 @@ ord.vk.com
 ord.vk.ru
 ordcrb.mznso.ru
 order.mitsubishi-motors-finance.ru
+ordering.megafon.ru
 ordering.staging.megafon.ru
 oreka.ru
 orelkapremont.ru
@@ -18821,6 +18827,7 @@ test-le-8.certhub-beta.onecld.ru
 test-lk-ecomm.psbank.ru
 test-lk.rt.ru
 test-logging.tap2phone.ru
+test-middle.megafon.ru
 test-mob.tap2phone.ru
 test-mobile.broker.vtb.ru
 test-mobile2.broker.vtb.ru
@@ -19456,6 +19463,7 @@ ug-rr.ru
 ug.amet.ru
 ugrartc.ru
 ugzko.ru
+ui.megafon.ru
 ui.staging.megafon.ru
 uiosago.alfastrah.ru
 uir-ovpn.acti.ru
