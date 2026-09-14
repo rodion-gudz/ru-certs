@@ -1525,6 +1525,7 @@ ictrend.ru
 ids-llc.ru
 ids-llc.su
 idwb.ru
+ifxt.ru
 igcpc.ru
 ihead.ru
 ii-company.ru
@@ -1961,6 +1962,7 @@ lubteplo.ru
 luchi.ru
 lukoil.com
 lukoil.ru
+luna25.ru
 lunatech.tech
 lvls.ru
 lycey488.ru
@@ -4262,6 +4264,7 @@ voz.ru
 vp.ru
 vpano.ru
 vpcrb.ru
+vpip.site
 vremenagoda51.ru
 vrk-3.ru
 vrn.ru

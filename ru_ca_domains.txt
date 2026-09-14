@@ -11057,6 +11057,7 @@ ifttg.sbtips.ru
 ifttransportmqr.sber.com
 ifvendorlink-fgw.vtb.ru
 ifvendorlink.vtb.ru
+ifxt.ru
 igcpc.ru
 igrovoy-kop.eco.rt.ru
 ihead.ru
@@ -15702,6 +15703,7 @@ pro-diabet.ru
 pro.sibintek.ru
 proapi-bis.1cupis.ru
 probank.pro
+probe-nuc-rsa.luna25.ru
 probe.mddc.t-j.ru
 probe.mddc.tjournal.tech
 proc.megafon.ru
@@ -18025,6 +18027,7 @@ speedtest.megafon.ru
 speedtest.rt.ru
 speedtest.ru
 speedtest.staging.megafon.ru
+speedtest.tbank.ru
 speedtest.tricolor.ru
 sper54.nso.ru
 spg.nso.ru
@@ -20012,6 +20015,7 @@ vpbx.voiptools.ru
 vpbxsip.voiptools.ru
 vpbxsiptrunk.voiptools.ru
 vpcrb.ru
+vpip.site
 vpn-domclick.sber.ru
 vpn-ha.t-access.ru
 vpn-ha.tcsbank.ru
