@@ -12719,6 +12719,7 @@ mail.image.mail.sovcomlife.ru
 mail.informhd.ru
 mail.ingeos.info
 mail.ins-sys.ru
+mail.ioffe.ru
 mail.ipc.rssi.ru
 mail.ippay.ru
 mail.jitsi.sinara.ru
@@ -16331,6 +16332,7 @@ rec.megafon.ru
 receipts-api.sberbank.ru
 recog.vacr.vtb.ru
 recognition.music.mts.ru
+recruitingreports.ru
 red-soft.ru
 reddatabase.ru
 redirect.centrinvest.ru
@@ -20279,6 +20281,7 @@ webmail.avtobus.spb.ru
 webmail.domru.ru
 webmail.gazprom.ru
 webmail.gazprombank.ru
+webmail.ioffe.ru
 webportal.dmz.ncsp.com
 webportal.ncsp.com
 webquik-test.sberbank.ru
