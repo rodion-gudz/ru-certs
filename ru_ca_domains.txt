@@ -2111,6 +2111,7 @@
 *.lenta.com
 *.lenta.ru
 *.lenta.tech
+*.leslenobl.ru
 *.letidor.ru
 *.leto.rambler-co.ru
 *.letobank.ru
@@ -2590,6 +2591,7 @@
 *.nalog.gov.ru
 *.nalog.ru
 *.namex.org
+*.nami.ru
 *.narco42.ru
 *.nashvybor.online
 *.nationalclearingcentre.com
@@ -3147,6 +3149,7 @@
 *.pulse-w.vk.team
 *.pulse.mail.ru
 *.pulse.veb.ru
+*.puppettheatre.spb.ru
 *.push-reader.backend.roomlink.ru
 *.push-reader.cm.backend.aanda.ru
 *.push-writer.backend.roomlink.ru
@@ -4263,6 +4266,7 @@
 *.time-stage.tcsbank.ru
 *.time.recfaces.ru
 *.time.tbank.ru
+*.time.tinkoff.ru
 *.time2pay.ru
 *.timebook.cloud
 *.timebook.ru
@@ -4842,6 +4846,7 @@
 *.xn--b1abfbo1arfe5cxdo5a.xn--p1ai
 *.xn--b1acgkc6adpm.xn--p1ai
 *.xn--b1adef8acadje8k.com
+*.xn--b1aeckcgftrpl.xn--p1ai
 *.xn--b1aedk2aepjr.xn--p1ai
 *.xn--b1aew.xn--p1ai
 *.xn--b1afabzvcegckfhg.xn--p1ai
@@ -6448,6 +6453,7 @@ autodiscover.mtsbank.ru
 autodiscover.mtsretail.ru
 autodiscover.my.centrinvest.ru
 autodiscover.mymedex.ru
+autodiscover.nami.ru
 autodiscover.ncsp.com
 autodiscover.noosferabank.com
 autodiscover.noosferabank.net
@@ -7851,6 +7857,7 @@ cloud.ipfran.ru
 cloud.it-sirius.ru
 cloud.kasmail.onprem.ru
 cloud.kubanfarm.ru
+cloud.leslenobl.ru
 cloud.mail.ru
 cloud.mfk-bank.ru
 cloud.mgred0mail.onprem.ru
@@ -8279,6 +8286,7 @@ cson-stepnoe.stv.socinfo.ru
 cson.stv.socinfo.ru
 csonkr.ru
 csp-ugra.ru
+csp.uecrus.com
 csr-spb.ru
 csradar.sberbank.ru
 css-rzd.ru
@@ -9864,6 +9872,7 @@ flypobeda.ru
 flyredwings.com
 flyredwings.ru
 flyrossiya.ru
+fm.csp.uecrus.com
 fm.sfera.ru
 fmba-gcgie.ru
 fmbansk.ru
@@ -12041,6 +12050,7 @@ lenta.tech
 lentagroup.ru
 lermontovka-spb.ru
 lesegais.ru
+leslenobl.ru
 letidor.ru
 leto.rambler-co.ru
 leto.sberseller.ru
@@ -12784,6 +12794,7 @@ mail.my.centrinvest.ru
 mail.my.com
 mail.mymedex.ru
 mail.mznso.ru
+mail.nami.ru
 mail.ncsp.com
 mail.nfs.sinara-finance.ru
 mail.nic-itep.ru
@@ -14024,6 +14035,7 @@ nakarantine.ru
 nalog.uprio.ru
 nameste.ru
 namex.org
+nami.ru
 narco42.ru
 narhsi.ru
 narkosk.ru
@@ -14666,6 +14678,7 @@ order.mitsubishi-motors-finance.ru
 ordering.megafon.ru
 ordering.staging.megafon.ru
 oreka.ru
+orel-oil.ru
 orelkapremont.ru
 orenburg-gov.ru
 orenburg.megafon.ru
@@ -14883,6 +14896,7 @@ owa.mtechnologies.pro
 owa.mtsbank.ru
 owa.my.centrinvest.ru
 owa.mymedex.ru
+owa.nami.ru
 owa.noosferabank.com
 owa.noosferabank.net
 owa.noosferabank.store
@@ -15952,6 +15966,7 @@ pulse.sberbank.ru
 pulse.veb.ru
 pult.sber.ru
 pumpkin.mgw.mts.ru
+puppettheatre.spb.ru
 pupreoccupation.rambler.ru
 push-img.megafon.ru
 push-ismg-preprod.psbank.ru
@@ -18826,7 +18841,9 @@ test-anketa.alfabank.ru
 test-api.tap2phone.ru
 test-appweb.broker.vtb.ru
 test-atol.rtksp.ru
+test-csp.uecrus.com
 test-er.ru
+test-fm-csp.uecrus.com
 test-fpsuproxy.sberfactoring.sber.ru
 test-groupib-ac.alfabank.ru
 test-groupib-alfaid.alfabank.ru
@@ -18869,6 +18886,7 @@ test-publicapi.sberfactoring.ru
 test-qp8.psbank.ru
 test-teams.sovcombank.ru
 test-tls-showroom.api.megafon.ru
+test-tp.csp.uecrus.com
 test-vtbo.api.vtb.ru
 test.19dx.ru
 test.3ds.payment.ru
@@ -19209,6 +19227,7 @@ touch.forum.deti.mail.ru
 touchngo.ru
 tournament-quiz-api.journal.tinkoff.ru
 tournament-quiz-api.t-j.ru
+tp.csp.uecrus.com
 tp.t-bank-app.ru
 tp.t-bank-app.su
 tp17.wb-bank.ru
@@ -20306,6 +20325,8 @@ websbol.clickstream.sberbank.ru
 websib.ru
 webstatic.mtsbank.ru
 webtest.toyotafs.ru
+webtutor.external.otpbank.ru
+webtutor.otpbank.ru
 webview-mirror.ru
 webview.ant-t01asl.dmz.gazprombank.ru
 webview.sbervideo.sberbank.ru
@@ -21803,6 +21824,7 @@ www.lenoblbti.ru
 www.lenta.ru
 www.lentagroup.ru
 www.lesegais.ru
+www.leslenobl.ru
 www.letidor.ru
 www.leto.rambler-co.ru
 www.letobank.ru
@@ -22388,6 +22410,7 @@ www.public-buh.sovcombank.ru
 www.pulsarnpp.ru
 www.pulse-hcm.ru
 www.pulseevent.space
+www.puppettheatre.spb.ru
 www.push.if.test.vtb.ru
 www.push.rr.test.vtb.ru
 www.push.vtb.ru
@@ -23284,6 +23307,7 @@ www.xn--90aiajje0ahibxc.xn--p1ai
 www.xn--90aijkdmaud0d.xn--p1ai
 www.xn--90axl.xn--p1ai
 www.xn--b1adaeba5bdflcgnh4bv.xn--p1ai
+www.xn--b1aeckcgftrpl.xn--p1ai
 www.xn--b1aew.xn--p1ai
 www.xn--b1afyi.xn--p1ai
 www.xn--b1agmh1ai8d.xn--p1ai
@@ -23576,6 +23600,7 @@ xn--b1acd7afcap.xn--p1ai
 xn--b1acgkc6adpm.xn--p1ai
 xn--b1adaeba5bdflcgnh4bv.xn--p1ai
 xn--b1adef8acadje8k.com
+xn--b1aeckcgftrpl.xn--p1ai
 xn--b1aedk2aepjr.xn--p1ai
 xn--b1aekybj1ao.xn--p1ai
 xn--b1aew.xn--p1ai
@@ -23781,6 +23806,7 @@ zakupki.ecoteo.ru
 zakupki.fbq.ru
 zakupki.gov.ru
 zakupki.magnit.ru
+zakupki.otpbank.ru
 zakupki.rosneft.com
 zakupki.rosneft.ru
 zakupki.spasibosb.ru
