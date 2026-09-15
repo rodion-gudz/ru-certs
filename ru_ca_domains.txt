@@ -10276,6 +10276,7 @@ gnppregion.ru
 go-sqd.absolutbank.ru
 go-test.alfabank.ru
 go.cyberprotect.ru
+go.ioffe.ru
 go.kilbil.ru
 go.mail.ru
 go.mobileid.megafon.ru
@@ -11572,6 +11573,7 @@ jokertag.ru
 journal.omk.ru
 journal.tbank.ru
 journal.tinkoff.ru
+journals.ioffe.ru
 joy.money
 joymoney.ru
 json.alfabank.ru
@@ -14413,6 +14415,7 @@ oil-service.pro
 oiltelecom.ru
 oinet.ru
 oip.crimea.com
+ojs.ioffe.ru
 ok.games
 ok.me
 ok.ru
@@ -14444,6 +14447,7 @@ old.bcs-bank.com
 old.bspb.ru
 old.enrollme.ru
 old.gazprombank.ru
+old.ioffe.ru
 old.omk.ru
 old.rc.senat.sberbank.ru
 old.senat.sberbank.ru
@@ -21632,6 +21636,7 @@ www.invest.vtb.ru
 www.investorday.sber.ru
 www.investstav.ru
 www.invite-agent.uralsib.ru
+www.ioffe.ru
 www.ios-mb.vtb.ru
 www.ipoteka.vtb.ru
 www.ipoteka.xn--90ab2c.xn--p1ai
