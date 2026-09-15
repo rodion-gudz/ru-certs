@@ -992,9 +992,15 @@
 *.dev.skkpu.mosreg.ru
 *.dev.skpdi.mosreg.ru
 *.dev.smartforms.monitoring.mosreg.ru
+*.dev.smev.mosreg.ru
+*.dev.soc.mosreg.ru
+*.dev.socuslugi.mosreg.ru
 *.dev.sovcombank.group
 *.dev.sovcomins.ru
+*.dev.sport.mosreg.ru
 *.dev.sravni-team.ru
+*.dev.sso.mosreg.ru
+*.dev.sso2.mosreg.ru
 *.dev.t.o3.ru
 *.dev.tau.vk.com
 *.dev.tau.vk.ru
@@ -5975,6 +5981,7 @@ apiwsdev.alfabank.ru
 apk-fond.ru
 apk.vtb.ru
 apk1.vtb.ru
+apk3.vtb.ru
 apkbank.ru
 apm.mtsbank.ru
 apmt.mtsbank.ru
@@ -8703,8 +8710,14 @@ dev.sbp.payanyway.ru
 dev.skkpu.mosreg.ru
 dev.skpdi.mosreg.ru
 dev.smartforms.monitoring.mosreg.ru
+dev.smev.mosreg.ru
+dev.soc.mosreg.ru
+dev.socuslugi.mosreg.ru
 dev.sovcombank.group
 dev.sovcomins.ru
+dev.sport.mosreg.ru
+dev.sso.mosreg.ru
+dev.sso2.mosreg.ru
 dev.t.o3.ru
 dev.test-jazz.sberbank.ru
 dev.ubrr.ru
@@ -10098,9 +10111,13 @@ gazprom-agnks.ru
 gazprom-arena.com
 gazprom-media.com
 gazprom.ru
+gazprombank.global
 gazprombank.investments
+gazprombank.promo
 gazprombank.ru
+gazprombank.sale
 gazprombank.tech
+gazprombank.zone
 gazprombanktech.ru
 gazpromexport.com
 gazpromexport.ru
@@ -11932,6 +11949,7 @@ ks.megafon.ru
 ks.staging.megafon.ru
 ksamur.ru
 ksc.speechpro.com
+ksc1.sevstar.net
 ksdgb.ru
 kshcrb.mznso.ru
 kskkaluga.ru
@@ -14764,6 +14782,8 @@ oss-ekx.megalabs.ru
 oss.ertelecom.ru
 ostec-cleaning.ru
 ostec-dispensing.ru
+ostec-electro.ru
+ostec-group.ru
 ostec-materials.ru
 osu.ru
 ot.gov.ru
@@ -16537,6 +16557,7 @@ retail.payment.ru
 retail5.kuzbank.ru
 rev.avangard.ru
 rev2.avangard.ru
+review.sevstar.net
 rex-motors.ru
 rex-render.mts.ru
 rezonit.ru
@@ -19315,6 +19336,7 @@ trade.sberbank.ru
 tradeint.alfadirect.ru
 trading.alfabank.ru
 training.flypobeda.ru
+trans.sevstar.net
 transcapital.com
 transfer.bank.yandex.ru
 transfer.megafon.ru

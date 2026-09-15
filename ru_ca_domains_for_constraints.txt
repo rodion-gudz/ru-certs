@@ -1252,9 +1252,13 @@ gazprom-arena.com
 gazprom-media.com
 gazprom.com
 gazprom.ru
+gazprombank.global
 gazprombank.investments
+gazprombank.promo
 gazprombank.ru
+gazprombank.sale
 gazprombank.tech
+gazprombank.zone
 gazprombanktech.ru
 gazpromexport.com
 gazpromexport.ru
@@ -2616,6 +2620,8 @@ ospos.dev
 ospos.ru
 ostec-cleaning.ru
 ostec-dispensing.ru
+ostec-electro.ru
+ostec-group.ru
 ostec-materials.ru
 osu.ru
 otais.ru
