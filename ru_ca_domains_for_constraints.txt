@@ -379,6 +379,7 @@ b-s-c.ru
 b22e.ru
 bahmurov.ru
 baikalcredobank.ru
+baikalelectronics.ru
 baikalinc.ru
 balaes.ru
 balakovo-bank.ru
@@ -574,6 +575,7 @@ cardio.ru
 cardsmobile.ru
 cardstandard.ru
 carthalva.ru
+catalysis.ru
 cateam.ru
 cathedral.ru
 cbmfsk.ru
@@ -1606,6 +1608,7 @@ intelwebs.ru
 intercomp.ru
 intercompglobal.com
 interfax.ru
+interfax.tech
 internalog.ru
 internet.ru
 interrao-it.ru
@@ -1667,10 +1670,12 @@ itbank.ru
 itbez.ru
 itcomp.tech
 itfederation.ru
+itinfrastructure.ru
 itmagnit.ru
 itmkb.ru
 itmrl.ru
 itphx.ru
+its61.ru
 iturup.online
 iturupbank.ru
 iva-tech.ru
@@ -1699,6 +1704,7 @@ jump.taxi
 jumpwork.ru
 juratino.ru
 k-bnk.ru
+k2.tech
 kachestvozhizni.ru
 kadastr.ru
 kairosstrategy.ru
@@ -2156,6 +2162,7 @@ mo-medsvc.ru
 mob-trs.org
 mobifitness.ru
 mobilecheck.pro
+mobileid.ru
 moderita.ru
 modernsys.ru
 modulbank.ru
@@ -2262,6 +2269,7 @@ muz-3.ru
 muzcomedy.ru
 muzkult.ru
 muzlab.ru
+mvaitc.online
 mvbol.ru
 mvd.ru
 mvfd1.ru
@@ -2367,6 +2375,7 @@ nikdevel.ru
 niklibrary.ru
 nimro.ru
 nipigrado.ru
+niti-progress.ru
 niti.ru
 nixwan.ru
 nkbank.ru
@@ -2549,6 +2558,7 @@ omus1.ru
 on-media.ru
 one-infra.ru
 onecld.ru
+oneclickmoney.ru
 onefactor.com
 onego.ru
 oneliya.ru
@@ -2872,6 +2882,7 @@ r-x.team
 r0.ru
 r1.team
 r1864.ru
+r954n8.site
 rabotavkuzbasse.ru
 radionebo.com
 radiosputnik.ru
@@ -3330,6 +3341,7 @@ school433spb.ru
 school434.ru
 school445.ru
 school495.ru
+sciact.ru
 scloud.ru
 scoring.ru
 screspect.ru
@@ -3408,6 +3420,7 @@ shagym.ru
 shakhty-edu.ru
 sharipovv.ru
 shelepov.tech
+shibaev.su
 shilinka.ru
 shiptor.ru
 shivacat.ru
@@ -4688,6 +4701,7 @@ zavedi-rebenka.ru
 zavod-plastmass.ru
 zdrav26.ru
 zdrav74.ru
+zdravcity.ru
 zdravografika.ru
 zdship.ru
 ze.parts
