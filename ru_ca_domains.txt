@@ -8405,6 +8405,7 @@ d360v2-study.severstal.ru
 d71.ru
 da-cpu.asudd.net
 da-pvp.asudd.net
+da.ioffe.ru
 da.sfr.gov.ru
 dac-wallet.cardsmobile.ru
 dadata.key.rt.ru
