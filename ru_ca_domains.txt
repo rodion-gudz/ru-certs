@@ -394,6 +394,7 @@
 *.away.tau.vk.ru
 *.awr.nniirt.ru
 *.axiomatika.ru
+*.aykt.ru
 *.az1.secure-cloud.vk.ru
 *.az2.secure-cloud.vk.ru
 *.azimuth.ru
@@ -418,6 +419,7 @@
 *.baltinvest.com
 *.baltinvest.ru
 *.baltlng.ru
+*.bancaintesa.ru
 *.bank-arzamas.ru
 *.bank-hlynov.ru
 *.bank-mscb.ru
@@ -631,6 +633,7 @@
 *.ccb.ru
 *.ccb2.ru
 *.ccbrussia.ru
+*.cctmcx.ru
 *.cctv.sptz.ru
 *.cdek.ru
 *.cdekfin.ru
@@ -1007,10 +1010,18 @@
 *.dev.tools.sberdevices.ru
 *.dev.ubrr.ru
 *.dev.ugms.mosreg.ru
+*.dev.unp-2.mosreg.ru
+*.dev.upsh.mosreg.ru
+*.dev.uslugi.mosreg.ru
 *.dev.visi.monitoring.mosreg.ru
+*.dev.vks.mosreg.ru
+*.dev.vmeste.mosreg.ru
 *.dev.vseplatezhi.ru
+*.dev.wow.mosreg.ru
 *.dev.yadro.com
 *.dev.zdrav.mosreg.ru
+*.dev.zk.knd.mosreg.ru
+*.dev.zkh-kontur.mosreg.ru
 *.dev2.nspd.rosreestr.gov.ru
 *.dev3.atm72.ru
 *.dev39.rustore.devmail.ru
@@ -1053,6 +1064,7 @@
 *.digitalwb.ru
 *.diongo.ru
 *.dip2112.ru
+*.dipaul.ru
 *.dipos.ru
 *.direct-credit.dev
 *.direct-credit.ru
@@ -1196,6 +1208,7 @@
 *.ecom.md.magnit.ru
 *.ecom.raiffeisen.ru
 *.ecomonitoring.mnr.gov.ru
+*.ecomtech.cloud
 *.economy.mil.ru
 *.economy.old.mil.ru
 *.ecospher.ru
@@ -1220,6 +1233,7 @@
 *.edromaps.2gis.com
 *.edtechpro.ru
 *.edu-penza.ru
+*.edu.geoscan.ru
 *.edu.gov.ru
 *.edu.orb.ru
 *.edu.ptsecurity.com
@@ -1890,9 +1904,11 @@
 *.investpay.ru
 *.investstav.ru
 *.invsol.ru
+*.ioffe.ru
 *.iot.nt.sberdevices.ru
 *.iot.pd.sberdevices.ru
 *.iot.sberdevices.ru
+*.iotjai.com
 *.ipa.anodialog.ru
 *.ipb.ru
 *.ipfran.ru
@@ -2044,6 +2060,7 @@
 *.komzrt.ru
 *.konfs.ru
 *.konkrs.ru
+*.kontur-api.ru
 *.konus.group
 *.kopss43.ru
 *.korotyshev.ru
@@ -2480,6 +2497,7 @@
 *.mosenergosbyt.ru
 *.moshkovo-54.ru
 *.moslenta.ru
+*.mosnarbank.ru
 *.mosoblbank.ru
 *.mosoblgaz.ru
 *.mosreg.ru
@@ -3173,6 +3191,7 @@
 *.q-admins.ru
 *.qa-dc.ru
 *.qa-dfo.ru
+*.qa.msed.mosreg.ru
 *.qa.vk.team
 *.qandyapp.ru
 *.qe.kion.ru
@@ -4445,6 +4464,7 @@
 *.unified-billing.mail.ru
 *.unimatic.ru
 *.unistock.cloud
+*.unistream.ru
 *.united.ru
 *.uniteller.ru
 *.unitybroker.ru
@@ -4614,6 +4634,7 @@
 *.vlc.ru
 *.vn.megafon.ru
 *.vniia.ru
+*.vniief.ru
 *.vniifk.ru
 *.vodokanal.spb.ru
 *.voduberegi.ru
@@ -4960,6 +4981,7 @@
 *.zdrav74.ru
 *.zdravcity.ru
 *.zdship.ru
+*.zemcombank.ru
 *.zemsky.ru
 *.zen.me
 *.zen.zeta.dzen.ru
@@ -6706,6 +6728,7 @@ awtun.deltacredit.ru
 awuagrt.tander.ru
 axiomatika.ru
 axiomclass.ru
+aykt.ru
 ayratbirdin.ru
 az2.secure-cloud.vk.ru
 azimuth.ru
@@ -7461,6 +7484,7 @@ ccp-recommendations.t-software.tech
 ccp.root.t-software.tech
 ccp.t-software.tech
 ccrr.vtb.ru
+cctmcx.ru
 cctv.sptz.ru
 cd.regulinvest.ru
 cddisk.r7.corp.znanierussia.ru
@@ -7835,6 +7859,8 @@ cl.school.karelia.ru
 cl.vtb.ru
 clamax.ru
 class365.ru
+clbext-icap.raiffeisen.ru
+clbext.raiffeisen.ru
 clbf.avangard.ru
 clbfmobile.avangard.ru
 cldmail.ru
@@ -8284,6 +8310,7 @@ crmbpm.spasibosb.sigma.sbrf.ru
 croc.ru
 cross-kpk.ru
 crossover.pay.sberbank.ru
+crp-usg-vgate1.sovcombank.group
 crpt.ru
 crptech.ru
 crrintegro.ru
@@ -8380,6 +8407,7 @@ cwxexpe05.alfabank.ru
 cwxexpe06.alfabank.ru
 cwxexpecl.alfabank.ru
 cyber-matrix.pro
+cyber.sovcombank.ru
 cyberkoala.ru
 cyberkoalastudios.com
 cyberprotect.ru
@@ -8725,9 +8753,18 @@ dev.t.o3.ru
 dev.test-jazz.sberbank.ru
 dev.ubrr.ru
 dev.ugms.mosreg.ru
+dev.unp-2.mosreg.ru
+dev.upsh.mosreg.ru
+dev.uslugi.mosreg.ru
 dev.visi.monitoring.mosreg.ru
+dev.vks.mosreg.ru
+dev.vmeste.mosreg.ru
+dev.voicepassword.ru
+dev.wow.mosreg.ru
 dev.yadro.com
 dev.zdrav.mosreg.ru
+dev.zk.knd.mosreg.ru
+dev.zkh-kontur.mosreg.ru
 dev2.nspd.rosreestr.gov.ru
 dev2.region.broker
 dev3.atm72.ru
@@ -8853,6 +8890,7 @@ dinerstravel.rsb.ru
 diongo.ru
 dip.kubzan.ru
 dip2112.ru
+dipaul.ru
 dipos.ru
 dir.ukshmao.ru
 direct-credit.dev
@@ -9282,6 +9320,7 @@ edtechpro.ru
 edu-assist.me
 edu-assist.ru
 edu-penza.ru
+edu.geoscan.ru
 edu.gov.ru
 edu.kilbil.ru
 edu.nii-kpg.ru
@@ -9561,6 +9600,7 @@ etp.gpb.ru
 etp.interrao-orel.ru
 etpgaz.gazprombank.ru
 etpgp.rzd.ru
+etpgpb.ru
 etpz.ru
 ets-pre.mkb.ru
 ets-test.ast-innovation.ru
@@ -10050,6 +10090,7 @@ fx-games.ru
 fx.bspb.ru
 fzo.gosuslugi.ru
 fzo.gov.ru
+g-partner.store
 g.gis-sc.krasnodar.ru
 g45.tambov.gov.ru
 ga-airport.ru
@@ -11198,6 +11239,7 @@ indices.sberbank-cib.com
 indices.sberbank-cib.ru
 indices.sberbank.ru
 indpark-krd.ru
+industrialconsulting.ru
 ined.ru
 inet-operator-integration.vacs-rr.vtb.ru
 inet-operator-integration.vtb.ru
@@ -11370,6 +11412,7 @@ iot.megafon.ru
 iot.nt.sberdevices.ru
 iot.pd.sberdevices.ru
 iot.sberdevices.ru
+iotjai.com
 iov.mts.ru
 ip-besplatno.ru
 ip1.alfadirect.ru
@@ -11577,6 +11620,7 @@ jenkins.legalbpm.sberpravo.ru
 jenkins.psi.legalbpm.sberpravo.ru
 jenkins.rnd.dev.sberdevices.ru
 jenkins.sberpravo.ru
+jethome.com
 jfn.su
 jigner.raiffeisen-capital.ru
 jira-proxy.mkb.ru
@@ -11684,6 +11728,7 @@ kamonco.ru
 kamp-ext-if.vtb.ru
 kamp-ext-rr.vtb.ru
 kancrb.ru
+kandinsky3d.demo.sberdevices.ru
 kanzburo.ru
 kap.vtb.ru
 kapi.dev.jump.finance
@@ -11886,6 +11931,7 @@ konfs.ru
 konkrs.ru
 konsierge.com
 kontragent.magnit.ru
+kontur-api.ru
 kop-prd-md-conv.codm.gazprom.ru
 kop-prd-media1.codm.gazprom.ru
 kop-prd-media2.codm.gazprom.ru
@@ -13719,6 +13765,7 @@ mosenergosbit.ru
 mosenergosbyt.ru
 moshkovo-54.ru
 moslenta.ru
+mosnarbank.ru
 mosoblbank.ru
 mosobleirc.ru
 mosoblgaz.ru
@@ -16098,6 +16145,7 @@ q.gis-sc.krasnodar.ru
 qa-dc.ru
 qa-dfo.ru
 qa.geoapi.sberbank.ru
+qa.msed.mosreg.ru
 qa.vk.team
 qbw.vbrr.ru
 qcib-psi.sberbank-cib.ru
@@ -19619,6 +19667,7 @@ unified-billing.mail.ru
 unimatic.ru
 uniport.bcs.ru
 unistock.cloud
+unistream.ru
 united.ru
 uniteller.ru
 unitybroker.ru
@@ -20055,6 +20104,7 @@ vnc.demo3.hycl.ru
 vnd.ncagp.ru
 vngcrb.mznso.ru
 vniia.ru
+vniief.ru
 vniifk.ru
 vniigaz-cert.ru
 vnm.transneft.ru
@@ -21298,6 +21348,7 @@ www.doozm.ru
 www.dorogisk.ru
 www.dorstroycom.ru
 www.dostavka.magnit.ru
+www.dosug.metro.spb.ru
 www.dots.proitr.ru
 www.dou.karelia.pro
 www.dou5-shakhty.ru
@@ -22065,12 +22116,14 @@ www.meteo.nw.ru
 www.meteosky.ru
 www.metib.online
 www.metib.ru
+www.metro.spb.ru
 www.metropolik.ru
 www.mfc-25.ru
 www.mfc-kursk.ru
 www.mfc-nso.ru
 www.mfnso.ru
 www.mfsk.ru
+www.mgn.metro.spb.ru
 www.mi-tn.transneft.ru
 www.mi-vpn.vtb.ru
 www.mi-vpn2.vtb.ru
@@ -22270,6 +22323,7 @@ www.ogk2.ru
 www.oil-service.pro
 www.oiltelecom.ru
 www.okbank.ru
+www.okbm.nnov.ru
 www.okna-leningrad.ru
 www.oknazone.ru
 www.okvd48.ru
@@ -23921,6 +23975,7 @@ zdvcrb.mznso.ru
 zea.api.belmont-renew.ru
 zea.belmont-renew.ru
 zealot.avangard.ru
+zemcombank.ru
 zen.me
 zen.zeta.dzen.ru
 zenabout.ru

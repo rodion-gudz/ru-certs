@@ -369,6 +369,7 @@ avtotorgbank.ru
 awardme.ru
 axiomatika.ru
 axiomclass.ru
+aykt.ru
 ayratbirdin.ru
 azbykait.ru
 azimuth.ru
@@ -588,6 +589,7 @@ ccb.ru
 ccb2.ru
 ccbrussia.ru
 cchgeu.ru
+cctmcx.ru
 cdek.ru
 cdekfin.ru
 cdekpay.ru
@@ -863,6 +865,7 @@ din235.ru
 dineftyanik.ru
 diongo.ru
 dip2112.ru
+dipaul.ru
 dipos.ru
 direct-credit.dev
 direct-credit.ru
@@ -975,6 +978,7 @@ ecocat.biz
 ecolant.net
 ecolantvyksa.ru
 ecom-plus.ru
+ecomtech.cloud
 econombank.ru
 economyrk.ru
 ecospher.ru
@@ -1230,6 +1234,7 @@ furman.ru
 furryporno.ru
 fusionbrain.ai
 fx-games.ru
+g-partner.store
 g4lab.com
 ga-airport.ru
 gain-up.ru
@@ -1561,6 +1566,7 @@ indepo.ru
 index20.ru
 indicator.ru
 indpark-krd.ru
+industrialconsulting.ru
 ined.ru
 inel23.ru
 inet.vtb
@@ -1634,6 +1640,7 @@ investstav.ru
 invsol.ru
 ioffe.ru
 iot-ertelecom.ru
+iotjai.com
 ip-besplatno.ru
 ipb.ru
 ipfran.ru
@@ -1694,6 +1701,7 @@ ivoblmed.su
 ivuslugi.ru
 izh-bs.ru
 izobrb.ru
+jethome.com
 jfn.su
 jira-tcsbank.ru
 jivo.ru
@@ -1805,6 +1813,7 @@ komzrt.ru
 konfs.ru
 konkrs.ru
 konsierge.com
+kontur-api.ru
 kontur.ru
 konus.group
 kopss43.ru
@@ -2198,6 +2207,7 @@ mosenergosbit.ru
 mosenergosbyt.ru
 moshkovo-54.ru
 moslenta.ru
+mosnarbank.ru
 mosoblbank.ru
 mosobleirc.ru
 mosoblgaz.ru
@@ -4087,6 +4097,7 @@ unicredit.ru
 unicreditbank.ru
 unimatic.ru
 unistock.cloud
+unistream.ru
 united.ru
 uniteller.ru
 unitybroker.ru
@@ -4257,12 +4268,14 @@ vmailru.net
 vnashemdvore.ru
 vneshbank.ru
 vniia.ru
+vniief.ru
 vniifk.ru
 vniigaz-cert.ru
 vodokanal-museum.ru
 vodokanal-zagorod.ru
 vodolaga.ru
 voduberegi.ru
+voicepassword.ru
 voiptools.ru
 vokpc2.ru
 volbti.ru
@@ -4712,6 +4725,7 @@ zdravcity.ru
 zdravografika.ru
 zdship.ru
 ze.parts
+zemcombank.ru
 zemsky.ru
 zen.me
 zenabout.ru
