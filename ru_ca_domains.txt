@@ -5522,6 +5522,7 @@ aiandsoft.ru
 aichatbots.vk.team
 aiflow.podeli.alfagen.alfabank.ru
 aiflow.vk.team
+aihor.ru
 aihub.finam.ru
 aij.ru
 aiot.zdrav74.ru
@@ -13228,6 +13229,7 @@ mattermost.alfastrah.ru
 mattermost.avangard.ru
 matznay.ru
 max-bot.bestwayservice.ru
+max.aihor.ru
 max.bidfox.ru
 max.emm.hr-ift.sberbank.ru
 max.emm.hr-uat.sberbank.ru
