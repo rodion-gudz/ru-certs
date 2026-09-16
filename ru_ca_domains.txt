@@ -5027,6 +5027,7 @@
 1c.ai
 1c.as.vk.team
 1c.cloud
+1c.ioffe.ru
 1c.krao.ru
 1c.link
 1c.malltech.ru
@@ -7924,6 +7925,7 @@ cmd.su
 cmdb-gw.speechpro.com
 cmdb.devmail.ru
 cmec.spb.ru
+cmiap-app.minzdrav.gov.ru
 cmrbank.ru
 cms-edge.slavneft-kng.ru
 cms-edge1.slavneft-kng.ru
@@ -13391,6 +13393,7 @@ metcom.ru
 metcombank.ru
 meteo-new.dmz.ncsp.com
 meteo-new.ncsp.com
+meteo.its61.ru
 meteo.ru
 meteosky.ru
 meters.mgn-city.ru
@@ -13802,6 +13805,7 @@ msbapps.ru
 msch.eye.salute.ru
 mschcentr74.ru
 mscout.magnit.ru
+msd.ioffe.ru
 msed.mosreg.ru
 msg.acti.ru
 msg.akbars.ru
@@ -16210,6 +16214,7 @@ r36.rosreestr.ru
 r37.rosreestr.ru
 r38.rosreestr.ru
 r39.rosreestr.ru
+r3sonance.ru
 r40.rosreestr.ru
 r41.rosreestr.ru
 r42.rosreestr.ru
