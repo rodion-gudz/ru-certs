@@ -1,4 +1,5 @@
 04gov.ru
+05edu.ru
 100ege.ru
 131.ru
 1440.space
@@ -139,6 +140,7 @@ aipetri.land
 airkaluga.ru
 airlinescloud.online
 airport33.ru
+aisoms.ru
 akado-telecom.ru
 akado.ru
 akbars.ru
@@ -234,6 +236,7 @@ ankb.ru
 ankf.ru
 ano-orbita.ru
 anodialog.ru
+ansap.ru
 antonenkov-art.ru
 antonylexar.ru
 any-token.com
@@ -1009,6 +1012,7 @@ edu.ru
 edu35.ru
 edu54.ru
 educom.ru
+edurb.ru
 edwardcode.net
 efadevelopment.ru
 efbank.ru
@@ -1668,6 +1672,7 @@ isin.ru
 isnbank.ru
 ispmanager.ru
 issras.ru
+istokmw.ru
 it-brigita.ru
 it-earth.ru
 it-grad.ru
@@ -2138,6 +2143,7 @@ mikhailovsky.ru
 mikhprim.ru
 mil.ru
 mili-rest.ru
+minedu.ru
 minfin.ru
 minfinkbr.ru
 minfinrk.ru
@@ -4034,6 +4040,7 @@ tverfin.ru
 tverreg.ru
 tverstandart.ru
 tvmag.ru
+tvobr.ru
 tvoy-domovoy.ru
 tvoymagnit.com
 tvoymagnit.online
@@ -4154,6 +4161,7 @@ utg.group
 utk.ru
 utmn.ru
 uulz.ru
+uvsavia.ru
 uwca.ru
 uzagsrk.ru
 v-dimitriadis.ru
@@ -4662,6 +4670,7 @@ xplonline.com
 xrmib.ru
 yadro.com
 yakovlev.ru
+yanao.ru
 yandar-group.com
 yandar-group.ru
 yandex-bank.net

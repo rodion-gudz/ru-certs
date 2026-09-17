@@ -1,4 +1,5 @@
 *.04gov.ru
+*.05edu.ru
 *.09.rospotrebnadzor.ru
 *.10.rospotrebnadzor.ru
 *.100ege.ru
@@ -76,6 +77,7 @@
 *.ac.infoline-rk.ru
 *.acapital-am.ru
 *.account.2gis.com
+*.ach.gov.ru
 *.aconf.rt.ru
 *.acptl.ru
 *.acron.ru
@@ -169,6 +171,7 @@
 *.airkaluga.ru
 *.airlinescloud.online
 *.airport33.ru
+*.aisoms.ru
 *.aisubp.mos.ru
 *.akado-telecom.ru
 *.akado.ru
@@ -357,6 +360,7 @@
 *.atsaero.ru
 *.atsenergo.ru
 *.attachmail.ru
+*.audit.gov.ru
 *.auditkso.ru
 *.aurora-music.ru
 *.auth-lkp.a-rnr.ru
@@ -534,6 +538,7 @@
 *.boostdevelopment.ru
 *.botmag.net
 *.bpd01.az2.secure-cloud.vk.ru
+*.br.mosreg.ru
 *.brandanalytics.ru
 *.bratsk-city.ru
 *.bratska.ru
@@ -1245,6 +1250,7 @@
 *.edu54.ru
 *.education.mts.ru
 *.educom.ru
+*.edurb.ru
 *.eeko.cgkipd.ru
 *.efadevelopment.ru
 *.efbank.ru
@@ -1404,6 +1410,8 @@
 *.fifth-m12.asudd.net
 *.fifth1-m12.asudd.net
 *.fifth2-m12.asudd.net
+*.files-mn-ku.opmoscow.ru
+*.files-mn-ng.opmoscow.ru
 *.files.attachmail.ru
 *.files.mail.ru
 *.filjus.ru
@@ -1933,6 +1941,7 @@
 *.is-mmk.ru
 *.isbank.com.ru
 *.issras.ru
+*.istokmw.ru
 *.it-brigita.ru
 *.it-grad.ru
 *.it-kizlyar.ru
@@ -2409,6 +2418,7 @@
 *.mikhprim.ru
 *.mikrokeis.rt.ru
 *.mil.ru
+*.minedu.ru
 *.minfin.kirov.ru
 *.minfin.rk.gov.ru
 *.minfin.tverreg.ru
@@ -2508,6 +2518,7 @@
 *.mosreg.ru
 *.mosting.ru
 *.mostotrest-spb.ru
+*.motivpay.ru
 *.motor.ru
 *.motozavod.ru
 *.movix.ru
@@ -2936,6 +2947,7 @@
 *.pages.sca.ad-tech.ru
 *.pages.vk-apps.com
 *.pages.vk-apps.ru
+*.pages.web3tech.ru
 *.panel.eaglecdn.com
 *.pansion.mil.ru
 *.pansion.old.mil.ru
@@ -3070,6 +3082,7 @@
 *.portal-feature.web.s7.ru
 *.portal-redash.vk.team
 *.portal.vk.team
+*.portalkso.ru
 *.portalsd.mts.ru
 *.pp.sovcomins.ru
 *.ppsbp-api-dg.money.mail.ru
@@ -3148,6 +3161,8 @@
 *.prostobank.online
 *.prosv.ru
 *.provodnik.ru
+*.prp.aisoms.ru
+*.prp.emias.ru
 *.prto.ru
 *.psbam.ru
 *.psbii.ru
@@ -3694,6 +3709,7 @@
 *.schedule.vk-apps.com
 *.school-134.ru
 *.school-orphan.ru
+*.school.yanao.ru
 *.school12-61.ru
 *.school40-shakhty.ru
 *.school495.ru
@@ -4244,10 +4260,12 @@
 *.test-megamarket.ru
 *.test-pgwh.nsd.ru
 *.test-teams.sovcombank.ru
+*.test.aisoms.ru
 *.test.aisubp.mos.ru
 *.test.broker-sb.io
 *.test.domapi.domrfbank.ru
 *.test.egisz.rosminzdrav.ru
+*.test.emias.ru
 *.test.gosuslugi.ru
 *.test.gu.ru
 *.test.infinitum-tc.ru
@@ -4397,6 +4415,7 @@
 *.tverfin.ru
 *.tverreg.ru
 *.tvh.mts.ru
+*.tvobr.ru
 *.tvoy.magnit.ru
 *.tvoymagnit.com
 *.tvoymagnit.online
@@ -4512,6 +4531,7 @@
 *.utg-express.ru
 *.utg.group
 *.utmn.ru
+*.uvsavia.ru
 *.uwca.ru
 *.v8.1c.ru
 *.vamto.mil.ru
@@ -5022,6 +5042,7 @@
 03.rospotrebnadzor.ru
 04.rospotrebnadzor.ru
 04gov.ru
+05edu.ru
 06.rospotrebnadzor.ru
 09.rospotrebnadzor.ru
 0node0019.saas.rambler.tech
@@ -5558,6 +5579,7 @@ ais.snbank.ru
 ais3-test.vtb.ru
 aislod.rcoko27.ru
 aisnalogtaxmon.alfabank.ru
+aisoms.ru
 aissmp-pp.soctech.mos.ru
 aisubp.mos.ru
 akado-telecom.ru
@@ -5731,6 +5753,7 @@ anmfo.alfabank.ru
 anniversary.tbank-online.com
 ano-orbita.ru
 anodialog.ru
+ansap.ru
 antonenkov-art.ru
 antonylexar.ru
 any-token.com
@@ -7213,6 +7236,7 @@ bpxptestpg.beeline.ru
 bpxptestpgload.beeline.ru
 bpxptestpgnew.beeline.ru
 br.atriumnn.ru
+br.mosreg.ru
 brand.rt.ru
 brand.sber.ru
 brand.veb.ru
@@ -9362,6 +9386,7 @@ educom.ru
 educonstructor-control.gosuslugi.ru
 educonstructor.gosuslugi.ru
 edupirsms.testsbi.sberbank.ru
+edurb.ru
 edusales.kilbil.ru
 edutech.kilbil.ru
 eeko.cgkipd.ru
@@ -9882,6 +9907,8 @@ file01.achimgaz.ru
 fileexch.aspirelifestyles.ru
 files-b.team.centrinvest.ru
 files-mfr.megafon.ru
+files-mn-ku.opmoscow.ru
+files-mn-ng.opmoscow.ru
 files-n.vneshbank.ru
 files-nw.megafon.ru
 files-sib.megafon.ru
@@ -10815,6 +10842,7 @@ hr-qa.sber.ru
 hr-qa.sberbank.ru
 hr-serv-test.rt.ru
 hr-serv.rt.ru
+hr-test.sber.ru
 hr-uat.sber.ru
 hr-uat.sberbank.ru
 hr.kk.bank
@@ -11201,6 +11229,7 @@ ihubtestpsi.devices.sberbank.ru
 ihubuat.devicestest.sberbank.ru
 ii-company.ru
 iicsk-insurance.ru
+iiot-kids.istokmw.ru
 iiot.gov.ru
 iitrust.ru
 ikac.ru
@@ -13590,6 +13619,7 @@ mili-rest.ru
 mincert.pskb.com
 mincif.phrm.tech
 mindigit.ispmanager.ru
+minedu.ru
 minfin.kirov.ru
 minfin.rk.gov.ru
 minfin.tverreg.ru
@@ -13666,6 +13696,7 @@ mm.mts.ru
 mm.mtsbank.ru
 mm.sinara.ru
 mm2.rencredit.ru
+mmc.help
 mmk-coal.ru
 mmk.ru
 mmm.preprod-cdn.edgecenter.online
@@ -15263,6 +15294,7 @@ pages.dt.multicarta.ru
 pages.ecpk-dev.sibintek.ru
 pages.ecpk.sibintek.ru
 pages.sca.ad-tech.ru
+pages.web3tech.ru
 palacesquare.rambler.ru
 pam.thehrp.ru
 panda.mgn-city.ru
@@ -15994,6 +16026,8 @@ proxy.ingobank.ru
 proxy.spasibobonus.ru
 proxy.spasibotest.ru
 prp-moos-ag-spa.mtsbank.ru
+prp.aisoms.ru
+prp.emias.ru
 prrr.ru
 prto.ru
 ps-rs.recfaces.ru
@@ -16541,6 +16575,7 @@ ref.akbars.ru
 ref.kk.bank
 refashion.ru
 refinanc.ru
+reflex-prom-ecosystem.sberbank.ru
 reg-cctv.ru
 reg.akbars.ru
 reg.dogm.mos.ru
@@ -17329,6 +17364,7 @@ sbp.akbars.ru
 sbp.atbbank.ru
 sbp.gazprombank.ru
 sbp.magnit.ru
+sbp.nkbank.ru
 sbp.teleportbank.ru
 sbpgpb.ru
 sbrf-capital.ru
@@ -17393,6 +17429,7 @@ school-24.tagan.ru
 school-demo.olabank.ru
 school-orphan.ru
 school.ncagp.ru
+school.yanao.ru
 school12-61.ru
 school303.spb.ru
 school367.ru
@@ -17438,6 +17475,7 @@ sde.cplsb.ru
 sde.first-am.ru
 sde.npfsb.ru
 sde2.docdoc.ru
+sde2.npfsb.ru
 sde2.sbernpf.ru
 sdeclient.cplsb.ru
 sdeftp01.sberbank-tele.com
@@ -18058,7 +18096,9 @@ solar-appscreener.sovcombank.group
 solid-mn.ru
 solid.ru
 solidarnost.ru
+sollers-alabuga.ru
 sollers-auto.com
+sollers-cargo.ru
 solvo-web-public.ct.ncsp.com
 solvo.bscbalt.ru
 sonarplus.ru
@@ -19033,6 +19073,7 @@ test-atol.rtksp.ru
 test-csp.uecrus.com
 test-er.ru
 test-fm-csp.uecrus.com
+test-fm.csp.uecrus.com
 test-fpsuproxy.sberfactoring.sber.ru
 test-groupib-ac.alfabank.ru
 test-groupib-alfaid.alfabank.ru
@@ -19084,6 +19125,7 @@ test-vtbo.api.vtb.ru
 test.19dx.ru
 test.3ds.payment.ru
 test.acq.gazprombank.ru
+test.aisoms.ru
 test.aisubp.mos.ru
 test.alfastrahoms.ru
 test.api.sinara.ru
@@ -19102,6 +19144,7 @@ test.domapi.domrf.ru
 test.domrfbank.ru
 test.ds.severstal.com
 test.ecomm.payment.ru
+test.emias.ru
 test.gigalegal.sber.ru
 test.gigalegal.sberbank.ru
 test.gosuslugi.ru
@@ -19584,6 +19627,7 @@ tvldd-mvp002957.cloud.delta.sbrf.ru
 tvmag.ru
 tvno-full.tvh.mts.ru
 tvno-lite.tvh.mts.ru
+tvobr.ru
 tvods.tricolor.ru
 tvoy-domovoy.ru
 tvoy.magnit.ru
@@ -19827,6 +19871,7 @@ utmn.ru
 utpp.inform.gazprom.ru
 uulz.ru
 uvs-tender.rosneft.ru
+uvsavia.ru
 uwca.ru
 uzagsrk.ru
 uzedo.bspb.ru
@@ -23572,6 +23617,7 @@ www.zavod-plastmass.ru
 www.zdrav26.ru
 www.zdrav74.ru
 www.zenit.ru
+www.zftd.nornik.ru
 www.znvo.ru
 www.zppk.ru
 www.zpr.remeks.online
@@ -24061,6 +24107,7 @@ zeppelin.eye.salute.ru
 zero-m12.asudd.net
 zeus-api.tj-app.ru
 zfin.mkb.ru
+zftd.nornik.ru
 zg-api.middle.megafon.ru
 zg-test.megafon.ru
 zg.megafon.ru
