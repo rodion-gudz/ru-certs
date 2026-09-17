@@ -272,6 +272,7 @@ arcticspg.ru
 arendadomrf.ru
 aresbank.ru
 argds.ru
+arhcity.ru
 arhitektura32.ru
 arhofoms.ru
 arhtc.ru
@@ -1331,6 +1332,7 @@ gisogd24.ru
 gisogdro.ru
 giszpenza.ru
 giszrb.ru
+gitverse.ru
 gjnrk.ru
 gk-ikar.ru
 gk-travel.ru
@@ -2054,6 +2056,7 @@ max.ru
 maxiarm.ru
 maximum.ru
 maxlib.ru
+mazenko.ru
 mbafin.ru
 mbrd.ru
 mbuz-kgb.ru
@@ -2171,6 +2174,7 @@ mmchelptech.ru
 mmk-coal.ru
 mmk.ru
 mmzavod.ru
+mng.tl
 mnogo.app
 mo-medsvc.ru
 mob-trs.org
@@ -2634,6 +2638,8 @@ ostec-dispensing.ru
 ostec-electro.ru
 ostec-group.ru
 ostec-materials.ru
+ostec-st.ru
+ostec-test.ru
 osu.ru
 otais.ru
 otello.ru
@@ -2765,6 +2771,7 @@ platiecom.ru
 platiqr.ru
 playful-pixel.site
 playkey.net
+plazlink.com
 plcm.ru
 plein.com
 pleinoutlet.com
@@ -2790,6 +2797,7 @@ pofd.ru
 pofd.su
 pogardshi.ru
 pokupay.ru
+polar-aero.ru
 polly.events
 polosatayaloshadka.ru
 polus-tomsk.ru
@@ -4024,6 +4032,7 @@ tutoria.ru
 tvc.ru
 tverfin.ru
 tverreg.ru
+tverstandart.ru
 tvmag.ru
 tvoy-domovoy.ru
 tvoymagnit.com
