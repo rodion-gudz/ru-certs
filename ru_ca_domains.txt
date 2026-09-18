@@ -641,6 +641,7 @@
 *.ccbrussia.ru
 *.cctmcx.ru
 *.cctv.sptz.ru
+*.cdbtitan.ru
 *.cdek.ru
 *.cdekfin.ru
 *.cdekpay.ru
@@ -1115,6 +1116,7 @@
 *.docdoc.pro
 *.docdoc.ru
 *.docdoc.tel
+*.docgroup.tech
 *.docs.cashout.vk.com
 *.doctor-credit.ru
 *.doctor30.ru
@@ -1310,6 +1312,7 @@
 *.enpv.ru
 *.ens.mil.ru
 *.ens.old.mil.ru
+*.entroforce.ru
 *.entrustment.ru
 *.envdigital.mts.ru
 *.eosago21-vek.ru
@@ -2069,6 +2072,7 @@
 *.kommba.mail.ru
 *.komp-tech.ru
 *.komsport.spb.ru
+*.komstroy.spb.ru
 *.komtet.ru
 *.komzrt.ru
 *.konfs.ru
@@ -2976,6 +2980,7 @@
 *.pay47.ru
 *.payanyway.ru
 *.payconnect.ru
+*.paygas.ru
 *.paygwsec.sberbank-tele.com
 *.payhd.ru
 *.payment.rambler.ru
@@ -3013,6 +3018,7 @@
 *.pgwh.nsd.ru
 *.pgwh2.nsd.ru
 *.ph.mdlp.crpt.ru
+*.phasotron.ru
 *.phoenix-ca.ru
 *.phoenix-dnr.ru
 *.phonewatcher.ru
@@ -3892,6 +3898,7 @@
 *.soft-plus.ru
 *.soft-start.ru
 *.soft72.ru
+*.softline.ru
 *.softvideo.ru
 *.sog.ru
 *.sogaz-clinic.ru
@@ -4009,10 +4016,12 @@
 *.stage-dmz.akbars.ru
 *.stage-int.akbars.ru
 *.stage-mesh.ad-tech.ru
+*.stage-srr.dfa-yc.dltru.org
 *.stage.ai.mosreg.ru
 *.stage.aisubp.mos.ru
 *.stage.amazme.ru
 *.stage.cloud.vk.com
+*.stage.dfa-yc.dltru.org
 *.stage.domapi.domrfbank.ru
 *.stage.e1c-ops.com
 *.stage.infinitum-tc.ru
@@ -4139,6 +4148,7 @@
 *.svoefermerstvo.ru
 *.svoevagro.ru
 *.svoevse.ru
+*.svoi.ru
 *.swimschool.moscow
 *.swtmedia.ru
 *.symptomcheker.ru
@@ -4508,6 +4518,7 @@
 *.uralaz.ru
 *.uralfd.ru
 *.uralfinance.ru
+*.uralmash-go.ru
 *.uralmash-kartex.ru
 *.uralprombank.ru
 *.uralsib.ru
@@ -4580,6 +4591,7 @@
 *.vgg.21-school.ru
 *.vgl-sport.ru
 *.vgw.mosreg.ru
+*.viaso.ru
 *.video-vk.org
 *.viking.spb.ru
 *.vikingbank.ru
@@ -4664,6 +4676,7 @@
 *.vniia.ru
 *.vniief.ru
 *.vniifk.ru
+*.vniigaz-cert.ru
 *.vodokanal.spb.ru
 *.voduberegi.ru
 *.voip.ozon.ru
@@ -7523,6 +7536,7 @@ ccrr.vtb.ru
 cctmcx.ru
 cctv.sptz.ru
 cd.regulinvest.ru
+cdbtitan.ru
 cddisk.r7.corp.znanierussia.ru
 cddisk.r7.ncsp.ru
 cdek.ru
@@ -8100,6 +8114,7 @@ connect.mkb.ru
 connect.novikom.ru
 connect.orb.ru
 connect.profinvest.su
+connect.roszdravnadzor.gov.ru
 connect.ru
 connectgas.ru
 connector.b2b.ocs.ru
@@ -9052,6 +9067,7 @@ docagent.sberbank-service.ru
 docdoc.pro
 docdoc.ru
 docdoc.tel
+docgroup.tech
 docker-app-1.corp.ncsp.com
 docker.registry.tbank.ru
 docreg.budgetnn.ru
@@ -9554,6 +9570,7 @@ enterpriseregistration.nnk.ru
 enterpriseregistration.s7corp.ru
 enterpriseregistration.sberbank.ru
 enterpriseregistration.uaz.ru
+entroforce.ru
 entrustment.ru
 envdigital.mts.ru
 eosago21-vek.ru
@@ -9978,6 +9995,7 @@ fiscc-cff.ingobank.ru
 fiscc-pms.ingobank.ru
 fisheye.bcs.ru
 fix-b2blk.megafon.ru
+fix.home.megafon.ru
 fixmail.mts.ru
 fizpartnerint.alfabank.ru
 fkpkk.ru
@@ -10745,6 +10763,7 @@ help.rcoko27.ru
 help.sinara.ru
 help.spasibo.digital
 help.tbank-online.com
+helpdesk.istokmw.ru
 helpdesk.magnit.ru
 helpdesk.rcngroup.ru
 helpdesk.rosleshoz.ru
@@ -11993,6 +12012,7 @@ komontrol.ru
 komp-tech.ru
 kompas.severstal.ru
 komsport.spb.ru
+komstroy.spb.ru
 komtet.ru
 komzrt.ru
 konfs.ru
@@ -12318,6 +12338,7 @@ lk-mw.open-broker.ru
 lk-new-test.rt.ru
 lk-new.sfr.gov.ru
 lk-penza.pnzreg.ru
+lk-srv.severstal.com
 lk-stage.aaacapital.ru
 lk-test.1440.space
 lk-test.megafon.ru
@@ -12358,6 +12379,7 @@ lk.mts.ru
 lk.myonlinetips.ru
 lk.mysbertips.ru
 lk.noosferabank.ru
+lk.nordgold.com
 lk.nsg-ins.ru
 lk.ogk2.ru
 lk.omsomsk.ru
@@ -12376,6 +12398,7 @@ lk.rostov-tfoms.ru
 lk.rt.ru
 lk.sberseller.ru
 lk.sbtips.ru
+lk.severstal.com
 lk.sevnb.ru
 lk.sinara-finance.ru
 lk.sveza.com
@@ -13699,6 +13722,7 @@ mm.mtsbank.ru
 mm.sinara.ru
 mm2.rencredit.ru
 mmc.help
+mmchelptech.ru
 mmk-coal.ru
 mmk.ru
 mmm.preprod-cdn.edgecenter.online
@@ -14524,6 +14548,7 @@ nvbo.mkb.ru
 nvg.ru
 nvs-prime.inforion.ru
 nvs.konus.group
+nvs.roszdravnadzor.gov.ru
 nw-tcs-cl01.megafon.ru
 nwgnv.ru
 nx-docker.alfastrah.ru
@@ -14870,6 +14895,7 @@ orenburg-gov.ru
 orenburg.megafon.ru
 orenburg.staging.megafon.ru
 orenburgneft.rosneft.ru
+orendez.ru
 orenklip.online
 oreol-2010.ru
 orexchange.ru
@@ -15306,6 +15332,7 @@ panel.addy.su
 panel.eaglecdn.com
 panel.opros.lenta.com
 panel.remdesk.ru
+panel.strahovka35.ru
 paracesquare.rambler.ru
 parallax-pro.ru
 parent.cscampus.ru
@@ -15556,6 +15583,7 @@ pgtest.bspb.ru
 pgwh.nsd.ru
 pgwh2.nsd.ru
 ph.mdlp.crpt.ru
+phasotron.ru
 phoenix-ca.ru
 phoenix-dnr.ru
 phoenix.eye.salute.ru
@@ -15662,6 +15690,7 @@ pm.ingobank.ru
 pmg.mkp.ru.net
 pmisk.ru
 pmm.konus.group
+pmm.roszdravnadzor.gov.ru
 pmosk.ru
 pmp.middle.megafon.ru
 pms-centr.spb.ru
@@ -15884,6 +15913,7 @@ prim.megafon.ru
 prim.staging.megafon.ru
 primavera.market
 prime.inforion.ru
+prime.roszdravnadzor.gov.ru
 primersvedosa.ru
 primorsky.ru
 printflow.ze.parts
@@ -18092,6 +18122,7 @@ soft-infra.geoscan.ru
 soft-plus.ru
 soft.ocs.ru
 soft72.ru
+softline.ru
 softvideo.ru
 sogaz-clinic.ru
 sokol-kaluga.ru
@@ -18443,11 +18474,13 @@ stage-mesh.ad-tech.ru
 stage-my.jump.finance
 stage-rec.middle.megafon.ru
 stage-rec.test-middle.megafon.ru
+stage-srr.dfa-yc.dltru.org
 stage-termidesk.dds.astralinux.ru
 stage-work.jump.finance
 stage.ai.mosreg.ru
 stage.aisubp.mos.ru
 stage.cloud.vk.com
+stage.dfa-yc.dltru.org
 stage.domapi.domrf.ru
 stage.domrfbank.ru
 stage.e1c-ops.com
@@ -18650,6 +18683,7 @@ stormwall-pro.time-messenger.ru
 stpadmin.ru
 stpr.ru
 str.open.ru
+strahovka35.ru
 strapi.sberdevices.ru
 stream-dev.test-jazz.sberbank.ru
 stream-ift.test-jazz.sberbank.ru
@@ -18683,7 +18717,9 @@ students.sberclass.ru
 studio.sberdevices.ru
 studio.vk.com
 studio.vk.ru
+study-srv.severstal.com
 study.andromeda.sbercity.ru
+study.severstal.com
 study.severstal.ru
 study.vk.team
 stuff-services.cardsmobile.ru
@@ -19822,6 +19858,7 @@ uralaz.ru
 uralexpress.ru
 uralfd.ru
 uralfinance.ru
+uralmash-go.ru
 uralmash-kartex.ru
 uralprombank.ru
 uralsib.ru
@@ -20066,6 +20103,7 @@ vgaps.ru
 vgfk.mfsk.ru
 vgg.21-school.ru
 vgw.mosreg.ru
+viaso.ru
 vid-preprod.tricolor.ru
 vid.tricolor.ru
 video-ai-assistant.one-infra.ru
@@ -20317,6 +20355,7 @@ vpn.pochtabank.ru
 vpn.radostev.ru
 vpn.rencredit.ru
 vpn.rostfinance.ru
+vpn.roszdravnadzor.gov.ru
 vpn.rr.test.vtb.ru
 vpn.rsb.ru
 vpn.rts.ru
@@ -23062,6 +23101,7 @@ www.socfmba.ru
 www.socium-bank.ru
 www.soft-plus.ru
 www.soft72.ru
+www.softline.ru
 www.sogaz-clinic.ru
 www.sokol-kaluga.ru
 www.solar-appscreener.sovcombank.group
@@ -23132,6 +23172,8 @@ www.st-chat-turn.vtb.ru
 www.st-chat.vtb.ru
 www.stage-dc.ru
 www.stage-mesh.ad-tech.ru
+www.stage-srr.dfa-yc.dltru.org
+www.stage.dfa-yc.dltru.org
 www.staging.megafon.ru
 www.starcrb.ru
 www.starompos.ru
@@ -23409,6 +23451,7 @@ www.vetstav.ru
 www.vfbank.ru
 www.vgg.21-school.ru
 www.vgw.mosreg.ru
+www.viaso.ru
 www.vikingbank.ru
 www.vipmed.ru
 www.vitains.ru
@@ -23619,6 +23662,7 @@ www.zapadmorf.ru
 www.zavod-plastmass.ru
 www.zdrav26.ru
 www.zdrav74.ru
+www.zefir-llc.ru
 www.zenit.ru
 www.zftd.nornik.ru
 www.znvo.ru
@@ -24099,6 +24143,7 @@ zdvcrb.mznso.ru
 zea.api.belmont-renew.ru
 zea.belmont-renew.ru
 zealot.avangard.ru
+zefir-llc.ru
 zemcombank.ru
 zen.me
 zen.zeta.dzen.ru
