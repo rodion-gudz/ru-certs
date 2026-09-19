@@ -8750,6 +8750,7 @@ dev.kapmed.ru
 dev.kcr.mosreg.ru
 dev.kinomo.mosreg.ru
 dev.kwapp.spaymentsplus.ru
+dev.lk.astra-team.ru
 dev.lod.mosreg.ru
 dev.loyalty.mosreg.ru
 dev.m.zk.knd.mosreg.ru
