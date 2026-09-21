@@ -799,6 +799,7 @@
 *.cowork.ru
 *.cp-prod.web.s7.ru
 *.cp-qa.web.s7.ru
+*.cp.megafon.ru
 *.cp.nci-rt.ru
 *.cp.transneft.ru
 *.cp.web.s7.ru
@@ -6750,6 +6751,7 @@ avredis.roscap.com
 avro.su
 avrora-arm.ru
 avtobaza-ogv.ru
+avtobus-kirov.ru
 avtobus.spb.ru
 avtocod.ru
 avtodor-vms.asudd.net
@@ -8258,6 +8260,7 @@ cowork.ru
 coworking.mtsbank.ru
 cp.d-agency.su
 cp.introlan.ru
+cp.megafon.ru
 cp.msk.wvro.org
 cp.nci-rt.ru
 cp.nofrr.ru
@@ -16587,6 +16590,7 @@ rck.akbars.ru
 rck.vbrr.ru
 rcktb.ru
 rcktbnk.ru
+rcm-szfo.ru
 rcmp.mznso.ru
 rcoko27.ru
 rcraduga.ru
@@ -23828,6 +23832,7 @@ xn--80aaccp4ajwpkgbl4lpb.xn--p1ai
 xn--80aacgvulkfjl.xn--p1ai
 xn--80aadbk0bjofbqx.xn--p1ai
 xn--80aadcfns8adpnjcoj.xn--p1ai
+xn--80aadcnawrfvmfciegv.xn--p1ai
 xn--80aadpbzme7al1k.xn--p1ai
 xn--80aaeeri9a0a.xn--p1ai
 xn--80aaefwccm7aekgee1axnu1pla.xn--p1ai
