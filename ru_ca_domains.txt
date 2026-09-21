@@ -220,6 +220,7 @@
 *.altermodus.ru
 *.altspu.ru
 *.altynbank.com
+*.alyonkastories.ru
 *.alzoro.ru
 *.am.ozon.com
 *.am.ru
@@ -388,6 +389,7 @@
 *.avro.su
 *.avrora-arm.ru
 *.avtobaza-ogv.ru
+*.avtobus-kirov.ru
 *.avtobus.spb.ru
 *.avtocod.ru
 *.avtodor-vms.asudd.net
@@ -745,6 +747,7 @@
 *.cmd.su
 *.cmdb.devmail.ru
 *.cmec.spb.ru
+*.cmrbank.pro
 *.cmrbank.ru
 *.cnpo.ru
 *.coalmetbank.ru
@@ -2453,6 +2456,7 @@
 *.minzdravao.ru
 *.mio26.ru
 *.miranda-media.ru
+*.mirdomovyat.ru
 *.mirea.ru
 *.mis.egisznso.ru
 *.mis.pnzmed.ru
@@ -2508,6 +2512,7 @@
 *.moosic.io
 *.moresalonov.ru
 *.morion.com.ru
+*.morspas.ru
 *.mos.ru
 *.moscombank.ru
 *.moscoms.ru
@@ -2968,6 +2973,7 @@
 *.partner.yoomoney.ru
 *.partnerplatform.ru
 *.partners.tech.vk.com
+*.partnerspro.ru
 *.pasp.ru
 *.pass-sk.ru
 *.passion.ru
@@ -3628,6 +3634,9 @@
 *.samadm.ru
 *.samara-metallurg.ru
 *.samaravodokanal.ru
+*.samokat.io
+*.samokat.ru
+*.samokat.tech
 *.samspace.ru
 *.sandbox.onprem.vkdoc.mail.ru
 *.sandbox.sbertech.ru
@@ -3636,6 +3645,7 @@
 *.sarusplus.ru
 *.sasco.ru
 *.satel.org
+*.satel.ru
 *.sats.spb.ru
 *.saturn-kuban.ru
 *.savingsim.ru
@@ -4544,6 +4554,7 @@
 *.utmn.ru
 *.uvsavia.ru
 *.uwca.ru
+*.uznaipro.ru
 *.v8.1c.ru
 *.vamto.mil.ru
 *.vamto.old.mil.ru
@@ -5711,6 +5722,7 @@ altrep.staging.megafon.ru
 altspu.ru
 altynbank.com
 alupka-art.ru
+alyonkastories.ru
 alzoro.ru
 am-infinity.ru
 am.44dev.tkp2.sbertroika.tech
@@ -8003,6 +8015,7 @@ cmdb-gw.speechpro.com
 cmdb.devmail.ru
 cmec.spb.ru
 cmiap-app.minzdrav.gov.ru
+cmrbank.pro
 cmrbank.ru
 cms-edge.slavneft-kng.ru
 cms-edge1.slavneft-kng.ru
@@ -8527,6 +8540,7 @@ datamind.ru
 datapol.ru
 dataroom.ncsp.com
 datatalks.rt.ru
+datatracker-test.sbertech.ru
 dating.rambler.ru
 davay-delit.ru
 db.argds.ru
@@ -9552,6 +9566,7 @@ energotransbank.com
 energy-tracker.ru
 enforta.com
 enforta.ru
+enholding.ru
 enigma.speechpro.com
 enisei-gis.ru
 eniseigis.ru
@@ -10112,6 +10127,7 @@ front.dmz.mark.sber.ru
 front.in-bank.ru
 front.mark.sber.ru
 front.pochtabank.ru
+front.service.wfm.ecom.tech
 frontapi-dbokib.vtb.ru
 frontapi-test.vtb.ru
 frontapi-test2.vtb.ru
@@ -10823,6 +10839,7 @@ home-tech.digital
 home.bahmurov.ru
 home.bank
 home.dealers.megafon.ru
+home.megafon.ru
 home.vasy.ru
 homeagents.online
 homeagents.ru
@@ -12178,6 +12195,7 @@ labrx.ru
 labs.custis.ru
 ladoshkipay.ru
 lady.mail.ru
+lakoai.ru
 lala.su
 landing.sberbank.ru
 landings.sinara.ru
@@ -12976,6 +12994,7 @@ mail.mkb.ru
 mail.mkp.ru.net
 mail.mmk.ru
 mail.mobilecheck.pro
+mail.morspas.ru
 mail.msk-scv1.sovcombank.group
 mail.msk-vpn01.sovcombank.group
 mail.msk-vpn02.sovcombank.group
@@ -13418,6 +13437,7 @@ mdm.mfk-bank.ru
 mdm.ocs.ru
 mdm.psbank.ru
 mdm.rambler-co.ru
+mdm.rshb.ru
 mdm.sberbank-service.ru
 mdm.sberins.ru
 mdm.sberuniversity.ru
@@ -13680,6 +13700,7 @@ miraccept.econombank.ru
 miraccept.metcom.ru
 miranda-media.ru
 mirconsciousness.rambler.ru
+mirdomovyat.ru
 mirea.ru
 mironchik.com
 mirpay.mkb.ru
@@ -13860,6 +13881,7 @@ mordovia.staging.megafon.ru
 moresalonov.ru
 morion.com.ru
 morskoybank.com
+morspas.ru
 mos-metro-cn-aio.speechpro.com
 mos.ru
 moscoms.ru
@@ -14943,6 +14965,7 @@ oss.ertelecom.ru
 ostec-cleaning.ru
 ostec-dispensing.ru
 ostec-electro.ru
+ostec-etc.ru
 ostec-group.ru
 ostec-materials.ru
 ostec-st.ru
@@ -15497,6 +15520,7 @@ pbc.megafon.ru
 pbl546.ingobank.ru
 pbprog.ru
 pbs.mkp.ru.net
+pbx.megafon.ru
 pc.aq.ru
 pccard-dev.domrfbank.ru
 pccard-perf.domrfbank.ru
@@ -16032,6 +16056,7 @@ promo.addy.su
 promo.bspb.ru
 promo.kk.bank
 promo.magnit.ru
+promo.max.ru
 promo.mtsbank.ru
 promo.oneme.ru
 promo.sber.ru
@@ -16549,6 +16574,7 @@ rc-mesh.ad-tech.ru
 rc-mfid.megafon.ru
 rc.ad-tech.ru
 rc.alfa-bank.net
+rc.home.megafon.ru
 rc.ncagp.ru
 rc.ot.gov.ru
 rc.rg.gov.ru
@@ -17209,6 +17235,7 @@ saratov.staging.megafon.ru
 sarusplus.ru
 sasco.ru
 satel.org
+satel.ru
 sats.spb.ru
 saturn-kuban.ru
 savebee.ru
@@ -17888,6 +17915,7 @@ site-2p-zzrx.aaacapital.ru
 site-2t-bzyd.aaacapital.ru
 site-api.centrinvest.ru
 site.bnpltests.ru
+sitnikovpravo.ru
 sixth-m12.asudd.net
 sixth1-m12.asudd.net
 sixth2-m12.asudd.net
@@ -18631,6 +18659,7 @@ stavzags.ru
 stavzan.ru
 staxi.spb.ru
 stc-nexus.speechpro.com
+stcnet.ru
 stentor.team.centrinvest.ru
 stentor.vneshbank.ru
 stepnoe-rb.ru
@@ -19102,6 +19131,7 @@ test-2.avangard.ru
 test-2.fuckoff.site
 test-42.crt-test-alpha.ru
 test-account.megafon.ru
+test-acm.bank-hlynov.com
 test-adaptation.rt.ru
 test-alfa-mobile.alfabank.ru
 test-alias.middle.megafon.ru
@@ -19134,6 +19164,7 @@ test-jazz.sberbank.ru
 test-le-78.certhub-beta.vkteam.ru
 test-le-8.certhub-beta.onecld.ru
 test-lk-ecomm.psbank.ru
+test-lk.pbx.megafon.ru
 test-lk.rt.ru
 test-logging.tap2phone.ru
 test-middle.megafon.ru
@@ -19767,6 +19798,7 @@ udmurtneft.ru
 udr.eye.salute.ru
 uecard.ru
 uecrus.com
+uem.ecom.tech
 uem.mtsbank.ru
 uemc73.ru
 uemz.ru
@@ -22105,6 +22137,7 @@ www.lab-soc.sinara.ru
 www.lab.dt.multicarta.ru
 www.labs.custis.ru
 www.ladoshkipay.ru
+www.lakoai.ru
 www.landing.sberbank.ru
 www.lanta.ru
 www.latrenta.ru
