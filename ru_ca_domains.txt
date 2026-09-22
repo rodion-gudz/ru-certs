@@ -7935,6 +7935,8 @@ click.alfabank.ru
 click.credistory.ru
 click2call.psbank.ru
 click2call.vtb.ru
+clickhouse-bi.gca.eye.salute.ru
+clickhouse-sandbox.gca.eye.salute.ru
 clickstream.online.sberbank.ru
 clickstream.sberbank.ru
 client-bank.itbank.ru
@@ -8327,10 +8329,15 @@ cprd-ise-app01.sberins.ru
 cprd-ise-app02.sberins.ru
 cprd-ksmg-app01.sberins.ru
 cprd-ksmg-app02.sberins.ru
+cpre-cnv-dataapi-lb.sberins.ru
 cpre-cnv-lb-vip.sberins.ru
 cpre-cnv-lb01.sberins.ru
 cpre-cnv-lb02.sberins.ru
 cpre-cnv-lb03.sberins.ru
+cpre-cnv-lbvip03.sberins.ru
+cpre-cnv-ui.sberins.ru
+cpre-cnv.sberins.ru
+cpre-insflow.sberins.ru
 cpre-intg-lb02.sberins.ru
 cps.nkbank.ru
 cpsp.mznso.ru
@@ -8436,6 +8443,9 @@ cts2-test.ast-innovation.ru
 cts2.domrf.online
 ctst-cnv-app02.sberins.ru
 ctst-cnv-lb03.sberins.ru
+ctst-cnv-ui.sberins.ru
+ctst-cnv.sberins.ru
+ctst-insflow.sberins.ru
 ctst-intg-lb02.sberins.ru
 ctsu-pre.mkb.ru
 ctsu-tst.mkb.ru
@@ -11902,6 +11912,7 @@ kdp2.mznso.ru
 kdp27.mznso.ru
 kdp7.ru
 kebrus.ru
+kedo.bank-hlynov.ru
 kedoess.lenta.com
 kedoids.lenta.com
 kedolk.lenta.com
@@ -13445,6 +13456,7 @@ mdm.sberbank-service.ru
 mdm.sberins.ru
 mdm.sberuniversity.ru
 mdm.vtb.ru
+mdma.bank-hlynov.ru
 mdmlab.bashneft.ru
 mdmt-dev.megafon.ru
 mdmt-seg.megafon.ru
@@ -18742,6 +18754,7 @@ sts.alfastrah.ru
 sts.severstal.com
 sts01group.s7corp.ru
 stt.tinkoff.ru
+stud.omnis-university.ru
 studaccel.sberclass.ru
 studappeals.tricolor.ru
 student.magnit.ru
