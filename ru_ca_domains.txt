@@ -6946,6 +6946,7 @@ bankwallet.ru
 banner.key.rt.ru
 bappcore1-factoring.mtsbank.ru
 bara-capy.site
+barbecue-pech.ru
 barbershops.me
 barnaultransmash.ru
 bars.group
@@ -8531,6 +8532,7 @@ czn47.ru
 d-aef-kafka-adv-msk01.sberdevices.ru
 d-aef-kafka-adv-msk02.sberdevices.ru
 d-aef-kafka-adv-msk03.sberdevices.ru
+d-agency.su
 d-starosfw-artifactory-adv-msk01.sberdevices.ru
 d-starosfw-artifactsexplorer-adv-msk01.sberdevices.ru
 d-starosfw-gerrit-adv-msk01.sberdevices.ru
@@ -21272,6 +21274,7 @@ www.bankexp.ru
 www.bankro.tech
 www.bankwallet.ru
 www.bappcore1-factoring.mtsbank.ru
+www.barbecue-pech.ru
 www.base.pochtabank.ru
 www.bashneft.com
 www.bashneft.ru
@@ -21525,6 +21528,7 @@ www.cultureapps.vtb.ru
 www.cyberkoalastudios.com
 www.cyberprotect.ru
 www.czn47.ru
+www.d-agency.su
 www.dagmintrud.ru
 www.daily.afisha.ru
 www.dap.gov.ru
