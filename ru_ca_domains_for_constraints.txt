@@ -1978,6 +1978,7 @@ linuxtesting.ru
 lipetsk.ru
 list.ru
 litgolos.ru
+litres.ru
 livejournal.com
 livejournal.net
 livejournal.org
@@ -4802,6 +4803,7 @@ zentry.space
 zest.ru
 zgr.im
 zhivagobank.ru
+zm-solutions.ru
 zmtech.bz
 zmtech.su
 znai.tech

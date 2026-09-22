@@ -2190,6 +2190,7 @@
 *.linus.su
 *.linuxtesting.ru
 *.list.ru
+*.litres.ru
 *.live-dmz.akbars.ru
 *.live-int.akbars.ru
 *.live.vkplay.ru
@@ -5066,6 +5067,7 @@
 *.zero-m12.asudd.net
 *.zgr.im
 *.zhivagobank.ru
+*.zm-solutions.ru
 *.zmtech.bz
 *.znai.tech
 *.znvo.ru
@@ -24273,6 +24275,7 @@ zg-test.megafon.ru
 zg.megafon.ru
 zgr.im
 zhivagobank.ru
+zm-solutions.ru
 zmtech.bz
 zmtech.su
 znai.tech
