@@ -363,6 +363,7 @@ avantele.com
 aversbank.ru
 avhaliullin.ru
 aviashelf.ru
+avid.ru
 avitek.ru
 avito.ru
 avitofinance.ru
@@ -544,6 +545,7 @@ broker-sberbank.ru
 broker.ru
 browserloona.online
 bryanskoblfin.ru
+bsbank.ru
 bscbalt.ru
 bsigroup.ru
 bspb.ru
@@ -1157,6 +1159,7 @@ fbq.ru
 fbuz16.ru
 fbuz66.ru
 fc-zenit.ru
+fca-rosminzdrav.ru
 fciit.ru
 fcitep.ru
 fdom.su
@@ -1578,6 +1581,7 @@ imbok.ru
 imf.ru
 imgsmail.ru
 in-bank.ru
+in-ko.ru
 inbox.ru
 indepo.ru
 index20.ru
@@ -1735,6 +1739,7 @@ jumpwork.ru
 juratino.ru
 k-bnk.ru
 k2.tech
+kabardinka-metro.ru
 kachestvozhizni.ru
 kadastr.ru
 kairosstrategy.ru
@@ -2134,6 +2139,7 @@ mf55.ru
 mfc-25.ru
 mfc-kursk.ru
 mfc-nso.ru
+mfc12.ru
 mfcto.ru
 mfk-bank.ru
 mfnso.ru
@@ -2476,6 +2482,7 @@ npfsberbanka.ru
 npk.ru
 npnd.ru
 npo-rtc.ru
+npo-saturn.ru
 npoa.ru
 npovk.ru
 nprts.ru
@@ -3056,6 +3063,8 @@ rkomi.ru
 rks.digital
 rl0.ru
 rline.pro
+rmanpo.ru
+rmapo.ru
 rmg.ru
 rn-bank.ru
 rn-grp.ru
@@ -3636,6 +3645,7 @@ sovcomins.ru
 sovcomlife.ru
 sovcomnpf.ru
 sovcomsecure-2.ru
+sovereignx.ru
 sovest.com
 sovest.ru
 sovkomauto.ru
@@ -3912,6 +3922,7 @@ tconf.ru
 tcpootionstest.ru
 tcsbank.ru
 tdera.ru
+tdzs.ru
 te-spb.ru
 teachersday.ru
 teatrvfk.ru
@@ -4319,7 +4330,9 @@ vneshbank.ru
 vniia.ru
 vniief.ru
 vniifk.ru
+vniiftri.ru
 vniigaz-cert.ru
+vnukovo.ru
 vodokanal-museum.ru
 vodokanal-zagorod.ru
 vodolaga.ru
@@ -4557,6 +4570,7 @@ xn--80aadpbzme7al1k.xn--p1ai
 xn--80aaeeri9a0a.xn--p1ai
 xn--80aaefwccm7aekgee1axnu1pla.xn--p1ai
 xn--80aaelvgjoml6j.xn--p1ai
+xn--80aaexc1aevv.xn--p1ai
 xn--80aafaxhj3c.xn--p1ai
 xn--80aafbk3dbqbke.xn--p1ai
 xn--80aafclckjcqurgbdjcpde4b.xn--p1ai
