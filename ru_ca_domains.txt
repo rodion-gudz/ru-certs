@@ -10643,6 +10643,7 @@ grafana.ci.sberpravo.ru
 grafana.demo.gigalegal.sber.ru
 grafana.demo.sberpravo.ru
 grafana.demo2.sberpravo.ru
+grafana.dev.lk.astra-team.ru
 grafana.dev.sberpravo.ru
 grafana.eye.salute.ru
 grafana.gigacollector.sberdevices.ru
@@ -16857,6 +16858,7 @@ research.sberbank-cib.ru
 research.sberbank.ru
 research.sberuniversity.ru
 research.sudir.sberbank.ru
+reserv.2mon.ru
 reserv.fixmail.mts.ru
 reso-life.ru
 reso-med.ru
