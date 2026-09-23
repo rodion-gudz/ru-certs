@@ -819,6 +819,7 @@
 *.crm.rambler-co.ru
 *.crm.u6.ru
 *.croc.ru
+*.crpribor.ru
 *.crpt.ru
 *.crptech.ru
 *.crrintegro.ru
@@ -1435,6 +1436,7 @@
 *.finance.ozon.ru
 *.finance.ozonru.me
 *.finasb.ru
+*.finbank.ru
 *.fine.app.sberdevices.ru
 *.fine.sberdevices.ru
 *.fineapp.ru
@@ -1756,6 +1758,7 @@
 *.hospital70.ru
 *.hotelpost.ru
 *.hotfix.dmz.gazprombank.ru
+*.hpc.frccsc.ru
 *.hq.gazfond-pn.ru
 *.hr-abk.ru
 *.hr.mail.ru
@@ -5069,6 +5072,7 @@
 *.zavedi-rebenka.ru
 *.zavod-plastmass.ru
 *.zavod.nnk.ru
+*.zdrav.spb.ru
 *.zdrav26.ru
 *.zdrav74.ru
 *.zdravcity.ru
@@ -5638,6 +5642,7 @@ airflow-knowledge-graph.giga.salute.ru
 airflow-pretrain.eye.salute.ru
 airflow-quality.isearch.salute.ru
 airflow-yt.eye.salute.ru
+airflow.ai-assistant.sberdevices.ru
 airflow.giga.salute.ru
 airkaluga.ru
 airkey.cloud.sinara.ru
@@ -6507,6 +6512,7 @@ autodiscover.ffoms.ru
 autodiscover.files.noosferabank.ru
 autodiscover.files.sovcombank.ru
 autodiscover.fin-id.ru
+autodiscover.finbank.ru
 autodiscover.fingrad.sovcombank.ru
 autodiscover.finstarbank.ru
 autodiscover.flow.halvacard.ru
@@ -8194,6 +8200,7 @@ console.demo1.hycl.ru
 console.demo2.hycl.ru
 console.demo3.hycl.ru
 console.minio.cyberkoala.ru
+console.polaris.giga.salute.ru
 console.s3-2.cyberkoala.ru
 consul.portal.vk.team
 consultant.ru
@@ -8324,6 +8331,7 @@ cp.sberlegal.ru
 cp.transneft.ru
 cpa.pobedapartners.ru
 cpc-police.madbum.ru
+cpc-proxy.t-technologies.ru
 cpex03.sberins.ru
 cpex04.sberins.ru
 cpg-dg.money.mail.ru
@@ -8440,6 +8448,7 @@ croc.ru
 cross-kpk.ru
 crossover.pay.sberbank.ru
 crp-usg-vgate1.sovcombank.group
+crpribor.ru
 crpt.ru
 crptech.ru
 crrintegro.ru
@@ -9128,6 +9137,7 @@ dmz-knt-psi-intg02.sberbankins.ru
 dmz-knt-psi-intg03.sberbankins.ru
 dn.mail.ru
 dn267.ingobank.ru
+dnepload.plagate.ru
 dnr-tfoms.ru
 dnr.21-school.ru
 do.achimgaz.ru
@@ -10054,6 +10064,7 @@ finance.sbnray.ru
 finance.wb.ru
 finance.wildberries.ru
 finasb.ru
+finbank.ru
 fineapp.ru
 fingrad.sovcombank.ru
 fingram26.ru
@@ -10523,6 +10534,7 @@ gnkb2.mznso.ru
 gnkpb3.mznso.ru
 gnokgvv.mznso.ru
 gnovfd.mznso.ru
+gnpch.ru
 gnppregion.ru
 go-sqd.absolutbank.ru
 go-test.alfabank.ru
@@ -10935,6 +10947,7 @@ hotfix.domrfbank.ru
 hotspot.centrinvest.ru
 household.inkey.rt.ru
 household.key.rt.ru
+hpc.frccsc.ru
 hpmail.vesta.ru
 hpp.creditural.ru
 hq-mailsrv-01.oaovoentorg.ru
@@ -11348,6 +11361,7 @@ iicsk-insurance.ru
 iiot-kids.istokmw.ru
 iiot.gov.ru
 iitrust.ru
+ik.plagate.ru
 ikac.ru
 ikar-eng.ru
 ikar-tech.ru
@@ -12957,6 +12971,7 @@ mail.fgbu-atk.ru
 mail.files.noosferabank.ru
 mail.files.sovcombank.ru
 mail.fin-id.ru
+mail.finbank.ru
 mail.fingrad.sovcombank.ru
 mail.finstarbank.ru
 mail.flow.halvacard.ru
@@ -14493,6 +14508,7 @@ nkomobi.ru
 nkpis.ru
 nloto-api.middle.megafon.ru
 nloto.megafon.ru
+nloto.ru
 nlp2.devices.sberbank.ru
 nlp2b2b.devices.sberbank.ru
 nlp2b2c.devices.sberbank.ru
@@ -14642,6 +14658,9 @@ ntonline.sberbank.ru
 nts.su
 ntv.ru
 nuc-acme.voskhod.ru
+nuc-probe-1457.devkz.ru
+nuc-probe-1659.devkz.ru
+nuc-probe-1711.devkz.ru
 nuc-probe.devkz.ru
 nuc-test.online
 nuc.alfastrah.ru
@@ -15156,6 +15175,7 @@ owa.express-bank.ru
 owa.files.noosferabank.ru
 owa.files.sovcombank.ru
 owa.fin-id.ru
+owa.finbank.ru
 owa.fingrad.sovcombank.ru
 owa.finstarbank.ru
 owa.flow.halvacard.ru
@@ -15982,6 +16002,8 @@ pre-sso.cscampus.ru
 pre.cscampus.ru
 preaccel.sberclass.ru
 preacs.mtsdengi.ru
+pred-agp.plagate.ru
+pred-ik.plagate.ru
 predg-rb.ru
 preidentity.tbank-online.com
 prelive.achat.alfabank.ru
@@ -17765,6 +17787,7 @@ senat.sberbank.ru
 senk.spwh.ru
 sense.alfabank.ru
 sensorcloud.ru
+sentinelcredit.ru
 sentry-api.sberdevices.ru
 sentry-infra.tander.ru
 sentry-itusluga.sberbank-service.ru
@@ -21799,6 +21822,7 @@ www.files.noosferabank.ru
 www.files.sovcombank.ru
 www.fin-id.ru
 www.finasb.ru
+www.finbank.ru
 www.fingrad.sovcombank.ru
 www.fingram26.ru
 www.finity.global
@@ -24215,6 +24239,7 @@ yooscan.ru
 yoosoft.ru
 yooteam.ru
 yorgia.ru
+yoro.dev
 yot.krtu.ru
 yota.ru
 youla.io
@@ -24305,6 +24330,7 @@ zaryadservice.sberbank-service.ru
 zashita.tricolor.ru
 zavedi-rebenka.ru
 zavod-plastmass.ru
+zdrav.spb.ru
 zdrav26.ru
 zdrav74.ru
 zdravcity.ru

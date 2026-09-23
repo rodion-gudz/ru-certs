@@ -755,6 +755,7 @@ crimea.com
 crimearw.ru
 croc.ru
 cross-kpk.ru
+crpribor.ru
 crpt.ru
 crptech.ru
 crrintegro.ru
@@ -1190,6 +1191,7 @@ finam.ru
 finambank.com
 finambank.ru
 finasb.ru
+finbank.ru
 fineapp.ru
 fingram26.ru
 finity.global
@@ -1372,6 +1374,7 @@ gltlab.ru
 gmgs.ru
 gmt-gazprom.ru
 gnicpm.ru
+gnpch.ru
 gnppregion.ru
 gofocus.ru
 golodyaev.ru
@@ -2434,6 +2437,7 @@ nko-rr.ru
 nkomobi.ru
 nkpis.ru
 nkrapivindev.ru
+nloto.ru
 nlrs.ru
 nm-conference.ru
 nmarket.pro
@@ -4760,6 +4764,7 @@ yooscan.ru
 yoosoft.ru
 yooteam.ru
 yorgia.ru
+yoro.dev
 yota.ru
 youla.io
 youla.ru
