@@ -1223,6 +1223,7 @@
 *.ecom-plus.ru
 *.ecom.md.magnit.ru
 *.ecom.raiffeisen.ru
+*.ecom.tech
 *.ecomonitoring.mnr.gov.ru
 *.ecomtech.cloud
 *.economy.mil.ru
@@ -1486,6 +1487,7 @@
 *.fpvsim.geoscan.ru
 *.fractel.ru
 *.fraktel.ru
+*.frccsc.ru
 *.freetato.ru
 *.freshstartme.ru
 *.fridayapp.vk.ru
@@ -2368,6 +2370,7 @@
 *.mdrive.magnit.ru
 *.me.cs7777.vk.com
 *.me.cs7777.vk.ru
+*.meatterminal.ru
 *.mechel.com
 *.mechel.ru
 *.med-to.ru
@@ -3657,6 +3660,7 @@
 *.samspace.ru
 *.sandbox.onprem.vkdoc.mail.ru
 *.sandbox.sbertech.ru
+*.sap.norbit.ru
 *.sapod.ru
 *.saratovenergo.ru
 *.sarusplus.ru
@@ -4066,10 +4070,19 @@
 *.stage.s3vk.ru
 *.stage.sovcomins.ru
 *.stage.ugd.mosreg.ru
+*.stage.unp-2.mosreg.ru
+*.stage.upsh.mosreg.ru
+*.stage.uslugi.mosreg.ru
 *.stage.visi.monitoring.mosreg.ru
+*.stage.vks.mosreg.ru
+*.stage.vmeste.mosreg.ru
+*.stage.wow.mosreg.ru
 *.stage.zdrav.mosreg.ru
+*.stage.zk.knd.mosreg.ru
+*.stage.zkh-kontur.mosreg.ru
 *.stage2.nspd.rosreestr.gov.ru
 *.staging.kion.ru
+*.staging.monitoring.mosreg.ru
 *.staging.vklanding.com
 *.staging.vklanding.ru
 *.stand.ptsecurity.com
@@ -4107,6 +4120,7 @@
 *.stf.vk.team
 *.stg-sso.keyid.rt.ru
 *.stg.1cupis.org
+*.stg.issd.mosreg.ru
 *.stg.o3t.me
 *.stg.o3t.ru
 *.stg.ozonru.me
@@ -4943,6 +4957,7 @@
 *.xn--80aimavhgct.xn--p1ai
 *.xn--80ajbsejhbghgf4a.xn--p1ai
 *.xn--80ajghhoc2aj1c8b.xn--p1ai
+*.xn--80ajjcnbcfefyhq1p.xn--p1ai
 *.xn--80akcrghjp.xn--p1ai
 *.xn--80akofvok.xn--p1ai
 *.xn--80akxamidgr5f.xn--p1ai
@@ -5178,6 +5193,8 @@
 26.rospotrebnadzor.ru
 27.ctlog.digital.gov.ru
 2fa-linx.it-grad.ru
+2fa-si.csc.rt.ru
+2fa-ur.rt.ru
 2fa-vo.rt.ru
 2fa.icb.domrf.ru
 2fa.it-grad.ru
@@ -5645,6 +5662,7 @@ akey.ocs.ru
 akimovkomedia.ru
 akiselev.group
 akod22.ru
+akontech.ru
 akrvo.ru
 aksayland.ru
 akt.sberbank-service.ru
@@ -5680,6 +5698,7 @@ alfa.rbsuat.com
 alfaacademzdrav.ru
 alfaagent-prelive.alfastrah.ru
 alfaagent.alfastrah.ru
+alfaai-stage.alfabank.ru
 alfaapi.alfabank.ru
 alfabank.com
 alfabank.ru
@@ -5712,6 +5731,7 @@ alfaportal.ru
 alfastrah.com
 alfastrah.ru
 alfastrahoms.ru
+alfateam-id.alfabank.ru
 alfateam.alfabank.ru
 alfazdrav.ru
 algoritm-bim.ru
@@ -9065,6 +9085,7 @@ disp.vk.team
 displayart.ru
 distant-college.ru
 distant.global
+distrib.akontech.ru
 distribution.sber.ru
 dixy.ru
 dj.dz.s2b.tech
@@ -10163,6 +10184,7 @@ fractel.ru
 frade.spasibosb.ru
 frade.spasibotest.ru
 fraktel.ru
+frccsc.ru
 freelance.addy.su
 freepascal.ru
 freetato.ru
@@ -10800,6 +10822,7 @@ hbu.mos.ru
 hc.as50464.net
 hcdl.ru
 hcrd.ru
+hd.akontech.ru
 hde-test.alfabank.ru
 hde.alfabank.ru
 hdrc.yandex.net
@@ -10820,6 +10843,7 @@ helloinvestment.ru
 help-chat.bank.yandex.ru
 help.addy.su
 help.ai-bank.ru
+help.akontech.ru
 help.bi.zone
 help.cyberprotect.ru
 help.gazprombank.investments
@@ -11070,6 +11094,7 @@ ibankcorppre.ingobank.ru
 ibankcorptest.ingobank.ru
 ibanktest.ingobank.ru
 ibcm-ks.nornik.ru
+ibcm-zf.nornik.ru
 ibcorpdcpre.ingobank.ru
 ibf.avangard.ru
 ibf.chelindbank.ru
@@ -11244,6 +11269,7 @@ ift-integrations-sowa-sbsg.sberinsur.ru
 ift-intg.sberbankins.ru
 ift-invest.vtb.ru
 ift-km-tfs07.sberinsur.ru
+ift-kpmi-agw-dmz.vtb.ru
 ift-lgmp.spasibotest.ru
 ift-lk-auth.domrfbank.ru
 ift-lk.domrfbank.ru
@@ -13140,6 +13166,7 @@ mail.rpnrb.ufanet.ru
 mail.rrc-altay.ru
 mail.rrcentre.ru
 mail.rsb.ru
+mail.rspp.net
 mail.rtlog.ru
 mail.ru
 mail.rustank.ru
@@ -13503,6 +13530,7 @@ mdmt-dev.megafon.ru
 mdmt-seg.megafon.ru
 mdp.kion.ru
 mdrive.magnit.ru
+meatterminal.ru
 mebel-enot.ru
 mec-backend-sync.services.ocs.ru
 mec-backend.services.ocs.ru
@@ -13564,6 +13592,7 @@ meet.uwca.ru
 meeting-mgw.avangard.ru
 meeting-test.psbank.ru
 meeting.avangard.ru
+meeting.avid.ru
 meeting.psbank.ru
 meeting.uecrus.com
 meetingapps.open.ru
@@ -14333,6 +14362,7 @@ nationalclearingcentre.com
 nationalclearingcentre.ru
 native.domrfbank.ru
 natk.ru
+nature.sveza.ru
 nauengine.org
 naufor.fintarget.ru
 nauka.rosneft.ru
@@ -14612,6 +14642,7 @@ ntonline.sberbank.ru
 nts.su
 ntv.ru
 nuc-acme.voskhod.ru
+nuc-probe.devkz.ru
 nuc-test.online
 nuc.alfastrah.ru
 nuc.hole-nevermind.ru
@@ -14810,6 +14841,7 @@ onlc.alfabank.ru
 online-alpha.vtb.ru
 online-alpha.vtbgroup.com
 online-anketa.alfabank.ru
+online-business.svoi.ru
 online-dev.sberbankins.ru
 online-express.ru
 online-prep.sberbankins.ru
@@ -15880,6 +15912,8 @@ portal.testqa.ru
 portal.vk.team
 portal.voiptools.ru
 portal2.gazfond-pn.ru
+portal2fa-pr.rt.ru
+portal2fa-ur.rt.ru
 portalaaa.domru.ru
 portalcrm.rosneft.ru
 portaldev.mtsbank.ru
@@ -15959,6 +15993,7 @@ premium.omk.ru
 premium.sbercity.ru
 premiumbim.ru
 premiumcad.ru
+premiya.rspp.ru
 preoffice.otpbank.ru
 prep-assistant.sberbankins.ru
 prep-guest-route-assistant.sberbankins.ru
@@ -17285,6 +17320,7 @@ sandbox.onprem.vkdoc.mail.ru
 sandbox.sbertech.ru
 sandbox.ssp.rambler.ru
 sandbox.vtb.ru
+sap.norbit.ru
 sapnmndmz2.rosneft.ru
 sapod.ru
 sapp.sbercity.ru
@@ -17816,6 +17852,7 @@ sftbee.alfabank.ru
 sftp-loyalty.cardsmobile.ru
 sftp-loyalty.koshelek.app
 sftp.crms-media.mts.ru
+sftp.kotlin-novator.ru
 sgateway.ozon.ru
 sgateway.ozonru.me
 sgmu.21-school.ru
@@ -18597,12 +18634,21 @@ stage.omnichannel.mts.ru
 stage.rgis.mosreg.ru
 stage.sovcomins.ru
 stage.ugd.mosreg.ru
+stage.unp-2.mosreg.ru
+stage.upsh.mosreg.ru
+stage.uslugi.mosreg.ru
 stage.visi.monitoring.mosreg.ru
+stage.vks.mosreg.ru
+stage.vmeste.mosreg.ru
+stage.wow.mosreg.ru
 stage.zdrav.mosreg.ru
+stage.zk.knd.mosreg.ru
+stage.zkh-kontur.mosreg.ru
 stage2.nspd.rosreestr.gov.ru
 staging-apigw.kion.ru
 staging.mgw.kion.ru
 staging.mgw.mts.ru
+staging.monitoring.mosreg.ru
 staging.qui-quo.ru
 staging.senat.sberbank.ru
 staging.tvh.kion.ru
@@ -18734,6 +18780,7 @@ stepnoe-rb.ru
 stf.vk.team
 stg-sso.keyid.rt.ru
 stg.1cupis.org
+stg.issd.mosreg.ru
 stg.o3t.me
 stg.ozonru.me
 stg.t.o3.ru
@@ -19674,6 +19721,7 @@ traveler.rshb.ru
 travelernext.alfabank.ru
 travelervip.alfabank.ru
 travelty.online
+trcnf.rspp.ru
 trcont.ru
 trekmark.ru
 trev-api.tbank-online.com
@@ -21105,6 +21153,7 @@ www.akado.ru
 www.akimovkomedia.ru
 www.akiselev.group
 www.akod22.ru
+www.akontech.ru
 www.akrvo.ru
 www.aktiv-rso.ru
 www.akveduk52.ru
@@ -22373,6 +22422,7 @@ www.mcst.ru
 www.mcurl.ru
 www.mdm.rambler-co.ru
 www.mdm.vtb.ru
+www.meatterminal.ru
 www.mebel-enot.ru
 www.mechel.com
 www.mechel.ru
@@ -23021,6 +23071,7 @@ www.salestest.pochtabank.ru
 www.samadm.ru
 www.samaraneftegaz.rosneft.ru
 www.samspace.ru
+www.sap.norbit.ru
 www.saratov-npz.rosneft.ru
 www.saturn-kuban.ru
 www.sbapi-tst.spasibobonus.ru
@@ -23713,6 +23764,7 @@ www.xn--80ahbbiggbxxyl2q.xn--p1ai
 www.xn--80ahcnhd2bt.xn--90ab2c.xn--p1ai
 www.xn--80aimavhgct.xn--p1ai
 www.xn--80ajbsejhbghgf4a.xn--p1ai
+www.xn--80ajjcnbcfefyhq1p.xn--p1ai
 www.xn--80akofvok.xn--p1ai
 www.xn--80aphfga3a3b.xn--p1ai
 www.xn--80at.xn--90ab2c.xn--p1ai
@@ -23981,6 +24033,7 @@ xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80ajghhoc2aj1c8b.xn--p1ai
 xn--80ajijsfw.xn--d1aqf.xn--p1ai
 xn--80ajj9a.xn--39-dlcej5afybuehh.xn--p1ai
+xn--80ajjcnbcfefyhq1p.xn--p1ai
 xn--80akakmejco9a.xn--p1ai
 xn--80akcrghjp.xn--p1ai
 xn--80akhbyjw.xn--d1acj3b

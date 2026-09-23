@@ -150,6 +150,7 @@ akibank.ru
 akimovkomedia.ru
 akiselev.group
 akod22.ru
+akontech.ru
 akrvo.ru
 aksayland.ru
 aktiv-rso.ru
@@ -841,6 +842,7 @@ detbolnvr.ru
 dev-portal.ru
 dev-stroyka.ru
 dev-vkplay.ru
+devkz.ru
 devmail.ru
 devops-centre.ru
 devvk.team
@@ -1231,6 +1233,7 @@ fotopitera.ru
 foxford.ru
 fractel.ru
 fraktel.ru
+frccsc.ru
 freepascal.ru
 freetato.ru
 freshstartme.ru
@@ -2103,6 +2106,7 @@ mcx.ru
 mcxrk.ru
 mdeng.ru
 mdigital.ru
+meatterminal.ru
 mebel-enot.ru
 mech-belka.io
 mechel.com
@@ -3156,6 +3160,8 @@ rshbins.ru
 rshbl.ru
 rsins.ru
 rsinsurance.ru
+rspp.net
+rspp.ru
 rssi.ru
 rst70.com
 rstrk.ru
@@ -4624,6 +4630,7 @@ xn--80ahclcba9ameqejaeh.xn--p1ai
 xn--80aimavhgct.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80ajghhoc2aj1c8b.xn--p1ai
+xn--80ajjcnbcfefyhq1p.xn--p1ai
 xn--80akakmejco9a.xn--p1ai
 xn--80akcrghjp.xn--p1ai
 xn--80akhbyjw.xn--d1acj3b
