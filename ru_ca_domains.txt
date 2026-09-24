@@ -6184,6 +6184,7 @@ apps.psi.sbertransport.ru
 apps.sber.ru
 apps.sberbank.ru
 apps.sbertransport.ru
+apps.test.int.nloto.ru
 appsec.onecld.ru
 appserv.cplsb.ru
 appsgeotron.spacecorp.ru
@@ -14709,6 +14710,7 @@ nuc2.voskhod.ru
 nuco-vm-cewe.achimgaz.ru
 nuctest.demo.moneta.ru
 nuctest.moneta.ru
+nuctest.nationaloto.ru
 nvbo-preprod.mkb.ru
 nvbo.mkb.ru
 nvg.ru
@@ -20946,6 +20948,7 @@ wifiise19.rt.ru
 wifiradar.ru
 wifire.megafon.ru
 wiki-sibiriada.ru
+wiki.petprojects1.ru
 wiki.sberbank-service.ru
 wiki.tinko.ru
 wiki.vkbudgeting.ru
