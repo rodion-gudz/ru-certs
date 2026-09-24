@@ -4298,6 +4298,7 @@
 *.tehnologiidobra.ru
 *.teko.io
 *.tel.sbis.ru
+*.tele-med.spb.ru
 *.tele3med.ru
 *.telecontact.ru
 *.telefon.ru
@@ -4786,6 +4787,7 @@
 *.vtbcapital.ru
 *.vtbeducation.ru
 *.vtbf.ru
+*.vtbm.ru
 *.vtbmobile.ru
 *.vtbnpf.ru
 *.vtbreg.ru
@@ -5129,6 +5131,7 @@
 13ma.ahml.ru
 13z-reserve.sbermegamarket.sigma.sbrf.ru
 13z.sbermegamarket.sigma.sbrf.ru
+140.rosseti-lenenergo.ru
 1440.space
 15.rospotrebnadzor.ru
 178fmc01.finstarbank.ru
@@ -10572,6 +10575,7 @@ gosoc.ru
 gosschool.ru
 gossluzhba.gov.ru
 gossortrf.ru
+gost-api.7raduga.ru
 gost-os.ru
 gost.bstrv.ru
 gost.codifast.ru
@@ -12321,6 +12325,7 @@ le-ext-grd-smpl.speechpro.com
 le-test-273-2.servicecdn.ru
 learn.cyberkoala.ru
 learn.geoscan.ru
+learn.sberdevices.ru
 learning.ozon.ru
 learning.trcont.ru
 leasing.ozon.ru
@@ -14418,6 +14423,7 @@ neonxp.ru
 neovox.ru
 neptune.mtsbank.ru
 nestor-brief.speechpro.com
+net.hostdm.ru
 net.mail.ru
 netmonet.time-messenger.ru
 netologia.ru
@@ -14867,6 +14873,7 @@ online-dev.sberbankins.ru
 online-express.ru
 online-prep.sberbankins.ru
 online-test.orel-edu.ru
+online-tst.primbank.ru
 online-tst.sberbankins.ru
 online.aaacapital.ru
 online.abank.ru
@@ -15369,6 +15376,7 @@ owapps.sberins.ru
 owaps.nornik.ru
 owas.alfabank.ru
 owas.omk-it.ru
+owat.nornik.ru
 owi.spasibobonus.ru
 owi.spasibobonus.sigma.sbrf.ru
 owncloud.arcticspg.ru
@@ -16105,6 +16113,7 @@ proctor.nso.ru
 prod-fpsuproxy.sberfactoring.sber.ru
 prod-intg.sberbankins.ru
 prod-mesh.ad-tech.ru
+prod-mobile.brokerkf.ru
 prod-publicapi.sberfactoring.ru
 prod-work.jump.finance
 prod.acq.gazprombank.ru
@@ -19234,6 +19243,7 @@ tecscheme.ru
 tehnologiidobra.ru
 teko.io
 tel.sbis.ru
+tele-med.spb.ru
 teleart.time-messenger.ru
 telecom2023.tricolor.ru
 telecom2024.tricolor.ru
@@ -19468,6 +19478,7 @@ testcert.rrcards.ru
 testclient.t-software.tech
 testcorporate.psbank.ru
 testcr3.novikom.ru
+testcr8.novikom.ru
 testcreditcalc.toyotafs.ru
 testcreditonline.toyotafs.ru
 testdbo.gorbank.spb.ru
@@ -19668,6 +19679,7 @@ tools.alfabank.ru
 top.kion.ru
 top100.rambler.ru
 top100.ru
+topay.sevstar.net
 topsbi.ru
 torg-i.com
 torgi.gov.ru
@@ -20320,6 +20332,7 @@ vipnet2131.mosreg.ru
 virtual-assistant.magnit.ru
 virustest.gov.ru
 visa.bancaintesa.ru
+visit-petersburg.ru
 visitor.megafon.ru
 visitor.test-middle.megafon.ru
 visitvmz.omk.ru
@@ -20448,6 +20461,7 @@ vniief.ru
 vniifk.ru
 vniiftri.ru
 vniigaz-cert.ru
+vniitf.ru
 vnm.transneft.ru
 vnukovo.ru
 vo.ertelecom.ru
@@ -20617,6 +20631,7 @@ vtbcareer.com
 vtbeducation.ru
 vtbforex.ru
 vtbinfra.ru
+vtbm.ru
 vtbmobile.ru
 vtbo.api.vtb.ru
 vtbreg.ru
@@ -21060,6 +21075,7 @@ www.04gov.ru
 www.06.rospotrebnadzor.ru
 www.09.rospotrebnadzor.ru
 www.13.alfabank.ru
+www.140.rosseti-lenenergo.ru
 www.15.rospotrebnadzor.ru
 www.1erc.ru
 www.1rkb.ru
@@ -21746,6 +21762,7 @@ www.edtechpro.ru
 www.edu.orb.ru
 www.edu.tbank.ru
 www.education-forms.rt.ru
+www.education.rosseti-lenenergo.ru
 www.efbank.ru
 www.egisso.ru
 www.eirc.spb.ru
@@ -21935,6 +21952,7 @@ www.gorpay.online
 www.gorpay.ru
 www.gosapteka18.ru
 www.gossortrf.ru
+www.gost-api.7raduga.ru
 www.gost-os.ru
 www.goszakaz44.e-mordovia.ru
 www.govirk.ru
@@ -22526,6 +22544,7 @@ www.modulbuh.ru
 www.moduldev.ru
 www.monomah.ru
 www.monument.lenenergo.ru
+www.monument.rosseti-lenenergo.ru
 www.morskoybank.com
 www.moshkovo-54.ru
 www.moslenta.ru
@@ -22732,6 +22751,7 @@ www.osgrm.ru
 www.otpbank.ru
 www.otpfinance.ru
 www.owa.mtsbank.ru
+www.owat.nornik.ru
 www.owi.spasibobonus.ru
 www.owi.spasibobonus.sigma.sbrf.ru
 www.ozerskadm.ru
@@ -23650,6 +23670,7 @@ www.vgw.mosreg.ru
 www.viaso.ru
 www.vikingbank.ru
 www.vipmed.ru
+www.visit-petersburg.ru
 www.vitains.ru
 www.vks.rosreestr.gov.ru
 www.vks.rshb.ru

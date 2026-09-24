@@ -53,6 +53,7 @@
 72ms.ru
 72to.ru
 7304488.ru
+7raduga.ru
 9s7.ru
 a-3.ru
 a-rnr.ru
@@ -546,6 +547,7 @@ broker-sb.io
 broker-sb.ru
 broker-sberbank.ru
 broker.ru
+brokerkf.ru
 browserloona.online
 bryanskoblfin.ru
 bsbank.ru
@@ -1534,6 +1536,7 @@ homecredit.ru
 hosp23.ru
 hospital70.ru
 hospitalvv-sk.ru
+hostdm.ru
 hotelpost.ru
 hoteltofms.ru
 hr-abk.ru
@@ -4274,6 +4277,7 @@ video-vk.org
 vikingbank.ru
 vino-svoe.ru
 vipmed.ru
+visit-petersburg.ru
 vitabank.ru
 vitains.ru
 vitas1648-dev.ru
@@ -4347,6 +4351,7 @@ vniief.ru
 vniifk.ru
 vniiftri.ru
 vniigaz-cert.ru
+vniitf.ru
 vnukovo.ru
 vodokanal-museum.ru
 vodokanal-zagorod.ru
@@ -4408,6 +4413,7 @@ vtbf.ru
 vtbforex.ru
 vtbgroup.com
 vtbinfra.ru
+vtbm.ru
 vtbmobile.ru
 vtbnpf.ru
 vtbreg.ru
