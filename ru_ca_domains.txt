@@ -14280,6 +14280,7 @@ my.gpbbroker.ru
 my.interrao-orel.ru
 my.jump.finance
 my.jump.taxi
+my.kalkulatorzp.ru
 my.magnit.ru
 my.mail.ru
 my.phoenix-dnr.ru
@@ -20664,6 +20665,7 @@ wallet.1cupis.ru
 wallet.akbars.ru
 wallet.kilbil.ru
 wallet.rsb.ru
+warui.ru
 wasaby.dev
 waterbase.kion.ru
 waybank.ru
