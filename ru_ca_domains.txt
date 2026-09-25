@@ -5697,6 +5697,7 @@ akveduk52.ru
 akyamal.ru
 al-psi.id.sber.ru
 al.id.sber.ru
+al.rspp.ru
 alabuga.ru
 aladdin-rd.ru
 aladdin.ru
@@ -9212,6 +9213,7 @@ docs.myonlinetips.ru
 docs.mysbertips.ru
 docs.sberuniversity.online
 docs.sovcombank.ru
+docs.strelka.chat
 docs.time-messenger.ru
 docs.tinko.ru
 docs5test.trcont.ru
@@ -9514,6 +9516,7 @@ edu.ru
 edu.srv-hub.org
 edu.tbank-online.com
 edu.tbank.ru
+edu.vui.fsin.gov.ru
 edu.waybank.ru
 edu35.ru
 edu54.ru
@@ -15864,12 +15867,15 @@ plt.site
 plus.sberclass.ru
 plus.staging.megafon.ru
 pm.ingobank.ru
+pmcloud.sbertech.ru
+pmdemo.sbertech.ru
 pmg.mkp.ru.net
 pmisk.ru
 pmm.konus.group
 pmm.roszdravnadzor.gov.ru
 pmosk.ru
 pmp.middle.megafon.ru
+pmplatform.ru
 pms-centr.spb.ru
 pmx.rambler.space
 pnd-dp.megafon.ru
@@ -18876,6 +18882,7 @@ stm.srbank.ru
 stock-api.ocs.ru
 stock.lemark.su
 stom11.ru
+stom19.ru
 stomatology-kmv26.ru
 stomatrk.ru
 stomshop.time-messenger.ru

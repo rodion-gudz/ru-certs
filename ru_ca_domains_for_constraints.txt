@@ -2836,6 +2836,7 @@ plt.site
 pluspay.ru
 pmisk.ru
 pmosk.ru
+pmplatform.ru
 pndfr.ru
 pni4spb.ru
 pnzmed.ru
@@ -3790,6 +3791,7 @@ stkvd.ru
 stm-labs.ru
 stm-ru.ru
 stom11.ru
+stom19.ru
 stomatology-kmv26.ru
 stomatrk.ru
 storefrontapp.ru
@@ -3797,6 +3799,7 @@ stp-egisz.ru
 stpadmin.ru
 stpr.ru
 strahovka35.ru
+strelka.chat
 strelkacard.ru
 strelkapay.ru
 stroki.ru
