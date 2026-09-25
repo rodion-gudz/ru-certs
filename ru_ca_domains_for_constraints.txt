@@ -1184,6 +1184,7 @@ fgbuusz.ru
 fgis-saturn.ru
 fgsrb.ru
 fgup-ohrana.ru
+fguz-tyumen.ru
 fguzmo.ru
 fhdgso.ru
 ficto.ru
@@ -1284,6 +1285,7 @@ gazfond.ru
 gazprom-agnks.ru
 gazprom-arena.com
 gazprom-media.com
+gazprom-neft.ru
 gazprom.com
 gazprom.ru
 gazprombank.global
@@ -1552,6 +1554,7 @@ i-college.ru
 i-dgtl.ru
 i-exam.ru
 i-spo.ru
+ibam.ru
 ibank-nbsrf.ru
 ibgroup.ru
 ibispb.ru
@@ -1684,6 +1687,7 @@ ippe.ru
 ippss.ru
 ipsnok.ru
 ir-tech.ru
+irao-engineering.ru
 irao-generation.ru
 irexpertiza.ru
 irkat.ru
@@ -1944,6 +1948,7 @@ labrx.ru
 ladoshkipay.ru
 lakoai.ru
 lala.su
+lamoda.ru
 lanta.ru
 laspace.ru
 latrenta.ru
@@ -3503,6 +3508,7 @@ sfo-svoikapital-fintech.ru
 sfo-svoikapital-investment.ru
 sfo-veleta.ru
 sfri.ru
+sftgroup.ru
 shagp1.ru
 shagp2.ru
 shagym.ru

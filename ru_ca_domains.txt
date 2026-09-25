@@ -1776,6 +1776,7 @@
 *.ib.bizmrg.com
 *.ib.cldmail.ru
 *.ib.vkcloud-storage.ru
+*.ibam.ru
 *.ibank.absolutbank.ru
 *.ibe-stage.travelmore.ru
 *.ibgroup.ru
@@ -2590,6 +2591,7 @@
 *.msk-ix.ru
 *.msk.21-school.ru
 *.msk.cdn.kion.ru
+*.msk.cloud.mts.ru
 *.msk.cloud.vk.com
 *.msk.cloud.vk.ru
 *.msk.csat.ru
@@ -2777,6 +2779,7 @@
 *.nsgsoft.ru
 *.nsis.ru
 *.nsk.21-school.ru
+*.nsk.cloud.mts.ru
 *.nskbl.ru
 *.nso.ru
 *.nspd.gov.ru
@@ -3981,6 +3984,8 @@
 *.spasibotest.ru
 *.spasskievorota.ru
 *.spb-neo.ru
+*.spb.cloud.mts.ru
+*.spb.mws.ru
 *.spbbank.ru
 *.spbclearing.ru
 *.spbeias.ru
@@ -4072,10 +4077,20 @@
 *.stage.issd.mosreg.ru
 *.stage.nspd.rosreestr.gov.ru
 *.stage.ntv.ru
+*.stage.pkpvd.mosreg.ru
 *.stage.platform.tatar.ru
+*.stage.portal.css.mosreg.ru
+*.stage.queue.mfc.mosreg.ru
+*.stage.rggs.mosreg.ru
 *.stage.rgis.mosreg.ru
+*.stage.rgu.mosreg.ru
+*.stage.rmun.mosreg.ru
+*.stage.romashka.mosreg.ru
+*.stage.rpa.mosreg.ru
 *.stage.s3vk.com
 *.stage.s3vk.ru
+*.stage.saap.mosreg.ru
+*.stage.sb.mfc.mosreg.ru
 *.stage.skkpu.mosreg.ru
 *.stage.skpdi.mosreg.ru
 *.stage.smartforms.monitoring.mosreg.ru
@@ -5218,8 +5233,11 @@
 27.ctlog.digital.gov.ru
 2fa-linx.it-grad.ru
 2fa-si.csc.rt.ru
+2fa-sz.rt.ru
+2fa-uf.rt.ru
 2fa-ur.rt.ru
 2fa-vo.rt.ru
+2fa-yu.csc.rt.ru
 2fa.icb.domrf.ru
 2fa.it-grad.ru
 2fsp.otpbank.ru
@@ -6004,6 +6022,7 @@ api.jump.finance
 api.jump.taxi
 api.kilbil.ru
 api.kstati.org
+api.lamoda.ru
 api.legalbpm.sberpravo.ru
 api.legalforms.sberpravo.ru
 api.lk.digital.uralsib.ru
@@ -6126,6 +6145,8 @@ apigw.pskb.com
 apijw.jump.finance
 apijwd.jump.taxi
 apilkk.open-broker.ru
+apimd-test.mts.ru
+apimd.mts.ru
 apimw.otp.sberbank.ru
 apiok.ru
 apipg.centrinvest.ru
@@ -7195,6 +7216,7 @@ bi54.nso.ru
 bia-tech.ru
 bialgam.ru
 biblio-bud.stv.muzkult.ru
+bid.gazprom-neft.ru
 bid.max.ru
 bigcloud.mkb.ru
 bigeyed.ru
@@ -7825,6 +7847,7 @@ cfg.srv-hub.org
 cfg.tbank-online.com
 cfmc.ru
 cfo-front.alfabank.ru
+cft-psi.ecom.sberbank.ru
 cft.ift.sberbank.ru
 cgbp.ru
 cge-amur.ru
@@ -9173,6 +9196,7 @@ do.irs-krsk.ru
 do.ntek-nsk.ru
 dobro.imgsmail.ru
 dobro.mail.ru
+dobro.rt.ru
 dobro.ru
 dobro.vk.com
 dobroskb.ru
@@ -9499,6 +9523,7 @@ edo.vostokgosplan.ru
 edocom.ru
 eds-pp.rosneft.ru
 eds.creditural.ru
+eds.kapmed.ru
 eds.mgn-city.ru
 eds.rosneft.ru
 edtechpro.ru
@@ -10039,6 +10064,7 @@ fgislk-test.gov.ru
 fgislk.gov.ru
 fgsrb.ru
 fgup-ohrana.ru
+fguz-tyumen.ru
 fguzmo.ru
 fgws-gw-openfapi-dbosmb-gost-lb.vtb.ru
 fgws-gw-openfapi-dbosmb-lb.vtb.ru
@@ -11097,6 +11123,7 @@ ib.slbank.ru
 ib1.okbank.ru
 ib2.okbank.ru
 ib2.psbank.ru
+ibam.ru
 ibank-demo.rsb.ru
 ibank-nbsrf.ru
 ibank.abank.ru
@@ -11715,6 +11742,7 @@ ir.bs2.gazprombank.ru
 ir.bsbp.gazprombank.ru
 ir.megafon.ru
 ir.mkb.ru
+irao-engineering.ru
 irao-generation.ru
 irbis.sberbank-ast.ru
 irdc.tander.ru
@@ -13661,6 +13689,7 @@ megaplan.ru
 megatech-it.ru
 meinfx.ru
 memdm.crpt.ru
+memdm.otpbank.ru
 memo.klgd.su
 memos.klgd.su
 meow.edgecenter.online
@@ -14148,6 +14177,7 @@ msk-vcse.megafon.ru
 msk-vpn01.sovcombank.group
 msk-vpn02.sovcombank.group
 msk.21-school.ru
+msk.cloud.mts.ru
 msk.cloud.vk.com
 msk.cloud.vk.ru
 msk.infteh.ru
@@ -14676,6 +14706,7 @@ nsi.mfsk.ru
 nsis.ru
 nsiws.transneft.ru
 nsk.21-school.ru
+nsk.cloud.mts.ru
 nsk.megafon.ru
 nsk.staging.megafon.ru
 nskbl.ru
@@ -15854,6 +15885,8 @@ play.nloto.ru
 playful-pixel.site
 playkey.net
 plazlink.com
+plchat-dev.otpbank.ru
+plchat.otpbank.ru
 plcm.ru
 plda.open-broker.ru
 plein.com
@@ -15981,6 +16014,8 @@ portal.vk.team
 portal.voiptools.ru
 portal2.gazfond-pn.ru
 portal2fa-pr.rt.ru
+portal2fa-sz.rt.ru
+portal2fa-uf.rt.ru
 portal2fa-ur.rt.ru
 portalaaa.domru.ru
 portalcrm.rosneft.ru
@@ -17922,6 +17957,7 @@ sfr.gov.ru
 sfri.ru
 sfsext.pochtabank.ru
 sftbee.alfabank.ru
+sftgroup.ru
 sftp-loyalty.cardsmobile.ru
 sftp-loyalty.koshelek.app
 sftp.crms-media.mts.ru
@@ -18014,6 +18050,7 @@ signal.tricolor.ru
 signalr.rc.senat.sberbank.ru
 signalr.senat.sberbank.ru
 signalr.staging.senat.sberbank.ru
+signing.otpbank.ru
 signme-gw.beta.ingobank.ru
 signme-gw.ingobank.ru
 sigstore.onecld.ru
@@ -18471,7 +18508,9 @@ spasibotest.ru
 spasskievorota.ru
 spaymentsplus.ru
 spb-vpn01.sovcombank.group
+spb.cloud.mts.ru
 spb.megafon.ru
+spb.mws.ru
 spb.novostroy.deltacredit.ru
 spb.staging.megafon.ru
 spb.sveza.ru
@@ -18488,6 +18527,7 @@ spboms.ru
 spbsad23.ru
 spbti.ru
 spcstweb.tch.ru
+speak-up.moex.com
 spec.vkteam.ru
 specdep.me
 specdep.org
@@ -18704,7 +18744,17 @@ stage.jump.finance
 stage.nspd.rosreestr.gov.ru
 stage.ntv.ru
 stage.omnichannel.mts.ru
+stage.pkpvd.mosreg.ru
+stage.portal.css.mosreg.ru
+stage.queue.mfc.mosreg.ru
+stage.rggs.mosreg.ru
 stage.rgis.mosreg.ru
+stage.rgu.mosreg.ru
+stage.rmun.mosreg.ru
+stage.romashka.mosreg.ru
+stage.rpa.mosreg.ru
+stage.saap.mosreg.ru
+stage.sb.mfc.mosreg.ru
 stage.skkpu.mosreg.ru
 stage.skpdi.mosreg.ru
 stage.smartforms.monitoring.mosreg.ru
@@ -21724,6 +21774,7 @@ www.devpsb.pvcd.ru
 www.df.sibintek.ru
 www.dfa-yc.dltru.org
 www.dfa.masterchain.ru
+www.dfa.sber.ru
 www.dfsamara.ru
 www.dgkb-krd.ru
 www.digital.gov.ru
@@ -21892,6 +21943,7 @@ www.fgbu-yalta.ru
 www.fgislk-test.gov.ru
 www.fgislk.gov.ru
 www.fgup-ohrana.ru
+www.fguz-tyumen.ru
 www.files.cyberprotect.ru
 www.files.noosferabank.ru
 www.files.sovcombank.ru
