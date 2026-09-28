@@ -701,6 +701,7 @@
 *.childrest.ru
 *.chus-bi.ru
 *.chuvstvodolga.ru
+*.chzt.ru
 *.cicq.org
 *.cifra-bank.io
 *.cifra-bank.ru
@@ -3960,6 +3961,7 @@
 *.soglasie.ru
 *.sokol-kaluga.ru
 *.solid.ru
+*.solidinvest.ru
 *.sollers-alabuga.ru
 *.sollers-auto.com
 *.sollers-cargo.ru
@@ -5069,6 +5071,7 @@
 *.xplonline.com
 *.xrmib.ru
 *.yadro.com
+*.yakno.ru
 *.yakovlev.ru
 *.yandar-group.com
 *.yandar-group.ru
@@ -7851,6 +7854,8 @@ cert-dsp.yadro.com
 cert-test.bidzaar.com
 cert.ingos.ru
 cert.nuc-040171df99054744.enthusiastic-delighted.online
+cert.nuc-082f8518be3b461d.marveled-astonish.online
+cert.nuc-7bc675198f6743d7.enthusiastic-delighted.online
 cert.nuc-c9b652bab5ac4952.marveled-astonish.online
 cert.sbertv.ru
 cert.spasibo.digital
@@ -14804,6 +14809,7 @@ nts.su
 ntv.ru
 nuc-744baa017b364449.glee-embolden.online
 nuc-acme.voskhod.ru
+nuc-e8f2f9abe341449b.glee-embolden.online
 nuc-probe-1457.devkz.ru
 nuc-probe-1659.devkz.ru
 nuc-probe-1711.devkz.ru
@@ -19070,6 +19076,7 @@ store.vpn.miac74.ru
 stories.livejournal.com
 storm-sandbox-mincifry-cert.ivi.ru
 stormwall-pro.time-messenger.ru
+stp.gisoms.ffoms.gov.ru
 stpadmin.ru
 stpr.ru
 str.open.ru
@@ -24091,6 +24098,7 @@ www.xn--n1aaceg.xn--90ab2c.xn--p1ai
 www.xn--n1afa.xn--90ab2c.xn--p1ai
 www.xrmib.ru
 www.y-cdn.uralsib.ru
+www.yakno.ru
 www.yandar-group.com
 www.yandar-group.ru
 www.yar.21-school.ru
@@ -24468,6 +24476,7 @@ y-cdn.uralsib.ru
 y.gis-sc.krasnodar.ru
 yabank.yandex.ru
 yadro.com
+yakno.ru
 yakovlev.ru
 yanao.megafon.ru
 yanao.staging.megafon.ru
