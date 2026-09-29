@@ -325,6 +325,7 @@ asterx23.ru
 astgoz.ru
 astk-insur.ru
 astra-team.ru
+astra.ru
 astrahovanie.ru
 astralinux.ru
 astrasend.ru
@@ -583,6 +584,7 @@ c-k.ru
 c-zn.ru
 ca-magnit.ru
 cadtech.ru
+capella-invest.ru
 capella-spb.ru
 capital-am.ru
 capital-bank.ru
@@ -1100,6 +1102,7 @@ enrollme.plus
 enrollme.ru
 enterly.ru
 entertainment-ads.ru
+entertext.ru
 enthusiastic-delighted.online
 entroforce.ru
 entrustment.ru
@@ -1399,6 +1402,7 @@ gofocus.ru
 golodyaev.ru
 goodoldlion.ru
 goods.ru
+goodsteam.tech
 gopublic.online
 gorizont-project.ru
 gornoaltaysk.ru
@@ -1799,6 +1803,7 @@ karkasdvor.ru
 karmahelp.ru
 karo-film.ru
 karofilm.ru
+karta03.ru
 kartahalva.ru
 karthalva.ru
 kartomarket.ru
@@ -2240,6 +2245,7 @@ mmchelptech.ru
 mmk-coal.ru
 mmk.ru
 mmzavod.ru
+mnbank.ru
 mng.tl
 mnogo.app
 mo-medsvc.ru
@@ -2929,6 +2935,7 @@ prosdr.ru
 proshkola.ru
 prostobank.online
 prosv.ru
+proton-orel.ru
 provodnik.ru
 prrr.ru
 prto.ru
@@ -3107,6 +3114,7 @@ rifpark.ru
 rikt.ru
 ris61edu.ru
 rkc-gku.ru
+rkcdv.ru
 rkomi.ru
 rks.digital
 rl0.ru
@@ -3548,6 +3556,7 @@ shpakrb.ru
 shprapp.ru
 shriftik.ru
 siab.ru
+siaplc.ru
 sibintek-soft.ru
 sibintek.ru
 sibmoll.ru
@@ -4789,6 +4798,7 @@ yandex-net.ru
 yandex.net
 yandex.ru
 yango.pro
+yarz.ru
 yatec.ru
 yc-time-saas-video-conference.ru
 yclients.cloud
@@ -4833,6 +4843,7 @@ yukinoki.ru
 yvarsity.com
 yvv.ru
 z-37.ru
+z-th.ru
 zabroniryi.ru
 zabtfoms.ru
 zagruzka.com
@@ -4842,6 +4853,7 @@ zakaznso.ru
 zakazrf.ru
 zakupki08.ru
 zakupki44fz.ru
+zao-srk.ru
 zao-trend.ru
 zaovad.com
 zap-mag.ru
