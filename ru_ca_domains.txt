@@ -466,6 +466,7 @@
 *.baza-roshino.ru
 *.bb.mail.ru
 *.bbr.ru
+*.bcnvk.ru
 *.bcosm.ru
 *.bcs-bank.com
 *.bcs-bank.ru
@@ -1916,6 +1917,7 @@
 *.int.u6.ru
 *.int.uralairlines.ru
 *.integration-shbv.asudd.net
+*.intelkom.pro
 *.intercomp.ru
 *.intercompglobal.com
 *.internal.myteam.mail.ru
@@ -2830,6 +2832,7 @@
 *.oboronregistr.ru
 *.obramur.ru
 *.obrbratsk.ru
+*.obrnadzor.gov.ru
 *.obs.mts.ru
 *.oc-vektor.ru
 *.ocenka.mobi
@@ -4087,10 +4090,18 @@
 *.stage.dfa-yc.dltru.org
 *.stage.domapi.domrfbank.ru
 *.stage.e1c-ops.com
+*.stage.gossluzhba.mosreg.ru
+*.stage.helpnearby.mosreg.ru
 *.stage.infinitum-tc.ru
 *.stage.isogd.mosreg.ru
 *.stage.isoik.mosreg.ru
 *.stage.issd.mosreg.ru
+*.stage.kcr.mosreg.ru
+*.stage.kinomo.mosreg.ru
+*.stage.lod.mosreg.ru
+*.stage.loyalty.mosreg.ru
+*.stage.m.zk.knd.mosreg.ru
+*.stage.market.mosreg.ru
 *.stage.mbs.mosreg.ru
 *.stage.mcsumo.mosreg.ru
 *.stage.mku.mosreg.ru
@@ -4358,6 +4369,7 @@
 *.technoscore.ru
 *.techrefresh.vkteam.ru
 *.tehnologiidobra.ru
+*.tehnolozhka.cafe
 *.teko.io
 *.tel.sbis.ru
 *.tele-med.spb.ru
@@ -4715,6 +4727,7 @@
 *.vipmed.ru
 *.vipnet.nso.ru
 *.virustest.gov.ru
+*.visum.live
 *.vitabank.ru
 *.vitabank.spb.ru
 *.vitains.ru
@@ -5634,6 +5647,7 @@ adtech.rambler.ru
 adygea.megafon.ru
 adygea.staging.megafon.ru
 adygheya.ru
+ae-open.ris61edu.ru
 aebonline-api.albank.ru
 aef-cloud-prom.sberdevices.ru
 aef-cloud-test.sberdevices.ru
@@ -7105,6 +7119,7 @@ bcgb.mznso.ru
 bclient.nkcbank.ru
 bcmc.gazprombank.ru
 bcmplatform.ru
+bcnvk.ru
 bcosm.ru
 bcs-bank.com
 bcs-bank.ru
@@ -7878,6 +7893,8 @@ cert.ingos.ru
 cert.nuc-040171df99054744.enthusiastic-delighted.online
 cert.nuc-082f8518be3b461d.marveled-astonish.online
 cert.nuc-3cd2fb2c660a4b77.marveled-astonish.online
+cert.nuc-3e84ea71617a46c9.enthusiastic-delighted.online
+cert.nuc-76c2b48f339e4f76.marveled-astonish.online
 cert.nuc-7bc675198f6743d7.enthusiastic-delighted.online
 cert.nuc-c9b652bab5ac4952.marveled-astonish.online
 cert.sbertv.ru
@@ -7969,6 +7986,7 @@ chat.rcoko27.ru
 chat.sberbankins.ru
 chat.sbermobile.ru
 chat.smpbank.ru
+chat.szd.stcnet.ru
 chat.vtb.ru
 chat.vtbgroup.com
 chat1.vtb.ru
@@ -10847,6 +10865,7 @@ grpc.broker.ru
 grpc2.broker.ru
 grunwald.ru
 gsfrb.ru
+gslb.mos.ru
 gsp-ac48-1-out-s-1.sbertech.ru
 gsrk.ru
 gt-arena.nso.ru
@@ -10866,6 +10885,7 @@ guard.recfaces.ru
 guard.rfaces.ru
 guardian.cyberkoala.ru
 guardstation.sber.ru
+gubadm.ru
 gubernator74.ru
 gudodd.ru
 guest-route-assistant.sberbankins.ru
@@ -11381,6 +11401,7 @@ id.tochka.com
 id.vtb.ru
 idassist.ingobank.ru
 idea-dev.mtsbank.ru
+idea.mtsbank.ru
 idea.omk.ru
 ideco.almaz-rpe.ru
 idecovpn.fc-zenit.ru
@@ -11697,6 +11718,7 @@ integration-shbv.asudd.net
 integrations.1cdialog.com
 integriks.ru
 intelcube.ru
+intelkom.pro
 intellectum.info
 intelwebs.ru
 interbank.tkbbank.ru
@@ -12464,6 +12486,7 @@ l.cu.ru
 l.dolyame.ru
 l.gis-sc.krasnodar.ru
 l.kilbil.ru
+l4portal-preprod.nestlesoft.net
 la2rm.ru
 lab-company.ru
 lab-soc-reg.sinara.ru
@@ -14576,6 +14599,7 @@ namex.org
 nami.ru
 narco42.ru
 narhsi.ru
+narkolog-help-24.ru
 narkosk.ru
 narnis.ru
 nashvybor.online
@@ -14869,6 +14893,7 @@ ntonline.sberbank.ru
 nts.su
 ntv.ru
 nuc-424ba28a360b4ee4.glee-embolden.online
+nuc-5ec83058f1d943b1.glee-embolden.online
 nuc-744baa017b364449.glee-embolden.online
 nuc-acme.voskhod.ru
 nuc-e8f2f9abe341449b.glee-embolden.online
@@ -14942,6 +14967,7 @@ oboronregistr.ru
 oboroty.sovcombank.ru
 obr.b-edu.ru
 obrbratsk.ru
+obrnadzor.gov.ru
 observer.mos.ru
 oc-vektor.ru
 ocd.mznso.ru
@@ -16357,6 +16383,7 @@ prod.nspd.rosreestr.gov.ru
 prod.platform.md.magnit.ru
 prod.service.gazprombank.ru
 prod.sovcomins.ru
+prod.tvh.mts.ru
 prod.ya.magnit.ru
 prod2.nspd.rosreestr.gov.ru
 prodobro.ru
@@ -16989,6 +17016,7 @@ recog.vacr.vtb.ru
 recognition.music.mts.ru
 recruitingreports.ru
 red-soft.ru
+red1dark.ru
 reddatabase.ru
 redirect.centrinvest.ru
 redirect.jump.finance
@@ -18919,12 +18947,20 @@ stage.e1c-ops.com
 stage.fl-shop.ru
 stage.flex.mtsdengi.ru
 stage.gigadataprovider-api.eye.salute.ru
+stage.gossluzhba.mosreg.ru
+stage.helpnearby.mosreg.ru
 stage.infinitum-tc.ru
 stage.iov.mts.ru
 stage.isogd.mosreg.ru
 stage.isoik.mosreg.ru
 stage.issd.mosreg.ru
 stage.jump.finance
+stage.kcr.mosreg.ru
+stage.kinomo.mosreg.ru
+stage.lod.mosreg.ru
+stage.loyalty.mosreg.ru
+stage.m.zk.knd.mosreg.ru
+stage.market.mosreg.ru
 stage.mbs.mosreg.ru
 stage.mcsumo.mosreg.ru
 stage.mku.mosreg.ru
@@ -19254,6 +19290,7 @@ survey-service.isiao.gov.spb.ru
 survey.magnit.ru
 survey.mkb.ru
 survey.sberbank-service.ru
+survey.start.rt.ru
 sus.sberbank.ru
 susdm42.ru
 susocds1.ru
@@ -19549,6 +19586,7 @@ techpass.sberbank-service.ru
 tecscheme.org
 tecscheme.ru
 tehnologiidobra.ru
+tehnolozhka.cafe
 teko.io
 tel.sbis.ru
 tele-med.spb.ru
@@ -19896,6 +19934,7 @@ time.recfaces.ru
 time.rfaces.ru
 time.tbank.ru
 time.tinkoff.ru
+time2.tbank.ru
 time2pay.ru
 timebook.cloud
 timebook.ru
@@ -20660,6 +20699,7 @@ visitor.test-middle.megafon.ru
 visitvmz.omk.ru
 visitvmznew.omk.ru
 visor.sberbank.ru
+visum.live
 vitabank.ru
 vitabank.spb.ru
 vitains.ru
@@ -23839,6 +23879,7 @@ www.technoscore.ru
 www.tecscheme.org
 www.tecscheme.ru
 www.tehnologiidobra.ru
+www.tehnolozhka.cafe
 www.telemed30.doctor30.ru
 www.teleportbank.ru
 www.tender.rosneft.com
@@ -24299,6 +24340,7 @@ xn----8sbbihcb3bgbrodc7b3gzc.xn--p1ai
 xn----8sbc8adbsdb.xn--p1ai
 xn----8sbehgcimb3cfabqj3b.xn--p1ai
 xn----8sbfckba3a8bcsskd6e.xn--p1ai
+xn----8sbmmlgncfbgqis7m.xn--p1ai
 xn----8sbmnfeuhiwe3n.xn--p1ai
 xn----8sbnvbfbyscjcgm7k2b.xn--d1aqf.xn--p1ai
 xn----8sbosabopxq.xn--p1ai

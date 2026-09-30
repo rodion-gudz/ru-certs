@@ -454,6 +454,7 @@ bazrb.ru
 bbr.ru
 bbrbroker.ru
 bcmplatform.ru
+bcnvk.ru
 bcosm.ru
 bcs-bank.com
 bcs-bank.ru
@@ -1470,6 +1471,7 @@ gsrk.ru
 gtyprofill.ru
 gu-st.ru
 gu.ru
+gubadm.ru
 gubernator74.ru
 gudodd.ru
 gumowsky.com
@@ -1669,6 +1671,7 @@ instant-pay.ru
 integ32.ru
 integriks.ru
 intelcube.ru
+intelkom.pro
 intellectum.info
 intelwebs.ru
 intercomp.ru
@@ -2408,6 +2411,7 @@ nami.ru
 napalabs.ru
 narco42.ru
 narhsi.ru
+narkolog-help-24.ru
 narkosk.ru
 narnis.ru
 nashvybor.online
@@ -2435,6 +2439,7 @@ nekrasovka.ru
 nenderus.su
 neonxp.ru
 neovox.ru
+nestlesoft.net
 net.ru
 netologia.ru
 netology.ru
@@ -3049,6 +3054,7 @@ recfaces.ru
 recruitingreports.ru
 red-dolphin.ru
 red-soft.ru
+red1dark.ru
 reddatabase.ru
 redkit-lab.work
 reestr-proton.ru
@@ -3998,6 +4004,7 @@ technoscore.ru
 tecscheme.org
 tecscheme.ru
 tehnologiidobra.ru
+tehnolozhka.cafe
 teko.io
 tele3med.ru
 telecontact.ru
@@ -4324,6 +4331,7 @@ vikingbank.ru
 vino-svoe.ru
 vipmed.ru
 visit-petersburg.ru
+visum.live
 vitabank.ru
 vitains.ru
 vitas1648-dev.ru
@@ -4569,6 +4577,7 @@ xn----8sbbihcb3bgbrodc7b3gzc.xn--p1ai
 xn----8sbc8adbsdb.xn--p1ai
 xn----8sbehgcimb3cfabqj3b.xn--p1ai
 xn----8sbfckba3a8bcsskd6e.xn--p1ai
+xn----8sbmmlgncfbgqis7m.xn--p1ai
 xn----8sbmnfeuhiwe3n.xn--p1ai
 xn----8sbosabopxq.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
