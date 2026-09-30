@@ -2222,6 +2222,7 @@
 *.livejournal.net
 *.livejournal.org
 *.livejournal.ru
+*.livelib.ru
 *.livetex.priovtb.ru
 *.lj-toys.com
 *.lj.ru
@@ -2650,6 +2651,7 @@
 *.my.vmailru.net
 *.myalpha6.appsmail.ru
 *.myalpha6.i.mail.ru
+*.mybook.ru
 *.mycdn.me
 *.mydocuments11.ru
 *.myfitt.ru
@@ -3807,6 +3809,7 @@
 *.securitycode.ru
 *.sed.fadm.gov.ru
 *.segd.ru
+*.selfpub.ru
 *.selfservice.smailru.net
 *.seller.ad-tech.ru
 *.sellplus.ru
@@ -5188,6 +5191,7 @@
 *.zvuk-b2b.com
 *.zvuk-hifi.ru
 *.zvuk.com
+*.zvukislov.ru
 0001cmnode01.msk.mts.ru
 0001cmnode02.msk.mts.ru
 002-1ct-tst-01.sibintek.ru
@@ -5565,6 +5569,7 @@ adfssvc.rencredit.ru
 adgenerator.max.ru
 adgpost.sonarplus.ru
 adl3be.name
+adm-dev-sso.dev.lk.astra-team.ru
 adm-nav.rustest.ru
 adm-planning.rustest.ru
 adm-syzran.ru
@@ -6319,6 +6324,7 @@ arendazalov.spb.ru
 areopad-tls.rt.ru
 aresbank.ru
 argds.ru
+argocd.dev.lk.astra-team.ru
 argocd.gigacollector.sberdevices.ru
 arhangelsk.home.megafon.ru
 arhangelsk.megafon.ru
@@ -7623,6 +7629,7 @@ calls-test.oneme.ru
 camera.rt.ru
 cameras.key.rt.ru
 camp.iturupbank.ru
+candlepin.dev.lk.astra-team.ru
 candy-publisher.tbank-online.com
 candy-sre-bbe.candy.t-tech.ru
 canlb.vesta.ru
@@ -8941,6 +8948,7 @@ dev-panel.addy.su
 dev-publicapi.sberfactoring.ru
 dev-rc.test-jazz.sberbank.ru
 dev-sipdecoder.test-jazz.sberbank.ru
+dev-sso.dev.lk.astra-team.ru
 dev-stroyka.ru
 dev-vkplay.ru
 dev.1c.link
@@ -8961,6 +8969,7 @@ dev.broker-sb.io
 dev.cnp.mosreg.ru
 dev.crct.mosreg.ru
 dev.crypto.gsn.mosreg.ru
+dev.dev.lk.astra-team.ru
 dev.digital.mosreg.ru
 dev.digital.rt.ru
 dev.dk.mosreg.ru
@@ -9328,6 +9337,7 @@ docs.data.rt.ru
 docs.demo1.hycl.ru
 docs.demo2.hycl.ru
 docs.demo3.hycl.ru
+docs.dev.lk.astra-team.ru
 docs.etna.ai
 docs.hub.megafon.ru
 docs.inkey.rt.ru
@@ -9721,6 +9731,7 @@ ekonomych.ru
 ekvant.baltinvest.com
 el-plat.ru
 el-vote.mos.ru
+elasticsearch.dev.lk.astra-team.ru
 elderia.online
 elearning.storage.bcs.ru
 elec.mos.ru
@@ -12250,6 +12261,7 @@ kiali.gigalegal.sber.ru
 kiali.sberpravo.ru
 kibana-gmp-ift.spasibotest.ru
 kibana-gmp.spasibosb.ru
+kibana.dev.lk.astra-team.ru
 kibana.spasibobonus.ru
 kibana.spasibotest.ru
 kiberbulling.net
@@ -19628,8 +19640,13 @@ tesb.rosatom.ru
 tesp.rosatom.ru
 test-1.fuckoff.site
 test-2.avangard.ru
+test-2.dev.lk.astra-team.ru
 test-2.fuckoff.site
+test-3.dev.lk.astra-team.ru
+test-4.dev.lk.astra-team.ru
 test-42.crt-test-alpha.ru
+test-5.dev.lk.astra-team.ru
+test-6.dev.lk.astra-team.ru
 test-account.megafon.ru
 test-acm.bank-hlynov.com
 test-adaptation.rt.ru
@@ -19714,6 +19731,7 @@ test.certhub-beta.vkteam.ru
 test.certhub-test.vk.com
 test.crct.mosreg.ru
 test.daily.open.ru
+test.dev.lk.astra-team.ru
 test.domapi.domrf.ru
 test.domrfbank.ru
 test.dostup.rt.ru
@@ -20497,6 +20515,7 @@ va2.bcs.ru
 vacr.vtb.ru
 vahpesto.ru
 valen.keenetic.link
+validator.dev.lk.astra-team.ru
 values-book.omk.ru
 vant.ippe.ru
 variti.io

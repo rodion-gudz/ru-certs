@@ -2029,6 +2029,7 @@ livejournal.com
 livejournal.net
 livejournal.org
 livejournal.ru
+livelib.ru
 livetex.ru
 lj-toys.com
 lj.ru
@@ -2377,6 +2378,7 @@ mws.ru
 my.com
 myautopodpiska.ru
 myavrmaxwebhook.ru
+mybook.ru
 mycdn.me
 mydocuments11.ru
 myfitt.ru
@@ -3497,6 +3499,7 @@ securepaymentway.ru
 securitycode.ru
 segd.ru
 selfcontroldiary.com
+selfpub.ru
 selkombank.ru
 sellplus.ru
 selta-info.ru
@@ -4911,5 +4914,6 @@ zvuk-b2b.com
 zvuk-hifi.ru
 zvuk.com
 zvuk.team
+zvukislov.ru
 zvukprime.ru
 zymzym.ru
