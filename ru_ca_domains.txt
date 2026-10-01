@@ -5642,6 +5642,7 @@ admin.bi.sdp.sber.ru
 admin.demo1.hycl.ru
 admin.demo2.hycl.ru
 admin.demo3.hycl.ru
+admin.dfa.vtbcapital.ru
 admin.ift.sbertransport.ru
 admin.keycloak.3d.platformaexpert.ru
 admin.krtu.ru
@@ -6095,6 +6096,7 @@ api.dev.giga.chat
 api.dev.sberpravo.ru
 api.developer.sber.ru
 api.devpsb.pvcd.ru
+api.dfa.vtbcapital.ru
 api.di.rt.ru
 api.digital.sber.pro
 api.dostup.rt.ru
@@ -9182,6 +9184,7 @@ dfa-yc.dltru.org
 dfa.alfabank.ru
 dfa.masterchain.ru
 dfa.sber.ru
+dfa.vtbcapital.ru
 dfm.ru
 dfo.ru
 dfotech.ru
@@ -12245,6 +12248,7 @@ kbs.rosatom.ru
 kbsammit.ru
 kbscrb.mznso.ru
 kbsmc.mznso.ru
+kc.dfa.vtbcapital.ru
 kc.team.centrinvest.ru
 kc.vneshbank.ru
 kchr.home.megafon.ru
@@ -16070,6 +16074,7 @@ pilot-rpa.sberbank-service.ru
 pilot7.1c.ru
 pilotdev-admin.ascon.ru
 pilotdev.ascon.ru
+pilotems.com
 pilottaxmon.transneft.ru
 pim-connector.ocs.ru
 pin.domrfbank.ru
