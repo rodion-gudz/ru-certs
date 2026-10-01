@@ -40,6 +40,7 @@
 *.2gis.one
 *.2gis.ru
 *.2gkb.ru
+*.4270.ru
 *.45.rospotrebnadzor.ru
 *.46.rospotrebnadzor.ru
 *.46cge.rospotrebnadzor.ru
@@ -146,6 +147,7 @@
 *.afo.autofinancebank.ru
 *.agatos.ru
 *.agencycontrol.ru
+*.agent-a2p.mts.ru
 *.agent-preprod.flypobeda.ru
 *.agent-stage.flypobeda.ru
 *.agent.flypobeda.ru
@@ -639,6 +641,7 @@
 *.cars.mail.ru
 *.catalysis.ru
 *.cathedral.ru
+*.cbch.ru
 *.cbmfsk.ru
 *.cbr.ru
 *.cbs.sbnk.ru
@@ -700,6 +703,7 @@
 *.chemical.ru
 *.chestnyznak.ru
 *.childrest.ru
+*.chipdip.ru
 *.chus-bi.ru
 *.chuvstvodolga.ru
 *.chzt.ru
@@ -1532,6 +1536,7 @@
 *.games-admin.odkl.ru
 *.games.mail.ru
 *.gaoysport.ru
+*.gardiask.ru
 *.garo62.ru
 *.gasu.gov.ru
 *.gasuibs.ru
@@ -2556,6 +2561,7 @@
 *.mosenergosbyt.ru
 *.moshkovo-54.ru
 *.moslenta.ru
+*.mosmedzdrav.ru
 *.mosnarbank.ru
 *.mosoblbank.ru
 *.mosoblgaz.ru
@@ -2619,6 +2625,7 @@
 *.mspp.akbars.ru
 *.msr.orb.ru
 *.mtronics.ru
+*.mts-disk.ru
 *.mts-office.ru
 *.mts.investments
 *.mts.ru
@@ -2854,6 +2861,7 @@
 *.ogk2.ru
 *.oiltelecom.ru
 *.oinet.ru
+*.ois-preprod.spbexchange.ru
 *.ok.games
 *.ok.me
 *.ok.ru
@@ -3585,6 +3593,17 @@
 *.rts-tender.ru
 *.rttv.ru
 *.rtu-akr.ru
+*.ru-msk-1.store.cloud.mts.ru
+*.ru-msk-2.store.cloud.mts.ru
+*.ru-msk-3.store.cloud.mts.ru
+*.ru-msk-avt-1.store.cloud.mts.ru
+*.ru-msk-avt-2.store.cloud.mts.ru
+*.ru-msk-avt-3.store.cloud.mts.ru
+*.ru-msk-dr3-1.store.cloud.mts.ru
+*.ru-msk-dr3-2.store.cloud.mts.ru
+*.ru-msk-dr3-4.store.cloud.mts.ru
+*.ru-msk-gbs-1.store.cloud.mts.ru
+*.ru-msk-gbs-2.store.cloud.mts.ru
 *.ru-robot.ru
 *.ru.mgo.su
 *.ru.tv
@@ -3919,6 +3938,7 @@
 *.sladonezh.ru
 *.slavneft.ru
 *.slbank.ru
+*.slivaem-vodu-dev.ru
 *.slr.systems
 *.smailbox.ru
 *.smart-budget.ru
@@ -4085,14 +4105,31 @@
 *.stage-int.akbars.ru
 *.stage-mesh.ad-tech.ru
 *.stage-srr.dfa-yc.dltru.org
+*.stage-tp.br.mosreg.ru
 *.stage.ai.mosreg.ru
 *.stage.aisubp.mos.ru
 *.stage.amazme.ru
 *.stage.base.akbars.ru
 *.stage.cloud.vk.com
+*.stage.crypto.gsn.mosreg.ru
 *.stage.dfa-yc.dltru.org
+*.stage.dk.mosreg.ru
+*.stage.dobrodel.mosreg.ru
+*.stage.dolgoletie.mosreg.ru
 *.stage.domapi.domrfbank.ru
+*.stage.dsp.msed.mosreg.ru
 *.stage.e1c-ops.com
+*.stage.easuz.mosreg.ru
+*.stage.ecur.mosreg.ru
+*.stage.eds.mosreg.ru
+*.stage.eisgfk.mosreg.ru
+*.stage.eispi.mosreg.ru
+*.stage.eps.mosreg.ru
+*.stage.evd.mosreg.ru
+*.stage.expert.mosreg.ru
+*.stage.gasu.mosreg.ru
+*.stage.gigamo.mosreg.ru
+*.stage.gismogu.mosreg.ru
 *.stage.gossluzhba.mosreg.ru
 *.stage.helpnearby.mosreg.ru
 *.stage.infinitum-tc.ru
@@ -4213,6 +4250,7 @@
 *.stomatrk.ru
 *.storage-stage.mvk.com
 *.storage.mvk.com
+*.store.cloud.mts.ru
 *.store.rambler.ru
 *.storefrontapp.ru
 *.stories.livejournal.com
@@ -4395,6 +4433,7 @@
 *.test-megamarket.ru
 *.test-pgwh.nsd.ru
 *.test-teams.sovcombank.ru
+*.test-tp.br.mosreg.ru
 *.test.aisoms.ru
 *.test.aisubp.mos.ru
 *.test.broker-sb.io
@@ -4503,6 +4542,7 @@
 *.torg-i.com
 *.torgi.gov.ru
 *.touchngo.ru
+*.tp.br.mosreg.ru
 *.tp.sblogistica.ru
 *.tp17.wb-bank.ru
 *.tpension.ru
@@ -4803,6 +4843,7 @@
 *.vladzan.ru
 *.vlb100.ru
 *.vlc.ru
+*.vld.cloud.mts.ru
 *.vn.megafon.ru
 *.vniia.ru
 *.vniief.ru
@@ -4810,6 +4851,7 @@
 *.vniiftri.ru
 *.vniigaz-cert.ru
 *.vnukovo.ru
+*.voda-nt.ru
 *.vodokanal.spb.ru
 *.voduberegi.ru
 *.voip.ozon.ru
@@ -5350,6 +5392,7 @@
 3dssrv.otpbank.ru
 3ma.ahml.ru
 41.rospotrebnadzor.ru
+4270.ru
 43.rospotrebnadzor.ru
 4388167-securos.vs.ertelecom.ru
 44zakupki.budgetnn.ru
@@ -7898,9 +7941,11 @@ cert-dsp.yadro.com
 cert-test.bidzaar.com
 cert.ingos.ru
 cert.nuc-040171df99054744.enthusiastic-delighted.online
+cert.nuc-07957d58d91e47fd.marveled-astonish.online
 cert.nuc-082f8518be3b461d.marveled-astonish.online
 cert.nuc-3cd2fb2c660a4b77.marveled-astonish.online
 cert.nuc-3e84ea71617a46c9.enthusiastic-delighted.online
+cert.nuc-3f8210d7720c4986.enthusiastic-delighted.online
 cert.nuc-3f8313b695b147d0.marveled-astonish.online
 cert.nuc-76c2b48f339e4f76.marveled-astonish.online
 cert.nuc-7bc675198f6743d7.enthusiastic-delighted.online
@@ -7908,6 +7953,7 @@ cert.nuc-80d02cc510d6449e.enthusiastic-delighted.online
 cert.nuc-c9b652bab5ac4952.marveled-astonish.online
 cert.nuc-d790073ebece45ab.marveled-astonish.online
 cert.nuc-dba070c74e90461c.enthusiastic-delighted.online
+cert.nuc-f0cc893961ec455c.enthusiastic-delighted.online
 cert.sbertv.ru
 cert.spasibo.digital
 cert1.ext-www-staging.megafon.ru
@@ -8055,6 +8101,7 @@ cherpwd.stal.ru
 chestnyznak.ru
 chicago.megafon.ru
 childrest.ru
+chipdip.ru
 chipitsine-vpn.ddns.net
 chita.home.megafon.ru
 chita.megafon.ru
@@ -8612,6 +8659,7 @@ crstory.ru
 crt-test-alpha.ru
 crutch.msk.ru
 crvsp.ru
+cryont.ru
 crypto-tls-cc.megafon.ru
 crypto.region.ru
 crypto.rosatom.ru
@@ -9359,6 +9407,7 @@ docs.strelka.chat
 docs.time-messenger.ru
 docs.tinko.ru
 docs5test.trcont.ru
+docscan.cdn-tinkoff.ru
 doctor-credit.ru
 doctor30.ru
 doctorrb.ru
@@ -10469,6 +10518,7 @@ gap.secure.ypmn.ru
 garant.psbank.ru
 garant.ru
 garddelast.deltacredit.ru
+gardiask.ru
 garo62.ru
 gasinv.ru
 gaskk-mck.ru
@@ -11197,6 +11247,7 @@ htv-fp.kion.ru
 htv-live.kion.ru
 htv-prls.kion.ru
 htv-rrs.kion.ru
+htv-tms.mts.ru
 htv-vsc.kion.ru
 htv-wv.kion.ru
 hub.megafon.ru
@@ -11921,6 +11972,7 @@ ishopper.pochtabank.ru
 isin.ru
 isiton.ru
 iskra.vkteam.ru
+ismail.mos.ru
 isms-tst-voice.vtb.ru
 isms-tst.vtb.ru
 isnbank.ru
@@ -12587,6 +12639,7 @@ lgt.ru
 lib.kr-cbs.ru
 libdiv.ru
 liberty-tur.ru
+library.sberdatascience.ru
 librarykrasnoturinsk.ru
 libsmr.ru
 lic.guardian.cyberkoala.ru
@@ -12772,6 +12825,7 @@ lki.yfc.ru
 lkint.alfadirect.ru
 lkion.kion.ru
 lkk-prod.transneft.ru
+lkk-test.mosobleirc.ru
 lkk-test.transneft.ru
 lkk-usr-pp.transneft.ru
 lkk-usr.transneft.ru
@@ -14234,6 +14288,7 @@ mosenergosbit.ru
 mosenergosbyt.ru
 moshkovo-54.ru
 moslenta.ru
+mosmedzdrav.ru
 mosnarbank.ru
 mosoblbank.ru
 mosobleirc.ru
@@ -14380,6 +14435,7 @@ mta.otp-bank.ru
 mtechnologies.pro
 mtracker.ocs.ru
 mtronics.ru
+mts-disk.ru
 mts-service.mts.ru
 mts.investments
 mts.mtsbank.ru
@@ -14908,13 +14964,17 @@ ntlg.tech
 ntonline.sberbank.ru
 nts.su
 ntv.ru
+nuc-2a8245cd46f04be0.glee-embolden.online
+nuc-2f5ea113f0fa4b81.glee-embolden.online
 nuc-424ba28a360b4ee4.glee-embolden.online
 nuc-5ec83058f1d943b1.glee-embolden.online
 nuc-7283b3c5bfc24155.glee-embolden.online
 nuc-744baa017b364449.glee-embolden.online
 nuc-a00c56af7c5a499e.glee-embolden.online
 nuc-acme.voskhod.ru
+nuc-c0595539c25141d8.glee-embolden.online
 nuc-e8f2f9abe341449b.glee-embolden.online
+nuc-fdcc528bf12946ba.glee-embolden.online
 nuc-probe-1457.devkz.ru
 nuc-probe-1659.devkz.ru
 nuc-probe-1711.devkz.ru
@@ -14979,6 +15039,7 @@ oauthdmz.sber.ru
 oauthsigma-lt.sber.ru
 obl72.ru
 oblako.katantsev.ru
+oblako.mos.ru
 oblfarm.mznso.ru
 oblteh.ru
 oboronregistr.ru
@@ -15028,6 +15089,7 @@ oil-service.pro
 oiltelecom.ru
 oinet.ru
 oip.crimea.com
+ois-preprod.spbexchange.ru
 ojs.ioffe.ru
 ok.games
 ok.me
@@ -16339,6 +16401,7 @@ prim-edu.ru
 prim.drsk.ru
 prim.megafon.ru
 prim.staging.megafon.ru
+primary-data.devos.astralinux.ru
 primavera.market
 prime.inforion.ru
 prime.roszdravnadzor.gov.ru
@@ -17075,6 +17138,7 @@ region.broker
 region.ncagp.ru
 region.ru
 regionsoft.le-dv.ru
+register.rspp.ru
 registrator-rekom.ru
 registry-rpa.sberbank-service.ru
 registry.domoy.ru
@@ -17918,6 +17982,7 @@ sch435.spb.ru
 school-134.ru
 school-24.tagan.ru
 school-demo.olabank.ru
+school-dev-nuc.mos.ru
 school-orphan.ru
 school.ioffe.ru
 school.ncagp.ru
@@ -18406,6 +18471,7 @@ sla.premier.softline.ru
 sladonezh.ru
 slavneft.ru
 slider.vkteam.ru
+slivaem-vodu-dev.ru
 slizzz.ru
 slk.fhdgso.ru
 slon-e.ru
@@ -18954,17 +19020,34 @@ stage-rec.middle.megafon.ru
 stage-rec.test-middle.megafon.ru
 stage-srr.dfa-yc.dltru.org
 stage-termidesk.dds.astralinux.ru
+stage-tp.br.mosreg.ru
 stage-work.jump.finance
 stage.ai.mosreg.ru
 stage.aisubp.mos.ru
 stage.cloud.vk.com
+stage.crypto.gsn.mosreg.ru
 stage.dfa-yc.dltru.org
+stage.dk.mosreg.ru
+stage.dobrodel.mosreg.ru
+stage.dolgoletie.mosreg.ru
 stage.domapi.domrf.ru
 stage.domrfbank.ru
+stage.dsp.msed.mosreg.ru
 stage.e1c-ops.com
+stage.easuz.mosreg.ru
+stage.ecur.mosreg.ru
+stage.eds.mosreg.ru
+stage.eisgfk.mosreg.ru
+stage.eispi.mosreg.ru
+stage.eps.mosreg.ru
+stage.evd.mosreg.ru
+stage.expert.mosreg.ru
 stage.fl-shop.ru
 stage.flex.mtsdengi.ru
+stage.gasu.mosreg.ru
 stage.gigadataprovider-api.eye.salute.ru
+stage.gigamo.mosreg.ru
+stage.gismogu.mosreg.ru
 stage.gossluzhba.mosreg.ru
 stage.helpnearby.mosreg.ru
 stage.infinitum-tc.ru
@@ -19206,6 +19289,7 @@ storage.t-software.tech
 store-test.tricolor.ru
 store-tv.tricolor.ru
 store.alfabank.ru
+store.cloud.mts.ru
 store.gazprombank.ru
 store.gpb.ru
 store.keptstore.ai
@@ -19715,6 +19799,7 @@ test-publicapi.sberfactoring.ru
 test-qp8.psbank.ru
 test-teams.sovcombank.ru
 test-tls-showroom.api.megafon.ru
+test-tp.br.mosreg.ru
 test-tp.csp.uecrus.com
 test-vtbo.api.vtb.ru
 test.19dx.ru
@@ -20071,6 +20156,7 @@ touch.forum.deti.mail.ru
 touchngo.ru
 tournament-quiz-api.journal.tinkoff.ru
 tournament-quiz-api.t-j.ru
+tp.br.mosreg.ru
 tp.csp.uecrus.com
 tp.t-bank-app.ru
 tp.t-bank-app.su
@@ -20817,6 +20903,7 @@ vlb100.ru
 vlbb.ru
 vlc.ru
 vlclient.ru
+vld.cloud.mts.ru
 vlg-tcs-cl01.megafon.ru
 vlg-tcs-cl02.megafon.ru
 vlg-vcse.megafon.ru
@@ -21928,6 +22015,7 @@ www.checkrsa.cn.fsg.ru
 www.chel.21-school.ru
 www.chelindbank.ru
 www.chelnyvodokanal.ru
+www.chipdip.ru
 www.chus-bi.ru
 www.chuvstvodolga.ru
 www.chzt.ru
@@ -22772,6 +22860,7 @@ www.lk.sinara-finance.ru
 www.lk.vitabank.ru
 www.lkcash.sinara.ru
 www.lkk-prod.transneft.ru
+www.lkk-test.mosobleirc.ru
 www.lkk-test.transneft.ru
 www.lkk-usr-pp.transneft.ru
 www.lkk-usr.transneft.ru
@@ -22977,6 +23066,7 @@ www.msk.21-school.ru
 www.mspbank.ru
 www.mtechnologies.pro
 www.mtronics.ru
+www.mts-disk.ru
 www.mts-office.ru
 www.mts-service.mts.ru
 www.mts.ru
@@ -23462,6 +23552,7 @@ www.rndragmet.rosneft.ru
 www.rnholding.rosneft.ru
 www.rnko.ru
 www.rnkofp.ru
+www.rnt.ru
 www.rnuchet.rosneft.ru
 www.roadkursk.ru
 www.roaming.mts.ru

@@ -44,6 +44,7 @@
 2w.ru
 38fbuz.ru
 41fbuz.ru
+4270.ru
 47764.net
 47lokb.ru
 4c.ru
@@ -604,6 +605,7 @@ carthalva.ru
 catalysis.ru
 cateam.ru
 cathedral.ru
+cbch.ru
 cbmfsk.ru
 cbr.ru
 cbsvib.ru
@@ -668,6 +670,7 @@ chemical.ru
 chernadmin.ru
 chestnyznak.ru
 childrest.ru
+chipdip.ru
 chmz.ru
 chus-bi.ru
 chuvstvodolga.ru
@@ -777,6 +780,7 @@ crrpay.ru
 crstory.ru
 crt-test-alpha.ru
 crvsp.ru
+cryont.ru
 cryptoarm.ru
 cryptopro.ru
 csat.ru
@@ -1289,6 +1293,7 @@ gainup.ru
 ganzara.ru
 gaoysport.ru
 garant.ru
+gardiask.ru
 garo62.ru
 gasinv.ru
 gaskk-mck.ru
@@ -2290,6 +2295,7 @@ mosenergosbit.ru
 mosenergosbyt.ru
 moshkovo-54.ru
 moslenta.ru
+mosmedzdrav.ru
 mosnarbank.ru
 mosoblbank.ru
 mosobleirc.ru
@@ -2342,6 +2348,7 @@ msural.ru
 mt-plan.ru
 mtechnologies.pro
 mtronics.ru
+mts-disk.ru
 mts-office.ru
 mts.investments
 mts.ru
@@ -3388,6 +3395,7 @@ sbercity.ru
 sberclass.ru
 sbercloud.ru
 sbercloud.tech
+sberdatascience.ru
 sberdevices.com
 sberdevices.ru
 sberdisk.ru
@@ -3620,6 +3628,7 @@ sladonezh.ru
 slavneft-kng.ru
 slavneft.ru
 slbank.ru
+slivaem-vodu-dev.ru
 slizzz.ru
 slon-e.ru
 slona.me
@@ -4410,6 +4419,7 @@ vniiftri.ru
 vniigaz-cert.ru
 vniitf.ru
 vnukovo.ru
+voda-nt.ru
 vodokanal-museum.ru
 vodokanal-zagorod.ru
 vodolaga.ru
