@@ -356,6 +356,7 @@
 *.asugpt.orgp.spb.ru
 *.asurso.ru
 *.atbbank.ru
+*.atdcode.ru
 *.atechnics.ru
 *.atlantmetall.ru
 *.atm72.ru
@@ -1600,6 +1601,7 @@
 *.gid.vk.com
 *.giga.chat
 *.gigab2b.ru
+*.gigabot.sberdevices.ru
 *.gigaenterprise.ai
 *.gigahub.sberdevices.ru
 *.gilenko.ru
@@ -1693,6 +1695,7 @@
 *.gsfrb.ru
 *.gsnspb.ru
 *.gsrk.ru
+*.gtw.sberdevices.ru
 *.gu.ru
 *.gu.spb.ru
 *.guard.recfaces.ru
@@ -3650,6 +3653,7 @@
 *.ryazanszn.ru
 *.rzb.ru
 *.rzd.ru
+*.rzn.21-school.ru
 *.rzncit.ru
 *.s-broiler.ru
 *.s.kion.ru
@@ -4120,11 +4124,13 @@
 *.stage.aismz.mosreg.ru
 *.stage.aisubp.mos.ru
 *.stage.amazme.ru
+*.stage.apps.mosreg.ru
 *.stage.arki.mosreg.ru
 *.stage.base.akbars.ru
 *.stage.bi.mosreg.ru
 *.stage.biblio.mosreg.ru
 *.stage.cloud.vk.com
+*.stage.cnp.mosreg.ru
 *.stage.crct.mosreg.ru
 *.stage.crypto.gsn.mosreg.ru
 *.stage.dfa-yc.dltru.org
@@ -4287,6 +4293,7 @@
 *.student.magnit.ru
 *.study.vk.team
 *.stw.21-school.ru
+*.su-test.ru
 *.sunlight.net
 *.supercdn.ru
 *.superjob.ru
@@ -4727,6 +4734,7 @@
 *.utg-express.ru
 *.utg.group
 *.utmn.ru
+*.uud.21-school.ru
 *.uvsavia.ru
 *.uwca.ru
 *.uznaipro.ru
@@ -5746,6 +5754,7 @@ agent.wimsavings.ru
 agentalfastrah.ru
 agenteh.gazfond-pn.ru
 agents.sberuniversity.ru
+agents.su-test.ru
 aggregator-sdex-client.rambler.ru
 agnt.mts.ru
 agp.plagate.ru
@@ -5806,7 +5815,9 @@ airflow-quality.isearch.salute.ru
 airflow-yt.eye.salute.ru
 airflow.ai-assistant.eye.salute.ru
 airflow.ai-assistant.sberdevices.ru
+airflow.gca.eye.salute.ru
 airflow.giga.salute.ru
+airflow.se.salute.ru
 airkaluga.ru
 airkey.cloud.sinara.ru
 airport33.ru
@@ -6473,6 +6484,7 @@ async-online.vtbgroup.com
 async-online4.vtb.ru
 async-online6.vtb.ru
 atbbank.ru
+atdcode.ru
 atechnics.ru
 atk26.ru
 atlantmetall.ru
@@ -8213,7 +8225,9 @@ click.credistory.ru
 click2call.psbank.ru
 click2call.vtb.ru
 clickhouse-bi.gca.eye.salute.ru
+clickhouse-bi.se.eye.salute.ru
 clickhouse-sandbox.gca.eye.salute.ru
+clickhouse-sandbox.se.eye.salute.ru
 clickstream.online.sberbank.ru
 clickstream.sberbank.ru
 client-bank.itbank.ru
@@ -9644,6 +9658,9 @@ eccdn.servicecdn.ru
 eccdn2.servicecdn.ru
 ecdn.sovcombank.ru
 ecert.gov.ru
+echat-pre.sberbankins.ru
+echat-tst.sberbankins.ru
+echat.sberbankins.ru
 echd.ru
 echo.omk.ru
 eco.koshelek.app
@@ -10578,6 +10595,7 @@ gateway.chatdev.psbank.ru
 gateway.chattest.psbank.ru
 gateway.domapi.domrf.ru
 gateway.domapi.domrfbank.ru
+gateway.sberdevices.ru
 gateway.sfr.gov.ru
 gateway.stage.domapi.domrf.ru
 gateway.stage.domapi.domrfbank.ru
@@ -10696,6 +10714,7 @@ gigaadmin.gigacollector.eye.salute.ru
 gigaadmin.gigacollector.sberdevices.ru
 gigaadmin.ift.gigacollector.eye.salute.ru
 gigab2b.ru
+gigabot.sberdevices.ru
 gigachat-cn-mr.speechpro.com
 gigachat-cn-test.speechpro.com
 gigachat-cn.speechpro.com
@@ -10973,6 +10992,14 @@ gt-statsport.nso.ru
 gt.smsgold.ru
 gtech-gus.tbank-online.com
 gti.bi.zone
+gtw-common-gc.sberdevices.ru
+gtw-common-sc.sberdevices.ru
+gtw-common.sberdevices.ru
+gtw-video-gc.sberdevices.ru
+gtw-video-sc.sberdevices.ru
+gtw-zvuk-gc.sberdevices.ru
+gtw-zvuk-sc.sberdevices.ru
+gtw.sberdevices.ru
 gtyprofill.ru
 gu-st.ru
 gu.ru
@@ -11755,6 +11782,7 @@ infotehdc.ru
 infowaf.deltacredit.ru
 infowatch.com
 infowatch.ru
+infra.agents.su-test.ru
 infra.mail.ru
 infrastructure.sbercity.ru
 infteh.ru
@@ -12897,6 +12925,7 @@ lkvip.aaacapital.ru
 lkz-preprod.domrfbank.ru
 lkz.ahml.ru
 llm-gchat-stat.speechpro.com
+llmgw.su-test.ru
 lm-demo.rt.ru
 lm-static.rt.ru
 lm.ncagp.ru
@@ -14727,6 +14756,9 @@ nav.sberuniversity.ru
 navapi.krao.ru
 navicom.org
 navigator.cedipt.gov.spb.ru
+navio-lms-admin.tagme.sberdevices.ru
+navio-lms.tagme.sberdevices.ru
+navio-stp.tagme.sberdevices.ru
 navio.auto
 nbdbank.ru
 nbgi.ru
@@ -17617,6 +17649,7 @@ rzd.expe-cl01.css.rzd.ru
 rzd.expe-cl02.css.rzd.ru
 rzd.expe-cl03.css.rzd.ru
 rzd.ru
+rzn.21-school.ru
 rzn.home.megafon.ru
 rzn.megafon.ru
 rzn.staging.megafon.ru
@@ -18719,6 +18752,7 @@ sollers-cargo.ru
 solvo-web-public.ct.ncsp.com
 solvo.bscbalt.ru
 sonarplus.ru
+sonatec.ru
 song.omk.ru
 sorp-e-a01-dev.rosneft.ru
 sorp-e-a01-prd.rosneft.ru
@@ -18742,6 +18776,7 @@ sorp-i-m01-qa.rosneft.ru
 sosnovka-dk.ru
 sosnovka-gimn.ru
 sosnovka-school.ru
+sospp.rspp.ru
 sosreport.mos.ru
 sota.sovcombank.ru
 soti-dep.otpbank.ru
@@ -19072,10 +19107,12 @@ stage.ai.mosreg.ru
 stage.aiplatform.mosreg.ru
 stage.aismz.mosreg.ru
 stage.aisubp.mos.ru
+stage.apps.mosreg.ru
 stage.arki.mosreg.ru
 stage.bi.mosreg.ru
 stage.biblio.mosreg.ru
 stage.cloud.vk.com
+stage.cnp.mosreg.ru
 stage.crct.mosreg.ru
 stage.crypto.gsn.mosreg.ru
 stage.dfa-yc.dltru.org
@@ -19403,6 +19440,7 @@ stv-dealer.mts.ru
 stv-eshop.mts.ru
 stv.mts.ru
 stw.21-school.ru
+su-test.ru
 subscribe.info.sberbank.ru
 subscriptions-grpc.key.rt.ru
 subscriptions-notifier.inkey.rt.ru
@@ -19589,10 +19627,15 @@ tabrasa.ru
 tabs.mts.ru
 tacq-par.t-bank-app.ru
 tact-sm.tbank.ru
+tag-me.ru
 tag.magnit.ru
 tagancity.ru
 tagapp.ru
 tagme.nx.s2b.tech
+tagme.pd.sberdevices.ru
+tagme.ru
+tagme.sberdevices.ru
+tagme.space
 tahtapni.ru
 talent.alfabank.ru
 talisman-so.ru
@@ -20586,6 +20629,7 @@ urgaps.ru
 uriahas.ru
 url-shortener.sberbank-service.ru
 url-tcs-cl01.megafon.ru
+urmgo.beeline.ru
 urp-taxr-app1.sovcombank.group
 urp-tgate-app1.sovcombank.group
 urp-tgate-app2.sovcombank.group
@@ -20625,6 +20669,7 @@ utils.test-middle.megafon.ru
 utm.proton-orel.ru
 utmn.ru
 utpp.inform.gazprom.ru
+uud.21-school.ru
 uulz.ru
 uvs-tender.rosneft.ru
 uvsavia.ru
@@ -23664,6 +23709,7 @@ www.ryazanszn.ru
 www.rzd-cmm-e01.css.rzd.ru
 www.rzd-cmm-m01.css.rzd.ru
 www.rzd-cmm-m02.css.rzd.ru
+www.rzn.21-school.ru
 www.s-a2.vtb.ru
 www.s.lenta.ru
 www.s.sberbank.ru
@@ -24208,6 +24254,7 @@ www.usvc.bcs.ru
 www.usznkopeysk.ru
 www.utable.ru
 www.utmn.ru
+www.uud.21-school.ru
 www.uwca.ru
 www.uzedo.bspb.ru
 www.v.rt.ru
