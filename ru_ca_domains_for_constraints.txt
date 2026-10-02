@@ -94,6 +94,7 @@ ad-tech.ru
 addy.su
 adl3be.name
 adm-syzran.ru
+adm-tbilisskaya.ru
 admbg.org
 admbg.ru
 admblag.ru
@@ -1007,6 +1008,7 @@ e1c-ops.com
 eaglecdn.com
 eagleplatform.com
 earco.ru
+easypay.world
 eatpbank.ru
 ebs.ru
 ec-integra.ru
@@ -1039,6 +1041,7 @@ edinici.ru
 edinoevideo.ru
 edinros.ru
 edocom.ru
+edscontrol.ru
 edtechpro.ru
 edu-assist.me
 edu-assist.ru
@@ -1075,6 +1078,7 @@ elec.moscow
 electricpastuh.ru
 electromera.su
 electronicsignature.ru
+elektro-32.ru
 elementary.center
 elisov.ru
 elkam.ru
@@ -1254,6 +1258,7 @@ fondkapremont74.ru
 forabank.ru
 forkhub.ru
 formoplast-spb.ru
+forsadis.com
 forshtadt.ru
 fotopitera.ru
 foxford.ru
@@ -1353,6 +1358,7 @@ geoscan.ru
 geovestnik.ru
 gersains.ru
 gerzel.ru
+gesbb.ru
 gesbt.ru
 getcourse.ru
 getfinance.ru
@@ -1470,6 +1476,7 @@ grcc.ru
 greencert.ru
 grfc.ru
 grunwald.ru
+gsen.ru
 gsfrb.ru
 gsnspb.ru
 gsrk.ru
@@ -2478,6 +2485,7 @@ nii-vektor.ru
 niidpo.ru
 niige.ru
 niip.ru
+niipolyus.ru
 niitp.ru
 nikdevel.ru
 niklibrary.ru
@@ -2544,6 +2552,7 @@ npff.ru
 npfpens.ru
 npfsb.ru
 npfsberbanka.ru
+npk-spp.ru
 npk.ru
 npnd.ru
 npo-rtc.ru
@@ -3186,6 +3195,7 @@ rospotrebnadzor.ru
 rosreestr.ru
 rosseti-lenenergo.ru
 rosseti-lenenergo140.ru
+rosseti-ural.ru
 rosseti.ru
 rossiya-airlines.com
 rossiya-airlines.ru
@@ -3536,6 +3546,7 @@ severstalauto.com
 severstalgroup.com
 severstalssc.com
 sevesk.ru
+sevmash.ru
 sevnb.ru
 sevstar.net
 sf-kras.ru
@@ -4134,6 +4145,7 @@ trolleybus-abakan.ru
 trsystem68.ru
 trubodetal.ru
 trubprom.com
+trucko.ru
 trud25.ru
 truecorp.su
 trueengineering.ru
