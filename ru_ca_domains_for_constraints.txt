@@ -436,6 +436,7 @@ bankiros.ru
 bankkaluga.ru
 bankline.ru
 bankofkazan.ru
+bankpaygine.ru
 bankro.tech
 bankrsi.ru
 banksaratov.ru
@@ -886,6 +887,7 @@ dice6game.ru
 digi-track.ru
 digidoc.ru
 digital-assessment.ru
+digital-culture.ru
 digital-org.ru
 digital-wb.ru
 digitalcenter.moscow
@@ -1850,6 +1852,7 @@ kept.ru
 keptstore.ai
 keptstore.ru
 keramika1.ru
+kexan.ru
 kfsar.ru
 kfw.ru
 kgb26.ru
@@ -1994,6 +1997,7 @@ latrenta.ru
 lazarusfinance.ru
 lazurmedical.ru
 le-dv.ru
+lebedev.ru
 lec-press.ru
 lec.team
 lecta.ru
@@ -2918,6 +2922,7 @@ portal-da.ru
 portalkso.ru
 ppclient.ru
 pr-cbs.ru
+pr-pay.ru
 pradas.ru
 pradas.su
 pravmin74.ru
@@ -4480,6 +4485,7 @@ vsemrabota.ru
 vsemrabotawb.ru
 vseodnoklasniki.com
 vseplatezhi.ru
+vsgi.ru
 vsice.ru
 vsk.ru
 vsrobotics.ru
@@ -4711,6 +4717,7 @@ xn--80abidppcrd6g.xn--p1ai
 xn--80abjdvbtgfj1l.xn--p1ai
 xn--80acbjgmges7ca.xn--p1ai
 xn--80acttv9e.xn--p1ai
+xn--80acuybj.xn--p1ai
 xn--80adbv1agb.xn--p1ai
 xn--80adbvdrrdn3buj1grakh.xn--p1ai
 xn--80adciaa0a3bbrqjd1e.xn--p1ai
