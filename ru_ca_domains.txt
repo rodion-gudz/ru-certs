@@ -7963,6 +7963,7 @@ ce-wildcard.certhub-beta.vkteam.ru
 ce.rtksp.ru
 cee1.mkb.ru
 cee2.mkb.ru
+ceh19.sevmash.ru
 ceki.ru
 cementplus.ru
 center.oaovoentorg.ru
