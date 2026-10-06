@@ -1846,6 +1846,7 @@
 *.id.sber.ru
 *.id.tau.vk.com
 *.id.tau.vk.ru
+*.idkyc.mts.ru
 *.idm-penza.pnzreg.ru
 *.idm.vk.team
 *.ids-llc.ru
@@ -2156,6 +2157,7 @@
 *.ksamur.ru
 *.kskkaluga.ru
 *.ksp-tmr.ru
+*.ksp34.ru
 *.ksp74.ru
 *.kspbr.ru
 *.kspbratsk.ru
@@ -2635,6 +2637,7 @@
 *.msk.csat.ru
 *.msk1.direct-credit.ru
 *.mskobr.ru
+*.msmz-dev.sibintek.ru
 *.mso51.ru
 *.msp.akbars.ru
 *.mspbank.ru
@@ -2720,6 +2723,7 @@
 *.nbsrf.ru
 *.nccb.ru
 *.nci-rt.ru
+*.ncinform.ru
 *.ncs.ru
 *.ncsgp.ru
 *.ncsp.com
@@ -3585,6 +3589,7 @@
 *.rowi.com
 *.rowi.tech
 *.royal-bank.ru
+*.rozzyapps.ru
 *.rpndon.ru
 *.rr.ru
 *.rrb.ru
@@ -4886,6 +4891,7 @@
 *.vniifk.ru
 *.vniiftri.ru
 *.vniigaz-cert.ru
+*.vniir.ru
 *.vnukovo.ru
 *.voda-nt.ru
 *.vodokanal.spb.ru
@@ -7856,6 +7862,7 @@ cdmail.r7.ncsp.ru
 cdn-afina.megafon.ru
 cdn-app.giga.chat
 cdn-app.sberdevices.ru
+cdn-app.sbrdvc.xyz
 cdn-clips.music.mts.ru
 cdn-deg.mos.ru
 cdn-ec.tf39besndbx.com
@@ -7871,12 +7878,17 @@ cdn.aiandhit.ru
 cdn.allinpower.ru
 cdn.banka-ui.dev
 cdn.bspb.ru
+cdn.bulutuy.tech
 cdn.connect.mail.ru
 cdn.credistory.ru
 cdn.depository.ru
 cdn.efadevelopment.ru
 cdn.gbo.gazprombank.ru
+cdn.gigaguru.tech
 cdn.gpb.ru
+cdn.gpeople.online
+cdn.gring.pro
+cdn.gtalk.pro
 cdn.halvacard.ru
 cdn.hippoparking.ru
 cdn.hub.megafon.ru
@@ -8312,6 +8324,7 @@ cloud.nsg-ins.ru
 cloud.oaovoentorg.ru
 cloud.psbank.ru
 cloud.rc.senat.sberbank.ru
+cloud.spbfsb.ru
 cloud.tigersoft.ru
 cloud.ukshmao.ru
 cloud.vk.com
@@ -8972,6 +8985,7 @@ ddp-mobile.online.sberbank.ru
 ddp-web.online.sberbank.ru
 ddp.sberbank.ru
 de.sveza.com
+dealer.mts.ru
 dealer.onlime.ru
 dealer.toyotafs.ru
 deals.deltacredit.ru
@@ -10914,6 +10928,7 @@ gost-api.7raduga.ru
 gost-os.ru
 gost.bstrv.ru
 gost.codifast.ru
+gost.if.db-test.vtb.ru
 gost.nkrapivindev.ru
 gost.otais.ru
 gostelekom.ru
@@ -11592,6 +11607,7 @@ identity.key.rt.ru
 identity.lki.partner-reestr.ru
 identix.key.rt.ru
 identt.tch.ru
+idkyc.mts.ru
 idm-penza.pnzreg.ru
 idm.b.mtsbank.ru
 idm.vk.team
@@ -11803,6 +11819,7 @@ inet-operator-integration.vacs-rr.vtb.ru
 inet-operator-integration.vtb.ru
 inf-bbb.inforion.ru
 inf-mtm.inforion.ru
+inf-wekan.inforion.ru
 infarktanet.ru
 infinitum-tc.ru
 info.atbbank.ru
@@ -12863,6 +12880,7 @@ lk-new.sfr.gov.ru
 lk-penza.pnzreg.ru
 lk-srv.severstal.com
 lk-stage.aaacapital.ru
+lk-subscribe.mts.ru
 lk-test.1440.space
 lk-test.megafon.ru
 lk-test.nordgold.com
@@ -13469,6 +13487,7 @@ mail.krtu.ru
 mail.kubanfarm.ru
 mail.kuizo.ru
 mail.kzn-vpn01.sovcombank.group
+mail.kznamya.ru
 mail.lab-soc-reg.sinara.ru
 mail.lab-soc.sinara.ru
 mail.lawis.sovcombank.ru
@@ -13869,8 +13888,10 @@ max.bidfox.ru
 max.emm.hr-ift.sberbank.ru
 max.emm.hr-uat.sberbank.ru
 max.emm.hr.sberbank.ru
+max.message-relay.ru
 max.ru
 max.screspect.ru
+max.targo.su
 max.ukplus.ru
 maxapp.ze.parts
 maxiarm.ru
@@ -14041,6 +14062,7 @@ meetings.cms.open.ru
 meetings.open.ru
 meetings.westcall.net
 meetup.tbank-online.com
+meetups.yadro.com
 meg-an.speechpro.com
 megacoach.megafon.ru
 megafon-dfs.ivi-mc.ru
@@ -14518,6 +14540,7 @@ msed.mosreg.ru
 msg.acti.ru
 msg.akbars.ru
 msg.alfabank.ru
+msg.kznamya.ru
 msg.surp01.ru
 msges.vtb.ru
 msgestst.vtb.ru
@@ -14848,6 +14871,7 @@ ncagp.ru
 ncc-web.psbank.ru
 nccb.ru
 nci-rt.ru
+ncinform.ru
 ncrb.mznso.ru
 ncs.ru
 ncsgp.ru
@@ -14885,6 +14909,7 @@ new.bcslife.ru
 new.domlenta.ru
 new.eagleplatform.com
 new.iro38.ru
+new.ksp34.ru
 new.moy.magnit.ru
 new.preprod-cdn.edgecenter.online
 new.rtlog.ru
@@ -15430,6 +15455,7 @@ online2.eatpbank.ru
 online3.eatpbank.ru
 onlineapi.gpb.ru
 onlinecredit.ru
+onlinesales.mts.ru
 onlinesales.vtb.ru
 onlineschool1.time-messenger.ru
 onlinetours.ru
@@ -16218,6 +16244,7 @@ phasotron.ru
 phoenix-ca.ru
 phoenix-dnr.ru
 phoenix.eye.salute.ru
+phone-sales.mts.ru
 phone.vologda-cb.ru
 phonewatcher.ru
 photo.2gis.com
@@ -16651,6 +16678,7 @@ profile-psi.sber.ru
 profile-uat.sber.ru
 profile.ad-tech.ru
 profile.megafon.ru
+profile.mts.ru
 profile.sber.ru
 profile.sveza.ru
 profinat.ru
@@ -17581,6 +17609,7 @@ rowangame.ru
 rowi.com
 rowi.tech
 royal-bank.ru
+rozzyapps.ru
 rp.megafon.ru
 rp.vyb.spb.ru
 rpas.megafon.ru
@@ -18320,6 +18349,7 @@ seg.megafon.ru
 segd.ru
 seid-auth.rosneft.ru
 seid.rosneft.ru
+self-reg.mts.ru
 self.moneta.ru
 self.payanyway.ru
 self.sber.ru
@@ -20058,6 +20088,7 @@ test.ipfran.ru
 test.isogd.mosreg.ru
 test.kbo.aisubp.mos.ru
 test.krastsvetmet.ru
+test.ksp34.ru
 test.mdeng.ru
 test.mdrive.magnit.ru
 test.mgtlogistic.ru
@@ -20696,6 +20727,7 @@ umfc42.ru
 umfc48.ru
 umius.ru
 umpgku.ru
+umu-ift.test.vtb.ru
 umu.vtb.ru
 uni.omk.ru
 unicredit.ru
@@ -20896,6 +20928,8 @@ vc.key.rt.ru
 vc.sberdevices.ru
 vc.videos.livejournal.com
 vcd.ertelecom.ru
+vcda30-03.cloud.ru
+vcda50-02.cloud.ru
 vcm-fluent-bit-plugin.demo1.hycl.ru
 vcm-fluent-bit-plugin.demo2.hycl.ru
 vcm-fluent-bit-plugin.demo3.hycl.ru
@@ -21154,6 +21188,7 @@ vmm-mgmt.demo1.hycl.ru
 vmm-mgmt.demo2.hycl.ru
 vmm-mgmt.demo3.hycl.ru
 vms.mkp.ru.net
+vmware.cloud.ru
 vn.megafon.ru
 vnashemdvore.ru
 vnc.demo1.hycl.ru
@@ -21166,6 +21201,7 @@ vniief.ru
 vniifk.ru
 vniiftri.ru
 vniigaz-cert.ru
+vniir.ru
 vniitf.ru
 vnm.transneft.ru
 vnukovo.ru
@@ -21384,6 +21420,7 @@ w.pam.thehrp.ru
 w1.pam.thehrp.ru
 w2.pam.thehrp.ru
 w2q.region.broker
+w3.bakhur.net
 wa-tst.psb.ru
 wa.psb.ru
 wab2.bspb.ru
@@ -21454,6 +21491,7 @@ web-si20-psi.sberbank.ru
 web-si20-uat.mobile-sbe-dev.sbrf.ru
 web-si20.sberbank.ru
 web-staging.2gis.ru
+web-telemetry.sbrdvc.xyz
 web-test.alfabank.ru
 web-test.domrfbank.ru
 web-uat.nrb.ru
@@ -21623,6 +21661,7 @@ wifiise19.rt.ru
 wifiradar.ru
 wifire.megafon.ru
 wiki-sibiriada.ru
+wiki.cloud.ru
 wiki.petprojects1.ru
 wiki.private.t1.cloud
 wiki.sberbank-service.ru
@@ -22685,6 +22724,7 @@ www.gorodpay.ru
 www.goroduglich.ru
 www.gorpay.online
 www.gorpay.ru
+www.gosaltushka.ru
 www.gosapteka18.ru
 www.gossortrf.ru
 www.gost-api.7raduga.ru
