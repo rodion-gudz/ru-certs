@@ -1957,6 +1957,7 @@ kst-energo.ru
 kstati.org
 kszn34.ru
 kts39.ru
+ktsevraz.com
 kuban-spnb.ru
 kubanfarm.ru
 kubank.ru
@@ -2378,6 +2379,7 @@ multiqr.ru
 multstrana.ru
 mup-ir-centr.ru
 mupirvostochnoe.ru
+murashow.ru
 muratovs.ru
 murmankukla.ru
 music-transfer.ru
@@ -2400,6 +2402,7 @@ myautopodpiska.ru
 myavrmaxwebhook.ru
 mybook.ru
 mycdn.me
+myclans.ru
 mydocuments11.ru
 myfitt.ru
 myfreshstart.ru
@@ -2951,6 +2954,7 @@ prodobro.ru
 prof-consultant.ru
 prof-itgroup.ru
 profilbank.ru
+profinat.ru
 profinvest.su
 profitbank.ru
 profitserv.ru
@@ -3646,6 +3650,7 @@ sl-tx.ru
 sladonezh.ru
 slavneft-kng.ru
 slavneft.ru
+slavsoft.ru
 slbank.ru
 slivaem-vodu-dev.ru
 slizzz.ru
@@ -3807,6 +3812,7 @@ sptz.ru
 sputniknews.ru
 spvb.ru
 spwh.ru
+sravni-labs.ru
 sravni-team.ru
 sravni.id
 sravni.market
@@ -4489,6 +4495,7 @@ vseplatezhi.ru
 vsgi.ru
 vsice.ru
 vsk.ru
+vsrf.ru
 vsrobotics.ru
 vsw.ru
 vtb-leasing.com

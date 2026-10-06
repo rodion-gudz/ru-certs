@@ -2656,6 +2656,7 @@
 *.multitest.ok.ru
 *.multstrana.ru
 *.mupirvostochnoe.ru
+*.murashow.ru
 *.murmankukla.ru
 *.music.kion.ru
 *.music.mts.ru
@@ -3227,6 +3228,7 @@
 *.production.vklanding.ru
 *.prof-consultant.ru
 *.profilaktika.edu.ru
+*.profinat.ru
 *.progimnaziya-46.ru
 *.progorod.veb.ru
 *.proitr.ru
@@ -4095,6 +4097,7 @@
 *.sptz.ru
 *.sputniknews.ru
 *.spvb.ru
+*.sravni-labs.ru
 *.sravni-team.ru
 *.sravni.id
 *.sravni.market
@@ -4933,6 +4936,7 @@
 *.vsgi.ru
 *.vsice.ru
 *.vsk.ru
+*.vsrf.ru
 *.vsrobotics.ru
 *.vtb-leasing.com
 *.vtb-leasing.ru
@@ -7509,6 +7513,7 @@ bonch.su
 bonus-ott.uralsib.ru
 bonus-sber.spasibobonus.ru
 bonus-spasibo.ru
+bonus.akibank.ru
 bonus.energotransbank.com
 bonus.kilbil.ru
 bonus.novikom.ru
@@ -8682,6 +8687,8 @@ creaton.me
 creator.sber.ru
 creator.sberbank.ru
 credistory.ru
+credit-yota.middle.megafon.ru
+credit-yota.test-middle.megafon.ru
 credit.iturupbank.ru
 credit.lk.psb.services
 credit.otpbank.ru
@@ -12614,6 +12621,7 @@ kstr.megafon.ru
 kstr.staging.megafon.ru
 ksup-bim.sberbank.ru
 kts39.ru
+ktsevraz.com
 kuban-spnb.ru
 kuban.rspp.ru
 kubanfarm.ru
@@ -13507,6 +13515,7 @@ mail.mtechnologies.pro
 mail.mtsbank.ru
 mail.my.centrinvest.ru
 mail.my.com
+mail.myclans.ru
 mail.mymedex.ru
 mail.mznso.ru
 mail.nami.ru
@@ -14585,6 +14594,7 @@ multstrana.ru
 mup-ir-centr.ru
 mupirvostochnoe.ru
 mur.edgecenter.online
+murashow.ru
 muratovs.ru
 murmankukla.ru
 murmansk.home.megafon.ru
@@ -14688,6 +14698,7 @@ mx5005.vtb.ru
 mx5006.vtb.ru
 mx7.speechpro.com
 my-help.ssl-test.megafon.ru
+my-internet.phoenix-dnr.ru
 my-retail.cardsmobile.ru
 my-stage-ptaf.domrfbank.ru
 my.1440.space
@@ -16642,6 +16653,7 @@ profile.ad-tech.ru
 profile.megafon.ru
 profile.sber.ru
 profile.sveza.ru
+profinat.ru
 profit-avatars.storage.bcs.ru
 profit-feed.storage.bcs.ru
 profitserv.ru
@@ -18643,6 +18655,7 @@ sl.otpbank.ru
 sla.premier.softline.ru
 sladonezh.ru
 slavneft.ru
+slavsoft.ru
 slider.vkteam.ru
 slivaem-vodu-dev.ru
 slizzz.ru
@@ -19078,6 +19091,7 @@ sr2019.mkb.ru
 sr2020.mkb.ru
 sradar.evotor.ru
 sradfs.ncsp.com
+sravni-labs.ru
 sravni-team.ru
 sravni.id
 sravni.market
@@ -20915,6 +20929,7 @@ vcs.uecrus.com
 vcs05.rscc.ru
 vcs1.domrfbank.ru
 vcs1.roscap.ru
+vcs1.stc-spb.ru
 vcs1.tc.domrfbank.ru
 vcs2.domrfbank.ru
 vcs2.roscap.ru
@@ -21316,6 +21331,7 @@ vsk-inspection.trueengineering.ru
 vsk.ru
 vsm.sso.s7corp.ru
 vso.lemark.su
+vsrf.ru
 vsrobotics.ru
 vsw.ru
 vtb-leasing.com
@@ -23302,6 +23318,7 @@ www.multicarta.ru
 www.multispace.kept.ru
 www.multstrana.ru
 www.mupirvostochnoe.ru
+www.murashow.ru
 www.mvd.ru
 www.mvfd1.ru
 www.mvs-bank.ru
@@ -23619,6 +23636,7 @@ www.prod-mesh.ad-tech.ru
 www.prod.ad-tech.ru
 www.prodobro.ru
 www.profile.sveza.ru
+www.profinat.ru
 www.profitserv.ru
 www.profzan.trud25.ru
 www.progimnaziya-46.ru
@@ -24445,6 +24463,7 @@ www.vremenagoda51.ru
 www.vsgi.ru
 www.vsice.ru
 www.vsk.ru
+www.vsrf.ru
 www.vsrobotics.ru
 www.vtb-leasing.com
 www.vtb-leasing.ru
