@@ -67,6 +67,7 @@ aat-arti.ru
 aaz.su
 abakanvodokanal.ru
 abank.ru
+abcconsulting.ru
 abmosk.ru
 abr.ru
 abs-kassa.ru
@@ -753,6 +754,7 @@ corpmail.ru
 corpmsp.ru
 corporateozon.ru
 corpp.ru
+cosa.ru
 cosmos-bank.ru
 couriers.ru
 cowork-dev.ru
@@ -1059,6 +1061,7 @@ edu54.ru
 educom.ru
 edurb.ru
 edwardcode.net
+eens.ru
 efadevelopment.ru
 efbank.ru
 efis-nco.ru
@@ -1384,6 +1387,7 @@ gigab2b.ru
 gigaconf.ru
 gigaenterprise.ai
 gigaguru.tech
+gigaid.ru
 gilenko.ru
 gilkom-complex.ru
 ginras.ru
@@ -1438,6 +1442,9 @@ gosdocdoc.ru
 gosdolgi.ru
 goshior.ru
 goskey.ru
+gosniioht.ru
+gosniiokht.online
+gosniiokht.ru
 gosoc.ru
 gosschool.ru
 gossortrf.ru
@@ -1484,6 +1491,7 @@ grcc.ru
 greencert.ru
 grfc.ru
 gring.pro
+griser.ru
 grunwald.ru
 gsen.ru
 gsfrb.ru
@@ -2191,6 +2199,7 @@ medexpress.ru
 medfair.ru
 mediascope.net
 medkhv.ru
+megafon.cloud
 megafon.ru
 megafonpro.ru
 megakontrol.ru
@@ -2372,6 +2381,7 @@ mspbank.ru
 msural.ru
 mt-plan.ru
 mtechnologies.pro
+mtfontanka.ru
 mtronics.ru
 mts-disk.ru
 mts-office.ru
@@ -3268,8 +3278,10 @@ rspp.ru
 rssi.ru
 rst70.com
 rstrk.ru
+rt-ib.ru
 rt-insurance.ru
 rt-sk.ru
+rt.com
 rt.ru
 rtdigital.ru
 rthome.ru
@@ -3435,6 +3447,7 @@ sbercloud.tech
 sberdatascience.ru
 sberdevices.com
 sberdevices.ru
+sberdisk.dev
 sberdisk.ru
 sberedu.ru
 sbereducation.ru
@@ -3555,6 +3568,7 @@ seosan.io
 septemcapital.ru
 sergeykhotimskiy.ru
 sermet.ru
+sernia.ru
 sertifikaty-mincifry.ru
 serv-food.ru
 serverce.ru
@@ -3617,6 +3631,7 @@ siaplc.ru
 sibintek-soft.ru
 sibintek.ru
 sibmoll.ru
+sibserv.com
 sibsiu.ru
 sibsoc.com
 sibsoc.ru
@@ -4754,6 +4769,7 @@ xn--80addfq2alq.xn--p1ai
 xn--80adfbej0ceadr0m.xn--p1ai
 xn--80adgen0ai.xn--p1ai
 xn--80aeakmgi9azaci1dvg.xn--p1ai
+xn--80aebecah6apa1adyldqm2sra.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80aegbkvxddlre.xn--p1ai
 xn--80aeimkqakctc.xn--p1ai
@@ -4821,10 +4837,12 @@ xn--b1ajw.xn--p1ai
 xn--b1akbac6aogdg0mc.xn--p1ai
 xn--c1adkei1aesdd.xn--p1ai
 xn--c1ajbkjyncd.xn--p1ai
+xn--c1akasedrm0a.xn--p1ai
 xn--c1an2a.xn--p1ai
 xn--c1aws.xn--p1ai
 xn--d1abicxkmi7j.xn--p1ai
 xn--d1acakl8aqa2a.xn--p1ai
+xn--d1acckhirjhcjda0nf.xn--p1ai
 xn--d1achcanypala0j.xn--p1ai
 xn--d1aie4av.xn--p1ai
 xn--d1aiiei7h.xn--p1ai

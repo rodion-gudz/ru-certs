@@ -55,6 +55,7 @@
 *.66.rospotrebnadzor.ru
 *.69.rospotrebnadzor.ru
 *.70.rospotrebnadzor.ru
+*.72.rospotrebnadzor.ru
 *.72ms.ru
 *.72to.ru
 *.73.rospotrebnadzor.ru
@@ -70,6 +71,7 @@
 *.ab.vk.team
 *.abakanvodokanal.ru
 *.abbdoc.akbars.ru
+*.abcconsulting.ru
 *.abmosk.ru
 *.abr.ru
 *.absolutbank.ru
@@ -1121,6 +1123,7 @@
 *.dk-pay.ru
 *.dk-pokoy.stv.muzkult.ru
 *.dkko.kion.ru
+*.dkp.megafon.cloud
 *.dl.armgs.team
 *.dl.mail.ru
 *.dl.tppr.vmailru.net
@@ -1697,6 +1700,7 @@
 *.grcc.ru
 *.greencert.ru
 *.grfc.ru
+*.griser.ru
 *.gsen.ru
 *.gsfrb.ru
 *.gsnspb.ru
@@ -2648,6 +2652,7 @@
 *.mspbank.ru
 *.mspp.akbars.ru
 *.msr.orb.ru
+*.mtfontanka.ru
 *.mtronics.ru
 *.mts-disk.ru
 *.mts-office.ru
@@ -3614,7 +3619,9 @@
 *.rsinsurance.ru
 *.rst70.com
 *.rsud.govvrn.ru
+*.rt-ib.ru
 *.rt-insurance.ru
+*.rt.com
 *.rt.ru
 *.rthome.ru
 *.rtinform.ru
@@ -3778,6 +3785,7 @@
 *.sberchat.sberbank.ru
 *.sbercity.ru
 *.sberdevices.ru
+*.sberdisk.dev
 *.sberdisk.ru
 *.sberfactoring.ru
 *.sberhealth.pro
@@ -3870,6 +3878,7 @@
 *.seosan.io
 *.septemcapital.ru
 *.sermet.ru
+*.sernia.ru
 *.serv-food.ru
 *.servers.eaglecdn.com
 *.service-business.ru
@@ -3926,6 +3935,7 @@
 *.sibintek.ru
 *.sibir.rt.ru
 *.sibmoll.ru
+*.sibserv.com
 *.sibsiu.ru
 *.sibsoc.ru
 *.sibtour.online
@@ -4317,6 +4327,7 @@
 *.study.vk.team
 *.stw.21-school.ru
 *.su-test.ru
+*.sudir.mos.ru
 *.sunlight.net
 *.supercdn.ru
 *.superjob.ru
@@ -4693,6 +4704,7 @@
 *.ui.cs7777.vk.ru
 *.ui.tau.vk.com
 *.ui.tau.vk.ru
+*.uits.spb.ru
 *.uk-formula.ru
 *.uk174.ru
 *.ukpir.ru
@@ -5166,6 +5178,7 @@
 *.xn--b1ajw.xn--p1ai
 *.xn--c1ajbkjyncd.xn--p1ai
 *.xn--d1acakl8aqa2a.xn--p1ai
+*.xn--d1acckhirjhcjda0nf.xn--p1ai
 *.xn--d1achcanypala0j.xn--p1ai
 *.xn--d1aqf.xn--p1ai
 *.xn--d1aqn.xn--p1ai
@@ -5476,9 +5489,11 @@
 63.rospotrebnadzor.ru
 65.rospotrebnadzor.ru
 66.rospotrebnadzor.ru
+67.rospotrebnadzor.ru
 69.rospotrebnadzor.ru
 6ma.ahml.ru
 70.rospotrebnadzor.ru
+72.rospotrebnadzor.ru
 72to.ru
 73.rospotrebnadzor.ru
 7304488.ru
@@ -5529,6 +5544,7 @@ abbdoc.akbars.ru
 abc.t-boys.ru
 abcabc.t-boys.ru
 abcb.alfastrah.ru
+abcconsulting.ru
 abcd.t-boys.ru
 abiturient.cchgeu.ru
 abkasko.alfastrah.ru
@@ -5824,6 +5840,9 @@ aiandsoft.ru
 aichatbots.vk.team
 aiflow.podeli.alfagen.alfabank.ru
 aiflow.vk.team
+aigorbatov-ed-6760.nuc-test-anything.yandex-net.ru
+aigorbatov-routing-6760.nuc-test-anything.yandex-net.ru
+aigorbatov-routing3-6760.nuc-test-anything.yandex-net.ru
 aihor.ru
 aihub.finam.ru
 aij.ru
@@ -6608,6 +6627,7 @@ auth.gosschool.ru
 auth.gt-arena.nso.ru
 auth.gt-arena54.nso.ru
 auth.gt-statsport.nso.ru
+auth.innovation.nornik.ru
 auth.jazz.sberbank.ru
 auth.meet.cloud.ru
 auth.megafon.ru
@@ -7474,6 +7494,7 @@ biz.okbank.ru
 biz.team.centrinvest.ru
 bizmrg.com
 bizregis.ru
+bk.cts02-test.nornik.ru
 bk.novikom.ru
 bk.otpbank.ru
 bk.ru
@@ -7547,6 +7568,7 @@ bootcamp.pcbltools.ru
 bootcamplabs.sber.ru
 borderlands.alfabank.ru
 bot-srv.oparina4.ru
+bot-test.nornik.ru
 bot.admblag.ru
 bot.mfc-nso.ru
 bot.nii-kpg.ru
@@ -8428,6 +8450,7 @@ collab-edge.open.ru
 collab-edge.rencredit.ru
 collab-edge.sber.ru
 collab-edge.sberbank.ru
+collab-edge.slavneft-kng.ru
 collab-edge.uralsib.ru
 collab-edge.voiplab-ext.sberbank.ru
 collect-api.activebc.ru
@@ -8596,6 +8619,7 @@ corpuniver.rt.ru
 cors.9may.mail.ru
 cos-prod.rshb.ru
 cos.ngenix.net
+cosa.ru
 cosmetic.magnit.ru
 cosmoengine.cyberkoalastudios.com
 cosmos-bank.ru
@@ -8802,6 +8826,7 @@ cts-back-t-cl.msg.gpb.ru
 cts.aaacapital.ru
 cts.domrf.online
 cts.domrfbank.ru
+cts02-test.nornik.ru
 cts1-test.ast-innovation.ru
 cts2-test.ast-innovation.ru
 cts2.domrf.online
@@ -9423,6 +9448,7 @@ dk-pay.ru
 dk-pokoy.stv.muzkult.ru
 dkbud.ru
 dkkrasoct.stv.muzkult.ru
+dkp.megafon.cloud
 dkpraskoveya.stv.muzkult.ru
 dl.mail.ru
 dl.team.centrinvest.ru
@@ -9784,9 +9810,12 @@ edg.gov.ru
 edge-mx-01.novikom.ru
 edge-mx-02.novikom.ru
 edge.expobank.ru
+edge.slavneft-kng.ru
 edge.toyotafs.ru
 edge1.cmsmil.kamaz.ru
+edge1.slavneft-kng.ru
 edge2.cmsmil.kamaz.ru
+edge2.slavneft-kng.ru
 edgecenter.ru
 edgecl1.gazprombank.ru
 edgen.toyotafs.ru
@@ -9841,6 +9870,7 @@ edurb.ru
 edusales.kilbil.ru
 edutech.kilbil.ru
 eeko.cgkipd.ru
+eens.ru
 efadevelopment.ru
 efbank.ru
 efficiency-control-airflow.sber.ru
@@ -10002,6 +10032,7 @@ enrollme.plus
 enrollme.ru
 ens.mdm.ocs.ru
 ent.bcs.ru
+ent2.bcs.ru
 enter.tochka.com
 enter.unicredit.ru
 enterly.ru
@@ -10111,6 +10142,7 @@ etpgpb.ru
 etpz.ru
 ets-pre.mkb.ru
 ets-test.ast-innovation.ru
+ets-test.nornik.ru
 ets.1c.ru
 ets.domrf.online
 ets.domrfbank.ru
@@ -10437,6 +10469,7 @@ fintarget.ru
 fintech.vk.com
 fintender.ru
 finuslugi.ru
+fiori.cts02-test.nornik.ru
 fipi.pro
 fips.ru
 firmware.tstore.magnit.ru
@@ -10856,6 +10889,7 @@ gitlab.psi.legalbpm.sberpravo.ru
 gitlab.rcoko27.ru
 gitlab.sberpravo.ru
 gitlab.sberuniversity.ru
+gitlab.szd.stcnet.ru
 gitlab.upz.ru
 gitlabpages.alfastrah.ru
 gitverse.ru
@@ -10931,6 +10965,9 @@ gosdocdoc.ru
 gosdolgi.ru
 goshior.ru
 goskey.ru
+gosniioht.ru
+gosniiokht.online
+gosniiokht.ru
 gosoc.ru
 gosschool.ru
 gossluzhba.gov.ru
@@ -11046,6 +11083,7 @@ greenpalasdelast.deltacredit.ru
 grfc.ru
 grid.speechpro.com
 gridid-i9.speechpro.com
+griser.ru
 groupib-abm.alfabank.ru
 groupib-ac.alfabank.ru
 groupib-alfaid.alfabank.ru
@@ -11565,6 +11603,7 @@ id-sandbox.alfabank.ru
 id-sb.sber.ru
 id-stage.domrf.ru
 id-stage.domrfbank.ru
+id-stage.mts.ru
 id-test.alfabank.ru
 id-test.mtsbank.ru
 id-uat.mtsbank.ru
@@ -11584,6 +11623,7 @@ id.ingosinvest-am.ru
 id.magnit.ru
 id.megafon.ru
 id.mgn-city.ru
+id.mts.ru
 id.mtsbank.ru
 id.online-tb.com
 id.prostobank.online
@@ -11616,6 +11656,7 @@ identity.chatdev.psbank.ru
 identity.chattest.psbank.ru
 identity.key.rt.ru
 identity.lki.partner-reestr.ru
+identitystatic.mts.ru
 identix.key.rt.ru
 identt.tch.ru
 idkyc.mts.ru
@@ -12399,6 +12440,7 @@ kckcrb.mznso.ru
 kclext.otpbank.ru
 kcncrb.mznso.ru
 kcson.pyatigorsk.ru
+kd.cts02-test.nornik.ru
 kdelu.vtb.ru
 kdp2.mznso.ru
 kdp27.mznso.ru
@@ -13056,6 +13098,7 @@ logger.id.sber.ru
 logging.tap2phone.ru
 logic-flow.site
 login-center-om.sbercity.ru
+login-stage.mts.ru
 login.1440.space
 login.avangard.ru
 login.db.vtb.ru
@@ -13065,6 +13108,7 @@ login.if.db-test.vtb.ru
 login.ik66.ru
 login.kubankredit.ru
 login.mos.ru
+login.mts.ru
 login.pochtabank.ru
 login.rcoko27.ru
 login.region.ru
@@ -13965,6 +14009,7 @@ mchat.mkb.ru
 mcloud.psbank.ru
 mco-panacea.ru
 mconsulting.ru
+mcp-test.nornik.ru
 mcplat.com
 mcplat.ru
 mcrssar.ru
@@ -14435,6 +14480,7 @@ monitel.ru
 monitor.rosleshoz.ru
 monitoring.app-assistent.open.ru
 monitoring.gov.ru
+monitoring.mts.ru
 monitoring.sberuniversity.ru
 monitorus.ru
 monolit.com
@@ -14611,6 +14657,7 @@ mta.expmed.ru
 mta.mkp.ru.net
 mta.otp-bank.ru
 mtechnologies.pro
+mtfontanka.ru
 mtracker.ocs.ru
 mtronics.ru
 mts-disk.ru
@@ -14621,6 +14668,7 @@ mts.ru
 mtsbank.ru
 mtsdengi.ru
 mtsensk.home.megafon.ru
+mtsid.mts.ru
 mtsmedia.ru
 mtt.ru
 mufg.ru
@@ -16039,11 +16087,14 @@ partners.gazfond-pn.ru
 partners.platichastyami.ru
 partners.pochtabank.ru
 partners.sber.ru
+partners.sbertips.sberbank.ru
 partners.sovcombank.ru
 partners.tech.vk.com
 partners.yadro.com
 partnership-new.alfabank.ru
 partnership.alfabank.ru
+partnersift.sbertips.sberbank.ru
+partnerspsi.sbertips.sberbank.ru
 partnerstvo.omk.ru
 partnert.deltacredit.ru
 partnervpn.yadro.com
@@ -16693,6 +16744,7 @@ prof.ncagp.ru
 profilaktika.edu.ru
 profile-lt.sber.ru
 profile-psi.sber.ru
+profile-stage.mts.ru
 profile-uat.sber.ru
 profile.ad-tech.ru
 profile.megafon.ru
@@ -17621,6 +17673,7 @@ rostov.staging.megafon.ru
 rostovexp.ru
 roszdravnadzor.gov.ru
 roulette.tbank-online.com
+round.cts02-test.nornik.ru
 round.ru
 rovesnik74.ru
 rowangame.ru
@@ -17684,9 +17737,11 @@ rstls.rsb.ru
 rstrk.ru
 rsud.govvrn.ru
 rsupport.vk.team
+rt-ib.ru
 rt-insurance.ru
 rt-link-1.novikom.ru
 rt-nuc.sec.yandex.net
+rt.com
 rt.ru
 rtb-adevents.tbank-online.com
 rtb-optout.tbank-online.com
@@ -17839,6 +17894,7 @@ s3-test.mtsbank.ru
 s3-website-msk.tinkoff.ru
 s3-website.tinkoff.ru
 s3.api.demo1.hycl.ru
+s3.api.demo2.hycl.ru
 s3.api.demo3.hycl.ru
 s3.api.tinkoff.ai
 s3.atol.ru
@@ -18056,6 +18112,7 @@ sbercity.ru
 sberclass.ru
 sberdevices.ru
 sberdex-s3.samokat.ru
+sberdisk.dev
 sberdisk.ru
 sberdocs.sberbank.ru
 sberedu.ru
@@ -18405,6 +18462,7 @@ sep.vk.team
 septemcapital.ru
 sergeykhotimskiy.ru
 sermet.ru
+sernia.ru
 serpuhov.home.megafon.ru
 sertifikaty-mincifry.ru
 serv-food.ru
@@ -18554,6 +18612,7 @@ sibintek.rosneft.ru
 sibintek.ru
 sibir.rt.ru
 sibmoll.ru
+sibserv.com
 sibsiu.ru
 sibsoc.com
 sibsoc.ru
@@ -19026,6 +19085,7 @@ sp87.rosleshoz.ru
 sp89.rosleshoz.ru
 sp92.rosleshoz.ru
 sp95.rosleshoz.ru
+space.cloud.ru
 space.domrf.ru
 space.domrfbank.ru
 space.gazprombank.ru
@@ -19197,6 +19257,7 @@ sso-ext.ocs.ru
 sso-forms-fallback.tbank-online.com
 sso-green.raiffeisen.ru
 sso-ib.vtb.ru
+sso-k8s-test.astralinux.ru
 sso-keycloak.sigma.sbrf.ru
 sso-mb-ios.vtb.ru
 sso-mb.vtb.ru
@@ -19227,6 +19288,7 @@ ssoauth-test.mtsbank.ru
 ssoauth-uat.mtsbank.ru
 ssoauth.mtsbank.ru
 ssoitfiva.gazprombank.ru
+ssolog.mts.ru
 ssovdr.gazprombank.ru
 ssp-mediasniper.ad-tech.ru
 ssp-preprod.severstalssc.com
@@ -19303,6 +19365,7 @@ stage.fl-shop.ru
 stage.flex.mtsdengi.ru
 stage.gasu.mosreg.ru
 stage.gigadataprovider-api.eye.salute.ru
+stage.gigaid.ru
 stage.gigamo.mosreg.ru
 stage.gismogu.mosreg.ru
 stage.gossluzhba.mosreg.ru
@@ -19618,6 +19681,7 @@ subscriptions-notifier.key.rt.ru
 subscriptions.key.rt.ru
 sudir-dev-rc.test-jazz.sberbank.ru
 sudir-ift.test-jazz.sberbank.ru
+sudir.mos.ru
 sultanov-lab.ru
 sunlight.net
 sunsetvibes.ru
@@ -19629,6 +19693,7 @@ supenika.nornik.ru
 super.tricolor.ru
 supercdn.ru
 superjob.ru
+supernika-test.nornik.ru
 superset.eye.dev.salute.ru
 support.1c.ru
 support.biz.mail.ru
@@ -19946,6 +20011,7 @@ tech.mail.ru
 tech.sber.pro
 tech.vk.com
 tech.vk.ru
+techbrand.miniapp.cloud.ru
 techdobro.ru
 techinfo.ingos.ru
 techlab.s7.ru
@@ -19993,6 +20059,7 @@ termidesk.ru
 terminal.mtsbank.ru
 tern.ru
 terra.rt.ru
+terraform.cloud.ru
 terskiyraiyon.ru
 terskyrayon.ru
 tesb.rosatom.ru
@@ -20721,6 +20788,7 @@ ui.staging.megafon.ru
 uiosago.alfastrah.ru
 uir-ovpn.acti.ru
 uismb.api.vtb.ru
+uits.spb.ru
 uk-dif.ru
 uk-formula.ru
 uk-proekt.ru
@@ -20756,6 +20824,7 @@ unicreditbank.ru
 unified-billing.mail.ru
 unimatic.ru
 uniport.bcs.ru
+uniport2.bcs.ru
 unistock.cloud
 unistream.ru
 united.ru
@@ -20917,6 +20986,7 @@ vault.ift.sberpravo.ru
 vault.ift2.sberpravo.ru
 vault.legalbpm.sberpravo.ru
 vault.legalforms.sberpravo.ru
+vault.mng.cloud.ru
 vault.psi.gigalegal.sber.ru
 vault.psi.legalbpm.sberpravo.ru
 vault.psi.legalforms.sberpravo.ru
@@ -20937,6 +21007,10 @@ vbo-demo.mkb.ru
 vbo-help.mkb.ru
 vbo.mkb.ru
 vbo2.mkb.ru
+vbr01.cloud.ru
+vbr10.cloud.ru
+vbr11.msk.cloud.ru
+vbr30.msk.cloud.ru
 vbrr.ru
 vbudushee.ru
 vbv.metcom.ru
@@ -20948,7 +21022,23 @@ vc.kamaz.ru
 vc.key.rt.ru
 vc.sberdevices.ru
 vc.videos.livejournal.com
+vcc30.msk.cloud.ru
 vcd.ertelecom.ru
+vcd01-01.cloud.ru
+vcd01-02.cloud.ru
+vcd10-01.cloud.ru
+vcd10-02.cloud.ru
+vcd11-01.cloud.ru
+vcd30-01.cloud.ru
+vcd30-02.cloud.ru
+vcd30-03.cloud.ru
+vcd30-51.cloud.ru
+vcd50-01.cloud.ru
+vcd50-02.cloud.ru
+vcd50-51.cloud.ru
+vcda01-02.cloud.ru
+vcda01.cloud.ru
+vcda01.lab.cloud.ru
 vcda10-01.cloud.ru
 vcda10-02.cloud.ru
 vcda11.cloud.ru
@@ -21202,6 +21292,7 @@ vlslavyanka.home.megafon.ru
 vlzstoki.ru
 vlzvoda.ru
 vm-asc.rs.ru
+vm-sib-trips-test.sibintek.ru
 vm.mts.ru
 vm.oaovoentorg.ru
 vmeste.sber.ru
@@ -21316,6 +21407,7 @@ vpn.cloud.ru
 vpn.cplsb.ru
 vpn.cstream.ru
 vpn.eapteka.sigma.sbrf.ru
+vpn.innovation.nornik.ru
 vpn.konus.group
 vpn.kvartplata.ru
 vpn.lemark.su
@@ -21911,6 +22003,7 @@ www.62.rospotrebnadzor.ru
 www.65.rospotrebnadzor.ru
 www.69.rospotrebnadzor.ru
 www.70.rospotrebnadzor.ru
+www.72.rospotrebnadzor.ru
 www.73.rospotrebnadzor.ru
 www.7304488.ru
 www.79.rospotrebnadzor.ru
@@ -21924,6 +22017,7 @@ www.aat-arti.ru
 www.ab-mortgage.alfastrah.ru
 www.abakanvodokanal.ru
 www.abcb.alfastrah.ru
+www.abcconsulting.ru
 www.abkasko.alfastrah.ru
 www.abmosk.ru
 www.abr.ru
@@ -23963,6 +24057,7 @@ www.sberbankaktivno.ru
 www.sberbankins.ru
 www.sberbusiness.live
 www.sbercib.ru
+www.sberdisk.dev
 www.sberdisk.ru
 www.sberegaem-vmeste.ru
 www.sbergiletalks.sber.ru
@@ -24895,6 +24990,7 @@ xn--80addfq2alq.xn--p1ai
 xn--80adfbej0ceadr0m.xn--p1ai
 xn--80ae0bp.xn--90ab2c.xn--p1ai
 xn--80aeakmgi9azaci1dvg.xn--p1ai
+xn--80aebecah6apa1adyldqm2sra.xn--p1ai
 xn--80aeeerlelgkc1a.xn--h1adghi.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80aegbkvxddlre.xn--p1ai
@@ -24987,11 +25083,13 @@ xn--c1ad6a.xn--90ab2c.xn--p1ai
 xn--c1adkei1aesdd.xn--p1ai
 xn--c1aenmeoia.xn--80aafaxhj3c.xn--p1ai
 xn--c1ajbkjyncd.xn--p1ai
+xn--c1akasedrm0a.xn--p1ai
 xn--c1an2a.xn--p1ai
 xn--c1aws.xn--p1ai
 xn--d1abicxkmi7j.xn--p1ai
 xn--d1abkf4ap.xn--90ab2c.xn--p1ai
 xn--d1acakl8aqa2a.xn--p1ai
+xn--d1acckhirjhcjda0nf.xn--p1ai
 xn--d1acdfdkjk3b3h7a.xn--d1aqf.xn--p1ai
 xn--d1achcanypala0j.xn--p1ai
 xn--d1achkm1a.xn--d1aqf.xn--p1ai
