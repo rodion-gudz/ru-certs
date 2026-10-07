@@ -611,6 +611,8 @@ catalysis.ru
 cateam.ru
 cathedral.ru
 cbch.ru
+cbk-kama.com
+cbk-kama.ru
 cbmfsk.ru
 cbr.ru
 cbsvib.ru
@@ -1677,6 +1679,7 @@ ingosinvest-am.ru
 ingosinvest.ru
 ingostartup.ru
 ingravity.online
+inheaven.ru
 inist.ru
 inist.systems
 inno.tech
@@ -2117,6 +2120,7 @@ mailking.ru
 mailrugroup.com
 mailrugroup.ru
 mailserver.ru
+major-express.ru
 makc.ru
 makclife.ru
 makcm.ru
@@ -2135,6 +2139,7 @@ mangosip.ru
 mangotalker.ru
 mangotele.com
 mapm.ru
+mari-karta.ru
 marina-shop.ru
 marinebroker.ru
 maritimebank.com
@@ -2685,6 +2690,7 @@ omnis-university.ru
 omnypay.ru
 omobus.ru
 omskparlament.ru
+omskrts.ru
 omskzan.ru
 omsomsk.ru
 omspk.ru
@@ -2815,6 +2821,7 @@ partizansk.org
 partner-reestr.ru
 partnerplatform.ru
 partnerspro.ru
+parus.su
 pasp.ru
 pass-sk.ru
 passion.ru
@@ -4048,6 +4055,7 @@ tdera.ru
 tdzs.ru
 te-spb.ru
 teachersday.ru
+teakett.ru
 teatrvfk.ru
 tech-inv.org
 techdobro.ru
