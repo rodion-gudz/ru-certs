@@ -1818,6 +1818,7 @@ kairosstrategy.ru
 kalashnikov.club
 kalashnikov.media
 kalashnikovconcern.ru
+kalashnikovgroup.ru
 kalitva-land.ru
 kalkulatorzp.ru
 kalmpriroda.ru
@@ -1988,6 +1989,7 @@ kuper.ru
 kupibilet70.ru
 kurgangrc.ru
 kurganobl.ru
+kursglonass.ru
 kurskduma.ru
 kuzbank.ru
 kuzbass-zakon.ru
@@ -2015,6 +2017,7 @@ laspace.ru
 latrenta.ru
 lazarusfinance.ru
 lazurmedical.ru
+lbsoft.ru
 le-dv.ru
 lebedev.ru
 lec-press.ru
@@ -4164,6 +4167,8 @@ tmn-obl.ru
 tnkf.app
 tnkf.su
 tochka.com
+tochkapre.ru
+tochkastage.ru
 tolokonnikov.ru
 tomail.ru
 tomsk.ru
