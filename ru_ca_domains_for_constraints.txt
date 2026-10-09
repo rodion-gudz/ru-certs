@@ -1359,6 +1359,7 @@ gelstompol.ru
 gemoney.ru
 genbank.ru
 geniobot.ru
+gens.ru
 geobasket.net
 geobasket.ru
 geocartography.ru
@@ -2012,6 +2013,7 @@ ladoshkipay.ru
 lakoai.ru
 lala.su
 lamoda.ru
+lanit.ru
 lanta.ru
 laspace.ru
 latrenta.ru
@@ -2614,6 +2616,7 @@ nspk.ru
 nt33.ru
 ntc-cc.ru
 ntc-dc.ru
+ntc-zarya.ru
 ntechlab.com
 ntechlab.ru
 ntek-nsk.ru
@@ -2784,6 +2787,7 @@ osu.ru
 otais.ru
 otello.ru
 othoro.ru
+otisa.ru
 otp-bank.ru
 otpbank.ru
 otpfinance.ru
@@ -3179,6 +3183,7 @@ rifpark.ru
 rikt.ru
 ris61edu.ru
 rkc-gku.ru
+rkc-pk.ru
 rkcdv.ru
 rkomi.ru
 rks.digital
@@ -4354,6 +4359,7 @@ utg-express.ru
 utg.group
 utk.ru
 utmn.ru
+utz.ru
 uulz.ru
 uvsavia.ru
 uwca.ru
