@@ -1811,6 +1811,7 @@ jumpwork.ru
 juratino.ru
 k-bnk.ru
 k-energomash.ru
+k2.cloud
 k2.tech
 kabardinka-metro.ru
 kachestvozhizni.ru
@@ -3524,6 +3525,7 @@ sbrf.ru
 sbrnpf.ru
 sbspasibo.ru
 sbtips.ru
+sc.link
 scac.ru
 scb-life.ru
 scb-vdi.ru
@@ -4285,6 +4287,7 @@ ugzko.ru
 uk-dif.ru
 uk-formula.ru
 uk-proekt.ru
+uk-profit-capital.ru
 uk174.ru
 uklad.group
 ukpi.ru
