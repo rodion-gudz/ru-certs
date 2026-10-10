@@ -16306,6 +16306,7 @@ patient.ncagp.ru
 patientcard.ru
 pay-games.vtb.ru
 pay-r.1cupis.ru
+pay-sandbox.ivi-mc.ru
 pay-test.kk.bank
 pay.1cupis.ru
 pay.akbars.ru
@@ -16315,6 +16316,7 @@ pay.avangard.ru
 pay.creditural.ru
 pay.gu.spb.ru
 pay.iturup.online
+pay.ivi-mc.ru
 pay.kk.bank
 pay.megafon.ru
 pay.mkb.ru
@@ -16339,6 +16341,7 @@ pay.vtb.ru
 pay.yoomoney.ru
 pay2.alfabank.ru
 pay2.avangard.ru
+pay2.ivi-mc.ru
 pay2.vbrr.ru
 pay47.ru
 payanyway.ru
