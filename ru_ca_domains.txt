@@ -11160,6 +11160,7 @@ greenfield.staging.senat.sberbank.ru
 greenfieldinvest.domrfbank.ru
 greenmarathon.sberbank.ru
 greenpalasdelast.deltacredit.ru
+greentechpro.ru
 grfc.ru
 grid.speechpro.com
 gridid-i9.speechpro.com
@@ -15089,6 +15090,7 @@ navio.auto
 nbdbank.ru
 nbgi.ru
 nc-services.cardsmobile.ru
+nc.biv91.ru
 nc.kszn34.ru
 nc.xmes.ru
 nca-check.easycert.sberbank.ru
@@ -16307,6 +16309,7 @@ patientcard.ru
 pay-games.vtb.ru
 pay-r.1cupis.ru
 pay-sandbox.ivi-mc.ru
+pay-sandbox2.ivi-mc.ru
 pay-test.kk.bank
 pay.1cupis.ru
 pay.akbars.ru
