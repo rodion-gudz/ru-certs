@@ -6454,6 +6454,7 @@ april-investments.ru
 april.broker
 apriori.games
 apteka.magnit.ru
+apu3.network
 apzrotor.ru
 aq.ru
 aqua.iturupbank.ru
@@ -11434,6 +11435,7 @@ home.vasy.ru
 homeagents.online
 homeagents.ru
 homeagents.su
+homeassistant.apu3.network
 homebank.ru
 homeberries.ru
 homecredit.ru
@@ -12575,6 +12577,7 @@ keptstore.ru
 keramika1.ru
 kerch.tch.ru
 kernelci.linuxtesting.ru
+kevseev.ru
 key.artyomk.ru
 key.rt.ru
 keyapis.key.rt.ru
@@ -14656,6 +14659,7 @@ morspas.ru
 mos-metro-cn-aio.speechpro.com
 mos.ru
 moscoms.ru
+moscow.apu3.network
 moscow.dev.home.megafon.ru
 moscow.home.megafon.ru
 moscow.megafon.ru
