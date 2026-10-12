@@ -2003,6 +2003,7 @@
 *.irz.ru
 *.is-mmk.ru
 *.isbank.com.ru
+*.isiton.ru
 *.issras.ru
 *.istokmw.ru
 *.it-brigita.ru
@@ -2223,6 +2224,7 @@
 *.lec.team
 *.lecta.ru
 *.lemark.su
+*.lemondate.ru
 *.lenenergo.ru
 *.lengu.ru
 *.lenoblbti.ru
@@ -8351,6 +8353,7 @@ clbext.raiffeisen.ru
 clbf.avangard.ru
 clbfmobile.avangard.ru
 cldmail.ru
+cleantify.ru
 cleverdev.ru
 clgrtc.ru
 click.alfabank.ru
@@ -9463,6 +9466,7 @@ directstar.ru
 directum.gosapteka18.ru
 directum.sbercity.ru
 dis.vk.com
+disaster-recovery.cloud.ru
 disc-o.cloud
 disciplina.journal.tinkoff.ru
 discipline-monitoring.rc.senat.sberbank.ru
@@ -9602,6 +9606,7 @@ docs.maps.vk.com
 docs.maps.vk.ru
 docs.myonlinetips.ru
 docs.mysbertips.ru
+docs.sbercloud.ru
 docs.sberuniversity.online
 docs.sovcombank.ru
 docs.strelka.chat
@@ -10894,6 +10899,7 @@ gidropribor.ru
 gift.otpbank.ru
 giftcertificates.spasibo.digital
 giga.chat
+giga.id
 gigaadmin.gigacollector.eye.salute.ru
 gigaadmin.gigacollector.sberdevices.ru
 gigaadmin.ift.gigacollector.eye.salute.ru
@@ -11497,6 +11503,8 @@ hrsites-api-vacancies.tbank-online.com
 hrtek.vk.com
 hrtek.vk.ru
 hrtp.ru
+hstxmgr10.msk.cloud.ru
+hstxmgr11.msk.cloud.ru
 ht.cscampus.ru
 ht.kamp-ext-if.vtb.ru
 ht.kamp-ext-rr.vtb.ru
@@ -11541,7 +11549,13 @@ i2t-doc.abr.ru
 i2t.abr.ru
 iac.dev.sberdevices.ru
 iac.spb.ru
+iam-admin.stage.cloud.ru
+iam-int-admin.cloud.ru
+iam-int.cloud.ru
+iam-reserv.stage.cloud.ru
 iam.ads.sber.ru
+iam.dev.cloud.ru
+iam.stage.cloud.ru
 iamx.tochka.com
 iap.nso.ru
 iapp.sberins.sber.ru
@@ -12800,6 +12814,7 @@ kskkaluga.ru
 ksmg-1.roscap.com
 ksmg-2.roscap.com
 ksmg.lemark.su
+ksmg.nkbank.ru
 ksmg1.voz.ru
 ksmg2.voz.ru
 ksmm.sbercity.ru
@@ -12950,6 +12965,7 @@ legalsts.deltacredit.ru
 lei-code.ru
 lekar-deti.ru
 lemark.su
+lemondate.ru
 len-cas.energo.ru
 len.rspp.ru
 lenenergo.ru
@@ -20266,6 +20282,7 @@ tech.sber.pro
 tech.vk.com
 tech.vk.ru
 techbrand.miniapp.cloud.ru
+techbrand.miniapp.dev.cloud.ru
 techdobro.ru
 techinfo.ingos.ru
 techlab.s7.ru
@@ -20501,6 +20518,7 @@ test2.bnpltests.ru
 test2.domrfbank.ru
 test2.qdlocal.bspb.ru
 test2.rtksp.ru
+test2.slavneft.ru
 test2.t-boys.ru
 test2.time-messenger.ru
 test273.servicecdn.ru
@@ -21308,6 +21326,7 @@ vcd50-02.cloud.ru
 vcd50-51.cloud.ru
 vcda01-02.cloud.ru
 vcda01.cloud.ru
+vcda01.dev.cloud.ru
 vcda01.lab.cloud.ru
 vcda10-01.cloud.ru
 vcda10-02.cloud.ru
@@ -22850,6 +22869,7 @@ www.digitalrenaissance.ru
 www.digitalrk.ru
 www.digitalsar.ru
 www.dineftyanik.ru
+www.disaster-recovery.cloud.ru
 www.disclabs.ru
 www.disk.cyberkoalastudios.com
 www.displayart.ru
