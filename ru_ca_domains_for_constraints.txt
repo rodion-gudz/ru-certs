@@ -727,6 +727,7 @@ cmd-online.ru
 cmd.su
 cmrbank.pro
 cmrbank.ru
+cniitm.ru
 cnpo.ru
 cnt-it.ru
 cntrluniv.ru
@@ -1164,6 +1165,7 @@ eulerhermes.ru
 eulher.ru
 eurasian-bank.ru
 euroalliance.ru
+europlan.ru
 ev.group
 everialife.ru
 evgrp.ru
@@ -1647,6 +1649,7 @@ ikarcenter.ru
 ikb-rs.ru
 ikhorizon.ru
 iktport.ru
+ilb.ru
 illumined.ru
 ilran.ru
 imbok.pro
@@ -1916,6 +1919,7 @@ komifoms.ru
 komontrol.ru
 komorebi.su
 komp-tech.ru
+kompas.ru
 komtet.ru
 komzrt.ru
 konfs.ru
@@ -2282,6 +2286,7 @@ minsoc26.ru
 minsoc31.ru
 minzdravao.ru
 mio26.ru
+mir-telecom.ru
 miranda-media.ru
 mirdomovyat.ru
 mirea.ru
@@ -2460,6 +2465,7 @@ mz26.ru
 mziork.ru
 mznso.ru
 n-sys.ru
+n-vartovsk.ru
 n3health.ru
 na-podpisi.ru
 nadzor26.ru
@@ -2838,6 +2844,7 @@ ozonusercontent.com
 p-fondy.ru
 p-rcenter.ru
 p46spb.ru
+pakhonin.ru
 parallax-pro.ru
 parents.university
 paritet.ru
@@ -3205,6 +3212,7 @@ rmg.ru
 rn-bank.ru
 rn-grp.ru
 rncb.ru
+rniirs.ru
 rnko.ru
 rnkofp.ru
 rnrc.ru
@@ -3462,6 +3470,7 @@ sbercib.ru
 sbercity.ru
 sberclass.ru
 sbercloud.ru
+sbercloud.store
 sbercloud.tech
 sberdatascience.ru
 sberdevices.com
@@ -3978,6 +3987,7 @@ svoedom.ru
 svoefermerstvo.ru
 svoevagro.ru
 svoevse.ru
+svoi-market.ru
 svoi.ru
 svoiyayca.ru
 svp.ru
@@ -4900,6 +4910,7 @@ xn--l1acdln.xn--p1ai
 xn--l1aelhk.xn--p1ai
 xn--l1agf.xn--p1ai
 xn--m1aeig.xn--p1ai
+xn--n1addt.xn--p1ai
 xn--p1ai.ru
 xo16.ru
 xplanet.ru
