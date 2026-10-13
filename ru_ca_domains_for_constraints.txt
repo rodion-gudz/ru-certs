@@ -401,6 +401,7 @@ b-catalog.ru
 b-edu.ru
 b-s-c.ru
 b22e.ru
+b2b-rts.ru
 bahmurov.ru
 baikalcredobank.ru
 baikalelectronics.ru
@@ -1209,6 +1210,7 @@ fbuz16.ru
 fbuz66.ru
 fc-zenit.ru
 fca-rosminzdrav.ru
+fcao.ru
 fciit.ru
 fcitep.ru
 fdom.su
@@ -1488,6 +1490,7 @@ gpbtravel.ru
 gpeople.online
 gpkk.ru
 gpm.ru
+gpmd.ru
 gpnbonus.ru
 gpnmarket.ru
 gpsr.ru
@@ -1758,6 +1761,7 @@ irexpertiza.ru
 irkat.ru
 irkopeka4.ru
 irkut.com
+iro22.ru
 iro38.ru
 irs-krsk.ru
 irteya.ru
@@ -2166,6 +2170,7 @@ manbbq.ru
 mango-loyalty.ru
 mango-office.ru
 mango-pin.ru
+mango.ru
 mangosip.ru
 mangotalker.ru
 mangotele.com
@@ -2397,6 +2402,7 @@ msgtech.ru
 mshornikov.com
 mshsk.ru
 msis174.ru
+msitech.ru
 msk-ix.ru
 msk.ru
 mskobr.ru
@@ -2612,6 +2618,7 @@ npfsberbanka.ru
 npk-spp.ru
 npk.ru
 npnd.ru
+npo-at.com
 npo-rtc.ru
 npo-saturn.ru
 npoa.ru
@@ -2769,6 +2776,7 @@ opinionlab.ru
 opkrt.ru
 opmoscow.ru
 optimal.systems
+opus11.ru
 orb.ru
 orbank.ru
 orbita.ru
@@ -3026,6 +3034,7 @@ proshkola.ru
 prostobank.online
 prosv.ru
 proton-orel.ru
+protonpm.ru
 provodnik.ru
 prrr.ru
 prto.ru
@@ -3753,6 +3762,7 @@ snabimpex.ru
 snavi.ru
 snbank.ru
 sndko.ru
+snegirsoft.com
 sngb.ru
 snr.su
 sntshnik.ru

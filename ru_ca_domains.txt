@@ -428,6 +428,7 @@
 *.b-catalog.ru
 *.b2.msk.ru
 *.b24app.mriya.me
+*.b2b-rts.ru
 *.b2b.alrosa.ru
 *.b2b.dom.ru
 *.b2b.domru.ru
@@ -700,6 +701,7 @@
 *.chat-test-ds.bspb.ru
 *.chat-test.bspb.ru
 *.chat.bspb.ru
+*.chat.corp.mango.ru
 *.chat.creditural.ru
 *.chat.mco-panacea.ru
 *.chat.sbermobile.ru
@@ -1157,6 +1159,7 @@
 *.docdoc.ru
 *.docdoc.tel
 *.docgroup.tech
+*.docker.bspb.ru
 *.docs.cashout.vk.com
 *.doctor-credit.ru
 *.doctor30.ru
@@ -1434,6 +1437,7 @@
 *.fbuz66.ru
 *.fc-zenit.ru
 *.fca-rosminzdrav.ru
+*.fcao.ru
 *.fciit.ru
 *.fcitep.ru
 *.fdom.su
@@ -1704,6 +1708,7 @@
 *.gpbl.ru
 *.gpkk.ru
 *.gpm.ru
+*.gpmd.ru
 *.gpnbonus.ru
 *.gpnmarket.ru
 *.gpsr.ru
@@ -2006,6 +2011,7 @@
 *.irexpertiza.ru
 *.irkopeka4.ru
 *.irkut.com
+*.iro22.ru
 *.iro38.ru
 *.irs-krsk.ru
 *.irteya.ru
@@ -2424,6 +2430,7 @@
 *.maximum.ru
 *.mb.transneft.ru
 *.mbuz-kgb.ru
+*.mc.docker.bspb.ru
 *.mcb.ru
 *.mcbank.ru
 *.mcbankrus.ru
@@ -2845,6 +2852,7 @@
 *.npfsberbanka.ru
 *.npk-spp.ru
 *.npk.ru
+*.npo-at.com
 *.npo-rtc.ru
 *.npo-saturn.ru
 *.npoa.ru
@@ -3294,6 +3302,7 @@
 *.prostobank.online
 *.prosv.ru
 *.proton-orel.ru
+*.protonpm.ru
 *.provodnik.ru
 *.prp.aisoms.ru
 *.prp.emias.ru
@@ -4052,6 +4061,7 @@
 *.snavi.ru
 *.snbank.ru
 *.sndko.ru
+*.snegirsoft.com
 *.snfpo.gazprom.ru
 *.sngb.ru
 *.soc-volga.ru
@@ -6844,6 +6854,7 @@ autodiscover.genesys.sovcombank.ru
 autodiscover.gethalva.ru
 autodiscover.giotek.ru
 autodiscover.goznak.ru
+autodiscover.gpmd.ru
 autodiscover.gusevdmitry.ru
 autodiscover.halva-card.ru
 autodiscover.halva.click
@@ -7184,10 +7195,12 @@ b2.msk.ru
 b24.forsadis.com
 b24.oaovoentorg.ru
 b2b-dev.sberbankins.ru
+b2b-ext.health-prod.alfastrah.ru
 b2b-ext.yota.ru
 b2b-nuc.alfastrah.ru
 b2b-portal.magnit.ru
 b2b-prep.sberbankins.ru
+b2b-rts.ru
 b2b-tst.sberbankins.ru
 b2b-yota-dev.test-middle.megafon.ru
 b2b.alfastrah.ru
@@ -8223,6 +8236,7 @@ chat.avangard.ru
 chat.bspb.ru
 chat.chatdev.psbank.ru
 chat.chattest.psbank.ru
+chat.corp.mango.ru
 chat.gbo.gazprombank.ru
 chat.ingobank.ru
 chat.invest.psbank.ru
@@ -8971,6 +8985,7 @@ cvat.yandex.omk.ru
 cvdi-ctx-gw.sberins.ru
 cvdi-ctx-gw.sberins.sber.ru
 cwms.mts.ru
+cwp.uecrus.com
 cwxab.alfa-bank.net
 cwxexpe01.alfabank.ru
 cwxexpe02.alfabank.ru
@@ -10233,6 +10248,7 @@ esg.mtsbank.ru
 esgreports.corp.vk.ru
 esia-p.centrinvest.ru
 esia-test.ingobank.ru
+esia.bspb.ru
 esia.centrinvest.ru
 esia.ingobank.ru
 esia.ingosinvest-am.ru
@@ -10625,6 +10641,7 @@ flypobeda.ru
 flyredwings.com
 flyredwings.ru
 flyrossiya.ru
+fm.baltlng.ru
 fm.csp.uecrus.com
 fm.sfera.ru
 fmba-gcgie.ru
@@ -10748,6 +10765,7 @@ ft3-certificates-tlm-weblk-ext.g4lab.com
 ftoken.tander.ru
 ftoroplast4.ru
 ftp.akiselev.group
+ftp.egrul.nalog.gov.ru
 ftp.speechpro.com
 ftp.truecorp.su
 ftpd.bki-okb.com
@@ -11161,6 +11179,7 @@ gpbspace.ru
 gpbtravel.ru
 gpkk.ru
 gpm.ru
+gpmd.ru
 gpnbonus.ru
 gpnmarket.ru
 gps.gumowsky.com
@@ -12858,6 +12877,7 @@ ks.staging.megafon.ru
 ksamur.ru
 ksc.speechpro.com
 ksc1.sevstar.net
+ksdfo.rspp.ru
 ksdgb.ru
 kshcrb.mznso.ru
 kskkaluga.ru
@@ -13720,6 +13740,7 @@ mail.global-trade36.ru
 mail.gorbank.spb.ru
 mail.gosapteka18.ru
 mail.goznak.ru
+mail.gpmd.ru
 mail.gumowsky.com
 mail.gupti.ru
 mail.gusevdmitry.ru
@@ -14883,6 +14904,7 @@ mshcrb.mznso.ru
 mshornikov.com
 mshsk.ru
 msis174.ru
+msitech.ru
 msk-exp-e-cluster.uralsib.ru
 msk-exp-e1-vpn.uralsib.ru
 msk-exp-e1.uralsib.ru
@@ -15309,6 +15331,8 @@ nextcloud.bolzen.pro
 nextcloud.mts.ru
 nexus-qa-ext.mkb.ru
 nexus.almaz-rpe.ru
+nexus.docker.bspb.ru
+nexus.mc.docker.bspb.ru
 nfp.iturupbank.ru
 nfs.sinara-finance.ru
 ngate.teleportbank.ru
@@ -15892,6 +15916,7 @@ opt.magnit.ru
 optima.msk.ru
 optimal.systems
 optron.proton-orel.ru
+opus11.ru
 orb.ru
 orbank.ru
 orbita.gorp.msk.ru
@@ -17184,6 +17209,7 @@ proshkola.ru
 prostobank.online
 prosv.ru
 proton-orel.ru
+protonpm.ru
 provodnik.ru
 proxy-autoconf.sberbank-service.ru
 proxy-manager-ift.giga.salute.ru
@@ -17215,6 +17241,7 @@ psbid-lk-tst.psbank.ru
 psbid-lk.psbank.ru
 psbii.ru
 psbschool.org
+psbst.ru
 pscb.ru
 psi-chat-sharing.vtb.ru
 psi-chat-turn.vtb.ru
@@ -17761,6 +17788,7 @@ refinanc.ru
 reflex-prom-ecosystem.sberbank.ru
 reg-cctv.ru
 reg.akbars.ru
+reg.bspb.ru
 reg.dogm.mos.ru
 reg.greenmarathon.sberbank.ru
 reg.lanta.ru
@@ -21471,6 +21499,7 @@ vbv.metcom.ru
 vc-msk-expe1.uecrus.com
 vc-msk-expe2.uecrus.com
 vc.achimgaz.ru
+vc.bspb.ru
 vc.inkey.rt.ru
 vc.kamaz.ru
 vc.key.rt.ru
@@ -22702,6 +22731,7 @@ www.azkios.rosneft.ru
 www.azsservice.rosneft.ru
 www.b-s-c.ru
 www.b2.msk.ru
+www.b2b-ext.health-prod.alfastrah.ru
 www.b2b-nuc.alfastrah.ru
 www.b2b.alfastrah.ru
 www.b2b.mts.ru
@@ -23190,6 +23220,7 @@ www.famadmin-penza.pnzreg.ru
 www.family-api.mts.ru
 www.fatca.pochtabank.ru
 www.favr.ru
+www.fcao.ru
 www.fdom.su
 www.federation.mts.ru
 www.ferra.ru
@@ -23333,6 +23364,7 @@ www.gpbl.ru
 www.gpbla.gazprombank.ru
 www.gpbspace.ru
 www.gpbtravel.ru
+www.gpmd.ru
 www.gpsr.ru
 www.grachcson.ru
 www.grafana-gmp.spasibosb.ru
@@ -23938,6 +23970,7 @@ www.mschcentr74.ru
 www.msges.vtb.ru
 www.msgestst.vtb.ru
 www.mshsk.ru
+www.msitech.ru
 www.msk-scv1.sovcombank.group
 www.msk-vpn01.sovcombank.group
 www.msk-vpn02.sovcombank.group
