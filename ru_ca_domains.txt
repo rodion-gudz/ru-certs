@@ -7238,6 +7238,7 @@ b2c.passport.rt.ru
 b2o.megafon.ru
 b2x.megafon.ru
 b3-mb.vtb.ru
+ba.ru.net
 baas-api.mkb.ru
 baas-notify-test.mtsbank.ru
 baas-notify.mtsbank.ru
@@ -11002,6 +11003,7 @@ gisp.gov.ru
 giszpenza.ru
 giszrb.ru
 git.almaz-rpe.ru
+git.ba.ru.net
 git.cc.linuxtesting.ru
 git.ci.legalbpm.sberpravo.ru
 git.ci.sberpravo.ru
@@ -22736,6 +22738,7 @@ www.b2b-nuc.alfastrah.ru
 www.b2b.alfastrah.ru
 www.b2b.mts.ru
 www.b3-mb.vtb.ru
+www.ba.ru.net
 www.backend.spasibosb.ru
 www.balakovo-bank.ru
 www.balance39.ru
