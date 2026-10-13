@@ -743,6 +743,7 @@
 *.ckb-rubin.ru
 *.ckbnso.ru
 *.class365.ru
+*.classcom.ru
 *.cldmail.ru
 *.clgrtc.ru
 *.client-oco.rt.ru
@@ -778,6 +779,7 @@
 *.cmrbank.ru
 *.cniitm.ru
 *.cnpo.ru
+*.coachspace.ru
 *.coalmetbank.ru
 *.coalstar.ru
 *.cobma.mail.ru
@@ -795,6 +797,7 @@
 *.companyprofile.ru
 *.compass.com.ru
 *.compass.u6.ru
+*.concern-agat.ru
 *.conference.mil.ru
 *.conference.old.mil.ru
 *.connect.diascan.ru
@@ -2050,6 +2053,7 @@
 *.juratino.ru
 *.k-bnk.ru
 *.k-energomash.ru
+*.k-tech.ru
 *.k2.cloud
 *.k2.tech
 *.k8s.eas.startups.su
@@ -2186,6 +2190,7 @@
 *.ksrf.ru
 *.kst-energo.ru
 *.kszn34.ru
+*.ktkru.ru
 *.kts39.ru
 *.kuban-spnb.ru
 *.kubankredit.ru
@@ -2845,6 +2850,7 @@
 *.npoa.ru
 *.npovk.ru
 *.nprts.ru
+*.npzoptics.ru
 *.nr.roskazna.ru
 *.nr.zakupki.gov.ru
 *.nrb.ru
@@ -5156,6 +5162,7 @@
 *.xn--80aafbk3dbqbke.xn--p1ai
 *.xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 *.xn--80aaggvgieoeoa2bo7l.xn--p1ai
+*.xn--80aalotit.xn--p1ai
 *.xn--80aalqacudkeiwckpc.xn--p1ai
 *.xn--80aapampemcchfmo7a3c9ehj.xn--p1ai
 *.xn--80aapbghilqyftr.xn--p1ai
@@ -5279,6 +5286,7 @@
 *.yrpz.ru
 *.yt.vk.team
 *.yugovalib.ru
+*.yukos.org
 *.yvarsity.com
 *.z-proxy.ucp-testing.one-infra.ru
 *.z-proxy.ucp.one-infra.ru
@@ -7987,6 +7995,7 @@ cdn-tinkoff.ru
 cdn.aiandhit.ru
 cdn.allinpower.ru
 cdn.banka-ui.dev
+cdn.bcs.ru
 cdn.bspb.ru
 cdn.bulutuy.tech
 cdn.connect.mail.ru
@@ -8039,6 +8048,7 @@ cdn.vtb.ru
 cdn1.invest.vtb.ru
 cdn1.ozonusercontent.com
 cdn1.rr-invest.vtb.ru
+cdn2.bcs.ru
 cdn2.iftonline.sberbank.ru
 cdn2.igrovoy.rt.ru
 cdn2.online.sberbank.ru
@@ -8372,6 +8382,7 @@ cl.school.karelia.ru
 cl.vtb.ru
 clamax.ru
 class365.ru
+classcom.ru
 clb.primorye.mts.ru
 clbext-icap.raiffeisen.ru
 clbext.raiffeisen.ru
@@ -12480,6 +12491,7 @@ juratino.ru
 k-accounts.gazprombank.ru
 k-bnk.ru
 k-energomash.ru
+k-tech.ru
 k.gis-sc.krasnodar.ru
 k1-t.sberpravo.ru
 k2-t.sberpravo.ru
@@ -12871,6 +12883,11 @@ kstr.home.megafon.ru
 kstr.megafon.ru
 kstr.staging.megafon.ru
 ksup-bim.sberbank.ru
+ktalk-stream-01.hybrid.ktalk.alfabank.ru
+ktalk-stream-02.hybrid.ktalk.alfabank.ru
+ktalk-stream-03.hybrid.ktalk.alfabank.ru
+ktalk-stream-04.hybrid.ktalk.alfabank.ru
+ktkru.ru
 kts39.ru
 ktsevraz.com
 kuban-spnb.ru
@@ -13137,6 +13154,7 @@ lk.alfadirect.ru
 lk.app-assistent.open.ru
 lk.arkhangelsk.mts.ru
 lk.bcs-bank.ru
+lk.bcs.ru
 lk.bcslife.ru
 lk.bi.zone
 lk.car.bistrodengi.ru
@@ -13211,6 +13229,7 @@ lk.vologda.mts.ru
 lk.vzavod.ru
 lk.wifi-auth.megafon.ru
 lk.yfc.ru
+lk2.bcs.ru
 lk2.vzavod.ru
 lka.rosneft.ru
 lka.test.ns-bank.ru
@@ -15434,6 +15453,7 @@ npoa.ru
 npovk.ru
 nprts.ru
 nps.rspp.ru
+npzoptics.ru
 nr-repo.roskazna.ru
 nr.ext-procurement.rt.ru
 nr.roskazna.ru
@@ -21326,6 +21346,7 @@ user.demo3.hycl.ru
 user.sberclass.ru
 userapi.com
 uservpn.sberins.ru
+usg-tvpn01.sovcombank.group
 usilitel-internet.tricolor.ru
 usilitel-signala.tricolor.ru
 usla.ru
@@ -23631,6 +23652,7 @@ www.ksp34.ru
 www.ksp74.ru
 www.kspbratsk.ru
 www.ksrf.ru
+www.ktkru.ru
 www.kuban-spnb.ru
 www.kubanfarm.ru
 www.kubank.ru
@@ -25185,6 +25207,7 @@ www.xn--80aacgvulkfjl.xn--p1ai
 www.xn--80aafaxhj3c.xn--p1ai
 www.xn--80aafbk3dbqbke.xn--p1ai
 www.xn--80aaggvgieoeoa2bo7l.xn--p1ai
+www.xn--80aalotit.xn--p1ai
 www.xn--80aatf1agmif2e.xn--p1ai
 www.xn--80abc6acjjcc0a.xn--p1ai
 www.xn--80abekqlximhq.xn--p1ai
@@ -25269,6 +25292,7 @@ www.zefir-llc.ru
 www.zenit.ru
 www.zftd.nornik.ru
 www.znvo.ru
+www.zolotayakorona.ru
 www.zppk.ru
 www.zpr.remeks.online
 www.zulip.otpbank.ru
@@ -25415,6 +25439,7 @@ xn--80aaiqpoxy.xn--j1aj5bb.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
 xn--80aal9arbhf.xn--d1aqf.xn--p1ai
 xn--80aald4bq.xn--d1aqf.xn--p1ai
+xn--80aalotit.xn--p1ai
 xn--80aalqacudkeiwckpc.xn--p1ai
 xn--80aamepir7m.xn--d1aqf.xn--p1ai
 xn--80aanlzbvihptf.xn--p1ai
@@ -25698,6 +25723,7 @@ yugorsk.dev.home.megafon.ru
 yugorsk.home.megafon.ru
 yugovalib.ru
 yukinoki.ru
+yukos.org
 yvarsity.com
 yvv.ru
 z-37.ru
@@ -25804,6 +25830,7 @@ znamenka.dev.home.megafon.ru
 znamenka.home.megafon.ru
 znvo.ru
 zoea.ru
+zolotayakorona.ru
 zoomdecorate.rambler.ru
 zp-auth.alfabank.ru
 zp.alfabank.ru

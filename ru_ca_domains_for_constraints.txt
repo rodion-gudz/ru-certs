@@ -712,6 +712,7 @@ ckb-rubin.ru
 ckbnso.ru
 clamax.ru
 class365.ru
+classcom.ru
 cldmail.ru
 cleantify.ru
 cleverdev.ru
@@ -732,6 +733,7 @@ cnpo.ru
 cnt-it.ru
 cntrluniv.ru
 co.ee
+coachspace.ru
 coalmetbank.ru
 coalstar.ru
 codd32.ru
@@ -744,6 +746,7 @@ comfortcredit.ru
 company.ru
 companyprofile.ru
 comstar.ru
+concern-agat.ru
 connect.ru
 connectgas.ru
 consultant.ru
@@ -1819,6 +1822,7 @@ jumpwork.ru
 juratino.ru
 k-bnk.ru
 k-energomash.ru
+k-tech.ru
 k2.cloud
 k2.tech
 kabardinka-metro.ru
@@ -1986,6 +1990,7 @@ ksroddom.ru
 kst-energo.ru
 kstati.org
 kszn34.ru
+ktkru.ru
 kts39.ru
 ktsevraz.com
 kuban-spnb.ru
@@ -2612,6 +2617,7 @@ npo-saturn.ru
 npoa.ru
 npovk.ru
 nprts.ru
+npzoptics.ru
 nrb.ru
 nrcki.ru
 nrczh.ru
@@ -4773,6 +4779,7 @@ xn--80aaggvgieoeoa2bo7l.xn--p1ai
 xn--80aagknb0ahdagdcdmhj4d0b.xn--p1ai
 xn--80aagyfeexajjkifg.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
+xn--80aalotit.xn--p1ai
 xn--80aalqacudkeiwckpc.xn--p1ai
 xn--80aanlzbvihptf.xn--p1ai
 xn--80aapampemcchfmo7a3c9ehj.xn--p1ai
@@ -4971,6 +4978,7 @@ yrpz.ru
 ytprof.ru
 yugovalib.ru
 yukinoki.ru
+yukos.org
 yvarsity.com
 yvv.ru
 z-37.ru
@@ -5019,6 +5027,7 @@ znai.tech
 znanierussia.ru
 znvo.ru
 zoea.ru
+zolotayakorona.ru
 zppk.ru
 zrnao.ru
 zskuzbass.ru
