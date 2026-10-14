@@ -5890,6 +5890,7 @@ ai-mnesis.ru
 ai-proxy.vk.team
 ai-rpa.sberbank-service.ru
 ai-vesna.ru
+ai.ba.ru.net
 ai.d-agency.su
 ai.dudu2.ru
 ai.ibs.ru
@@ -14322,6 +14323,7 @@ mdmt-seg.megafon.ru
 mdp.kion.ru
 mdrive.magnit.ru
 mds.uralsib.ru
+me.ba.ru.net
 meatterminal.ru
 mebel-enot.ru
 mec-backend-sync.services.ocs.ru
