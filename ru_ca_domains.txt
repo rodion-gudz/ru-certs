@@ -6711,6 +6711,7 @@ auth.akbars.ru
 auth.app-assistent.open.ru
 auth.app.grunwald.ru
 auth.avangard.ru
+auth.ba.ru.net
 auth.demo-inspector.gosuslugi.ru
 auth.demo1.hycl.ru
 auth.demo2.hycl.ru
@@ -9672,6 +9673,7 @@ docdoc.pro
 docdoc.ru
 docdoc.tel
 docgroup.tech
+dock.ba.ru.net
 docker-app-1.corp.ncsp.com
 docker.registry.tbank.ru
 docreg.budgetnn.ru
@@ -13373,6 +13375,7 @@ lockomarket.ru
 lod.rcoko27.ru
 lodlk.rcoko27.ru
 log.app-assistent.open.ru
+log.apu3.network
 logark.tricolor.ru
 logassist.ingobank.ru
 logger.id-lt.sber.ru
@@ -25932,6 +25935,7 @@ zgr.im
 zheldor.dev.home.megafon.ru
 zheldor.home.megafon.ru
 zhivagobank.ru
+zigbee2mqtt.apu3.network
 zm-solutions.ru
 zmtech.bz
 zmtech.su
