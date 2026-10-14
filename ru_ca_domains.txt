@@ -1243,6 +1243,7 @@
 *.e1c-ops.com
 *.eaglecdn.com
 *.eagleplatform.com
+*.eaist2-f.mos.ru
 *.eao.drsk.ru
 *.eas.startups.su
 *.easm.ptsecurity.com
@@ -9854,6 +9855,7 @@ e2c.alfabank.ru
 eaglecdn.com
 eagleplatform.com
 eaist2-f.mos.ru
+eaist2-new.mos.ru
 eao.dev.home.megafon.ru
 eao.drsk.ru
 eao.home.megafon.ru
@@ -12336,6 +12338,7 @@ isms-tst.vtb.ru
 isnbank.ru
 isp-test.mfsk.ru
 isp.mfsk.ru
+isp.nsc.ru
 isso-dev.mts.ru
 isso.mts.ru
 issras.ru
@@ -14435,6 +14438,7 @@ messenger-t.testonline.sberbank.ru
 messenger.online.sberbank.ru
 messenger.sberbank.ru
 messenger.sberbankins.ru
+messenger.sbrf.ru
 meta.tricolor.ru
 metadata.eye.salute.ru
 metal-rates.mtsbank.ru
