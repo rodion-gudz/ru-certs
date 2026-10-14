@@ -149,6 +149,7 @@
 *.aes192.ru
 *.afisha.mail.ru
 *.afisha.ru
+*.aflt-systems.ru
 *.afmg.ru
 *.afo.autofinancebank.ru
 *.agatos.ru
@@ -348,6 +349,7 @@
 *.asia-pay.ru
 *.aslife.ru
 *.aspcom.ru
+*.aspecto.beauty
 *.asseta-am.ru
 *.ast-ins.ru
 *.astais.ru
@@ -538,6 +540,7 @@
 *.biysk22.ru
 *.bizmrg.com
 *.bk.ru
+*.bke.ru
 *.bkfortuna.ru
 *.bki-okb.com
 *.bki-okb.ru
@@ -2028,6 +2031,7 @@
 *.it-marathon.21-school.ru
 *.it4prof.ru
 *.itadmin.su
+*.itam.nsc.ru
 *.itb.ru
 *.itbez.ru
 *.itcomp.tech
@@ -4140,6 +4144,7 @@
 *.spectrinvest.ru
 *.spectrumdata.ru
 *.spectrumscoring.ru
+*.speechpro.hycl.ru
 *.speedtest.ru
 *.spimex.com
 *.spimex.ru
@@ -4168,6 +4173,12 @@
 *.sptz.ru
 *.sputniknews.ru
 *.spvb.ru
+*.sr003-nb.ai.cloud.ru
+*.sr004-nb.ai.cloud.ru
+*.sr005-nb.ai.cloud.ru
+*.sr006-nb.ai.cloud.ru
+*.sr008-nb.ai.cloud.ru
+*.sr009-nb.ai.cloud.ru
 *.sravni-labs.ru
 *.sravni-team.ru
 *.sravni.id
@@ -4201,6 +4212,7 @@
 *.stage-mesh.ad-tech.ru
 *.stage-srr.dfa-yc.dltru.org
 *.stage-tp.br.mosreg.ru
+*.stage.ai-agents.internal.cloud.ru
 *.stage.ai.mosreg.ru
 *.stage.aiplatform.mosreg.ru
 *.stage.aismz.mosreg.ru
@@ -4211,6 +4223,7 @@
 *.stage.base.akbars.ru
 *.stage.bi.mosreg.ru
 *.stage.biblio.mosreg.ru
+*.stage.cloud.ru
 *.stage.cloud.vk.com
 *.stage.cnp.mosreg.ru
 *.stage.crct.mosreg.ru
@@ -4504,6 +4517,7 @@
 *.team.vk.company.ru
 *.teams.sovcombank.ru
 *.teams.vk.com
+*.tech.cloud.ru
 *.tech.finuslugi.ru
 *.tech.gersains.ru
 *.tech.m-core.pro
@@ -4535,6 +4549,7 @@
 *.tender32.ru
 *.tensor.ru
 *.tern.ru
+*.terratech.ru
 *.terskyrayon.ru
 *.test-er.ru
 *.test-inspector.gosuslugi.ru
@@ -4689,6 +4704,7 @@
 *.ttk.ru
 *.ttransp.ru
 *.tubrb.ru
+*.tulaobr.ru
 *.tulunadm.ru
 *.turbozaim.ru
 *.turkmensky.ru
@@ -4838,6 +4854,7 @@
 *.vc.videos.livejournal.com
 *.vcs.gazprom.ru
 *.vdc.b2b.domru.ru
+*.vdi.cloud.ru
 *.vditrade.moex.com
 *.veb.ru
 *.veblife.ru
@@ -5123,6 +5140,7 @@
 *.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
 *.xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
 *.xn----7sbabhpxokex8c.xn--p1ai
+*.xn----7sbabrcgtg6afi1b.xn--p1ai
 *.xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
 *.xn----7sbcgoab9a0awmnp.xn--p1ai
 *.xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
@@ -6574,6 +6592,7 @@ asmpredprod.aoglonass.ru
 asopgate.transport.nspk.ru
 aspcom.ru
 aspect.sberbank.ru
+aspecto.beauty
 asset.root.t-software.tech
 asset.t-software.tech
 asseta-am.ru
@@ -7298,6 +7317,7 @@ bank.testkontur.ru
 bank.wb.ru
 bank.wildberries.ru
 bank.yandex.ru
+bank2.storage.bcs.ru
 bank45.ru
 banka-ui.dev
 bankdom.ru
@@ -7593,6 +7613,7 @@ bk.cts02-test.nornik.ru
 bk.novikom.ru
 bk.otpbank.ru
 bk.ru
+bke.ru
 bkfortuna.ru
 bki-okb.com
 bki-okb.ru
@@ -7652,6 +7673,7 @@ bonus.pskb.com
 bonus.uralsib.ru
 book.sbercity.ru
 booking-tec.ru
+booking-test.mkb.ru
 booking.mkb.ru
 booking.otpbank.ru
 booking.rostatus.ru
@@ -7695,6 +7717,7 @@ bratska.ru
 brazil.gazprom.ru
 brbcrb.mznso.ru
 brbmc.mznso.ru
+brdi32.ru
 bre-ad.tech
 bredy74.ru
 bremeco.ru
@@ -7777,6 +7800,7 @@ bus.gov.ru
 business-api.megafon.ru
 business-credit.ru
 business-max-dev.local.onecld.ru
+business.absolutbank.ru
 business.akbars.ru
 business.aresbank.ru
 business.auth.alfabank.ru
@@ -8202,6 +8226,7 @@ cfg.srv-hub.org
 cfg.tbank-online.com
 cfmc.ru
 cfo-front.alfabank.ru
+cfr-vzhuh-payment.cifra-bank.ru
 cft-psi.ecom.sberbank.ru
 cft.ift.sberbank.ru
 cgbp.ru
@@ -8314,6 +8339,8 @@ chelindbank.ru
 chelinvest.ru
 chelnyvodokanal.ru
 chelyabinsk.sveza.ru
+chem-react.rrcki.ru
+chem.rrcki.ru
 chemical.ru
 chernadmin.ru
 cherpwd.stal.ru
@@ -8569,6 +8596,7 @@ collab-edge.open.ru
 collab-edge.rencredit.ru
 collab-edge.sber.ru
 collab-edge.sberbank.ru
+collab-edge.sberleasing.ru
 collab-edge.slavneft-kng.ru
 collab-edge.uralsib.ru
 collab-edge.voiplab-ext.sberbank.ru
@@ -11130,6 +11158,7 @@ gost-api.7raduga.ru
 gost-os.ru
 gost.bstrv.ru
 gost.codifast.ru
+gost.glushkova.kim
 gost.if.db-test.vtb.ru
 gost.nkrapivindev.ru
 gost.otais.ru
@@ -11440,6 +11469,7 @@ help.gazprombank.investments
 help.home.megafon.ru
 help.jump.taxi
 help.kilbil.ru
+help.pilotems.com
 help.rcoko27.ru
 help.sinara.ru
 help.spasibo.digital
@@ -12299,6 +12329,7 @@ irao-engineering.ru
 irao-generation.ru
 irbis.sberbank-ast.ru
 irdc.tander.ru
+irea.rrcki.ru
 iredirector.vkteam.ru
 irexpertiza.ru
 irkat.ru
@@ -12311,6 +12342,7 @@ irkutsk.staging.megafon.ru
 irkutsk.sveza.ru
 irm-psi.sberbank.ru
 irm.sberbank.ru
+iro22.ru
 iro38.ru
 irs-krsk.ru
 irteya.ru
@@ -12355,6 +12387,7 @@ it.sch435.ru
 it24online.ru
 it4prof.ru
 itadmin.su
+itam.nsc.ru
 itarctica.ru
 itb.ru
 itbank.ru
@@ -14385,6 +14418,7 @@ meet.megafon.ru
 meet.ntv.ru
 meet.omk.ru
 meet.rosneft.ru
+meet.sberleasing.ru
 meet.tricolor.ru
 meet.uralsib.ru
 meet.uwca.ru
@@ -17391,6 +17425,9 @@ pushkin.api.vtb.ru
 pushkindk.ru
 pushkindoc.ru
 pushproducer.megafon.ru
+putcnfsoncpc-ift.cnfs.ru
+putcnfsoncpc-psi.cnfs.ru
+putcnfsoncpc.cnfs.ru
 putevki23.ru
 pvcd.ru
 pve-01.nii-kpg.ru
@@ -17469,6 +17506,7 @@ quarton.ru
 queue.snbank.ru
 quickstart.lenenergo.ru
 quickstart.rosseti-lenenergo.ru
+quik.absolutbank.ru
 quik.akbars.ru
 quik.gazprombank.ru
 quik.ingobank.ru
@@ -18538,6 +18576,7 @@ sberbankaktivno.ru
 sberbankins.ru
 sberbankvmeste.ru
 sberbs.ru
+sberbuild.ru
 sberbusiness.live
 sbercare-rds-gw-smkt-reserve.sber.ru
 sbercare-rds-gw-smkt.sber.ru
@@ -19602,6 +19641,7 @@ spectrumdata.ru
 spectrumscoring.ru
 speech.nx.s2b.tech
 speechpro.com
+speechpro.hycl.ru
 speechpro.ru
 speechprocess.otpbank.ru
 speed.kk.bank
@@ -19660,6 +19700,12 @@ sr-dc-0752.corp.gidroogk.com
 sr-rsk-032.corp.gidroogk.com
 sr.insales.ru
 sr.opros.rosneft.ru
+sr003-nb.ai.cloud.ru
+sr004-nb.ai.cloud.ru
+sr005-nb.ai.cloud.ru
+sr006-nb.ai.cloud.ru
+sr008-nb.ai.cloud.ru
+sr009-nb.ai.cloud.ru
 sr2019.mkb.ru
 sr2020.mkb.ru
 sradar.evotor.ru
@@ -19691,6 +19737,9 @@ srv-hub.org
 srv-nap01.utmn.ru
 srv-nap02.utmn.ru
 srv-nap03.utmn.ru
+srv-uc-ewe.sberleasing.ru
+srv-uc-ewe01.sberleasing.ru
+srv-uc-ewe02.sberleasing.ru
 srv.rt.ru
 srv01.msk.inforion.ru
 srv02.msk.inforion.ru
@@ -19704,6 +19753,8 @@ ssfo.rt.ru
 sshop.tricolor.ru
 ssl-test.megafon.ru
 ssl.sberbank.ru
+sslgate-cb.absolutbank.ru
+sslgate-vr.absolutbank.ru
 sslk.org
 sslvpn.cloud.ru
 sslvpn.econombank.ru
@@ -19798,6 +19849,7 @@ stage-srr.dfa-yc.dltru.org
 stage-termidesk.dds.astralinux.ru
 stage-tp.br.mosreg.ru
 stage-work.jump.finance
+stage.ai-agents.internal.cloud.ru
 stage.ai.mosreg.ru
 stage.aiplatform.mosreg.ru
 stage.aismz.mosreg.ru
@@ -19806,6 +19858,7 @@ stage.apps.mosreg.ru
 stage.arki.mosreg.ru
 stage.bi.mosreg.ru
 stage.biblio.mosreg.ru
+stage.cloud.ru
 stage.cloud.vk.com
 stage.cnp.mosreg.ru
 stage.crct.mosreg.ru
@@ -20476,6 +20529,7 @@ teatr.tricolor.ru
 teatrvfk.ru
 tebs.sovcombank.ru
 tech-inv.org
+tech.cloud.ru
 tech.m-core.pro
 tech.mail.ru
 tech.sber.pro
@@ -20533,6 +20587,7 @@ terminal.mtsbank.ru
 tern.ru
 terra.rt.ru
 terraform.cloud.ru
+terratech.ru
 terskiyraiyon.ru
 terskyrayon.ru
 tesb.rosatom.ru
@@ -21104,6 +21159,7 @@ tula.megafon.ru
 tula.staging.megafon.ru
 tula.tricolor.ru
 tulamash.ru
+tulaobr.ru
 tulunadm.ru
 tun.htv.kion.ru
 turbolk.ru
@@ -21253,6 +21309,7 @@ udmurtneft.ru
 udr.eye.salute.ru
 uecard.ru
 uecrus.com
+uem.cloud.ru
 uem.ecom.tech
 uem.mtsbank.ru
 uemc73.ru
@@ -21582,6 +21639,7 @@ vdc.tricolor.ru
 vdi-cps.cloud.mts.ru
 vdi-gw1.domrf.ru
 vdi-gw2.domrf.ru
+vdi.cloud.ru
 vdi.domrf.ru
 vdi.mts.ru
 vdi.mtsbank.ru
@@ -22559,6 +22617,7 @@ www.aeromax-group.ru
 www.aeromax.pro
 www.aerosila.ru
 www.afisha.ru
+www.aflt-systems.ru
 www.afmg.ru
 www.afo.autofinancebank.ru
 www.ag.alfastrah.ru
@@ -23034,6 +23093,7 @@ www.dd.pochtabank.ru
 www.de.sveza.com
 www.debitoriya.ru
 www.defense.insure
+www.defense.ru
 www.deletron.ru
 www.delo.ru
 www.demetra.pskb.com
@@ -24577,6 +24637,7 @@ www.sberbank1.ru
 www.sberbankactivno.ru
 www.sberbankaktivno.ru
 www.sberbankins.ru
+www.sberbuild.ru
 www.sberbusiness.live
 www.sbercib.ru
 www.sberdisk.dev
@@ -24935,6 +24996,7 @@ www.tender.rosneft.com
 www.tender.rosneft.ru
 www.tender32.ru
 www.terra.rt.ru
+www.terratech.ru
 www.terskyrayon.ru
 www.test-appweb.broker.vtb.ru
 www.test-in.rt.ru
@@ -25215,6 +25277,7 @@ www.wvp-svcadp-app1.sovcombank.group
 www.wvt-svcadp-app1.sovcombank.group
 www.xml-online-tst.spasibobonus.ru
 www.xml-online.spasibobonus.ru
+www.xn----7sbabrcgtg6afi1b.xn--p1ai
 www.xn----7sbnqazjhcv.xn--p1ai
 www.xn----7sbnqvigct4i.xn--p1ai
 www.xn----8sbbihcb3bgbrodc7b3gzc.xn--p1ai
@@ -25379,6 +25442,7 @@ xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
 xn----7sbabgkcfy0anwjbja7a.xn--p1ai
 xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
 xn----7sbabhpxokex8c.xn--p1ai
+xn----7sbabrcgtg6afi1b.xn--p1ai
 xn----7sbapmmvk3aflf8ktb.xn--d1aqf.xn--p1ai
 xn----7sbb1amddko8c7b4b.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
