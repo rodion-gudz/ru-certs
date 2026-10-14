@@ -2023,6 +2023,7 @@
 *.is-mmk.ru
 *.isbank.com.ru
 *.isiton.ru
+*.isp.nsc.ru
 *.issras.ru
 *.istokmw.ru
 *.it-brigita.ru
@@ -5627,6 +5628,7 @@ abm.alfabank.ru
 abm.cloud.mts.ru
 abmosk.ru
 abmrus.alfabank.ru
+abooks.pakhonin.ru
 about.enrollme.ru
 abr.ru
 abs-kassa.ru
@@ -7678,6 +7680,7 @@ booking.mkb.ru
 booking.otpbank.ru
 booking.rostatus.ru
 books.megafon.ru
+books.pakhonin.ru
 boom.ru
 boostdevelopment.ru
 bootcamp-sberid.pcbltools.ru
@@ -9304,6 +9307,7 @@ dev.cloud.ru
 dev.cnp.mosreg.ru
 dev.crct.mosreg.ru
 dev.crypto.gsn.mosreg.ru
+dev.daytona-proseca.t-tech.ru
 dev.dev.lk.astra-team.ru
 dev.digital.mosreg.ru
 dev.digital.rt.ru
