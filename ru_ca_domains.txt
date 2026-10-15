@@ -6282,7 +6282,9 @@ api.external.platichastyami.ru
 api.external.platichastyamiuat.ru
 api.f-std.org
 api.gazprombank.ru
+api.giga-agent.ru
 api.giga.chat
+api.gigaagent.ru
 api.gigalegal.sber.ru
 api.hightracker.pro
 api.hr-dev.sberbank.ru
@@ -6724,6 +6726,8 @@ auth.eye.salute.ru
 auth.f-pvo.ru
 auth.fgislk.gov.ru
 auth.fx.bspb.ru
+auth.giga-agent.ru
+auth.gigaagent.ru
 auth.gosoc.ru
 auth.gosschool.ru
 auth.gt-arena.nso.ru
@@ -6746,6 +6750,7 @@ auth.sbervideo.sberbank.ru
 auth.sinara-finance.ru
 auth.szavoz.gov.ru
 auth.test-inspector.gosuslugi.ru
+auth.travel.gazprombank.ru
 auth.whiteboard.sberbank.ru
 auth13.sber.ru
 auth3.sber.ru
@@ -10997,11 +11002,13 @@ gid.vk.com
 gidropribor.ru
 gift.otpbank.ru
 giftcertificates.spasibo.digital
+giga-agent.ru
 giga.chat
 giga.id
 gigaadmin.gigacollector.eye.salute.ru
 gigaadmin.gigacollector.sberdevices.ru
 gigaadmin.ift.gigacollector.eye.salute.ru
+gigaagent.ru
 gigab2b.ru
 gigabot.sberdevices.ru
 gigachat-cn-mr.speechpro.com
@@ -15765,6 +15772,7 @@ omiko-dev.omk.ru
 omiko.omk.ru
 omk.ru
 omni-test.max.gazprombank.ru
+omni.travel.gazprombank.ru
 omnibot.chat.msbapps.ru
 omnibot.chat.psbank.ru
 omnichannel.mts.ru
