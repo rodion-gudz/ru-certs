@@ -238,6 +238,7 @@
 *.am.ru
 *.amelia-sm.ru
 *.amelia-st.ru
+*.amocrm.ru
 *.amperenergo.ru
 *.amplisens.ru
 *.amrro.ru
@@ -1739,6 +1740,8 @@
 *.guion.spb.ru
 *.guriev.sk
 *.gusr.ru
+*.gusstufo.ru
+*.gussvsk.ru
 *.gutabank.ru
 *.gutains.ru
 *.gutapay.ru
@@ -2469,10 +2472,13 @@
 *.media-feature.web.s7.ru
 *.media-sellgate.mail.ru
 *.media.eagleplatform.com
+*.median.ru
 *.mediaprojects-superset.portal.vk.team
 *.mediascope.net
 *.medkhv.ru
 *.meds.miac74.ru
+*.meet-evo.cloud.ru
+*.meet.cloud.ru
 *.megafon-dfs.ivi-mc.ru
 *.megafon.mail.ru
 *.megafon.ru
@@ -2596,6 +2602,7 @@
 *.mobile.api.crpt.ru
 *.mobileapp.severstal.com
 *.mobilecheck.pro
+*.modelrun.inference.internal.cloud.ru
 *.modernsys.ru
 *.modulbank.ru
 *.modulbuh.ru
@@ -2700,6 +2707,7 @@
 *.mtsdengi.ru
 *.mtsmedia.ru
 *.mtt.ru
+*.mufg.ru
 *.multicarta.ru
 *.multimedia.mil.ru
 *.multimedia.old.mil.ru
@@ -2818,6 +2826,7 @@
 *.nkpis.ru
 *.nlb.nexign.com
 *.nloto.megafon.ru
+*.nloto.ru
 *.nlrs.ru
 *.nm-conference.ru
 *.nmarket.pro
@@ -2836,6 +2845,7 @@
 *.norvik.ru
 *.norvikbank.ru
 *.noszr.rt.ru
+*.notebooks.cloud.ru
 *.notes.mail.ru
 *.notify.local.onecld.ru
 *.notify.vk.company
@@ -3271,6 +3281,7 @@
 *.prod-k8s-m1-2.web.s7.ru
 *.prod-mesh.ad-tech.ru
 *.prod.ad-tech.ru
+*.prod.ai-agents.internal.cloud.ru
 *.prod.amazme.ru
 *.prod.broker-sb.io
 *.prod.df.sibintek.ru
@@ -3554,6 +3565,7 @@
 *.rencap.ru
 *.rencredit.ru
 *.renexpress.ru
+*.repo.sbc.space
 *.report.wsm.alfastrah.ru
 *.repository.cloud-bss.ertelecom.ru
 *.rerihspbhu.ru
@@ -3600,6 +3612,7 @@
 *.rms.u6.ru
 *.rn-bank.ru
 *.rn-grp.ru
+*.rniirs.ru
 *.rnrc.ru
 *.roadkursk.ru
 *.rock-digital.ru
@@ -6108,6 +6121,7 @@ amelia-st.ru
 amet.ru
 aml.bm-bank.ru
 aml.vbank.ru
+amocrm.ru
 amperenergo.ru
 amplisens.ru
 amrro.ru
@@ -8275,6 +8289,7 @@ chat.chatdev.psbank.ru
 chat.chattest.psbank.ru
 chat.corp.mango.ru
 chat.gbo.gazprombank.ru
+chat.gzas.ru
 chat.ingobank.ru
 chat.invest.psbank.ru
 chat.jump.finance
@@ -10122,6 +10137,7 @@ elektro-32.ru
 elementary.center
 elena.megafon.ru
 elf.vitabank.ru
+elis-gitlab.transneft.ru
 elisov.ru
 elista.home.megafon.ru
 elk-auth.roszdravnadzor.gov.ru
@@ -11030,6 +11046,8 @@ gigaintelligence-dev.eye.salute.ru
 gigaintelligence.eye.salute.ru
 gigalegal.sber.ru
 gigalegal.sberbank.ru
+gigavoice-ift.devicestest.sberbank.ru
+gigavoice.devices.sberbank.ru
 gilenko.ru
 gilkom-complex.ru
 ginras.ru
@@ -11343,6 +11361,8 @@ gupti.ru
 guriev.sk
 gusevdmitry.ru
 gusr.ru
+gusstufo.ru
+gussvsk.ru
 gutabank.ru
 gutains.ru
 gutapay.ru
@@ -12737,6 +12757,7 @@ keycloak.psi.legalforms.sberpravo.ru
 keycloak.sberpravo.ru
 keycloak.srm2.magnit.ru
 kfsar.ru
+kg.megafon.ru
 kgainfo.spb.ru
 kgb26.ru
 kgm.ru
@@ -12876,6 +12897,7 @@ kostenok.ru
 kostroma.sveza.ru
 kot.sveza.com
 kotlin-novator.ru
+kozlov-roman.ru
 kpb2.ru
 kpl32.ru
 kpncrb.mznso.ru
@@ -14146,6 +14168,7 @@ mailrugroup.com
 mailrugroup.ru
 mailsec.o3t.ru
 mailserver.ru
+mailsrv.in-vent.ru
 mailtest.domru.ru
 mailx-test1.psbank.ru
 mailx-test2.psbank.ru
@@ -14403,6 +14426,7 @@ media1.as50464.net
 media2.as50464.net
 medials-cdn.rocketbank.ru
 medials2-cdn.rocketbank.ru
+median.ru
 mediaplan.sber.ru
 mediaprojects-superset.portal.vk.team
 mediascope.net
@@ -14417,6 +14441,7 @@ medkhv.ru
 medploda.ncagp.ru
 medtrans.mznso.ru
 medtrans3.mznso.ru
+meet-evo.cloud.ru
 meet-sqd.absolutbank.ru
 meet-squadus.tricolor.ru
 meet-tur.rosneft.ru
@@ -14795,6 +14820,7 @@ mobsbortst.pochtabank.ru
 mobterm.ncsp.ru
 mobtv.tricolor.ru
 mock.staging.mgw.mts.ru
+modelrun.inference.internal.cloud.ru
 modem.czs-anadyr.ru
 moderita.ru
 modulbank.ru
@@ -15490,6 +15516,7 @@ norvik.ru
 norvikbank.ru
 nosp.mznso.ru
 noszr.rt.ru
+notebooks.cloud.ru
 notes.mail.ru
 notify.app-assistent.open.ru
 notify.local.onecld.ru
@@ -17164,6 +17191,7 @@ prod-publicapi.sberfactoring.ru
 prod-work.jump.finance
 prod.acq.gazprombank.ru
 prod.ad-tech.ru
+prod.ai-agents.internal.cloud.ru
 prod.broker-sb.io
 prod.nspd.rosreestr.gov.ru
 prod.platform.md.magnit.ru
@@ -17516,6 +17544,7 @@ qr.sberbank.ru
 qrpays.ru
 qtom.ru
 qtrm.ru
+quadcom.biz
 quality.spb.ru
 quarton.ru
 queue.snbank.ru
@@ -17738,6 +17767,7 @@ rapi.vneshbank.ru
 rapporto.ru
 rapporto.tech
 ras03.spasibosb.ru
+ras10.sberdevices.ru
 rasp.bukep.ru
 raspisanie-btt.ru
 rate.mail.ru
@@ -17920,6 +17950,7 @@ repa.plagate.ru
 repair-calculator.ru
 repair.vtb.ru
 repo.aaacapital.ru
+repo.sbc.space
 repo.spasibobonus.ru
 report-nuc.tst.mobile.yandex.net
 report-viewer.addy.su
@@ -18005,6 +18036,7 @@ rian.ru
 rief.sber.ru
 rifpark.ru
 rikt.ru
+ringo.sberinsur.ru
 ris-gmp.nso.ru
 ris61edu.ru
 ritm.mtsbank.ru
@@ -22268,6 +22300,7 @@ webtutor.otpbank.ru
 webview-mirror.ru
 webview.ant-t01asl.dmz.gazprombank.ru
 webview.sbervideo.sberbank.ru
+webview.smartview.sber.ru
 webx.domrf.ru
 wed-agent-api.eye.salute.ru
 wefa-station.s7.ru
@@ -23750,6 +23783,7 @@ www.komontrol.ru
 www.konus.group
 www.kop.gazprom.ru
 www.kopss43.ru
+www.kozlov-roman.ru
 www.krasfin.ru
 www.krasnarm.ru
 www.krasnodar.ru

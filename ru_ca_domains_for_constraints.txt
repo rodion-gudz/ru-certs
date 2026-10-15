@@ -229,6 +229,7 @@ amazme.ru
 amelia-sm.ru
 amelia-st.ru
 amet.ru
+amocrm.ru
 amperenergo.ru
 amplisens.ru
 amrro.ru
@@ -1532,11 +1533,14 @@ gupti.ru
 guriev.sk
 gusevdmitry.ru
 gusr.ru
+gusstufo.ru
+gussvsk.ru
 gutabank.ru
 gutains.ru
 gutapay.ru
 gvtools.ru
 gz-spb.ru
+gzas.ru
 h1n.ru
 h43.ru
 hair-boutique.ru
@@ -1673,6 +1677,7 @@ imf.ru
 imgsmail.ru
 in-bank.ru
 in-ko.ru
+in-vent.ru
 inbox.ru
 indepo.ru
 index20.ru
@@ -1954,6 +1959,7 @@ koshelek.app
 koshelev-bank.ru
 kostenok.ru
 kotlin-novator.ru
+kozlov-roman.ru
 kpb2.ru
 kpbs.ru
 kpl32.ru
@@ -2234,6 +2240,7 @@ med-to.ru
 med-vdk.ru
 medexpress.ru
 medfair.ru
+median.ru
 mediascope.net
 medkhv.ru
 megafon.cloud
@@ -3088,6 +3095,7 @@ qplus.ru
 qrpays.ru
 qtom.ru
 qtrm.ru
+quadcom.biz
 quarton.ru
 qui-quo.ru
 quto.ru
@@ -3443,6 +3451,7 @@ sayanreabil.ru
 sb-broker.ru
 sb-s.ru
 sbbuild.ru
+sbc.space
 sber-a.ru
 sber-bank.by
 sber-pravo.com
