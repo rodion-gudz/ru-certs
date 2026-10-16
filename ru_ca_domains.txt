@@ -1440,6 +1440,7 @@
 *.fam-penza.pnzreg.ru
 *.famadmin-penza.pnzreg.ru
 *.favr.ru
+*.fbuz11.ru
 *.fbuz16.ru
 *.fbuz66.ru
 *.fc-zenit.ru
@@ -1832,6 +1833,7 @@
 *.i-dgtl.ru
 *.i-exam.ru
 *.iac.spb.ru
+*.iam.cloud.ru
 *.iaz.yakovlev.ru
 *.ib.bizmrg.com
 *.ib.cldmail.ru
@@ -1875,9 +1877,11 @@
 *.id.r.vk.ru
 *.id.r2.vk.ru
 *.id.rambler.ru
+*.id.ru
 *.id.sber.ru
 *.id.tau.vk.com
 *.id.tau.vk.ru
+*.idkyc-rc.mts.ru
 *.idkyc.mts.ru
 *.idm-penza.pnzreg.ru
 *.idm.vk.team
@@ -2568,6 +2572,7 @@
 *.mintrud.gov.ru
 *.minzdravao.ru
 *.mio26.ru
+*.mipt.ru
 *.mir-telecom.ru
 *.miranda-media.ru
 *.mirdomovyat.ru
@@ -2818,6 +2823,7 @@
 *.nii-nk.ru
 *.nii-vektor.ru
 *.niige.ru
+*.niineptun.ru
 *.niip.ru
 *.niitp.ru
 *.nimro.ru
@@ -2972,6 +2978,7 @@
 *.old.mil.ru
 *.oltest.cloud.mts.ru
 *.ombsk.biz
+*.ombudsman.gov.ru
 *.ombudsman33.ru
 *.omesc.ru
 *.omgups.ru
@@ -3532,6 +3539,7 @@
 *.rc.rg.gov.ru
 *.rc.sovcomins.ru
 *.rcalng.ru
+*.rcngroup.ru
 *.rcoko27.ru
 *.rdb.ru
 *.rdc.spb.ru
@@ -4167,6 +4175,7 @@
 *.spimex.com
 *.spimex.ru
 *.spo.asurso.ru
+*.spoarktika.ru
 *.sport.m.vkvideo.tau.vk.com
 *.sport.m.vkvideo.tau.vk.ru
 *.sport.mail.ru
@@ -4886,6 +4895,7 @@
 *.vendor.kion.ru
 *.venets-bank.ru
 *.verhneuralsk.ru
+*.verinson.ru
 *.vesna-aster.ru
 *.vesna-group.ru
 *.vesna-tech.ru
@@ -5485,6 +5495,7 @@
 26.rospotrebnadzor.ru
 27.ctlog.digital.gov.ru
 27.rospotrebnadzor.ru
+28.ctlog.digital.gov.ru
 2fa-ce.rt.ru
 2fa-dv.rt.ru
 2fa-gd.rt.ru
@@ -6351,6 +6362,7 @@ api.mts.ru
 api.mtsbank.ru
 api.mtsdengi.ru
 api.music.mts.ru
+api.mwsapis.ru
 api.ocs.ru
 api.open-broker.ru
 api.opros.lenta.com
@@ -6694,7 +6706,9 @@ atz.ru
 au.gumowsky.com
 au.sfn-am.ru
 aucportal.alfabank.ru
+audit.mwsapis.ru
 audit.whiteboard.sberbank.ru
+auditlogs.mwsapis.ru
 aur.alfabank.ru
 aurora-ift.vtb.ru
 aurora-music.ru
@@ -6760,9 +6774,11 @@ auth.jazz.sberbank.ru
 auth.meet.cloud.ru
 auth.megafon.ru
 auth.meteo.ru
+auth.mws.ru
 auth.pochtabank.ru
 auth.prostobank.online
 auth.pulse.veb.ru
+auth.rc.mws.ru
 auth.sber.ru
 auth.sberbank.ru
 auth.sberbankins.ru
@@ -7306,6 +7322,8 @@ backend-lt.test-jazz.sberbank.ru
 backend-psi.test-jazz.sberbank.ru
 backend.jazz.sberbank.ru
 backend.spasibosb.ru
+backoffice.mws.ru
+backoffice.rc.mws.ru
 backup.1c.ru
 backup.ba.ru.net
 bacon.ad-tech.ru
@@ -7592,6 +7610,7 @@ billing-internal-dg.vkpay.ru
 billing-internal.vkpay.ru
 billing-test.vk.team
 billing.ift.sberdevices.ru
+billing.mwsapis.ru
 billing.root.t-software.tech
 billing.ru
 billing.sbercloud.store
@@ -8094,6 +8113,7 @@ cdn.lifetechx.ru
 cdn.max.ru
 cdn.mdigital.ru
 cdn.mobilecheck.pro
+cdn.mwsapis.ru
 cdn.ngenix.net
 cdn.oneme.ru
 cdn.online.sberbank.ru
@@ -8533,6 +8553,7 @@ cloud.mts.ru
 cloud.nii-kpg.ru
 cloud.nsg-ins.ru
 cloud.oaovoentorg.ru
+cloud.pakhonin.ru
 cloud.psbank.ru
 cloud.rc.senat.sberbank.ru
 cloud.spbfsb.ru
@@ -8569,6 +8590,7 @@ cmdb-gw.speechpro.com
 cmdb.devmail.ru
 cmec.spb.ru
 cmiap-app.minzdrav.gov.ru
+cmiap-note.minzdrav.gov.ru
 cmrbank.pro
 cmrbank.ru
 cms-edge.slavneft-kng.ru
@@ -8952,6 +8974,7 @@ crm2t-n.aaacapital.ru
 crm2t.aaacapital.ru
 crmbpm.spasibosb.sigma.sbrf.ru
 croc.ru
+cross-hub-sbsj.sberinsur.ru
 cross-kpk.ru
 crossover.pay.sberbank.ru
 crp-usg-vgate1.sovcombank.group
@@ -9140,6 +9163,7 @@ datatracker.tech
 dating.rambler.ru
 davay-delit.ru
 davical.inforion.ru
+dayseducaltai.ru
 db.argds.ru
 db.ertelecom.ru
 db.vtb.ru
@@ -9277,6 +9301,7 @@ demo.sberpravo.ru
 demo.sbm.sberbank.ru
 demo.skit.rt.ru
 demo.spasibobonus.ru
+demo2.hycl.ru
 demo2.sberpravo.ru
 demo3.hycl.ru
 democorporate.psbank.ru
@@ -10558,6 +10583,7 @@ favoritdelast.deltacredit.ru
 favr.ru
 fbq.ru
 fbuz.20.rospotrebnadzor.ru
+fbuz11.ru
 fbuz16.ru
 fbuz41.rospotrebnadzor.ru
 fbuz66.ru
@@ -11009,6 +11035,7 @@ gersains.ru
 gerzel.ru
 gesbb.ru
 gesbt.ru
+get-package.oparina4.ru
 get.kompas.ru
 get.ruitb.ru
 get.skbfinance.ru
@@ -11698,6 +11725,7 @@ iam-int-admin.cloud.ru
 iam-int.cloud.ru
 iam-reserv.stage.cloud.ru
 iam.ads.sber.ru
+iam.cloud.ru
 iam.dev.cloud.ru
 iam.stage.cloud.ru
 iamx.tochka.com
@@ -11879,6 +11907,7 @@ id.r.vk.com
 id.r.vk.ru
 id.ra.sberins.ru
 id.rambler.ru
+id.ru
 id.sber.ru
 id.srv-hub.org
 id.t-avia.org
@@ -11908,6 +11937,7 @@ identity.mts.ru
 identitystatic.mts.ru
 identix.key.rt.ru
 identt.tch.ru
+idkyc-rc.mts.ru
 idkyc.mts.ru
 idm-penza.pnzreg.ru
 idm.b.mtsbank.ru
@@ -12608,6 +12638,7 @@ k8s.eas.startups.su
 k8s.open-broker.ru
 k8stest2creditonline.toyotafs.ru
 k8stestcreditonline.toyotafs.ru
+ka.megafon.ru
 ka.vtb.ru
 kabardinka-metro.ru
 kabinet.vtb.ru
@@ -13402,6 +13433,7 @@ lms.lomt.ru
 lms.miac.gov74.ru
 lms.tavolga.center
 lndresearch.sberuniversity.ru
+lnr.rspp.ru
 lnvrb.mznso.ru
 lo-miac.ru
 loan.otpbank.ru
@@ -13949,6 +13981,7 @@ mail.ncsp.com
 mail.nfs.sinara-finance.ru
 mail.nic-itep.ru
 mail.nii-kpg.ru
+mail.niineptun.ru
 mail.nofrr.ru
 mail.noosferabank.com
 mail.noosferabank.net
@@ -14682,6 +14715,7 @@ minternet-preprod.tricolor.ru
 mintrud.gov.ru
 minzdravao.ru
 mio26.ru
+mipt.ru
 mir-acs.in-bank.ru
 mir-hce-notifications.prod.yandex-bank.net
 mir-telecom.ru
@@ -15118,6 +15152,7 @@ mx.inforion.ru
 mx.lynx-texts.ru
 mx.mkp.ru.net
 mx.mufg.ru
+mx.niineptun.ru
 mx.ns-bank.ru
 mx.prod.yandex-bank.net
 mx.roadkursk.ru
@@ -15447,6 +15482,7 @@ nid-cloud.speechpro.com
 nii-kpg.ru
 nii-vektor.ru
 niidpo.ru
+niineptun.ru
 niip.ru
 niipolyus.ru
 niitp.ru
@@ -15808,6 +15844,7 @@ oldnet.su
 olimpicshop.ru
 oltest.cloud.mts.ru
 ombsk.biz
+ombudsman.gov.ru
 ombudsman33.ru
 omiko-app-dev.omk.ru
 omiko-app.omk.ru
@@ -19727,6 +19764,7 @@ spkk-static-web.online.sberbank.ru
 spkk-static-web.sberbank.ru
 spkk-static.sberbank.ru
 spn.sinara-finance.ru
+spoarktika.ru
 spok359.megafon.ru
 spokdealer.megafon.ru
 spokdealer2.megafon.ru
@@ -20153,6 +20191,7 @@ stc-nexus.speechpro.com
 stcnet.ru
 stentor.team.centrinvest.ru
 stentor.vneshbank.ru
+stepan.su
 stepnoe-rb.ru
 stf.vk.team
 stg-sso.keyid.rt.ru
@@ -20458,6 +20497,7 @@ tagme.ru
 tagme.sberdevices.ru
 tagme.space
 tahtapni.ru
+taisfront.emb.ru
 talent.alfabank.ru
 talisman-so.ru
 talisman-web.ru
@@ -21278,6 +21318,7 @@ tvpn01.sovcombank.group
 tvrpost.sonarplus.ru
 tvzvezda.ru
 tw.creditural.ru
+twisfront.emb.ru
 twistask.ru
 twork-api-wo.srv-hub.org
 twork-fks.tbank.ru
@@ -21741,6 +21782,7 @@ venus.magnitcosmetic.ru
 verbilki-snt.ru
 verhneuralsk.ru
 verify.megafon.ru
+verinson.ru
 vertek.ru
 vesna-aster.ru
 vesna-group.ru
@@ -22242,6 +22284,7 @@ web.infteh.ru
 web.kamaz.org
 web.modulbank.ru
 web.nrb.ru
+web.nsbank.ru
 web.pochtabank.ru
 web.qtom.ru
 web.snavi.ru
@@ -23355,6 +23398,7 @@ www.famadmin-penza.pnzreg.ru
 www.family-api.mts.ru
 www.fatca.pochtabank.ru
 www.favr.ru
+www.fbuz11.ru
 www.fcao.ru
 www.fdom.su
 www.federation.mts.ru

@@ -848,6 +848,7 @@ datapol.ru
 datatracker.pro
 datatracker.tech
 davay-delit.ru
+dayseducaltai.ru
 db.vtb
 dbo-dengi.online
 dbo-zemcombank.ru
@@ -1213,6 +1214,7 @@ fakel-russia.ru
 faktura.ru
 favr.ru
 fbq.ru
+fbuz11.ru
 fbuz16.ru
 fbuz66.ru
 fc-zenit.ru
@@ -1647,6 +1649,7 @@ icq.com
 icq.im
 icq.net
 ictrend.ru
+id.ru
 ids-llc.ru
 ids-llc.su
 idwb.ru
@@ -2312,6 +2315,7 @@ minsoc26.ru
 minsoc31.ru
 minzdravao.ru
 mio26.ru
+mipt.ru
 mir-telecom.ru
 miranda-media.ru
 mirdomovyat.ru
@@ -2464,6 +2468,7 @@ mvroddom.ru
 mvs-bank.ru
 mwms.ru
 mws.ru
+mwsapis.ru
 my.com
 myautopodpiska.ru
 myavrmaxwebhook.ru
@@ -2563,6 +2568,7 @@ nii-nk.ru
 nii-vektor.ru
 niidpo.ru
 niige.ru
+niineptun.ru
 niip.ru
 niipolyus.ru
 niitp.ru
@@ -3892,6 +3898,7 @@ speechxplore.ru
 speedtest.ru
 spimex.com
 spimex.ru
+spoarktika.ru
 sport1tv.ru
 sport24.cloud
 sportclub24.ru
@@ -3960,6 +3967,7 @@ stc-groups.ru
 stc-spb.ru
 stcnet.ru
 stcollector.ru
+stepan.su
 stepnoe-rb.ru
 stgmu.ru
 stilkuhni.ru
@@ -4456,6 +4464,7 @@ velosport.ru
 venets-bank.ru
 verbilki-snt.ru
 verhneuralsk.ru
+verinson.ru
 vertek.ru
 vesna-aster.ru
 vesna-group.ru
