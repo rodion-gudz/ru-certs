@@ -1662,6 +1662,7 @@ iiko.it
 iiko.tech
 iitp.ru
 iitrust.ru
+iiun.ru
 ik66.ru
 ikac.ru
 ikar-eng.ru
@@ -1875,6 +1876,7 @@ karo-film.ru
 karofilm.ru
 karta03.ru
 kartahalva.ru
+kartavoprosov.ru
 karthalva.ru
 kartomarket.ru
 kartoteka.ru
@@ -4858,6 +4860,7 @@ xn--80aeakmgi9azaci1dvg.xn--p1ai
 xn--80aebecah6apa1adyldqm2sra.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80aegbkvxddlre.xn--p1ai
+xn--80aegdqmtlj.xn--p1ai
 xn--80aeimkqakctc.xn--p1ai
 xn--80aeiunabfe8a.xn--p1ai
 xn--80aejucoh4c.xn--p1ai
