@@ -20418,6 +20418,7 @@ symptomcheker.ru
 synapse-test-kc.ast-innovation.ru
 synapse-test.ast-innovation.ru
 sync.rambler.ru
+syncthing.pakhonin.ru
 synt.vacr.vtb.ru
 system.gkif.ru
 sz.gkovd.ru
