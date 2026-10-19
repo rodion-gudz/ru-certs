@@ -1190,6 +1190,7 @@ evotor.me
 evotor.ru
 evotorpay.ru
 evrofinance.ru
+excimerclinic.ru
 exiar.ru
 exibank.ru
 eximbank.ru
@@ -1928,6 +1929,7 @@ kionstroki.ru
 kirov.ru
 kirrb.ru
 kirzdrav.ru
+kit.group
 kk.bank
 kk.ru
 kkbmk.ru
@@ -2293,6 +2295,7 @@ mgtlogistic.ru
 miac74.ru
 micard.ru
 microbe.ru
+microem.ru
 midep.ru
 mig-os.ru
 migom.info
@@ -2647,6 +2650,7 @@ npo-at.com
 npo-rtc.ru
 npo-saturn.ru
 npoa.ru
+npoelm.ru
 npovk.ru
 nprts.ru
 npzoptics.ru
@@ -3009,6 +3013,7 @@ polly.events
 polosatayaloshadka.ru
 polus-tomsk.ru
 polyot.ru
+ponpz.ru
 porprokat.ru
 portal-da.ru
 portalkso.ru
@@ -3178,6 +3183,7 @@ red-soft.ru
 red1dark.ru
 reddatabase.ru
 redkit-lab.work
+redosm.ru
 reestr-proton.ru
 reestrrn.ru
 reetmik.ru
@@ -3353,6 +3359,8 @@ rt-insurance.ru
 rt-sk.ru
 rt.com
 rt.ru
+rtbapp.ru
+rtbapp.su
 rtdigital.ru
 rthome.ru
 rtinform.ru
@@ -3915,6 +3923,7 @@ sportmaster.ru
 sportrezerv24.ru
 sportryadom.ru
 sportsdzen.ru
+spravedlivo.ru
 spsc.ru
 sptz.ru
 sputniknews.ru
@@ -4793,6 +4802,7 @@ xn--74-6kciaruz2adlrkd2m.xn--p1ai
 xn--74-glcazquyatc.xn--p1ai
 xn--80a2alo.xn--p1ai
 xn--80aa2azabkj.xn--p1ai
+xn--80aa3ak5a.xn--p1ai
 xn--80aaa0ah4bemef6c.xn--p1ai
 xn--80aaa6cmfh0a9d.xn--p1ai
 xn--80aaaa1bhnclcci1cl5c4ep.xn--p1ai
