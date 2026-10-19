@@ -8834,6 +8834,7 @@ cosmetic.magnit.ru
 cosmoengine.cyberkoalastudios.com
 cosmos-bank.ru
 cosmos.mfk-bank.ru
+cosmoservice.space
 cost-price-api.ocs.ru
 counter.rambler.ru
 courier-test.otpbank.ru
@@ -13267,6 +13268,7 @@ livejournal.com
 livejournal.net
 livejournal.org
 livejournal.ru
+liveservice.spb.ru
 lj-toys.com
 lj.ru
 ljplus.ru
@@ -16982,6 +16984,7 @@ podeli.alfagen.alfabank.ru
 podorozhnik.spb.ru
 podpis.sber.ru
 podpiskimf.ru
+podvigi-rossii.ru
 pofd.ru
 pofd.su
 pogardshi.ru
@@ -23948,6 +23951,7 @@ www.livejournal.com
 www.livejournal.net
 www.livejournal.org
 www.livejournal.ru
+www.liveservice.spb.ru
 www.lj-toys.com
 www.lj.ru
 www.ljplus.ru
