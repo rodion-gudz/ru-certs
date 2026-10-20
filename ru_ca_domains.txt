@@ -1389,6 +1389,7 @@
 *.esphere.ru
 *.esrn.spb.ru
 *.etc48.ru
+*.ether-platform.ru
 *.etp-ets.ru
 *.etp-torgi.ru
 *.etpgpb.ru
@@ -1550,6 +1551,7 @@
 *.frsd.ru
 *.fsev.tech
 *.fsnsamara.ru
+*.fsrpn.ru
 *.fss.ru
 *.fstec.ru
 *.fsvps.gov.ru
@@ -2350,6 +2352,7 @@
 *.lpk.21-school.ru
 *.lsfgame.ru
 *.lt.sberdevices.ru
+*.ltk.com.ru
 *.luchi.ru
 *.lukoil.com
 *.lukoil.ru
@@ -3220,6 +3223,7 @@
 *.pluspay.ru
 *.pmcloud.sbertech.ru
 *.pmh.moex.com
+*.pmz.ru
 *.pni4spb.ru
 *.pnzmed.ru
 *.pnzreg.ru
@@ -3293,6 +3297,7 @@
 *.pro-chek.ru
 *.pro.lukoil.com
 *.probank.pro
+*.probe.perecle.ru
 *.prod-k8s-m1-1.web.s7.ru
 *.prod-k8s-m1-2.web.s7.ru
 *.prod-mesh.ad-tech.ru
@@ -5387,6 +5392,7 @@
 *.zen.zeta.dzen.ru
 *.zenabout.ru
 *.zenit.ru
+*.zenitfactor.ru
 *.zero-m12.asudd.net
 *.zgr.im
 *.zhivagobank.ru
@@ -5993,6 +5999,7 @@ airflow-dev-gigacapture.giga.salute.ru
 airflow-dev-pretrain.eye.salute.ru
 airflow-dev.giga.salute.ru
 airflow-gigabus.giga.salute.ru
+airflow-gigacapture-storm.giga.salute.ru
 airflow-gigacapture.giga.salute.ru
 airflow-gigahub.giga.salute.ru
 airflow-gigalytics.giga.salute.ru
@@ -6001,6 +6008,7 @@ airflow-kandinsky.eye.salute.ru
 airflow-knowledge-graph.giga.salute.ru
 airflow-pretrain.eye.salute.ru
 airflow-quality.isearch.salute.ru
+airflow-webaccess.giga.salute.ru
 airflow-yt.eye.salute.ru
 airflow.ai-assistant.eye.salute.ru
 airflow.ai-assistant.sberdevices.ru
@@ -7289,6 +7297,7 @@ b-edu.ru
 b.gis-sc.krasnodar.ru
 b.mtsbank.ru
 b.otpbank.ru
+b.sn4il.ru
 b.tbao.su
 b2.msk.ru
 b24.forsadis.com
@@ -9220,6 +9229,7 @@ dataleak.sberbank.ru
 datamind.ru
 datapol.ru
 dataroom.ncsp.com
+datasets-server.mr-repo.cloud.ru
 datatalks.rt.ru
 datatracker-test.sbertech.ru
 datatracker.pro
@@ -10451,6 +10461,7 @@ essdetbol.ru
 estaff.ingobank.ru
 esup-ps.megafon.ru
 etc48.ru
+ether-platform.ru
 etp-avtodor.ru
 etp-ets.ru
 etp-torgi.ru
@@ -11459,6 +11470,7 @@ gt-statsport.nso.ru
 gt.smsgold.ru
 gtech-gus.tbank-online.com
 gti.bi.zone
+gts.sn4il.ru
 gtw-common-gc.sberdevices.ru
 gtw-common-sc.sberdevices.ru
 gtw-common.sberdevices.ru
@@ -13244,6 +13256,7 @@ lab.s2b.tech
 labmining.ru
 labrx.ru
 labs.custis.ru
+lad.vniitf.ru
 ladoshkipay.ru
 lady.mail.ru
 lakoai.ru
@@ -13691,6 +13704,7 @@ lt2.webquik-test.sberbank.ru
 lt2e.webquik-test.sberbank.ru
 lt2i.webquik-test.sberbank.ru
 ltinvest.domrfbank.ru
+ltk.com.ru
 lubteplo.ru
 luchi.ru
 luk.tricolor.ru
@@ -14541,6 +14555,7 @@ mcloud.psbank.ru
 mco-panacea.ru
 mconsulting.ru
 mcp-test.nornik.ru
+mcp.sberpay.sberbank.ru
 mcplat.com
 mcplat.ru
 mcrssar.ru
@@ -15133,6 +15148,7 @@ mptk55.ru
 mpu-spb.ru
 mpx.rambler.ru
 mpx2.ad-tech.ru
+mr-repo.cloud.ru
 mr.rspp.ru
 mra-cl.gazprombank.ru
 mra.gazprombank.ru
@@ -15609,6 +15625,7 @@ nextcloud.acti.ru
 nextcloud.arcticspg.ru
 nextcloud.bolzen.pro
 nextcloud.mts.ru
+nextcloud.rosdolg.ru
 nexus-qa-ext.mkb.ru
 nexus.almaz-rpe.ru
 nexus.docker.bspb.ru
@@ -16879,10 +16896,12 @@ pd01-vcd-01.dev.cloud.ru
 pd01-ws1-access-02.corp.sbercloud.ru
 pd10-mail-03.corp.sbercloud.ru
 pd10-ws1-access-01.corp.sbercloud.ru
+pd51-01-portal.gis.cloud.ru
 pd51-08-iam.gis.cloud.ru
 pd51-08-portal.gis.cloud.ru
 pd51-rplat-web-04.gis.cloud.ru
 pd51-rplat-web-04.gis.mng.cloud.ru
+pd51-s3-02.gis.cloud.ru
 pd51-s3-05.gis.cloud.ru
 pdleg-prm000001.enablers.sbrf.ru
 pdles-bzebb0003.enablers.sbrf.ru
@@ -16991,6 +17010,7 @@ pin.vbrr.ru
 pionerka.ru
 pip.ru
 pipeline-science.ru
+pipeline.cloud.ru
 pipeline.devtools.mng.cloud.ru
 pir.paritet.ru
 pit.deadtroll.ru
@@ -17085,6 +17105,7 @@ pmp.middle.megafon.ru
 pmplatform.ru
 pms-centr.spb.ru
 pmx.rambler.space
+pmz.ru
 pnd-dp.megafon.ru
 pnd-dp.test-middle.megafon.ru
 pnd.test-middle.megafon.ru
@@ -17384,6 +17405,7 @@ probe-nuc-rsa.luna25.ru
 probe.mddc.t-j.ru
 probe.mddc.t-secrets.ru
 probe.mddc.tjournal.tech
+probe.perecle.ru
 probonus.tricolor.ru
 proc.megafon.ru
 procontact-sc.nso.ru
@@ -18157,6 +18179,7 @@ repa.plagate.ru
 repair-calculator.ru
 repair.vtb.ru
 repo.aaacapital.ru
+repo.cloud.ru
 repo.sbc.space
 repo.spasibobonus.ru
 report-nuc.tst.mobile.yandex.net
@@ -18365,6 +18388,7 @@ rosseti-ural.ru
 rosseti.ru
 rossiya-airlines.com
 rossiya-airlines.ru
+rossiyasegodnya.com
 rosstat.gov.ru
 rostatus.ru
 rostec.ru
@@ -19468,6 +19492,7 @@ sixth1-m12.asudd.net
 sixth2-m12.asudd.net
 sj-dev.ru
 sk.ru
+skaz.vniitf.ru
 skazka.tricolor.ru
 skbbank.ru
 skbfinance.ru
@@ -19572,6 +19597,7 @@ smbn.ru
 smdmm.otpbank.ru
 sme.b.mtsbank.ru
 sme.raiffeisen.ru
+smetadompro.ru
 smev-gos.max.ru
 smev.spb.ru
 smh.tricolor.ru
@@ -19899,6 +19925,7 @@ spectrinvest.ru
 spectrumdata.ru
 spectrumscoring.ru
 speech.nx.s2b.tech
+speech.sber.ru
 speechpro.com
 speechpro.hycl.ru
 speechpro.ru
@@ -20662,6 +20689,7 @@ talent.alfabank.ru
 talisman-so.ru
 talisman-web.ru
 talk.magnit.ru
+talk.rosdolg.ru
 talk.tconf.ru
 talkto.io
 talktst.magnit.ru
@@ -21205,6 +21233,7 @@ tips.vtb.ru
 tis-spg.nso.ru
 tit-b2b.ru
 tivision-mc.ru
+tj-app.ru
 tkbbank.com
 tkbbank.ru
 tkbip.ru
@@ -22075,6 +22104,7 @@ vks.omsomsk.ru
 vks.roadkursk.ru
 vks.rosreestr.gov.ru
 vks.rshb.ru
+vks.triniti.ru
 vkteam.ru
 vkteams.transcapital.com
 vkteams.uecrus.com
@@ -22248,6 +22278,7 @@ vpn.novikom.ru
 vpn.pochtabank.ru
 vpn.radostev.ru
 vpn.rencredit.ru
+vpn.rosdolg.net
 vpn.rostfinance.ru
 vpn.roszdravnadzor.gov.ru
 vpn.rr.test.vtb.ru
@@ -23623,6 +23654,7 @@ www.frontera.net.ru
 www.frprf.ru
 www.frsd.ru
 www.fsnsamara.ru
+www.fsrpn.ru
 www.fstec.ru
 www.ftoroplast4.ru
 www.funds-custody.ru
@@ -24177,6 +24209,7 @@ www.lpk.21-school.ru
 www.lpkbook.omk.ru
 www.lsfgame.ru
 www.lt.pga.gazprombank.ru
+www.ltk.com.ru
 www.lynx-texts.ru
 www.m-trm.ru
 www.m.bspb.ru
@@ -26216,6 +26249,7 @@ zen.zeta.dzen.ru
 zenabout.ru
 zenit.ru
 zenit.win
+zenitfactor.ru
 zenl.ink
 zentry.space
 zeppelin.eye.salute.ru

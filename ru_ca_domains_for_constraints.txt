@@ -1166,6 +1166,7 @@ esocode.ru
 esphere.ru
 essdetbol.ru
 etc48.ru
+ether-platform.ru
 etna.ai
 etp-avtodor.ru
 etp-ets.ru
@@ -1305,6 +1306,7 @@ frsd.ru
 fsev.tech
 fsg.ru
 fsnsamara.ru
+fsrpn.ru
 fss.ru
 fstec.ru
 fsvps.ru
@@ -2926,6 +2928,7 @@ pcbltools.ru
 pchtb.ru
 pchtbnk.ru
 pentaschool.ru
+perecle.ru
 perepis2002.ru
 peretok.ru
 perfluence.io
@@ -2994,6 +2997,7 @@ pluspay.ru
 pmisk.ru
 pmosk.ru
 pmplatform.ru
+pmz.ru
 pndfr.ru
 pni4spb.ru
 pnzmed.ru
@@ -3293,6 +3297,7 @@ roscap.com
 roscap.ru
 roscherk.su
 rosdolg.com
+rosdolg.net
 rosdolg.ru
 rosevrobank.ru
 rosinkas.ru
@@ -3312,6 +3317,7 @@ rosseti-ural.ru
 rosseti.ru
 rossiya-airlines.com
 rossiya-airlines.ru
+rossiyasegodnya.com
 rostatus.ru
 rostec.ru
 rostelecom.ru
@@ -3787,6 +3793,7 @@ smartway.world
 smbbank.ru
 smbfin.ru
 smbn.ru
+smetadompro.ru
 smmretail.ru
 smolate.ru
 smotrioge.ru
@@ -4285,6 +4292,7 @@ trekmark.ru
 tribastion.ru
 tricolor.ru
 trim-ai.ru
+triniti.ru
 tripee.ru
 trolleybus-abakan.ru
 trsystem68.ru
@@ -5077,6 +5085,7 @@ zen.me
 zenabout.ru
 zenit.ru
 zenit.win
+zenitfactor.ru
 zenl.ink
 zentry.space
 zest.ru
