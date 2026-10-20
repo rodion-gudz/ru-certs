@@ -2526,6 +2526,7 @@ narnis.ru
 nashvybor.online
 nationalclearingcentre.com
 nationalclearingcentre.ru
+nationallottery.ru
 nationaloto.ru
 natk.ru
 nauengine.org
@@ -3530,6 +3531,8 @@ sberbusiness.live
 sbercib.ru
 sbercity.ru
 sberclass.ru
+sbercloud.com
+sbercloud.org
 sbercloud.ru
 sbercloud.store
 sbercloud.tech
