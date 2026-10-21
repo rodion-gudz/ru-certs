@@ -289,6 +289,7 @@
 *.api.vk.ru
 *.api.vkplay.ru
 *.api.wifi-auth.megafon.ru
+*.apig.ru-moscow-1.hc.cloud.ru
 *.apigw.demo1.hycl.ru
 *.apigw.demo2.hycl.ru
 *.apigw.demo3.hycl.ru
@@ -788,6 +789,7 @@
 *.cmec.spb.ru
 *.cmrbank.pro
 *.cmrbank.ru
+*.cni1-az3.evolution-vdi.cloud.ru
 *.cniitm.ru
 *.cnpo.ru
 *.coachspace.ru
@@ -6512,6 +6514,7 @@ api2.stage.jump.taxi
 api4pao.client.sbertech.ru
 apidev.alfabank.ru
 apidoc.jump.finance
+apig.ru-moscow-1.hc.cloud.ru
 apigw.demo1.hycl.ru
 apigw.demo2.hycl.ru
 apigw.demo3.hycl.ru
@@ -8706,6 +8709,7 @@ cn.sveza.com
 cn.t-boys.ru
 cn1.speechpro.com
 cn4x-demo.speechpro.com
+cni1-az3.evolution-vdi.cloud.ru
 cniitm.ru
 cnpo.ru
 cnt-it.ru
@@ -9382,6 +9386,7 @@ demo.cnp.mosreg.ru
 demo.crct.mosreg.ru
 demo.db.vtb.ru
 demo.easuz.mosreg.ru
+demo.epilogica.ru
 demo.erai.ru
 demo.factoring.megafon.ru
 demo.faktura.ru
@@ -19397,6 +19402,7 @@ shivacat.ru
 shkola.magnitcosmetic.ru
 shkola8k.ru
 shmr.ru
+shonichev.ru
 shop-1c-nle.tricolor.ru
 shop.avangard.ru
 shop.fc-zenit.ru
