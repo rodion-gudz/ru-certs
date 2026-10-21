@@ -10616,6 +10616,7 @@ expe2.rencredit.ru
 expert.fintarget.ru
 expert.rcoko27.ru
 expert.vk.com
+expertvoice.ru
 expmedia1.kk.bank
 expmedia2.kk.bank
 expmedia3.kk.bank
@@ -21068,6 +21069,7 @@ test.rtksp.ru
 test.ruparking.com
 test.salutejazz.ru
 test.service.gazprombank.ru
+test.shustov.pro
 test.skit.rt.ru
 test.sovcombank.group
 test.sovcombank.ru
