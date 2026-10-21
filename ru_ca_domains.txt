@@ -244,6 +244,7 @@
 *.amplisens.ru
 *.amrro.ru
 *.amur.drsk.ru
+*.amurglonass.ru
 *.amurobl.ru
 *.amurshipyard.ru
 *.amurzmr.ru
@@ -671,6 +672,8 @@
 *.ccb.ru
 *.ccb2.ru
 *.ccbrussia.ru
+*.cce.ru-moscow-1.hc.cloud.ru
+*.cce.ru-moscow-1.hc.sbercloud.ru
 *.cctmcx.ru
 *.cctv.sptz.ru
 *.cdbtitan.ru
@@ -1732,6 +1735,7 @@
 *.greencert.ru
 *.grfc.ru
 *.griser.ru
+*.gronvos.ru
 *.gsen.ru
 *.gsfrb.ru
 *.gsnspb.ru
@@ -1833,7 +1837,9 @@
 *.hronikivremeni.ru
 *.hrtek.vk.com
 *.hrtek.vk.ru
+*.hstxmgr11.msk.cloud.ru
 *.hub.nspd.rosreestr.gov.ru
+*.hycl.internal.cloud.ru
 *.i-dgtl.ru
 *.i-exam.ru
 *.iac.spb.ru
@@ -2022,6 +2028,7 @@
 *.ippe.ru
 *.ipsnok.ru
 *.iptv.rt.ru
+*.ipu.ru
 *.ir-tech.ru
 *.irao-generation.ru
 *.iredirector.vkteam.ru
@@ -2198,6 +2205,7 @@
 *.krasnogvardeiskoe.info
 *.krasstat.ru
 *.krastsvetmet.ru
+*.krdelectro.ru
 *.krdgp11.ru
 *.kremlinbank.ru
 *.kronshtadt.ru
@@ -3719,6 +3727,8 @@
 *.rts-tender.ru
 *.rttv.ru
 *.rtu-akr.ru
+*.ru-moscow-1.hc.cloud.ru
+*.ru-moscow-1.hc.sbercloud.ru
 *.ru-msk-1.store.cloud.mts.ru
 *.ru-msk-2.store.cloud.mts.ru
 *.ru-msk-3.store.cloud.mts.ru
@@ -3871,6 +3881,7 @@
 *.sberbank-university.ru
 *.sberbb.ru
 *.sberbs.ru
+*.sberbuild.ru
 *.sberchat.sberbank.ru
 *.sbercity.ru
 *.sberdevices.ru
@@ -4290,6 +4301,7 @@
 *.stage.gismogu.mosreg.ru
 *.stage.gossluzhba.mosreg.ru
 *.stage.helpnearby.mosreg.ru
+*.stage.hycl.internal.cloud.ru
 *.stage.infinitum-tc.ru
 *.stage.isogd.mosreg.ru
 *.stage.isoik.mosreg.ru
@@ -5894,6 +5906,7 @@ admkusa.ru
 admoblkaluga.ru
 admpgo.ru
 admsel.ru
+admship.ru
 admtyumen.ru
 adpo-edu.ru
 adr.gazprom.com
@@ -5936,6 +5949,7 @@ ag.mobileid.megafon.ru
 agatos.ru
 agencycontrol.ru
 agent-a2p.mts.ru
+agent-backup.cloud.ru
 agent-lk.pskb.com
 agent-portal.sberbankins.ru
 agent.alfastrah.ru
@@ -6020,6 +6034,7 @@ airflow.giga.salute.ru
 airflow.se.salute.ru
 airkaluga.ru
 airkey.cloud.sinara.ru
+aironteh.ru
 airport33.ru
 airwatch.mtsbank.ru
 ais.snbank.ru
@@ -6182,6 +6197,7 @@ amur.home.megafon.ru
 amur.megafon.ru
 amur.rspp.ru
 amur.staging.megafon.ru
+amurglonass.ru
 amurobl.ru
 an.jtirussia.ru
 analiz.depfin70.ru
@@ -6458,6 +6474,7 @@ api.seller.ozon.ru
 api.shop.wildcordyceps.ru
 api.shoppers.media
 api.sinara.ru
+api.sks.dzo.sbercloud.org
 api.spasibosb.ru
 api.srv-hub.org
 api.stage.jump.finance
@@ -8425,6 +8442,7 @@ chattest.otpbank.ru
 chattest.psbank.ru
 cheb.dev.home.megafon.ru
 cheb.home.megafon.ru
+cheb23.shkola.hc.ru
 chebarcul.ru
 chechnya.dev.home.megafon.ru
 chechnya.home.megafon.ru
@@ -11835,6 +11853,7 @@ hvt.nornik.ru
 hw-demo.speechpro.com
 hw.ed.rt.ru
 hw.onecld.ru
+hycl.internal.cloud.ru
 hyperion.sber.ru
 hypertherm.stm-ru.ru
 i-college.ru
@@ -13135,6 +13154,7 @@ krasstat.ru
 krastsvetmet.ru
 kraysport.ru
 krd.home.megafon.ru
+krdelectro.ru
 krdgp11.ru
 krdpost.sonarplus.ru
 kreditka.expert
@@ -15502,6 +15522,7 @@ n.19dx.ru
 n.gis-sc.krasnodar.ru
 n.gktravel.ru
 n3health.ru
+n8n.aironteh.ru
 n8n.forsadis.com
 n8n.sevstar.net
 n8n.vk.team
@@ -15945,6 +15966,7 @@ ocsp.yoomoney.ru
 octan.ru
 octo.ad-tech.ru
 octobdonland.ru
+octoground.ru
 ocxo.ru
 odkl.ru
 odnoklassniki.ru
@@ -17015,6 +17037,7 @@ pilot7.1c.ru
 pilotdev-admin.ascon.ru
 pilotdev.ascon.ru
 pilotems.com
+pilottaxmon.rencap.ru
 pilottaxmon.transneft.ru
 pim-connector.ocs.ru
 pin.domrfbank.ru
@@ -18517,6 +18540,8 @@ rttv.ru
 rtu-akr.ru
 rturn001.jazz.sberbank.ru
 rturn002.jazz.sberbank.ru
+ru-moscow-1.hc.cloud.ru
+ru-moscow-1.hc.sbercloud.ru
 ru-msk-dtl-expe.open.ru
 ru-msk-dtl-expe1.open.ru
 ru-msk-dtl-expe2.open.ru
@@ -20197,6 +20222,7 @@ stage.gigamo.mosreg.ru
 stage.gismogu.mosreg.ru
 stage.gossluzhba.mosreg.ru
 stage.helpnearby.mosreg.ru
+stage.hycl.internal.cloud.ru
 stage.infinitum-tc.ru
 stage.iov.mts.ru
 stage.isogd.mosreg.ru
@@ -21684,6 +21710,7 @@ unicredit.ru
 unicreditbank.ru
 unified-billing.mail.ru
 unigate-stage.tickets.onecld.ru
+unigate.tickets.onecld.ru
 unimatic.ru
 uniport.bcs.ru
 uniport2.bcs.ru
@@ -23790,6 +23817,7 @@ www.graphql-psi.sberbuild.ru
 www.graphql.sberbuild.ru
 www.greenfieldinvest.domrfbank.ru
 www.greenmarathon.sberbank.ru
+www.gronvos.ru
 www.grunwald.ru
 www.gsrk.ru
 www.guardian.cyberkoala.ru
