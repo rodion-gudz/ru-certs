@@ -65,6 +65,7 @@ aakim.ru
 aanda.ru
 aat-arti.ru
 aaz.su
+abakanenergo.ru
 abakanvodokanal.ru
 abank.ru
 abcconsulting.ru
@@ -703,6 +704,7 @@ cifra.cloud
 cifra.group
 cifra.works
 cifroflot.ru
+cikrf.ru
 ciktrb.ru
 cit-kuban.ru
 cit-kuzbass.ru
@@ -785,6 +787,7 @@ cplsb.ru
 cposo.org
 cpstc.com
 cpstc.ru
+crabdance.com
 crbdin.ru
 crbkurg.ru
 crc.ru
@@ -1111,6 +1114,7 @@ electronicsignature.ru
 elektro-32.ru
 elementary.center
 elisov.ru
+elitan.ru
 elkam.ru
 elkamrm.com
 elko.ru
@@ -1306,6 +1310,7 @@ freepascal.ru
 freetato.ru
 freshstartme.ru
 frmrus.ru
+frontkit.ru
 frprf.ru
 frsd.ru
 fsev.tech
@@ -2486,6 +2491,7 @@ mvk.com
 mvroddom.ru
 mvs-bank.ru
 mwms.ru
+mws.cloud
 mws.ru
 mwsapis.ru
 my.com
@@ -4032,6 +4038,7 @@ stroytransgaz.com
 stroytransgaz.ru
 studilka.ru
 su-test.ru
+sudasuda.ru
 sultanov-lab.ru
 sunlight.net
 sunsetvibes.ru
@@ -4166,6 +4173,7 @@ tatsotsbank.ru
 tavolga.center
 taxcom.ru
 taxtc.ru
+taya-ai.ru
 tb.ru
 tbank-online.com
 tbank.ru
@@ -4771,6 +4779,7 @@ xn----7sbb1amddko8c7b4b.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
 xn----7sbcgoab9a0awmnp.xn--p1ai
+xn----7sbezt1a4b.xn--p1ai
 xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbhhgjt4afav0m.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
@@ -4863,6 +4872,7 @@ xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 xn--80aaggvgieoeoa2bo7l.xn--p1ai
 xn--80aagknb0ahdagdcdmhj4d0b.xn--p1ai
 xn--80aagyfeexajjkifg.xn--p1ai
+xn--80aahrca5bqhk0m.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
 xn--80aalotit.xn--p1ai
 xn--80aalqacudkeiwckpc.xn--p1ai
@@ -4988,6 +4998,7 @@ xn--h1aaqdfplr.xn--p1ai
 xn--h1aax.xn--p1ai
 xn--h1acdfggnhdg.xn--p1ai
 xn--h1adghi.xn--p1ai
+xn--h1ae8a.xn--p1ai
 xn--h1ahecbk.xn--p1ai
 xn--h1ahn.xn--p1acf
 xn--i1aeb2e.xn--p1ai
@@ -5106,6 +5117,7 @@ zenl.ink
 zentry.space
 zest.ru
 zgr.im
+zhilservis-ketovo.ru
 zhivagobank.ru
 zm-solutions.ru
 zmtech.bz
