@@ -2074,6 +2074,7 @@
 *.itfederation.ru
 *.itinfrastructure.ru
 *.itmrl.ru
+*.its-centr.org
 *.its61.ru
 *.iturup.online
 *.iturupbank.ru
@@ -9107,6 +9108,7 @@ crm.swimly.ru
 crm2t-n.aaacapital.ru
 crm2t.aaacapital.ru
 crmbpm.spasibosb.sigma.sbrf.ru
+crmnote.ru
 croc.ru
 cross-hub-sbsj.sberinsur.ru
 cross-kpk.ru
@@ -12704,6 +12706,7 @@ itmkb.ru
 itmrl.ru
 itorg.genbank.ru
 itp.ssp.rambler.ru
+its-centr.org
 itsa-self-service-api.srv-hub.org
 itsa-self-service-api.tbank-online.com
 itsm-gw.speechpro.com
