@@ -1649,6 +1649,8 @@
 *.gi-solutions.ru
 *.gibdd.io
 *.gibdd.mail.ru
+*.gid.ru
+*.gid.team
 *.gid.vk.com
 *.giga.chat
 *.gigab2b.ru
@@ -1965,6 +1967,7 @@
 *.informhd.ru
 *.informseti.ru
 *.informsreda.com
+*.infoservices.sberdevices.ru
 *.infosysco.ru
 *.infoteh.ooo
 *.infotehdc.ru
@@ -2086,6 +2089,7 @@
 *.ivmis.ru
 *.ivoblmed.ru
 *.ivoblmed.su
+*.izbirkom.ru
 *.izh-bs.ru
 *.izh.21-school.ru
 *.jivo.ru
@@ -2104,6 +2108,7 @@
 *.k-tech.ru
 *.k2.cloud
 *.k2.tech
+*.k2int.ru
 *.k8s.eas.startups.su
 *.k8s.intmts.ru
 *.k8s.ntv.ru
@@ -5500,6 +5505,7 @@
 1c.malltech.ru
 1c.ru
 1c.sfedu.ru
+1c24.pro
 1capp-dev.com
 1capp.com
 1capp.net
@@ -5752,6 +5758,7 @@ account.2gis.com
 account.cyberprotect.ru
 account.megafon.ru
 account.tbki.ru
+accounts.edge.sberdevices.ru
 achimdevelopment.com
 achimdevelopment.ru
 achimgaz.ru
@@ -6316,6 +6323,7 @@ api-public-gaming-kop.eco.rt.ru
 api-public-gaming.eco.rt.ru
 api-public-kop.eco.rt.ru
 api-r.trucko.ru
+api-rtr.sberbankins.ru
 api-sberpass.privetmir.ru
 api-sberpass.vamprivet.ru
 api-socket.eco.rt.ru
@@ -6840,6 +6848,7 @@ auth.demo3.hycl.ru
 auth.dev-inspector.gosuslugi.ru
 auth.domrfbank.ru
 auth.eagleplatform.com
+auth.edge.sberdevices.ru
 auth.events.gazprombank.ru
 auth.eye.salute.ru
 auth.f-pvo.ru
@@ -8202,6 +8211,7 @@ cdn.bulutuy.tech
 cdn.connect.mail.ru
 cdn.credistory.ru
 cdn.depository.ru
+cdn.edge.sberdevices.ru
 cdn.efadevelopment.ru
 cdn.gbo.gazprombank.ru
 cdn.gigaguru.tech
@@ -8638,6 +8648,7 @@ clientrix.cplsb.ru
 climamos.ru
 clinped.pro
 clm.mtsbank.ru
+clnt-sbs-daprxy-prd.sberbankins.ru
 clnt-sbs-echat-ift.sberbankins.ru
 clnt-sbs-echat-prd.sberbankins.ru
 cloud-antiddos.megafon.ru
@@ -8650,6 +8661,7 @@ cloud.barnaultransmash.ru
 cloud.bspb.ru
 cloud.croc.ru
 cloud.domrf.ru
+cloud.edge.sberdevices.ru
 cloud.geoscan.ru
 cloud.inforion.ru
 cloud.ipfran.ru
@@ -8783,6 +8795,7 @@ collect-api.activebc.ru
 collector.gmonit.otpbank.ru
 collector.test-gmonit.otpbank.ru
 colnago.ru
+colo.edge.sberdevices.ru
 color.tricolor.ru
 colorplus.tricolor.ru
 comba.mail.ru
@@ -9242,6 +9255,7 @@ d-starosfw-grafana-adv-msk01.sberdevices.ru
 d-starosfw-jenkins-adv-msk01.sberdevices.ru
 d-starosfw-releaseadmin-adv-msk01.sberdevices.ru
 d-starosfw-tvmanagement-adv-msk01.sberdevices.ru
+d-studio-hub.sberdevices.ru
 d-technologies.ru
 d.atstpay.pro
 d.gis-sc.krasnodar.ru
@@ -9312,6 +9326,7 @@ dbo-dengi.online
 dbo-sme-entity-web-test.mtsbank.ru
 dbo-test.veb.ru
 dbo-zemcombank.ru
+dbo.alnairao.ru
 dbo.balakovo-bank.ru
 dbo.bank-peresvet.ru
 dbo.capital-bank.ru
@@ -9658,6 +9673,7 @@ device.oauthsigma-psi.sber.ru
 device.oauthsigma.sber.ru
 devices.sberbank.ru
 devicestest.sberbank.ru
+devicestets.sberbank.ru
 devinvest.domrfbank.ru
 devlink.alfabank.ru
 devmail.ru
@@ -9860,6 +9876,8 @@ dn267.ingobank.ru
 dnepload.plagate.ru
 dnr-tfoms.ru
 dnr.21-school.ru
+dns.apu3.network
+dns.edge.sberdevices.ru
 dns.mwsapis.ru
 dns.supportec.servicecdn.ru
 do.achimgaz.ru
@@ -11236,6 +11254,8 @@ gia.rcoko27.ru
 gibdd.io
 gibdd.iogibdd.mail.ru
 gibdd.mail.ru
+gid.ru
+gid.team
 gid.vk.com
 gidropribor.ru
 gift.otpbank.ru
@@ -11257,6 +11277,8 @@ gigachat.devicestest.sberbank.ru
 gigachat.nx.s2b.tech
 gigaconf.ru
 gigadataprovider-api.eye.salute.ru
+gigadomainsview-dev.eye.salute.ru
+gigadomainsview.eye.salute.ru
 gigaenterprise.ai
 gigagateway.eye.salute.ru
 gigagateway.ift.eye.salute.ru
@@ -12391,6 +12413,7 @@ informhd.ru
 informlaw.ru
 informseti.ru
 informsreda.com
+infoservices.sberdevices.ru
 infosysco.ru
 infoteh.ooo
 infotehdc.ru
@@ -12399,6 +12422,7 @@ infowatch.com
 infowatch.ru
 infra.agents.su-test.ru
 infra.mail.ru
+infrastructure-protection.edge.sberdevices.ru
 infrastructure.sbercity.ru
 infteh.ru
 ing.ru
@@ -12528,6 +12552,7 @@ investlab.ru
 investments.alfabank.ru
 investments101.ru
 investor.sberbank.ru
+investorday.sber.me
 investorday.sber.ru
 investpay.ru
 investstav.ru
@@ -12734,6 +12759,7 @@ ivoblmed.su
 ivuslugi.ru
 iws.tch.ru
 ix-m3-tt-qa-sipproxy01.homeagents.ru
+izbirkom.ru
 izh.21-school.ru
 izobilniy.dev.home.megafon.ru
 izobilniy.home.megafon.ru
@@ -12854,6 +12880,7 @@ k1-t.sberpravo.ru
 k2-t.sberpravo.ru
 k2.cloud
 k2.tech
+k2int.ru
 k3-t.sberpravo.ru
 k8s.eas.startups.su
 k8s.open-broker.ru
@@ -13491,6 +13518,7 @@ littlerepulsive.rambler.ru
 live-dmz.akbars.ru
 live-int.akbars.ru
 live.open.ru
+live.sber.me
 live.vkplay.ru
 live.vkvideo.ru
 livecdn.ivi-mc.ru
@@ -14643,6 +14671,7 @@ mcloud.psbank.ru
 mco-panacea.ru
 mconsulting.ru
 mcp-test.nornik.ru
+mcp.ecom.sberbank.ru
 mcp.sberpay.sberbank.ru
 mcplat.com
 mcplat.ru
@@ -18361,6 +18390,7 @@ rheumatolog.su
 ria.ru
 riamediabank.ru
 rian.ru
+ribc.sber.bank.in
 rief.sber.ru
 rifpark.ru
 rikt.ru
@@ -18714,6 +18744,7 @@ s.gpb.ru
 s.lenta.ru
 s.online.if.vtb.ru
 s.otpbank.ru
+s.sber.me
 s.sber.ru
 s.sberbank.ru
 s.sbp.payanyway.ru
@@ -18978,6 +19009,7 @@ sberedu.ru
 sbereducation.ru
 sberegaem-vmeste.ru
 sbergeo.sberbank.ru
+sbergiletalks.sber.me
 sbergiletalks.sber.ru
 sberhealth.pro
 sberhealth.ru
@@ -20530,6 +20562,7 @@ storage-wallet-test.mdigital.ru
 storage-wallet.mdigital.ru
 storage.bcs-bank.ru
 storage.contrada-capital.ru
+storage.edge.sberdevices.ru
 storage.investekspert.ru
 storage.linuxtesting.ru
 storage.root.t-software.tech
@@ -20568,6 +20601,7 @@ stream.jazz.sberbank.ru
 stream.open.ru
 stream.ukshmao.ru
 streaming.eagleplatform.com
+streaming.edge.sberdevices.ru
 strelkacard.ru
 strelkapay.ru
 stroi.domrfbank.ru
@@ -22608,6 +22642,7 @@ web-ift.si20.sberbank.ru
 web-investor.online.sberbank.ru
 web-investor.sberbank.ru
 web-myinvest.vtb.ru
+web-protect.edge.sberdevices.ru
 web-proxy-1.dmz.ncsp.com
 web-service-test.rosneft.ru
 web-service.rosneft.ru
@@ -24096,6 +24131,7 @@ www.invest.ozon.ru
 www.invest.rostatus.ru
 www.invest.sovcombank.ru
 www.invest.vtb.ru
+www.investorday.sber.me
 www.investorday.sber.ru
 www.investstav.ru
 www.invite-agent.uralsib.ru
@@ -24296,6 +24332,7 @@ www.ligalomb.ru
 www.limited.rosneft.com
 www.limited.rosneft.ru
 www.link.mail.sovcomlife.ru
+www.live.sber.me
 www.livejournal.com
 www.livejournal.net
 www.livejournal.org
@@ -24475,6 +24512,7 @@ www.minfinkbr.ru
 www.minforest.saratov.gov.ru
 www.mingkhrk.ru
 www.mingkhsk.ru
+www.minkult08.ru
 www.minsoc08.ru
 www.minsoc31.ru
 www.mio26.ru
@@ -25011,6 +25049,7 @@ www.rga-samara.ru
 www.rgantd.ru
 www.rgvarchive.ru
 www.rhc.ru
+www.ribc.sber.bank.in
 www.rief.sber.ru
 www.rkc-gku.ru
 www.rkc-pk.ru
@@ -25136,6 +25175,7 @@ www.sbercloud.ru
 www.sberdisk.dev
 www.sberdisk.ru
 www.sberegaem-vmeste.ru
+www.sbergiletalks.sber.me
 www.sbergiletalks.sber.ru
 www.sberindex.ru
 www.sberlabs.com

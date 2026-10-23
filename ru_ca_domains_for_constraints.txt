@@ -12,6 +12,7 @@
 1c.cloud
 1c.link
 1c.ru
+1c24.pro
 1capp-dev.com
 1capp.com
 1capp.net
@@ -207,6 +208,7 @@ alljava.ru
 alltrains.ru
 almaz-antey.ru
 almaz-rpe.ru
+alnairao.ru
 alor.ru
 alorbroker.ru
 alpha-class365.ru
@@ -1416,6 +1418,8 @@ gfu.ru
 gge.ru
 gi-solutions.ru
 gibdd.io
+gid.ru
+gid.team
 gidroogk.com
 gidropribor.ru
 giga-agent.ru
@@ -1847,6 +1851,7 @@ ivmis.ru
 ivoblmed.ru
 ivoblmed.su
 ivuslugi.ru
+izbirkom.ru
 izh-bs.ru
 izobrb.ru
 jethome.com
@@ -1868,6 +1873,7 @@ k-energomash.ru
 k-tech.ru
 k2.cloud
 k2.tech
+k2int.ru
 kabardinka-metro.ru
 kachestvozhizni.ru
 kadastr.ru
