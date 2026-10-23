@@ -5688,6 +5688,7 @@ a.vsw.ru
 a1.tricolor.ru
 a2.psbank.ru
 a2048.ivi-mc.ru
+a2p-api.megafon.ru
 a2p-voice-int.megafon.ru
 a2p-voice.megafon.ru
 aa.mail.ru
@@ -15651,6 +15652,7 @@ navio.auto
 nbdbank.ru
 nbgi.ru
 nc-services.cardsmobile.ru
+nc.anozit.ru
 nc.biv91.ru
 nc.kszn34.ru
 nc.xmes.ru
@@ -18673,6 +18675,7 @@ russl-demo.tech.net.ru
 russl.sportmaster.ru
 russoutdoor.ru
 rustank.ru
+rustdesk-oss.brain-flow.ru
 rustore-search.cloud.vk.team
 rustore.ru
 rustore.tv
