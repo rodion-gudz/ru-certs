@@ -8211,6 +8211,7 @@ cdn.bspb.ru
 cdn.bulutuy.tech
 cdn.connect.mail.ru
 cdn.credistory.ru
+cdn.crmnote.ru
 cdn.depository.ru
 cdn.edge.sberdevices.ru
 cdn.efadevelopment.ru
