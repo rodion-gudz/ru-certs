@@ -6277,6 +6277,7 @@ aotrend.ru
 ap.bspb.ru
 apanrb.ru
 apapi.alfabank.ru
+apay-dev.avangard.ru
 apay.avangard.ru
 api-a2p-voice-int.megafon.ru
 api-a2p-voice.megafon.ru
