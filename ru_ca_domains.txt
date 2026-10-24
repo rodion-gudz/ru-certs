@@ -5530,6 +5530,7 @@
 1rub.tricolor.ru
 1sport.ru
 1tv.ru
+1ya.su
 2.nuc-test.online
 2.xn--2-ytbsm.xn--p1ai
 2017.omk.ru
@@ -19626,6 +19627,7 @@ site-2p-zzrx.aaacapital.ru
 site-2t-bzyd.aaacapital.ru
 site-api.centrinvest.ru
 site.bnpltests.ru
+sitepms.cumcraft.ru
 sitnikovpravo.ru
 sixth-m12.asudd.net
 sixth1-m12.asudd.net
