@@ -10787,6 +10787,7 @@ fbuz.20.rospotrebnadzor.ru
 fbuz11.ru
 fbuz16.ru
 fbuz41.rospotrebnadzor.ru
+fbuz52.rospotrebnadzor.ru
 fbuz66.ru
 fc-zenit.ru
 fciit.ru
