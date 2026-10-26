@@ -11401,6 +11401,7 @@ gitlab.linuxtesting.ru
 gitlab.magnit.ru
 gitlab.mtsbank.ru
 gitlab.open-broker.ru
+gitlab.pfc.ru
 gitlab.psi.legalbpm.sberpravo.ru
 gitlab.rcoko27.ru
 gitlab.sberpravo.ru
@@ -21313,6 +21314,7 @@ test.infinitum-tc.ru
 test.ipfran.ru
 test.isogd.mosreg.ru
 test.kbo.aisubp.mos.ru
+test.kbs.goznak.ru
 test.krastsvetmet.ru
 test.ksp34.ru
 test.mdeng.ru
