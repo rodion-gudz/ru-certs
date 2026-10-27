@@ -1607,6 +1607,7 @@
 *.gate.vp.ru
 *.gavan-nsk.ru
 *.gavo.arsvo.ru
+*.gaz-connect.ru
 *.gazeta.ru
 *.gazfond-pn.ru
 *.gazfond.ru
@@ -2685,6 +2686,7 @@
 *.mosenergosbit.ru
 *.mosenergosbyt.ru
 *.moshkovo-54.ru
+*.moskb.ru
 *.moslenta.ru
 *.mosmedzdrav.ru
 *.mosnarbank.ru
@@ -2933,6 +2935,7 @@
 *.npoa.ru
 *.npoelm.ru
 *.npovk.ru
+*.npp-rubin.ru
 *.nprts.ru
 *.npzoptics.ru
 *.nr.roskazna.ru
@@ -4098,6 +4101,7 @@
 *.sixth1-m12.asudd.net
 *.sixth2-m12.asudd.net
 *.sj-dev.ru
+*.sk-akbars.ru
 *.sk.ru
 *.skbbank.ru
 *.skbfinance.ru
@@ -4476,6 +4480,7 @@
 *.stroytransgaz.ru
 *.structure.mil.ru
 *.structure.old.mil.ru
+*.stt.ru
 *.student.magnit.ru
 *.study.vk.team
 *.stw.21-school.ru
@@ -4937,6 +4942,7 @@
 *.uwca.ru
 *.uznaipro.ru
 *.v8.1c.ru
+*.valdai.ru
 *.vamto.mil.ru
 *.vamto.old.mil.ru
 *.variti.io
@@ -5461,6 +5467,7 @@
 *.zppk.ru
 *.zpr.remeks.online
 *.zrnao.ru
+*.zsamur.ru
 *.zvo.mil.ru
 *.zvo.old.mil.ru
 *.zvo.ru
@@ -5920,6 +5927,7 @@ admin.ift.sbertransport.ru
 admin.keycloak.3d.platformaexpert.ru
 admin.krtu.ru
 admin.lk.psb.services
+admin.lkz.ahml.ru
 admin.mdm.cloud.ru
 admin.mdm.sbercloud.tech
 admin.message-relay.ru
@@ -6137,6 +6145,7 @@ aleksinomz.ru
 aleksinternat26.stv.socinfo.ru
 alexadm63.ru
 alexandrino.ru
+alexbank.ru
 alexstomat.ru
 alfa-link-int.alfabank.ru
 alfa-link.alfabank.ru
@@ -9165,6 +9174,7 @@ crm.gazfond-pn.ru
 crm.mgn-city.ru
 crm.mws.ru
 crm.noosferabank.ru
+crm.officestyle35.ru
 crm.open-broker.ru
 crm.prostobank.online
 crm.rambler-co.ru
@@ -9488,6 +9498,7 @@ demo-user.alfa-plata.alfastrah.ru
 demo.1c.ru
 demo.addy.su
 demo.avangard.ru
+demo.ba.ru.net
 demo.bifit.ru
 demo.bitrix24.payanyway.ru
 demo.cnp.mosreg.ru
@@ -10095,6 +10106,7 @@ driver.ift.sbertransport.ru
 driver.lukoil.ru
 drivers.jump.taxi
 drivers.stage.jump.taxi
+drone.ba.ru.net
 drp.bi.zone
 drpo.1prime.ru
 drsk.ru
@@ -10326,6 +10338,7 @@ edu.srv-hub.org
 edu.tbank-online.com
 edu.tbank.ru
 edu.tricolor.ru
+edu.vi.fsin.gov.ru
 edu.vui.fsin.gov.ru
 edu.waybank.ru
 edu.yadro.com
@@ -10377,6 +10390,7 @@ eis.ahml.ru
 eis4.roskazna.ru
 eis5.roskazna.ru
 eisn.tbki.ru
+eisreport.ahml.ru
 eissd-rc.rt.ru
 eissd-release.rt.ru
 eissd-test.rt.ru
@@ -10745,6 +10759,7 @@ export.tricolor.ru
 exportcenter.ru
 expr-p-av1.domrf.online
 expr-p-av1.domrfbank.ru
+expr-p-av2.domrf.online
 expr-p-av2.domrfbank.ru
 expr-p-hlb-int.roscap.com
 expr-pre-av-01.achat.alfabank.ru
@@ -11210,6 +11225,7 @@ gateway.test.domapi.domrf.ru
 gateway.test.domapi.domrfbank.ru
 gavan-nsk.ru
 gavo.arsvo.ru
+gaz-connect.ru
 gaz.f-pvo.ru
 gazeta.ru
 gazfond-pn.ru
@@ -12149,6 +12165,9 @@ ic-trend.ru
 ic.mcbankrus.ru
 ic.pics.livejournal.net
 ic.srbank.ru
+ica-ext-nw.megafon.ru
+ica-ext-sib.megafon.ru
+ica-ext-vlg.megafon.ru
 ica2-ext.megafon.ru
 icb.domrf.ru
 icbru.ru
@@ -13780,6 +13799,7 @@ lms.apu.fsin.gov.ru
 lms.lomt.ru
 lms.miac.gov74.ru
 lms.tavolga.center
+lms.vi.fsin.gov.ru
 lndresearch.sberuniversity.ru
 lnr.rspp.ru
 lnvrb.mznso.ru
@@ -13833,6 +13853,7 @@ logs-dsp.ad-tech.ru
 logs.ngenix.net
 lokobank.ru
 look.tricolor.ru
+lookl.ru
 loonabrowser.ru
 loop.smarttravel.ru
 loopcpl.spasibosb.ru
@@ -14046,7 +14067,9 @@ magnum.magnit.ru
 mahjong.spasibosb.ru
 mai.ru
 mail-01.mkb-invest.ru
+mail-01.rfipoteka.ru
 mail-02.mkb-invest.ru
+mail-02.rfipoteka.ru
 mail-gate.roscap.com
 mail-king.ru
 mail-pda.rambler.ru
@@ -14400,6 +14423,7 @@ mail.regulinvest.ru
 mail.remdizel.com
 mail.restapi-buh.sovcombank.ru
 mail.restart.auto
+mail.rfipoteka.ru
 mail.rn-bank.ru
 mail.rosdolg.ru
 mail.rosinkas.ru
@@ -15296,6 +15320,7 @@ mosedu.ru
 mosenergosbit.ru
 mosenergosbyt.ru
 moshkovo-54.ru
+moskb.ru
 moslenta.ru
 mosmedzdrav.ru
 mosnarbank.ru
@@ -17222,6 +17247,7 @@ pga.gazprombank.ru
 pgo-npa.ru
 pgs.rtlabs.ru
 pgss3.gosuslugi.ru
+pgt-reestr.ncagp.ru
 pgtest.bspb.ru
 pgw-rel.tricolor.ru
 pgwh.nsd.ru
@@ -17913,6 +17939,7 @@ public.oprosso.sber.ru
 public.oprosso.sberbank.ru
 public.stage.jump.taxi
 publicex.domrfbank.ru
+publicout-av.domrf.online
 publicout-av.domrfbank.ru
 publicout.domrf.online
 publicout.domrfbank.ru
@@ -19784,6 +19811,7 @@ sixth1-m12.asudd.net
 sixth2-m12.asudd.net
 sj-dev.ru
 sk-abakan.ru
+sk-akbars.ru
 sk.ru
 skaz.vniitf.ru
 skazka.tricolor.ru
@@ -20772,6 +20800,7 @@ stroytransgaz.ru
 sts.alfastrah.ru
 sts.severstal.com
 sts01group.s7corp.ru
+stt.ru
 stt.tinkoff.ru
 stud.omnis-university.ru
 studaccel.sberclass.ru
@@ -22132,6 +22161,7 @@ va2.bcs.ru
 vacr.vtb.ru
 vacr2.vtb.ru
 vahpesto.ru
+valdai.ru
 valen.keenetic.link
 validator.dev.lk.astra-team.ru
 values-book.omk.ru
@@ -24534,6 +24564,7 @@ www.login.if.db-test.vtb.ru
 www.login.pochtabank.ru
 www.login.unicredit.ru
 www.logistics.gazprombank.ru
+www.lookl.ru
 www.loop.smarttravel.ru
 www.loopcpl.spasibosb.ru
 www.loyift-api.spasibotest.ru
@@ -26661,6 +26692,7 @@ zppk.ru
 zpr.remeks.online
 zrk.rk.gov.ru
 zrnao.ru
+zsamur.ru
 zskuzbass.ru
 zspd.rcoko27.ru
 zubrit.ocs.ru
