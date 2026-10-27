@@ -7951,6 +7951,7 @@ browser.sber.ru
 browserloona.online
 bryanskoblfin.ru
 bs-interactive.gazprombank.ru
+bs.clickso.ru
 bs.gazprombank.ru
 bs2.gazprombank.ru
 bsbank.ru
@@ -11805,6 +11806,7 @@ headless-cms3.vtb.ru
 headless-cms5.vtb.ru
 headless-cms6.vtb.ru
 headless-cms7.vtb.ru
+headscale.aironteh.ru
 health.mail.ru
 health.tricolor.ru
 heimdall.alfabank.ru
