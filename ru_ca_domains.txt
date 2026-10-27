@@ -433,6 +433,7 @@
 *.aykt.ru
 *.az1.secure-cloud.vk.ru
 *.az2.secure-cloud.vk.ru
+*.azgaz.ru
 *.azimuth.ru
 *.azs.mari-el.gov.ru
 *.azsgo.ru
@@ -3683,6 +3684,7 @@
 *.rms.u6.ru
 *.rn-bank.ru
 *.rn-grp.ru
+*.rnd.stcnet.ru
 *.rniirs.ru
 *.rnrc.ru
 *.roadkursk.ru
@@ -7377,6 +7379,7 @@ axiomclass.ru
 aykt.ru
 ayratbirdin.ru
 az2.secure-cloud.vk.ru
+azgaz.ru
 azimuth.ru
 azk59.permkrai.ru
 azkios.rosneft.ru
@@ -9788,6 +9791,7 @@ dialin.ingos.ru
 dialin.ntv.ru
 dialin.tricolor.ru
 dialin.uwca.ru
+dialog-demo.sbertech.ru
 dialog-regions.ru
 dialog.info
 dialog.online
@@ -14707,6 +14711,7 @@ mattermost.alfastrah.ru
 mattermost.avangard.ru
 matznay.ru
 max-bot.bestwayservice.ru
+max-security-request.cloud.vk.team
 max-stage.parus.su
 max.aihor.ru
 max.bidfox.ru
@@ -18609,6 +18614,7 @@ rnbitumen.rosneft.ru
 rnbunker.rosneft.ru
 rncb.ru
 rnd.otpbank.ru
+rnd.stcnet.ru
 rndragmet.rosneft.ru
 rnholding.rosneft.ru
 rniirs.ru
@@ -18740,6 +18746,7 @@ rrb.ru
 rrbank.ru
 rrc-altay.ru
 rrcentre.ru
+rrllc.ru
 rrsweb.tch.ru
 rrtp.ru
 rs-cts.rsb.ru
@@ -20234,6 +20241,7 @@ spbdshi3.ru
 spbexchange.ru
 spbgasu.ru
 spbicp.ru
+spbinvestment.ru
 spbmiac.ru
 spboms.ru
 spbsad23.ru
