@@ -6230,6 +6230,7 @@ alpp-docs.vtb.ru
 alrosa.pro
 alrosa.ru
 alrosait.ru
+als.astralinux.ru
 alta.ru
 altaiensb.ru
 altaigov.ru
@@ -6400,6 +6401,7 @@ api.adaptation.rt.ru
 api.addy.su
 api.adv.1c.ru
 api.ai.mai.ru
+api.aistudio.giga.chat
 api.alfa-plata.alfastrah.ru
 api.alfabank.ru
 api.auth.2gis.com
@@ -11413,6 +11415,7 @@ gisp.gov.ru
 giszpenza.ru
 giszrb.ru
 git.almaz-rpe.ru
+git.als.astralinux.ru
 git.ba.ru.net
 git.cc.linuxtesting.ru
 git.ci.legalbpm.sberpravo.ru
@@ -20693,6 +20696,8 @@ stat.vybory.gov.ru
 stat2.tch.ru
 statement.rft.ru
 statement.rsb.ru
+static-admin.giga-agent.ru
+static-admin.gigaagent.ru
 static-content.ru
 static-develop.k8ng.alfa.link
 static-ext-test.mtsbank.ru
