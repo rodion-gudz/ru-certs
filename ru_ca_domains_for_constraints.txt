@@ -825,6 +825,7 @@ cryptoarm.ru
 cryptopro.ru
 csat.ru
 cscampus.ru
+cscomp.ru
 csonkr.ru
 csp-ugra.ru
 csr-spb.ru
@@ -1658,6 +1659,7 @@ hospitalvv-sk.ru
 hostdm.ru
 hotelpost.ru
 hoteltofms.ru
+hozmax.ru
 hr-abk.ru
 hrc-event.ru
 hrmoscow.ru
@@ -3792,6 +3794,7 @@ sinaralab.ru
 sineft.ru
 sio26.ru
 sipaero.ru
+sir20.ru
 sirena-travel.ru
 sirfol.ru
 sistema-capital.com
@@ -4273,6 +4276,7 @@ tfomsra.ru
 tfomsrb.ru
 tfomssk.ru
 tgc1.ru
+tgc11.ru
 tgk11.com
 thanks-ces.com
 thbank.ru

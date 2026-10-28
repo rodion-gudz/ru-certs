@@ -640,11 +640,13 @@
 *.calendartouch.armgs.team
 *.calendartouch.kasmail.onprem.ru
 *.calendartouch.mgred0mail.onprem.ru
+*.calendartouch.pochta.lenenergo.ru
 *.calendartouch.tppr.vmailru.net
 *.calendartouch.webmail.gazprom.ru
 *.calendarx.armgs.team
 *.calendarx.kasmail.onprem.ru
 *.calendarx.mgred0mail.onprem.ru
+*.calendarx.pochta.lenenergo.ru
 *.calendarx.tppr.vmailru.net
 *.calendarx.webmail.gazprom.ru
 *.callcenterbook.uralairlines.ru
@@ -766,6 +768,7 @@
 *.cldmail.ru
 *.clgrtc.ru
 *.client-oco.rt.ru
+*.clients.lenenergo.ru
 *.cloud.21-school.ru
 *.cloud.armgs.team
 *.cloud.croc.ru
@@ -777,6 +780,7 @@
 *.cloud.mgred0mail.onprem.ru
 *.cloud.mts.ru
 *.cloud.nationallottery.ru
+*.cloud.pochta.lenenergo.ru
 *.cloud.tppr.vmailru.net
 *.cloud.vk.com
 *.cloud.vk.kz
@@ -1263,6 +1267,7 @@
 *.e.mail.ru
 *.e.mgred0mail.onprem.ru
 *.e.mini-mail.ru
+*.e.pochta.lenenergo.ru
 *.e.tppr.vmailru.net
 *.e.webmail.gazprom.ru
 *.e1c-ops.com
@@ -3276,6 +3281,8 @@
 *.pnzmed.ru
 *.pnzreg.ru
 *.po-rubly.ru
+*.pochta-st.lenenergo.ru
+*.pochta.lenenergo.ru
 *.pochta.ru
 *.pochtabank.mail.ru
 *.pochtabank.ru
@@ -4037,6 +4044,7 @@
 *.severstal.severstalgroup.com
 *.severstalauto.com
 *.sevesk.ru
+*.sevmash.ru
 *.sf-kras.ru
 *.sfb-edge.megafon.ru
 *.sfb-edge01.megafon.ru
@@ -8706,6 +8714,7 @@ clientapi-uat.renbroker.ru
 clientapi.renbroker.ru
 clientfirst.miniapp.cloud.ru
 clientrix.cplsb.ru
+clients.lenenergo.ru
 climamos.ru
 clinped.pro
 clm.mtsbank.ru
@@ -8798,10 +8807,16 @@ cms.slavneft-kng.ru
 cms.stv.mts.ru
 cms.vcs.deltacredit.ru
 cms.yoomoney.ru
+cms1.tgc11.ru
 cms1.tgk11.com
+cms2.tgc11.ru
 cms2.tgk11.com
+cms3.tgc11.ru
 cms3.tgk11.com
+cms4.tgc11.ru
 cms4.tgk11.com
+cms5.tgc11.ru
+cms6.tgc11.ru
 cmse.bspb.ru
 cmsmil.kamaz.ru
 cn-education.speechpro.com
@@ -9478,6 +9493,7 @@ delivery-test.otpbank.ru
 delivery.otpbank.ru
 delivery.ru
 delo.admkonda.ru
+delo.cscomp.ru
 delo.ru
 delotest.04gov.ru
 delovayakolbasa.ru
@@ -10355,6 +10371,7 @@ education.tbank-online.com
 educom.ru
 educonstructor-control.gosuslugi.ru
 educonstructor.gosuslugi.ru
+edumanager-auth.gosuslugi.ru
 edupirsms.testsbi.sberbank.ru
 edurb.ru
 edusales.kilbil.ru
@@ -10420,6 +10437,7 @@ ekonomych.ru
 ekvant.baltinvest.com
 el-plat.ru
 el-vote.mos.ru
+elara.ru
 elasticsearch.dev.lk.astra-team.ru
 elderia.online
 elearning.storage.bcs.ru
@@ -10740,6 +10758,8 @@ exp1.msg.gpb.ru
 exp20.msg.gpb.ru
 exp4.msg.gpb.ru
 exp5.msg.gpb.ru
+expc1.tgc11.ru
+expc2.tgc11.ru
 expe-cluster.rencredit.ru
 expe-lab.voip.sigma.sbrf.ru
 expe-s-lab-n2up.voiplab-ext.sberbank.ru
@@ -10747,6 +10767,7 @@ expe-s-lab.voiplab-ext.sberbank.ru
 expe-s-n1up.sberbank.ru
 expe-s-n2sko.sberbank.ru
 expe.sberbank.ru
+expe.tgc11.ru
 expe.tgk11.com
 expe1.rencredit.ru
 expe2.rencredit.ru
@@ -10823,6 +10844,7 @@ extraservices.rosseti-lenenergo.ru
 f-std.org
 f.gis-sc.krasnodar.ru
 f.mdeng.ru
+f1.elara.ru
 f4opt.ru
 faberlic.com
 faberlic.ru
@@ -11716,6 +11738,7 @@ gw.bspb.ru
 gw.gosuslugi.ru
 gw.lenta.com
 gw.platichastyami.ru
+gw.rfa.astralinux.ru
 gw.speechpro.com
 gw01.alfa-bank.info
 gw02.alfa-bank.info
@@ -12928,6 +12951,7 @@ job.staging.megafon.ru
 job.veb.ru
 jobsmodern.ru
 jobtst.psbank.ru
+join-meet.tgc11.ru
 join-meet.tgk11.com
 join.bspb.ru
 join.kamaz.ru
@@ -13204,6 +13228,7 @@ kirzdrav.ru
 kit.group
 kk.bank
 kk.megafon.ru
+kk.mvno.gazprom.ru
 kk.ru
 kkbmk.ru
 kkccon.stv.socinfo.ru
@@ -13239,6 +13264,7 @@ kmedia03.hybrid.ktalk.alfabank.ru
 kmedia04.hybrid.ktalk.alfabank.ru
 kmiac.ru
 kmp.ru
+kms.mwsapis.ru
 kms.tricolor.ru
 kmt46.ru
 knd.gov.ru
@@ -13484,6 +13510,7 @@ lb-cur.tricolor.ru
 lb-ss.webquik-test.sberbank.ru
 lb-t1.webquik-test.sberbank.ru
 lb-w2q.webquik-test.sberbank.ru
+lb.mwsapis.ru
 lb.psi.teamid.sber.ru
 lb.webquik-test.sberbank.ru
 lbaasv1.epaas.s7.ru
@@ -13829,6 +13856,7 @@ logassist.ingobank.ru
 logger.id-lt.sber.ru
 logger.id-psi.sber.ru
 logger.id.sber.ru
+logging.mwsapis.ru
 logging.tap2phone.ru
 logic-flow.site
 login-center-om.sbercity.ru
@@ -14202,6 +14230,7 @@ mail.ec.mts.ru
 mail.ecdn.sovcombank.ru
 mail.econombank.ru
 mail.edu54.ru
+mail.elara.ru
 mail.elf.vitabank.ru
 mail.elko.ru
 mail.energo.ru
@@ -14732,6 +14761,7 @@ maxlib.ru
 mazenko.ru
 mb.as50464.net
 mb.domrfbank.ru
+mb.gosuslugi.ru
 mb.transneft.ru
 mb.vbrr.ru
 mb.vtb.ru
@@ -14776,6 +14806,7 @@ mcf-edge.alpha-dev.ru
 mcf-probe.alpha-dev.ru
 mchat-pre.mkb.ru
 mchat.mkb.ru
+mclickhouse.mwsapis.ru
 mcloud.psbank.ru
 mco-panacea.ru
 mconsulting.ru
@@ -14958,6 +14989,7 @@ meta.tricolor.ru
 metadata.eye.salute.ru
 metal-rates.mtsbank.ru
 metallinvestbank.ru
+metastore.mwsapis.ru
 metcom.ru
 metcombank.ru
 meteo-new.dmz.ncsp.com
@@ -15127,6 +15159,7 @@ mistrikov.ru
 mixplat.ru
 mk.mznso.ru
 mk8s.api.cloud.ru
+mk8s.mwsapis.ru
 mkb-am.ru
 mkb-broker.ru
 mkb.ru
@@ -15292,6 +15325,7 @@ monitor.rosleshoz.ru
 monitoring.app-assistent.open.ru
 monitoring.gov.ru
 monitoring.mts.ru
+monitoring.mwsapis.ru
 monitoring.sberuniversity.ru
 monitorus.ru
 monolit.com
@@ -16508,6 +16542,7 @@ orendez.ru
 orenklip.online
 oreol-2010.ru
 orexchange.ru
+org.mws.ru
 organizations.tricolor.ru
 orgp.spb.ru
 origin.cargo.s7.ru
@@ -17101,6 +17136,7 @@ payecom.ru
 payer.creditural.ru
 payflow.ertelecom.ru
 payform.tkbbank.ru
+paygas.ru
 paygwsec.sberbank-tele.com
 payhd.ru
 paykeeper-preprod.mkb.ru
@@ -17155,6 +17191,7 @@ pcidss.bank.yandex.ru
 pcidss.uat.bank.yandex.ru
 pcmi.tricolor.ru
 pcr-n2.oparina4.ru
+pcrlab-n3.oparina4.ru
 pd.giga.chat
 pd.oneme.ru
 pd.rt.ru
@@ -17406,8 +17443,10 @@ pobeda.omk.ru
 pobeda.rosseti-lenenergo.ru
 pobeda80.tricolor.ru
 pobedy.tricolor.ru
+pochta-st.lenenergo.ru
 pochta.cchgeu.ru
 pochta.ingosinvest.ru
+pochta.lenenergo.ru
 pochta.ru
 pochta.zavod-plastmass.ru
 pochtabank.ru
@@ -17538,6 +17577,7 @@ post.oparina4.ru
 post.pochtabank.ru
 post.sberbank.ru
 posters.public.crms-media.mts.ru
+postlink.stc-spb.ru
 postman.rosleshoz.ru
 potok.creditural.ru
 powerbi.bcs.ru
@@ -18040,6 +18080,7 @@ pyrusbot-ortikon-test.sovcombank.group
 pyrusbot-ortikon.sovcombank.group
 q-admins.ru
 q.gis-sc.krasnodar.ru
+q7.hozmax.ru
 qa-dc.ru
 qa-dfo.ru
 qa.geoapi.sberbank.ru
@@ -18295,6 +18336,7 @@ ras03.spasibosb.ru
 ras10.sberdevices.ru
 rasp.bukep.ru
 raspisanie-btt.ru
+rassvet.sir20.ru
 rate.mail.ru
 rates.avangard.ru
 rates.fx.bspb.ru
@@ -18431,6 +18473,7 @@ registrator-rekom.ru
 registry-rpa.sberbank-service.ru
 registry.domoy.ru
 registry.dt.multicarta.ru
+registry.mwsapis.ru
 registry.tbank.ru
 regkap.ru
 regmed.ru
@@ -19543,6 +19586,7 @@ sentry-test-mobile.alfabank.ru
 sentry-web.sberdevices.ru
 sentry.avangard.ru
 sentry.midep.ru
+sentry.mws.ru
 sentry.sbercloud.tech
 sentry.tinkoffjournal.ru
 seosan.io
@@ -19802,6 +19846,7 @@ sipmobile.alfastrah.ru
 sipproxy-cloud.homeagents.su
 sipreg.voiptools.ru
 sipweb.omk-it.ru
+sir20.ru
 sirena-test.mkb.ru
 sistema-capital.com
 sistema-re.ru
@@ -20892,6 +20937,7 @@ suvlyu.ru
 suz72.ru
 suzgrid.crpt.ru
 sv-dwh-ftps-01.sberinsur.ru
+sv.cts02-test.nornik.ru
 sv.deltacredit.ru
 svacer.cc.linuxtesting.ru
 svacer.linuxtesting.ru
@@ -22298,6 +22344,7 @@ vcs.demo-inspector.gosuslugi.ru
 vcs.dzo-sbercom.sberbank.ru
 vcs.gazsvyaz.gazprom.ru
 vcs.surp01.ru
+vcs.tgc11.ru
 vcs.tgk11.com
 vcs.uecrus.com
 vcs05.rscc.ru
@@ -23930,6 +23977,7 @@ www.education.rosseti-lenenergo.ru
 www.efbank.ru
 www.egisso.ru
 www.eirc.spb.ru
+www.elara.ru
 www.electromera.su
 www.elementary.center
 www.elf.vitabank.ru
@@ -25002,6 +25050,7 @@ www.patientcard.ru
 www.pay.roscap.com
 www.pay.vtb.ru
 www.pay47.ru
+www.paygas.ru
 www.payment.rambler.ru
 www.payments.absolutbank.ru
 www.pc.aq.ru
