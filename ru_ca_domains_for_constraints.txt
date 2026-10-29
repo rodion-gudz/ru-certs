@@ -891,6 +891,7 @@ defense.insure
 defense.ru
 deletron.ru
 delivery.ru
+dellin.ru
 delo.ru
 delovayakolbasa.ru
 delta-privod.ru
@@ -1853,6 +1854,7 @@ itmkb.ru
 itmrl.ru
 itphx.ru
 its-centr.org
+its-centr.ru
 its61.ru
 iturup.online
 iturupbank.ru
@@ -2173,6 +2175,7 @@ lockomarket.ru
 logic-flow.site
 loko-domain.ru
 lokobank.ru
+lomo.ru
 lomt.ru
 lookl.ru
 loonabrowser.ru
@@ -2646,6 +2649,7 @@ nm-conference.ru
 nmarket.pro
 nmchdd.ru
 nmt54.ru
+nmz.ru
 nniirt.ru
 nnk.ru
 nnov.ru
@@ -3531,6 +3535,7 @@ savingsim.ru
 sayanreabil.ru
 sb-broker.ru
 sb-s.ru
+sb117.ru
 sbbuild.ru
 sbc.space
 sber-a.ru
@@ -3840,6 +3845,7 @@ slizzz.ru
 slon-e.ru
 slona.me
 slr.systems
+sm117.ru
 smailbox.ru
 smailru.net
 smart-budget.ru
@@ -4921,6 +4927,7 @@ xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 xn--80aaggvgieoeoa2bo7l.xn--p1ai
 xn--80aagknb0ahdagdcdmhj4d0b.xn--p1ai
 xn--80aagyfeexajjkifg.xn--p1ai
+xn--80aahrca5bqhk0m.xn--p1acf
 xn--80aahrca5bqhk0m.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
 xn--80aalotit.xn--p1ai
