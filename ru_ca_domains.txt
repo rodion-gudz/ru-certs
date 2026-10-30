@@ -20802,6 +20802,7 @@ stavzan.ru
 staxi.spb.ru
 stc-nexus.speechpro.com
 stcnet.ru
+stellar.astralinux.ru
 stentor.team.centrinvest.ru
 stentor.vneshbank.ru
 stepan.su
@@ -20867,6 +20868,7 @@ stpr.ru
 str.open.ru
 strahovka35.ru
 strapi.sberdevices.ru
+stream-cad.ru
 stream-dev.test-jazz.sberbank.ru
 stream-ift.test-jazz.sberbank.ru
 stream-lt.test-jazz.sberbank.ru
