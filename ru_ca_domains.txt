@@ -4489,6 +4489,7 @@
 *.stp-egisz.ru
 *.stpadmin.ru
 *.stpr.ru
+*.strategy.ru
 *.stream.eaglecdn.com
 *.streaming.eagleplatform.com
 *.strelkacard.ru
@@ -6159,6 +6160,9 @@ alania.dev.home.megafon.ru
 alania.home.megafon.ru
 alania.megafon.ru
 alania.staging.megafon.ru
+alb-ksmg-01.rezonit.ru
+alb-mail-01.remicon.rezonit.ru
+alb.develop.rezonit.ru
 albank.ru
 albert2.edgevideo.ru
 albvvp.ru
@@ -6826,6 +6830,7 @@ asutd.transneft.ru
 async-online.vtbgroup.com
 async-online4.vtb.ru
 async-online6.vtb.ru
+at-bot.fvds.ru
 atbbank.ru
 atdcode.ru
 atechnics.ru
@@ -7205,6 +7210,7 @@ autodiscover.redirect.centrinvest.ru
 autodiscover.reg.sovcombank.ru
 autodiscover.restapi-buh.sovcombank.ru
 autodiscover.restart.auto
+autodiscover.rezonit.ru
 autodiscover.rn-bank.ru
 autodiscover.roscap.com
 autodiscover.roscap.ru
@@ -8005,6 +8011,7 @@ bstbank.ru
 bt.asudd.net
 btp.gkif.ru
 btrec.akbars.ru
+btx2.in-vent.ru
 budget-next.depfin70.ru
 budget.govrb.ru
 budget.mfsk.ru
@@ -8578,6 +8585,7 @@ check.hr-ift.sberbank.ru
 check.hr-qa.sberbank.ru
 check.hr-uat.sberbank.ru
 check.hr.sberbank.ru
+check.olimp.bet
 check.recfaces.ru
 check.rfaces.ru
 check.russian-trusted.ru
@@ -9248,6 +9256,8 @@ crypto.rosatom.ru
 cryptoarm.ru
 cryptoauth.gebank.ru
 cryptopro.ru
+cs-ksmg-01.rezonit.ru
+cs-mail-01.remicon.rezonit.ru
 cs.cache.api.vtb.ru
 cs.cache3.api.vtb.ru
 cs.gkovd.ru
@@ -10994,6 +11004,7 @@ files.igrovoy.rt.ru
 files.megafon.ru
 files.noosferabank.ru
 files.otp.sberbank.ru
+files.rezonit.ru
 files.rosleshoz.ru
 files.scpl.sber247.ru
 files.sovcombank.ru
@@ -11503,6 +11514,7 @@ gksar.ru
 gld.aaacapital.ru
 gld01.aaacapital.ru
 glitchtip.ingobank.ru
+glitchtip.rezonit.ru
 global-hub.ru
 globaloet.ru
 globalports.com
@@ -13222,6 +13234,8 @@ kibana.dev.lk.astra-team.ru
 kibana.spasibobonus.ru
 kibana.spasibotest.ru
 kiberbulling.net
+kid-portal.rezonit.ru
+kid.rezonit.ru
 kids.tricolor.ru
 kidsberries.ru
 kiekei.ru
@@ -13917,6 +13931,7 @@ logout.sberuniversity.ru
 logs-afina.megafon.ru
 logs-dsp.ad-tech.ru
 logs.ngenix.net
+logs.rezonit.ru
 lokobank.ru
 lomo.ru
 look.tricolor.ru
@@ -14406,6 +14421,7 @@ mail.mkp.ru.net
 mail.mmk.ru
 mail.mobilecheck.pro
 mail.morspas.ru
+mail.mr1.rezonit.ru
 mail.msk-scv1.sovcombank.group
 mail.msk-vpn01.sovcombank.group
 mail.msk-vpn02.sovcombank.group
@@ -14491,6 +14507,7 @@ mail.regulinvest.ru
 mail.remdizel.com
 mail.restapi-buh.sovcombank.ru
 mail.restart.auto
+mail.rezonit.ru
 mail.rfipoteka.ru
 mail.rn-bank.ru
 mail.rosdolg.ru
@@ -15458,6 +15475,7 @@ mpx.rambler.ru
 mpx2.ad-tech.ru
 mr-repo.cloud.ru
 mr.rspp.ru
+mr1.rezonit.ru
 mra-cl.gazprombank.ru
 mra.gazprombank.ru
 mra1.gazprombank.ru
@@ -15689,6 +15707,7 @@ mx5005.vtb.ru
 mx5006.vtb.ru
 mx7.speechpro.com
 mxipa.msk.inforion.ru
+mxr.tbank.ru
 my-help.ssl-test.megafon.ru
 my-internet.phoenix-dnr.ru
 my-retail.cardsmobile.ru
@@ -15719,6 +15738,7 @@ my.pochtabank.ru
 my.prostobank.online
 my.raiffeisen-capital.ru
 my.region-am.ru
+my.rezonit.ru
 my.ros-air.ru
 my.rt.ru
 my.snbank.ru
@@ -15979,6 +15999,7 @@ niig.su
 niineptun.ru
 niip.ru
 niipolyus.ru
+niistali.ru
 niitp.ru
 nikdevel.ru
 niklibrary.ru
@@ -17144,6 +17165,7 @@ pay.nkbank.ru
 pay.ozon.by
 pay.ozon.uz
 pay.pscb.ru
+pay.rezonit.ru
 pay.rkc-gku.ru
 pay.roscap.com
 pay.rt.ru
@@ -17414,6 +17436,7 @@ planer.megafon.ru
 planeta-mall.ru
 planetaibs.ru
 planning.rustest.ru
+plans.etp-avtodor.ru
 plat-forma.ru
 platezh.vtb24.ru
 platform-dev.eye.salute.ru
@@ -18446,6 +18469,7 @@ rdb.ru
 rdc.spb.ru
 rdcp.metcom.ru
 rdekonorack.ru
+rdesk.rezonit.ru
 rdg-ds.transneft.ru
 rdg.lemark.su
 rdgw.kk.bank
@@ -18632,6 +18656,7 @@ review.monitoring.mosreg.ru
 review.sevstar.net
 rex-motors.ru
 rex-render.mts.ru
+rezonet.ru
 rezonit.ru
 rf-cheats.ru
 rfcbank.ru
@@ -19053,6 +19078,7 @@ s3.media-mobs.mail.ru
 s3.mtsbank.ru
 s3.open-broker.ru
 s3.prodcloud.vk.team
+s3.rezonit.ru
 s3.sberhelp.sber.ru
 s3.tinkoff.ru
 s3.ttp.one-infra.ru
@@ -19657,6 +19683,7 @@ service.addy.su
 service.avangard.ru
 service.gazprombank.ru
 service.modulbank.ru
+service.rezonit.ru
 service.teakett.ru
 service.yadro.com
 servicecdn.ru
@@ -19710,6 +19737,7 @@ sfn-am.ru
 sfo-gdfinace.ru
 sfo-kailashfinance.ru
 sfo-makalu.ru
+sfo-platform-1.ru
 sfo-sovcomcollection.ru
 sfo-svoikapital-fintech.ru
 sfo-svoikapital-investment.ru
@@ -21345,6 +21373,7 @@ terskyrayon.ru
 tesb.rosatom.ru
 tesp.rosatom.ru
 test-1.fuckoff.site
+test-2.autossl.czdelta.cc
 test-2.avangard.ru
 test-2.dev.lk.astra-team.ru
 test-2.fuckoff.site
@@ -21408,6 +21437,7 @@ test-nuc2.severstal.com
 test-openapi.megafon.ru
 test-openapi.vtb.ru
 test-opros.vtb.ru
+test-pay.rezonit.ru
 test-pay.vtb.ru
 test-pfo.transneft.ru
 test-pgwh.nsd.ru
@@ -21533,6 +21563,7 @@ test2.api.sinara.ru
 test2.api.vtb.ru
 test2.bnpltests.ru
 test2.domrfbank.ru
+test2.ocs.ru
 test2.qdlocal.bspb.ru
 test2.rtksp.ru
 test2.slavneft.ru
@@ -23455,6 +23486,9 @@ www.aktiv-rso.ru
 www.akveduk52.ru
 www.aladdin-rd.ru
 www.aladdin.ru
+www.alb-ksmg-01.rezonit.ru
+www.alb-mail-01.remicon.rezonit.ru
+www.alb.develop.rezonit.ru
 www.albank.ru
 www.aldan.drsk.ru
 www.alefbank.ru
@@ -23581,6 +23615,7 @@ www.auto.market.omk.ru
 www.auto.vtb.ru
 www.autodiscover.akbars.ru
 www.autodiscover.pr.vtb.ru
+www.autodiscover.rezonit.ru
 www.autofaq-hr-proxy.rt.ru
 www.autofinancebank.ru
 www.autokreditbank.ru
@@ -23876,6 +23911,8 @@ www.crmbpm.spasibosb.sigma.sbrf.ru
 www.croc.ru
 www.cryptoarm.ru
 www.cryptoauth.gebank.ru
+www.cs-ksmg-01.rezonit.ru
+www.cs-mail-01.remicon.rezonit.ru
 www.cscampus.ru
 www.csonkr.ru
 www.csp-ugra.ru
@@ -24122,6 +24159,7 @@ www.fgup-ohrana.ru
 www.fguz-tyumen.ru
 www.files.cyberprotect.ru
 www.files.noosferabank.ru
+www.files.rezonit.ru
 www.files.sovcombank.ru
 www.fin-id.ru
 www.finasb.ru
@@ -24222,6 +24260,7 @@ www.gitlabpages.alfastrah.ru
 www.gjnrk.ru
 www.gk-ikar.ru
 www.gksar.ru
+www.glitchtip.rezonit.ru
 www.gmgs.ru
 www.gnicpm.ru
 www.go.cyberprotect.ru
@@ -24545,6 +24584,8 @@ www.kibana-gmp-ift.spasibotest.ru
 www.kibana-gmp.spasibosb.ru
 www.kibana.spasibobonus.ru
 www.kibana.spasibotest.ru
+www.kid-portal.rezonit.ru
+www.kid.rezonit.ru
 www.kinef.ru
 www.kino.tricolor.ru
 www.kion.ru
@@ -24686,6 +24727,7 @@ www.login.if.db-test.vtb.ru
 www.login.pochtabank.ru
 www.login.unicredit.ru
 www.logistics.gazprombank.ru
+www.logs.rezonit.ru
 www.lookl.ru
 www.loop.smarttravel.ru
 www.loopcpl.spasibosb.ru
@@ -24737,12 +24779,14 @@ www.mail.alfastrah.ru
 www.mail.chebarcul.ru
 www.mail.digital.krskstate.ru
 www.mail.market-fa.ru
+www.mail.mr1.rezonit.ru
 www.mail.noosferabank.ru
 www.mail.noospherabank.ru
 www.mail.nrb.ru
 www.mail.omsomsk.ru
 www.mail.pr.vtb.ru
 www.mail.rambler-co.ru
+www.mail.rezonit.ru
 www.mail.rostov-gorod.info
 www.mail.spasibosb.ru
 www.mail.tdzs.ru
@@ -24871,6 +24915,7 @@ www.mp-uat.nrb.ru
 www.mp.nrb.ru
 www.mpff.nrb.ru
 www.mpr26.ru
+www.mr1.rezonit.ru
 www.ms.pochtabank.ru
 www.mschcentr74.ru
 www.msges.vtb.ru
@@ -24904,6 +24949,7 @@ www.mx2.veb-leasing.com
 www.mx2.veb-leasing.ru
 www.my.domrfbank.ru
 www.my.pochtabank.ru
+www.my.rezonit.ru
 www.myacademy.lanit.ru
 www.mydocuments11.ru
 www.mydss.gazprombank.ru
@@ -25113,6 +25159,7 @@ www.passport.rt.ru
 www.passport.safe.gbo.gazprombank.ru
 www.pateroclinic.ru
 www.patientcard.ru
+www.pay.rezonit.ru
 www.pay.roscap.com
 www.pay.vtb.ru
 www.pay47.ru
@@ -25320,6 +25367,7 @@ www.rcktb.ru
 www.rcktbnk.ru
 www.rcoko27.ru
 www.rdekonorack.ru
+www.rdesk.rezonit.ru
 www.rdg-ds.transneft.ru
 www.read.mail.sovcomlife.ru
 www.recog.vacr.vtb.ru
@@ -25362,6 +25410,7 @@ www.reso.ru
 www.restapi-buh.sovcombank.ru
 www.restart.auto
 www.restream.ru
+www.rezonet.ru
 www.rezonit.ru
 www.rga-samara.ru
 www.rgantd.ru
@@ -25448,6 +25497,7 @@ www.s-a2.vtb.ru
 www.s.lenta.ru
 www.s.sberbank.ru
 www.s2.vtb.ru
+www.s3.rezonit.ru
 www.s7technics.ru
 www.sa2.ru
 www.saas-storeinfra-analytics-sdexproxy.rambler.ru
@@ -25582,6 +25632,7 @@ www.serv-food.ru
 www.servers.eaglecdn.com
 www.service-gazprompay.ru
 www.service.gazprombank.ru
+www.service.rezonit.ru
 www.servicecdn.ru
 www.services.fintender.ru
 www.services.livejournal.com
@@ -25859,6 +25910,7 @@ www.test-invest.vtb.ru
 www.test-mobile.broker.vtb.ru
 www.test-mobile2.broker.vtb.ru
 www.test-openapi.vtb.ru
+www.test-pay.rezonit.ru
 www.test-pay.vtb.ru
 www.test-pfo.transneft.ru
 www.test.api.vtb.ru
@@ -26261,6 +26313,8 @@ www.znvo.ru
 www.zolotayakorona.ru
 www.zppk.ru
 www.zpr.remeks.online
+www.zub-ksmg-01.rezonit.ru
+www.zub-mail-01.remicon.rezonit.ru
 www.zulip.otpbank.ru
 www.zvo.ru
 www1.t-boys.ru
@@ -26825,6 +26879,8 @@ zrnao.ru
 zsamur.ru
 zskuzbass.ru
 zspd.rcoko27.ru
+zub-ksmg-01.rezonit.ru
+zub-mail-01.remicon.rezonit.ru
 zubrit.ocs.ru
 zulip.otpbank.ru
 zvezda-atp.ru
