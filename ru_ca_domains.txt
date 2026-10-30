@@ -2127,6 +2127,8 @@
 *.k2.cloud
 *.k2.tech
 *.k2int.ru
+*.k8s-mid.modulbank.ru
+*.k8s-prod.modulbank.ru
 *.k8s.eas.startups.su
 *.k8s.intmts.ru
 *.k8s.ntv.ru
@@ -2302,6 +2304,7 @@
 *.lanit.ru
 *.lanta.ru
 *.laspace.ru
+*.lavateka.ru
 *.lazurmedical.ru
 *.learn.geoscan.ru
 *.learning.ozon.ru
@@ -2922,6 +2925,7 @@
 *.notify.vk.company
 *.nov.21-school.ru
 *.nova.vk.team
+*.novatek-spgt.ru
 *.novatek44.ru
 *.novikom.ru
 *.novkfo.ru
@@ -4962,6 +4966,7 @@
 *.valdai.ru
 *.vamto.mil.ru
 *.vamto.old.mil.ru
+*.vardis-ins.ru
 *.variti.io
 *.varvsn-mo.21-school.ru
 *.vas-mo.21-school.ru
@@ -5402,6 +5407,7 @@
 *.yandar-group.ru
 *.yango.pro
 *.yar.21-school.ru
+*.yartfoms.ru
 *.yarz.ru
 *.yatec.ru
 *.yc-time-saas-video-conference.ru
@@ -8757,6 +8763,7 @@ cloud.mail.ru
 cloud.mfk-bank.ru
 cloud.mgred0mail.onprem.ru
 cloud.micard.ru
+cloud.microsun.ru
 cloud.mkb.ru
 cloud.mt-plan.ru
 cloud.mts.ru
@@ -8873,6 +8880,7 @@ col.rosleshoz.ru
 collab-edge.achimgaz.ru
 collab-edge.alfabank.ru
 collab-edge.bspb.ru
+collab-edge.mfk-bank.ru
 collab-edge.mkb.ru
 collab-edge.open.ru
 collab-edge.rencredit.ru
@@ -9204,6 +9212,7 @@ crm-xml-feed.tricolor.ru
 crm.credistory.ru
 crm.gazfond-pn.ru
 crm.mgn-city.ru
+crm.microsun.ru
 crm.mws.ru
 crm.noosferabank.ru
 crm.officestyle35.ru
@@ -12968,6 +12977,7 @@ job.mtsbank.ru
 job.psbank.ru
 job.staging.megafon.ru
 job.veb.ru
+jobs.microsun.ru
 jobsmodern.ru
 jobtst.psbank.ru
 join-meet.tgc11.ru
@@ -13014,6 +13024,8 @@ k2.cloud
 k2.tech
 k2int.ru
 k3-t.sberpravo.ru
+k8s-mid.modulbank.ru
+k8s-prod.modulbank.ru
 k8s.eas.startups.su
 k8s.open-broker.ru
 k8stest2creditonline.toyotafs.ru
@@ -13519,6 +13531,7 @@ lanit.ru
 lapi-bis.1cupis.ru
 lasagna.rambler.ru
 launcher.igrovoy.rt.ru
+lavateka.ru
 laverna.journal.tbank.ru
 laverna.journal.tinkoff.ru
 laverna.t-j.ru
@@ -13737,6 +13750,7 @@ lk.mysbertips.ru
 lk.noosferabank.ru
 lk.nordgold.com
 lk.nov.mts.ru
+lk.novatek-spgt.ru
 lk.nsg-ins.ru
 lk.nsk-main.mts.ru
 lk.ogk2.ru
@@ -15114,6 +15128,7 @@ microem.ru
 micron-uat.mtsbank.ru
 micron.mtsbank.ru
 microservices.megafon.ru
+microsun.ru
 middle-api.magnit.ru
 middle.megafon.ru
 mig-os.ru
@@ -15498,6 +15513,7 @@ msk-exp-e1-vpn.uralsib.ru
 msk-exp-e1.uralsib.ru
 msk-exp-e2-vpn.uralsib.ru
 msk-exp-e2.uralsib.ru
+msk-exway-e-01.mfk-bank.ru
 msk-ix.ru
 msk-scv1.sovcombank.group
 msk-tcs-app01.megafon.ru
@@ -15685,6 +15701,7 @@ my.broker.ru
 my.bukep.ru
 my.centrinvest.com
 my.centrinvest.ru
+my.chinachild.ru
 my.com
 my.creditural.ru
 my.dev.bank.yandex.ru
@@ -16056,6 +16073,7 @@ notifycards.vbrr.ru
 notp.vneshbank.ru
 nov.21-school.ru
 nova.vk.team
+novatek-spgt.ru
 novatek.asugo.ru
 novgorod.dev.home.megafon.ru
 novgorod.home.megafon.ru
@@ -19638,6 +19656,7 @@ service-telecom.yadro.com
 service.addy.su
 service.avangard.ru
 service.gazprombank.ru
+service.modulbank.ru
 service.teakett.ru
 service.yadro.com
 servicecdn.ru
@@ -22156,6 +22175,7 @@ upravlaytv.tricolor.ru
 upravlyaem.ru
 uprio.ru
 uprvetrk.ru
+upz.ru
 ur.rtksp.ru
 ura-test01.fuckoff.site
 uralaz.ru
@@ -22263,6 +22283,7 @@ valen.keenetic.link
 validator.dev.lk.astra-team.ru
 values-book.omk.ru
 vant.ippe.ru
+vardis-ins.ru
 variti.io
 varvsn-mo.21-school.ru
 vas-mo.21-school.ru
@@ -24954,6 +24975,7 @@ www.noospherabank.ru
 www.norbit.ru
 www.noszr.rt.ru
 www.nov.21-school.ru
+www.novatek-spgt.ru
 www.novkfo.ru
 www.novoshakhtinsk.org
 www.npf-transneft.ru
@@ -25967,6 +25989,7 @@ www.unsub.mail.sovcomlife.ru
 www.uobr.ru
 www.uor-nsk.ru
 www.upravkom.ru
+www.upz.ru
 www.uralprombank.ru
 www.ureguliryi.ru
 www.urfu.21-school.ru
@@ -26205,6 +26228,7 @@ www.yakno.ru
 www.yandar-group.com
 www.yandar-group.ru
 www.yar.21-school.ru
+www.yartfoms.ru
 www.yfc.ru
 www.yks.21-school.ru
 www.youtrack-ark.sovcombank.ru
@@ -26608,6 +26632,7 @@ yar.dev.home.megafon.ru
 yar.home.megafon.ru
 yar.megafon.ru
 yar.staging.megafon.ru
+yartfoms.ru
 yarz.ru
 yatec.ru
 yc-time-saas-video-conference.ru

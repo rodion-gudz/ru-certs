@@ -698,6 +698,7 @@ chemical.ru
 chernadmin.ru
 chestnyznak.ru
 childrest.ru
+chinachild.ru
 chipdip.ru
 chmz.ru
 chus-bi.ru
@@ -2104,6 +2105,7 @@ lanit.ru
 lanta.ru
 laspace.ru
 latrenta.ru
+lavateka.ru
 lazarusfinance.ru
 lazurmedical.ru
 lbsoft.ru
@@ -2343,6 +2345,7 @@ miac74.ru
 micard.ru
 microbe.ru
 microem.ru
+microsun.ru
 midep.ru
 mig-os.ru
 migom.info
@@ -2677,6 +2680,7 @@ nornik.ru
 norvik.ru
 norvikbank.ru
 nov.ru
+novatek-spgt.ru
 novatek44.ru
 novikom.ru
 novkfo.ru
@@ -4541,6 +4545,7 @@ v1.market
 vahpesto.ru
 valdai.ru
 vamprivet.ru
+vardis-ins.ru
 variti.io
 vasmfpro.ru
 vasmpro.ru
@@ -5091,6 +5096,7 @@ yandex-net.ru
 yandex.net
 yandex.ru
 yango.pro
+yartfoms.ru
 yarz.ru
 yatec.ru
 yc-time-saas-video-conference.ru
