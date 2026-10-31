@@ -13859,6 +13859,7 @@ lkptest.a-rnr.ru
 lkptest2.a-rnr.ru
 lkr.pskb.com
 lkr.sinara-finance.ru
+lksr.ru
 lkt.tatenergo.ru
 lktroika.ru
 lkuc.mts.ru
@@ -21456,6 +21457,8 @@ test-tls-showroom.api.megafon.ru
 test-tp.br.mosreg.ru
 test-tp.csp.uecrus.com
 test-vtbo.api.vtb.ru
+test-wc01.fuckoff.site
+test-wc02.fuckoff.site
 test.19dx.ru
 test.3ds.payment.ru
 test.acq.gazprombank.ru
