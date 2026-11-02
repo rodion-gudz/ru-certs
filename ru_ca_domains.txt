@@ -1029,6 +1029,7 @@
 *.dev.kcr.mosreg.ru
 *.dev.kinomo.mosreg.ru
 *.dev.kion.ru
+*.dev.knd.mosreg.ru
 *.dev.lod.mosreg.ru
 *.dev.loyalty.mosreg.ru
 *.dev.m.zk.knd.mosreg.ru
@@ -2464,6 +2465,7 @@
 *.makc.ru
 *.makclife.ru
 *.makcm.ru
+*.malachite-spb.ru
 *.malchikovma.ru
 *.malltech.ru
 *.mama-super.ru
@@ -2483,6 +2485,7 @@
 *.maps.mail.ru
 *.maps.vk.com
 *.maps.vk.team
+*.mari-el.gov.ru
 *.marina-shop.ru
 *.marinebroker.ru
 *.maritimebank.com
@@ -2887,6 +2890,7 @@
 *.niige.ru
 *.niineptun.ru
 *.niip.ru
+*.niisi.ru
 *.niistali.ru
 *.niitp.ru
 *.nimro.ru
@@ -4029,6 +4033,7 @@
 *.selfpub.ru
 *.selfservice.smailru.net
 *.seller.ad-tech.ru
+*.seller.ozon.ru
 *.sellplus.ru
 *.semenov.nnov.ru
 *.sensorcloud.ru
@@ -4183,6 +4188,7 @@
 *.soc-volga.ru
 *.soc.rt.ru
 *.soc23.ru
+*.soccard.ru
 *.socfmba.ru
 *.sockarta74.ru
 *.sodrujestvo.org
@@ -4369,6 +4375,7 @@
 *.stage.issd.mosreg.ru
 *.stage.kcr.mosreg.ru
 *.stage.kinomo.mosreg.ru
+*.stage.knd.mosreg.ru
 *.stage.lod.mosreg.ru
 *.stage.loyalty.mosreg.ru
 *.stage.m.zk.knd.mosreg.ru
@@ -4836,6 +4843,7 @@
 *.tv.mail.ru
 *.tvc.ru
 *.tverfin.ru
+*.tvernefteproduct.ru
 *.tverreg.ru
 *.tvh.mts.ru
 *.tvobr.ru
@@ -4927,6 +4935,7 @@
 *.uobr.ru
 *.uor-nsk.ru
 *.update.2gis.com
+*.updk.ru
 *.upravkom.ru
 *.upravlyaem.ru
 *.uprio.ru
@@ -5259,6 +5268,7 @@
 *.wormhole.vk-apps.com
 *.wormhole.vk-apps.ru
 *.wowsale.ru
+*.www.ozon.ru
 *.x-msg.ru
 *.x.sberauto.com
 *.xmail.ru
@@ -6392,6 +6402,7 @@ api-rtr.sberbankins.ru
 api-sberpass.privetmir.ru
 api-sberpass.vamprivet.ru
 api-socket.eco.rt.ru
+api-sravni.imp.prod.pdp.rgs.ru
 api-start.eco.rt.ru
 api-stories.srv-hub.org
 api-stories.tbank-online.com
@@ -8758,6 +8769,7 @@ cloud.ao-star.ru
 cloud.barnaultransmash.ru
 cloud.bspb.ru
 cloud.croc.ru
+cloud.digitallogisticsrzd.ru
 cloud.domrf.ru
 cloud.edge.sberdevices.ru
 cloud.geoscan.ru
@@ -9285,6 +9297,7 @@ cstwebu.tch.ru
 csvr.ru
 ct.bcs.ru
 ct2.bcs.ru
+ct3d.sd.ascon.ru
 cti-connect.wb.ru
 cti-gateway.magnit.ru
 cti-platform.wb.ru
@@ -9679,6 +9692,7 @@ dev.issd.mosreg.ru
 dev.kapmed.ru
 dev.kcr.mosreg.ru
 dev.kinomo.mosreg.ru
+dev.knd.mosreg.ru
 dev.kwapp.spaymentsplus.ru
 dev.lk.astra-team.ru
 dev.lod.mosreg.ru
@@ -9804,6 +9818,7 @@ devops.alrosa.ru
 devpg.centrinvest.ru
 devpi.eye.salute.ru
 devpsb.pvcd.ru
+devsec.astralinux.ru
 devuniver.rt.ru
 dewaf.deltacredit.ru
 df.mos.ru
@@ -12522,6 +12537,7 @@ imsi.megalocator.ru
 imt.sbercity.ru
 in-bank.ru
 in-ko.ru
+in-vent.ru
 in.meteo.nw.ru
 inapps.storage.bcs.ru
 inapps2.storage.bcs.ru
@@ -12587,6 +12603,7 @@ ingoauto.ru
 ingobank.ru
 ingobroker.ru
 ingopro.ru
+ingoread.ru
 ingos.ru
 ingosinvest-am.ru
 ingosinvest.ru
@@ -13356,6 +13373,7 @@ kop-prd-turn.codm.gazprom.ru
 kop-prd-vr.codm.gazprom.ru
 kop.gazprom.ru
 kopss43.ru
+koresh-panel.ru
 koriphey-beta.sberclass.ru
 koriphey.sberclass.ru
 korolev.dev.home.megafon.ru
@@ -14701,6 +14719,7 @@ makclife.ru
 makcm.ru
 makeyev.ru
 makovetsky.ru
+malachite-spb.ru
 malchikovma.ru
 malltech.ru
 mama-super.ru
@@ -14746,6 +14765,7 @@ maps.tinkoffjournal.ru
 maps.vk.com
 maps.vk.team
 margin.fx.bspb.ru
+mari-el.gov.ru
 mari-karta.ru
 mariel.dev.home.megafon.ru
 mariel.home.megafon.ru
@@ -16004,6 +16024,7 @@ niig.su
 niineptun.ru
 niip.ru
 niipolyus.ru
+niisi.ru
 niistali.ru
 niitp.ru
 nikdevel.ru
@@ -18713,6 +18734,7 @@ rm.dm.alfabank.ru
 rm.inforion.ru
 rm.rwb.ru
 rmail.oparina4.ru
+rmc.nkbank.ru
 rmg.ru
 rmp-psi.sber.ru
 rmp.sber.ru
@@ -19514,6 +19536,7 @@ sd.pochtabank.ru
 sda-rproxy2.speechpro.com
 sdb-downloads.ocs.ru
 sdco.ru
+sde-dmz-p-02.first-am.ru
 sde-ftps.esphere.ru
 sde.cplsb.ru
 sde.first-am.ru
@@ -19524,6 +19547,7 @@ sde2.sbernpf.ru
 sdeclient.cplsb.ru
 sdeftp01.sberbank-tele.com
 sdex-dwh-ftps.sberinsur.ru
+sdex.first-am.ru
 sdex.sbbuild.ru
 sdex2sbercloud.yoomoney.ru
 sdisk.ru
@@ -19645,6 +19669,7 @@ selfservice.smailru.net
 selfserviceportal.pochtabank.ru
 selfworker.qtom.ru
 seller.ad-tech.ru
+seller.ozon.ru
 sellplus.ru
 selscreen.ncagp.ru
 selta.magnit.ru
@@ -20181,6 +20206,7 @@ soc-t.sinara.ru
 soc.kszn34.ru
 soc.rt.ru
 soc23.ru
+soccard.ru
 socfmba.ru
 sochi.dev.home.megafon.ru
 sochi.home.megafon.ru
@@ -20662,6 +20688,7 @@ stage.issd.mosreg.ru
 stage.jump.finance
 stage.kcr.mosreg.ru
 stage.kinomo.mosreg.ru
+stage.knd.mosreg.ru
 stage.lod.mosreg.ru
 stage.loyalty.mosreg.ru
 stage.m.zk.knd.mosreg.ru
@@ -21063,6 +21090,7 @@ svoedom.ru
 svoefermerstvo.ru
 svoevagro.ru
 svoevse.ru
+svoi-market.ru
 svoiyayca.ru
 svoy.alfabank.ru
 svp.ru
@@ -22204,6 +22232,7 @@ upd.mobile-test.sbrf.ru
 upd.mobile.sbrf.ru
 updater.admkonda.ru
 updater.app-assistent.open.ru
+updk.ru
 upgsbi.sberbank.ru
 upload.seller.ozon.ru
 uploader.key.rt.ru
@@ -23313,6 +23342,7 @@ ws.ojob.stg.ozonru.me
 ws.opp.ozon.ru
 ws.ozon-stg.ozonru.me
 ws.ozon.uz
+ws.performance.ozon.ru
 ws.profit-learning.ozon.ru
 ws.profit.ozon.ru
 ws.sberbankins.ru
@@ -25996,6 +26026,7 @@ www.tstsite.sberbankins.ru
 www.tubrb.ru
 www.turkmensky.ru
 www.tusvc.bcs.ru
+www.tvernefteproduct.ru
 www.tvmag.ru
 www.tvoy-domovoy.ru
 www.tvoyodbo.online

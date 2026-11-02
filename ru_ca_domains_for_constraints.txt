@@ -1758,6 +1758,7 @@ ingoauto.ru
 ingobank.ru
 ingobroker.ru
 ingopro.ru
+ingoread.ru
 ingos.ru
 ingosinvest-am.ru
 ingosinvest.ru
@@ -2007,6 +2008,7 @@ kontur-api.ru
 kontur.ru
 konus.group
 kopss43.ru
+koresh-panel.ru
 korotyshev.ru
 koruel.ru
 korusconsulting.ru
@@ -2237,6 +2239,7 @@ makclife.ru
 makcm.ru
 makeyev.ru
 makovetsky.ru
+malachite-spb.ru
 malchikovma.ru
 malltech.ru
 mama-super.ru
@@ -2635,6 +2638,7 @@ niige.ru
 niineptun.ru
 niip.ru
 niipolyus.ru
+niisi.ru
 niistali.ru
 niitp.ru
 nikdevel.ru
@@ -3897,6 +3901,7 @@ sntshnik.ru
 sobe.ru
 soc-volga.ru
 soc23.ru
+soccard.ru
 socfmba.ru
 social-card.ru
 socinfo.ru
@@ -4416,6 +4421,7 @@ turkmensky.ru
 tutoria.ru
 tvc.ru
 tverfin.ru
+tvernefteproduct.ru
 tverreg.ru
 tverstandart.ru
 tvmag.ru
@@ -4504,6 +4510,7 @@ untar.ru
 uobr.ru
 uor-nsk.ru
 upbkk.ru
+updk.ru
 upravkom.ru
 upravlyaem.ru
 uprio.ru
