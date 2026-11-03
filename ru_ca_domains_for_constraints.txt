@@ -80,6 +80,7 @@ absolutbank.ru
 absolutins.ru
 absoluttrade.ru
 absolutvip.ru
+ac.ru
 academcity.ru
 academresource.online
 acapital-am.ru
@@ -1270,6 +1271,7 @@ fgis-saturn.ru
 fgsrb.ru
 fgup-ohrana.ru
 fguz-tyumen.ru
+fguz-volgograd.ru
 fguzmo.ru
 fhdgso.ru
 ficto.ru
@@ -3454,6 +3456,7 @@ rtreg.ru
 rtrn.ru
 rts-tender.ru
 rts.ru
+rttec.ru
 rttv.ru
 rtu-akr.ru
 ru-robot.ru

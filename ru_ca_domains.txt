@@ -1498,6 +1498,7 @@
 *.fgislk-test.gov.ru
 *.fgislk.gov.ru
 *.fgup-ohrana.ru
+*.fguz-volgograd.ru
 *.fguzmo.ru
 *.ficto.ru
 *.fifth-m12.asudd.net
@@ -2079,6 +2080,7 @@
 *.isbank.com.ru
 *.isiton.ru
 *.isp.nsc.ru
+*.issp.ac.ru
 *.issras.ru
 *.istokmw.ru
 *.it-brigita.ru
@@ -5843,6 +5845,7 @@ acs-test.alfabank.ru
 acs-test.rsb.ru
 acs.akbars.ru
 acs.alfabank.ru
+acs.bankofkazan.ru
 acs.bcs.ru
 acs.bspb.ru
 acs.ccb.ru
@@ -8687,6 +8690,7 @@ citgos.cit-kuban.ru
 citibankdelast.deltacredit.ru
 citis.ru
 cito-priorov.ru
+citrix-rtk.ctx.mts.ru
 citrix.atriumnn.ru
 citrix.mtsbank.ru
 citto.ru
@@ -9331,8 +9335,16 @@ ctx.domrfbank.ru
 ctx.ingobank.ru
 ctx.mts.ru
 ctxcc.mbrd.ru
+ctxdvisso.ctx.mts.ru
 ctxgslb.mos.ru
 ctxidp.mtsbank.ru
+ctxmskisso.ctx.mts.ru
+ctxmskrsa2.ctx.mts.ru
+ctxmsksms2.ctx.mts.ru
+ctxnwisso.ctx.mts.ru
+ctxpvisso-reserve.ctx.mts.ru
+ctxpvisso.ctx.mts.ru
+ctxpvsms-reserve.ctx.mts.ru
 cu.dzen.ru
 cuadro1.donland.ru
 cucm.amet.ru
@@ -9620,6 +9632,7 @@ detest.deltacredit.ru
 deti.mail.ru
 dev-1.staging-mc-2.check-up-online.ru
 dev-api.addy.su
+dev-argocd.dev.lk.astra-team.ru
 dev-chat-sharing.vtb.ru
 dev-chat-turn.vtb.ru
 dev-chat.vtb.ru
@@ -10984,6 +10997,7 @@ fgislk.gov.ru
 fgsrb.ru
 fgup-ohrana.ru
 fguz-tyumen.ru
+fguz-volgograd.ru
 fguzmo.ru
 fgws-gw-openfapi-dbosmb-gost-lb.vtb.ru
 fgws-gw-openfapi-dbosmb-lb.vtb.ru
@@ -12866,6 +12880,7 @@ isp.mfsk.ru
 isp.nsc.ru
 isso-dev.mts.ru
 isso.mts.ru
+issp.ac.ru
 issras.ru
 istok.tch.ru
 isup.almaz-antey.ru
@@ -12877,6 +12892,7 @@ it-kizlyar.ru
 it-marathon.21-school.ru
 it-service57.ru
 it.sch435.ru
+it.sv-e.ru
 it24online.ru
 it4prof.ru
 itadmin.su
@@ -14607,6 +14623,7 @@ mail.storage.contrada-capital.ru
 mail.storage.investekspert.ru
 mail.storage.sovcombank-am.ru
 mail.storage.sovcombank.ru
+mail.szd.stcnet.ru
 mail.tbki.ru
 mail.tdzs.ru
 mail.tebs.sovcombank.ru
@@ -14781,6 +14798,7 @@ markdowntableeditor.ru
 market-fa.ru
 market-service.cardsmobile.ru
 market-services.cardsmobile.ru
+market.alrosa.ru
 market.cardsmobile.ru
 market.nnk.ru
 market.pochta.ru
@@ -15234,6 +15252,7 @@ mirdomovyat.ru
 mirea.ru
 mironchik.com
 mirpay.mkb.ru
+mirror.devsec.astralinux.ru
 mis.egisznso.ru
 mis.pnzmed.ru
 mistrikov.ru
@@ -15554,6 +15573,7 @@ mshornikov.com
 mshsk.ru
 msis174.ru
 msitech.ru
+msk-agg-prod-nlb-private.prod.cloud.mts.ru
 msk-exp-e-cluster.uralsib.ru
 msk-exp-e1-vpn.uralsib.ru
 msk-exp-e1.uralsib.ru
@@ -15660,6 +15680,7 @@ mvtstm.omsk.ertelecom.ru
 mvtstm.perm.ertelecom.ru
 mvtswh.perm.ertelecom.ru
 mwms.ru
+mws.ru
 mx-qa.absolutbank.ru
 mx.absolutbank.ru
 mx.comfort-max.ru
@@ -16346,6 +16367,7 @@ ofoms.ru
 ofp.domrfbank.ru
 ofukem.ru
 ogk2.ru
+oidc.mws.ru
 oil-service.pro
 oiltelecom.ru
 oinet.ru
@@ -16634,6 +16656,7 @@ orenklip.online
 oreol-2010.ru
 orexchange.ru
 org.mws.ru
+org.mwsapis.ru
 organizations.tricolor.ru
 orgp.spb.ru
 origin.cargo.s7.ru
@@ -17363,6 +17386,7 @@ petrrb.ru
 pets.mail.ru
 pewete.ru
 pf.pochtabank.ru
+pfc-site-dev.pfc.ru
 pfm.promo
 pfo.transneft.ru
 pfp.storage.bcs.ru
@@ -17450,6 +17474,7 @@ pki.akiselev.group
 pki.alfastrah.ru
 pki.mkb.ru
 pki.mts.ru
+pki.mws.ru
 pki.sovcombank.ru
 pking-psi.sberbank.ru
 pking.sberbank.ru
@@ -18208,6 +18233,7 @@ qtrm.ru
 quadcom.biz
 quality.spb.ru
 quarton.ru
+queue-api.mwsapis.ru
 queue.snbank.ru
 quickstart.lenenergo.ru
 quickstart.rosseti-lenenergo.ru
@@ -18944,6 +18970,7 @@ rtpproxy-tt-rca-1.homeagents.su
 rtreg.ru
 rtrn.ru
 rts-tender.ru
+rttec.ru
 rttv.ru
 rtu-akr.ru
 rturn001.jazz.sberbank.ru
@@ -19540,6 +19567,7 @@ sda-rproxy2.speechpro.com
 sdb-downloads.ocs.ru
 sdco.ru
 sde-dmz-p-02.first-am.ru
+sde-dmz-u-02.first-am.ru
 sde-ftps.esphere.ru
 sde.cplsb.ru
 sde.first-am.ru
@@ -19550,6 +19578,7 @@ sde2.sbernpf.ru
 sdeclient.cplsb.ru
 sdeftp01.sberbank-tele.com
 sdex-dwh-ftps.sberinsur.ru
+sdex-u.first-am.ru
 sdex.first-am.ru
 sdex.sbbuild.ru
 sdex2sbercloud.yoomoney.ru
@@ -19700,6 +19729,7 @@ sep-in-sbms-ns2.megafon.ru
 sep.vk.team
 septemcapital.ru
 sergeykhotimskiy.ru
+serial-console.compute.mwsapis.ru
 sermet.ru
 sernia.ru
 serpuhov.dev.home.megafon.ru
@@ -20834,10 +20864,12 @@ static.hr-uat.sberbank.ru
 static.kion.ru
 static.mts.ru
 static.mtsbank.ru
+static.mws.ru
 static.novikom.ru
 static.prelive.alfabank.ru
 static.r.vk.com
 static.r.vk.ru
+static.rc.mws.ru
 static.sbi.sberbank.ru
 static.spasibobonus.ru
 static.storage.bcs.ru
@@ -20925,6 +20957,7 @@ storage.contrada-capital.ru
 storage.edge.sberdevices.ru
 storage.investekspert.ru
 storage.linuxtesting.ru
+storage.mwsapis.ru
 storage.root.t-software.tech
 storage.rosseti-lenenergo.ru
 storage.sovcombank-am.ru
@@ -21045,6 +21078,7 @@ surgutneftegas.ru
 surgutneftegas39.ru
 surp01.ru
 survey-service.isiao.gov.spb.ru
+survey-service.test.isiao.gov.spb.ru
 survey.magnit.ru
 survey.mkb.ru
 survey.sberbank-service.ru
@@ -22412,6 +22446,7 @@ vbr30.msk.cloud.ru
 vbr50.cloud.ru
 vbrr.ru
 vbudushee.ru
+vbv.bankofkazan.ru
 vbv.metcom.ru
 vc-msk-expe1.uecrus.com
 vc-msk-expe2.uecrus.com
@@ -23158,6 +23193,7 @@ whiteboard.sberbank.ru
 whiteboard.talk.magnit.ru
 whiteboard.talktst.magnit.ru
 whitei.net
+whoami.devsec.astralinux.ru
 whocalls.megafon.ru
 whocalls.middle.megafon.ru
 whp-findep-web.sovcombank.group
