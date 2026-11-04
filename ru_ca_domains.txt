@@ -5833,6 +5833,7 @@ achimdevelopment.ru
 achimgaz.ru
 ack-it.online
 acme-test-nuc.asdkola.org
+acme-test.devops-team.ru
 aconf.rt.ru
 acptl.ru
 acquiring-test.mtsbank.ru
@@ -13799,6 +13800,7 @@ lk.mkb.ru
 lk.mts.ru
 lk.myonlinetips.ru
 lk.mysbertips.ru
+lk.n-vartovsk.ru
 lk.noosferabank.ru
 lk.nordgold.com
 lk.nov.mts.ru

@@ -916,6 +916,7 @@ dev-vkplay.ru
 devkz.ru
 devmail.ru
 devops-centre.ru
+devops-team.ru
 devops4you.ru
 devvk.team
 dfm.ru
