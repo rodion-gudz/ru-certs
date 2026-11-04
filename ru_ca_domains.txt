@@ -8821,6 +8821,7 @@ cloudpbx.rt.ru
 cloudsal-demo-2.speechpro.com
 cloudsal-demo.speechpro.com
 cloudtls.mkb.ru
+clown.olejka.ru
 cls.rambler.ru
 clstate.middle.megafon.ru
 club.tatneft.ru
@@ -10316,6 +10317,7 @@ ecar-airbus.ru
 eccdn.servicecdn.ru
 eccdn2.servicecdn.ru
 ecdn.sovcombank.ru
+ecdsad384.fuckoff.site
 ecert.gov.ru
 echat-pre.sberbankins.ru
 echat-tst.sberbankins.ru
@@ -21645,6 +21647,7 @@ test2.rtksp.ru
 test2.slavneft.ru
 test2.t-boys.ru
 test2.time-messenger.ru
+test2026.site
 test273.servicecdn.ru
 test2creditonline.toyotafs.ru
 test3.api.vtb.ru
