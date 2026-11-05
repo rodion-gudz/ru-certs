@@ -968,6 +968,7 @@
 *.demo3.hycl.ru
 *.dengi.ru
 *.dengograd.ru
+*.denizbank.ru
 *.depagro32.ru
 *.depfin.kirov.ru
 *.depoplaza.ru
@@ -4451,6 +4452,7 @@
 *.star-pro.ru
 *.star-smile.ru
 *.star.lenta.com
+*.star.ru
 *.starcrb.ru
 *.starlink.ru
 *.starompos.ru
@@ -11155,6 +11157,7 @@ forsage.deltacredit.ru
 forshtadt.ru
 fortiweb.bcs.ru
 forum.rcoko27.ru
+forum.retroweb.su
 forums.mail.ru
 fos.rshb-ins.ru
 fosdev.rshb-ins.ru
@@ -12164,6 +12167,7 @@ ib.avangard.ru
 ib.bankrsi.ru
 ib.cldmail.ru
 ib.delo.ru
+ib.denizbank.ru
 ib.finambank.ru
 ib.gebank.ru
 ib.gorbank.spb.ru
@@ -16811,6 +16815,7 @@ owa.corp.sbercloud.ru
 owa.crm.noosferabank.ru
 owa.dbo.centrinvest.ru
 owa.dbo.noosferabank.ru
+owa.denizbank.ru
 owa.dmitriykhotimskiy.ru
 owa.docs-test.sovcombank.ru
 owa.docs.sovcombank.ru
@@ -17556,6 +17561,7 @@ pmosk.ru
 pmp.middle.megafon.ru
 pmplatform.ru
 pms-centr.spb.ru
+pms.rtcp.su
 pmx.rambler.space
 pmz.ru
 pnd-dp.megafon.ru
@@ -17986,6 +17992,7 @@ proresurs.ru
 prosdr.ru
 proshkola.ru
 prostobank.online
+prostofotka.ru
 prosv.ru
 proton-orel.ru
 protonpm.ru
@@ -20816,6 +20823,7 @@ star-pro.ru
 star-smile.ru
 star.lenta.com
 star.megafon.ru
+star.ru
 star.tricolor.ru
 starcrb.ru
 starlink.ru
@@ -24052,6 +24060,7 @@ www.demo-api.alfa-plata.alfastrah.ru
 www.demo-user.alfa-plata.alfastrah.ru
 www.demo.db.vtb.ru
 www.demo.spasibobonus.ru
+www.denizbank.ru
 www.depagro32.ru
 www.depfin.kirov.ru
 www.depoplaza.ru
@@ -25895,6 +25904,7 @@ www.stage-mesh.ad-tech.ru
 www.stage-srr.dfa-yc.dltru.org
 www.stage.dfa-yc.dltru.org
 www.staging.megafon.ru
+www.star.ru
 www.starcrb.ru
 www.starompos.ru
 www.start.uralsib.ru
