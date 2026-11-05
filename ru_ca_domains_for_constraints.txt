@@ -1780,6 +1780,7 @@ insignitus.ru
 inspector-cloud.ru
 instamart.ru
 instant-pay.ru
+intact.ru
 integ32.ru
 integriks.ru
 intelcube.ru
@@ -2124,6 +2125,7 @@ lebedev.ru
 lec-press.ru
 lec.team
 lecta.ru
+ledovski.com
 legalcdn.org
 lei-code.ru
 lekar-deti.ru
@@ -3787,6 +3789,7 @@ shagp2.ru
 shagym.ru
 shakhty-edu.ru
 sharipovv.ru
+shaudinis.ru
 shelepov.tech
 shibaev.su
 shilinka.ru
