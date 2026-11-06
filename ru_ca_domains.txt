@@ -9594,6 +9594,7 @@ demo.bifit.ru
 demo.bitrix24.payanyway.ru
 demo.cnp.mosreg.ru
 demo.crct.mosreg.ru
+demo.crossover.pay.sberbank.ru
 demo.db.vtb.ru
 demo.easuz.mosreg.ru
 demo.epilogica.ru
@@ -20687,6 +20688,7 @@ stage-dc.ru
 stage-dfo.ru
 stage-dmz.akbars.ru
 stage-doc-upload.mos.ru
+stage-grafana.lk.astra-team.ru
 stage-int.akbars.ru
 stage-mesh.ad-tech.ru
 stage-my.jump.finance
@@ -20695,6 +20697,7 @@ stage-rec.test-middle.megafon.ru
 stage-srr.dfa-yc.dltru.org
 stage-termidesk.dds.astralinux.ru
 stage-tp.br.mosreg.ru
+stage-vmselect.lk.astra-team.ru
 stage-work.jump.finance
 stage.ai-agents.internal.cloud.ru
 stage.ai.mosreg.ru
