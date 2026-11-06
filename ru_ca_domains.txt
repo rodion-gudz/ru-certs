@@ -14946,6 +14946,7 @@ mc.cbrot.iftonline.sberbank.ru
 mc.cbrot.testonline.sberbank.ru
 mc.ift.api.sberbank.ru
 mc.psi.api.sberbank.ru
+mc06.fuckoff.site
 mc2.fuckoff.site
 mcb.ru
 mcba.mkb.ru
@@ -27031,6 +27032,7 @@ zheldor.dev.home.megafon.ru
 zheldor.home.megafon.ru
 zhilservis-ketovo.ru
 zhivagobank.ru
+zidane1511.fun
 zigbee2mqtt.apu3.network
 zm-solutions.ru
 zmtech.bz
