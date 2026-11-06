@@ -45,6 +45,7 @@
 2mon.ru
 2w.ru
 38fbuz.ru
+3qs.ru
 41fbuz.ru
 4270.ru
 47764.net
@@ -245,6 +246,7 @@ amurglonass.ru
 amurobl.ru
 amurshipyard.ru
 amurzmr.ru
+amvera.ru
 analytics-vk.ru
 andoc.ru
 androprb.ru
@@ -953,6 +955,7 @@ digitalrk.ru
 digitalrzd.ru
 digitalsar.ru
 digitalwb.ru
+digitech.ventures
 din235.ru
 dineftyanik.ru
 diongo.ru
@@ -1021,6 +1024,7 @@ donland.ru
 donntu.ru
 donor-surgut.ru
 donses.ru
+doom-steel.ru
 doozm.ru
 dorogisk.ru
 dorstroycom.ru
@@ -1248,6 +1252,7 @@ factoring.ru
 fakel-russia.com
 fakel-russia.ru
 faktura.ru
+fasp.ru
 favr.ru
 fbq.ru
 fbuz11.ru
@@ -2904,6 +2909,7 @@ origimato.ru
 origination.ru
 orionsoft.ru
 ornpz.ru
+orpa.app
 ors-aero.ru
 ors-system.ru
 orthobarnaul.ru
@@ -3993,6 +3999,7 @@ spasibotest.ru
 spasskievorota.ru
 spaymentextra.ru
 spaymentsplus.ru
+spb-artschool.ru
 spb-neo.ru
 spb.ru
 spbbank.ru
@@ -4727,6 +4734,7 @@ volgoduma.ru
 volgograd.ru
 volgtehkol.ru
 volkgallery.ru
+volnaspb.ru
 volnu.ru
 vologda-cb.ru
 vologda-city.ru
@@ -5029,6 +5037,7 @@ xn--80akofvok.xn--p1ai
 xn--80akxamidgr5f.xn--p1ai
 xn--80aphfga3a3b.xn--p1ai
 xn--80asndblhi.xn--p1ai
+xn--80atoqz.xn--p1ai
 xn--90ab.com
 xn--90ab2c.xn--p1ai
 xn--90ab5b.xn--p1ai
