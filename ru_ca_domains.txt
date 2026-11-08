@@ -20532,6 +20532,7 @@ speechpro.hycl.ru
 speechpro.ru
 speechprocess.otpbank.ru
 speed.kk.bank
+speedtest.apu3.network
 speedtest.astralinux.ru
 speedtest.megafon.ru
 speedtest.rt.ru
