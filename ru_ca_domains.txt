@@ -41,6 +41,7 @@
 *.2gis.one
 *.2gis.ru
 *.2gkb.ru
+*.34gaz.ru
 *.3qs.ru
 *.4270.ru
 *.45.rospotrebnadzor.ru
@@ -8372,6 +8373,7 @@ cdn.jump.finance
 cdn.lifetechx.ru
 cdn.max.ru
 cdn.mdigital.ru
+cdn.mkbru-test.mkb.ru
 cdn.mobilecheck.pro
 cdn.mwsapis.ru
 cdn.ngenix.net
@@ -9332,6 +9334,7 @@ csonkr.ru
 csp-ugra.ru
 csp.uecrus.com
 csr-spb.ru
+csr.aoglonass.ru
 csradar.sberbank.ru
 css-rzd.ru
 css.rzd.ru
@@ -11408,6 +11411,9 @@ gbusonsel.ru
 gbuzspb6.ru
 gc.lebedev.ru
 gc.vkplay.ru
+gca-ac-a-srv-wp-app01.astralinux.ru
+gca-ac-a-srv-wp-app02.astralinux.ru
+gca-ac-a-srv-wp-app03.astralinux.ru
 gcgb.info
 gcgie.ru
 gcgs.ru
@@ -12165,6 +12171,11 @@ hvgw03.nornik.ru
 hvgw11.nornik.ru
 hvgw12.nornik.ru
 hvgw13.nornik.ru
+hvgwsp01.nornik.ru
+hvgwsp02.nornik.ru
+hvgwsp11.nornik.ru
+hvgwsp12.nornik.ru
+hvsp.nornik.ru
 hvt.nornik.ru
 hw-demo.speechpro.com
 hw.ed.rt.ru
@@ -23417,12 +23428,14 @@ workspace.magnit.ru
 workspace.sber247.ru
 workspace.vk.ru
 workspace2.magnit.ru
+workspad.astralinux.ru
 workspad.com
 workspad.sberinsur.ru
 wos.mail.ru
 wow.preprod-cdn.edgecenter.online
 wowsale.ru
 wowza.open.ru
+wp-bots.astralinux.ru
 wp.ao-star.ru
 wp.gazprombank.ru
 wp.kept.ru
@@ -24639,6 +24652,7 @@ www.image.mail.sovcomlife.ru
 www.imc.spb.ru
 www.imf.ru
 www.in-bank.ru
+www.in-vent.ru
 www.indepo.ru
 www.indicator.ru
 www.indices.sber.ru
