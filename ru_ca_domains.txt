@@ -170,6 +170,7 @@
 *.ai-proxy.vk.team
 *.ai-vesna.ru
 *.ai.cloud.ru
+*.ai.gov.ru
 *.ai.ibs.ru
 *.ai.kion.ru
 *.ai.nsud.gosuslugi.ru
@@ -1404,6 +1405,7 @@
 *.envdigital.mts.ru
 *.eosago21-vek.ru
 *.epd47.ru
+*.epiday.ru
 *.eps74.ru
 *.eqvapay.ru
 *.eqzaim.ru
@@ -2288,6 +2290,7 @@
 *.kurskduma.ru
 *.kuzbank.ru
 *.kuzhener.ru
+*.kuzia.su
 *.kuzstu.ru
 *.kvadra.tech
 *.kvartplata.info
@@ -2550,6 +2553,7 @@
 *.median.ru
 *.mediaprojects-superset.portal.vk.team
 *.mediascope.net
+*.medkam.ru
 *.medkhv.ru
 *.meds.miac74.ru
 *.meet-evo.cloud.ru
@@ -2643,6 +2647,7 @@
 *.mio26.ru
 *.mipt.ru
 *.mir-telecom.ru
+*.mir.citis.ru
 *.miranda-media.ru
 *.mirdomovyat.ru
 *.mirea.ru
@@ -3789,6 +3794,7 @@
 *.rt-insurance.ru
 *.rt.com
 *.rt.ru
+*.rtbapp.su
 *.rthome.ru
 *.rtinform.ru
 *.rtk-info.rt.ru
@@ -4324,6 +4330,7 @@
 *.sreda23.ru
 *.sredi-cvetov.ru
 *.srmfc.ru
+*.srobv.su
 *.srv.intmts.ru
 *.srv.lukoil.com
 *.srv.rt.ru
@@ -6111,6 +6118,7 @@ ai.ba.ru.net
 ai.cloud.ru
 ai.d-agency.su
 ai.dudu2.ru
+ai.gov.ru
 ai.ibs.ru
 ai.kion.ru
 ai.nsud.gosuslugi.ru
@@ -9275,6 +9283,7 @@ crm.officestyle35.ru
 crm.open-broker.ru
 crm.prostobank.online
 crm.rambler-co.ru
+crm.rrllc.ru
 crm.spasibosb.ru
 crm.strahovka35.ru
 crm.swimly.ru
@@ -9306,6 +9315,7 @@ cryptoauth.gebank.ru
 cryptopro.ru
 cs-ksmg-01.rezonit.ru
 cs-mail-01.remicon.rezonit.ru
+cs.astralinux.ru
 cs.cache.api.vtb.ru
 cs.cache3.api.vtb.ru
 cs.gkovd.ru
@@ -9414,6 +9424,7 @@ cybersec-dev.megafon.ru
 cybersec-dev.test-middle.megafon.ru
 cybersec-rc.megafon.ru
 cybersec.megafon.ru
+czdelta.cc
 czn-rzn.ru
 czn47.ru
 d-aef-kafka-adv-msk01.sberdevices.ru
@@ -10679,6 +10690,7 @@ epd.mosobleirc.ru
 epd47.ru
 epd56.ru
 epgw.alfastrah.ru
+epiday.ru
 epmm.midep.ru
 eportal.magnit.ru
 epp.wvro.org
@@ -11551,6 +11563,7 @@ gitlab.demo.sberpravo.ru
 gitlab.demo2.sberpravo.ru
 gitlab.dev.sberpravo.ru
 gitlab.education.tbank.ru
+gitlab.efimeg.ru
 gitlab.ift.legalbpm.sberpravo.ru
 gitlab.legalbpm.sberpravo.ru
 gitlab.linuxtesting.ru
@@ -13585,6 +13598,7 @@ kuzbank.ru
 kuzbass-zakon.ru
 kuzgosweb.kemobl.ru
 kuzhener.ru
+kuzia.su
 kuzstu.ru
 kvadra.tech
 kvant.omk.ru
@@ -15067,6 +15081,7 @@ mediation-pgadmin.sberpravo.ru
 mediation.sberpravo.ru
 medico.crimea.com
 medics.onkolog24.ru
+medkam.ru
 medkhv.ru
 medploda.ncagp.ru
 medtrans.mznso.ru
@@ -15306,6 +15321,7 @@ mipt.ru
 mir-acs.in-bank.ru
 mir-hce-notifications.prod.yandex-bank.net
 mir-telecom.ru
+mir.citis.ru
 miraccept.econombank.ru
 miraccept.metcom.ru
 miranda-media.ru
@@ -19152,6 +19168,7 @@ s-a.vtb.ru
 s-a1.vtb.ru
 s-a2.vtb.ru
 s-broiler.ru
+s.api.adapters.payments.moneta.ru
 s.assistant.demo.moneta.ru
 s.assistant.moneta.ru
 s.bcs.ru
@@ -19586,6 +19603,7 @@ scc-sqd.absolutbank.ru
 scc-squadus.tricolor.ru
 scdriveoos.magnit.ru
 sce.uec-saturn.ru
+scep-gateway.sberdevices.ru
 scf.alfabank.ru
 sch435.ru
 sch435.spb.ru
@@ -20616,6 +20634,7 @@ srm2.magnit.ru
 srmfc.ru
 srn-86.tatar.ru
 srn.tatar.ru
+srobv.su
 sroffice1.ncsp.com
 srro.rspp.ru
 srso.rspp.ru
@@ -21753,6 +21772,7 @@ testcr3.novikom.ru
 testcr8.novikom.ru
 testcreditcalc.toyotafs.ru
 testcreditonline.toyotafs.ru
+testcrm.rrllc.ru
 testdbo.gorbank.spb.ru
 testdfa4.alfabank.ru
 testdocreg.budgetnn.ru
@@ -26554,6 +26574,7 @@ xn----8sbmmlgncfbgqis7m.xn--p1ai
 xn----8sbmnfeuhiwe3n.xn--p1ai
 xn----8sbnvbfbyscjcgm7k2b.xn--d1aqf.xn--p1ai
 xn----8sbosabopxq.xn--p1ai
+xn----8sbuccioem.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
 xn----9sbsd1af.xn--p1ai
 xn----ctb5aimq.xn--p1ai
@@ -26793,6 +26814,7 @@ xn--d1aur.xn--d1aqf.xn--p1ai
 xn--e1adelejgi.xn--d1aqf.xn--p1ai
 xn--e1adjldbbpv.xn--90ais
 xn--e1adnd0h.xn--d1aqf.xn--p1ai
+xn--e1afffdle5a.xn--p1ai
 xn--e1agaawhmchhd5b.xn--p1ai
 xn--e1agatwer.xn--p1ai
 xn--e1ahdbdflckekkc.xn--p1ai

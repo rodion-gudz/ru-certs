@@ -1114,6 +1114,7 @@ edwardcode.net
 eens.ru
 efadevelopment.ru
 efbank.ru
+efimeg.ru
 efis-nco.ru
 egaisretail.ru
 egisso.ru
@@ -1181,6 +1182,7 @@ entrustment.ru
 eosago21-vek.ru
 epd47.ru
 epd56.ru
+epiday.ru
 epilogica.ru
 eps74.ru
 eq-sms.ru
@@ -2101,6 +2103,7 @@ kurskduma.ru
 kuzbank.ru
 kuzbass-zakon.ru
 kuzhener.ru
+kuzia.su
 kuzstu.ru
 kvadra.tech
 kvartplata.info
@@ -2320,6 +2323,7 @@ medexpress.ru
 medfair.ru
 median.ru
 mediascope.net
+medkam.ru
 medkhv.ru
 megafon.cloud
 megafon.ru
@@ -4058,6 +4062,7 @@ srd.ru
 sreda23.ru
 sredi-cvetov.ru
 srmfc.ru
+srobv.su
 srv-hub.org
 ssb35.ru
 sscc.ru
@@ -4897,6 +4902,7 @@ xn----8sbfckba3a8bcsskd6e.xn--p1ai
 xn----8sbmmlgncfbgqis7m.xn--p1ai
 xn----8sbmnfeuhiwe3n.xn--p1ai
 xn----8sbosabopxq.xn--p1ai
+xn----8sbuccioem.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
 xn----9sbsd1af.xn--p1ai
 xn----ctb5aimq.xn--p1ai
@@ -5094,6 +5100,7 @@ xn--d1aqn.xn--p1ai
 xn--d1arj.xn--p1ai
 xn--d1auahegc7h.xn--p1ai
 xn--e1adjldbbpv.xn--90ais
+xn--e1afffdle5a.xn--p1ai
 xn--e1agaawhmchhd5b.xn--p1ai
 xn--e1agatwer.xn--p1ai
 xn--e1ahdbdflckekkc.xn--p1ai
