@@ -1744,6 +1744,7 @@
 *.govirk.ru
 *.govrb.ru
 *.goznak.ru
+*.goznakinvest.ru
 *.gp.alfastrah.ru
 *.gp.ecpk-dev.sibintek.ru
 *.gp.ecpk-test.sibintek.ru
@@ -11718,6 +11719,7 @@ govrb.ru
 goz.gazprombank.ru
 goz.ipc.rssi.ru
 goznak.ru
+goznakinvest.ru
 gp.alfastrah.ru
 gp.ecpk-dev.sibintek.ru
 gp.ecpk-test.sibintek.ru
@@ -18295,6 +18297,8 @@ putcnfsoncpc.cnfs.ru
 putevki23.ru
 pvcd.ru
 pve-01.nii-kpg.ru
+pve-hpe-g10-02.devsec.astralinux.ru
+pve-hpe-g10-03.devsec.astralinux.ru
 pve.iapras.ru
 pve.mkp.ru.net
 pvlsg-efs000473.sigma.sbrf.ru
@@ -26849,6 +26853,7 @@ xn--b1aga6abebid.xn--d1aqf.xn--p1ai
 xn--b1agaal1aqiecry.xn--p1ai
 xn--b1agajadjtdhcxg6d.xn--p1ai
 xn--b1agd0aean.xn--d1aqf.xn--p1ai
+xn--b1aghfgubnetqw.xn--p1ai
 xn--b1agmh1ai8d.xn--p1ai
 xn--b1ajk9a.xn--c1avg
 xn--b1ajw.xn--p1ai

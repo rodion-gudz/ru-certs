@@ -1541,6 +1541,7 @@ govnet.ink
 govrb.ru
 govvrn.ru
 goznak.ru
+goznakinvest.ru
 gp2sochi.ru
 gpb-ee.ru
 gpb-factoring.ru
@@ -5091,6 +5092,7 @@ xn--b1afqbrascj.xn--p1ai
 xn--b1afyi.xn--p1ai
 xn--b1agaal1aqiecry.xn--p1ai
 xn--b1agajadjtdhcxg6d.xn--p1ai
+xn--b1aghfgubnetqw.xn--p1ai
 xn--b1agmh1ai8d.xn--p1ai
 xn--b1ajk9a.xn--c1avg
 xn--b1ajw.xn--p1ai
