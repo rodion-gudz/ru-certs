@@ -1883,9 +1883,11 @@
 *.hycl.internal.cloud.ru
 *.i-dgtl.ru
 *.i-exam.ru
+*.i-progress.tech
 *.iac.spb.ru
 *.iam.cloud.ru
 *.iam.sbercloud.ru
+*.iapras.ru
 *.iaz.yakovlev.ru
 *.ib.bizmrg.com
 *.ib.cldmail.ru
@@ -2159,6 +2161,7 @@
 *.kalugacard.ru
 *.kamaz.org
 *.kamaz.ru
+*.kammiac.ru
 *.kamonco.ru
 *.kancrb.ru
 *.kanzburo.ru
@@ -2252,6 +2255,7 @@
 *.kpbs.ru
 *.kr4.me
 *.kraftway.ru
+*.krascsp.ru
 *.krasfin.ru
 *.krasnarm.ru
 *.krasnodar.ru
@@ -2787,6 +2791,7 @@
 *.mtronics.ru
 *.mts-disk.ru
 *.mts-office.ru
+*.mts-strahovanie.ru
 *.mts.investments
 *.mts.ru
 *.mtsbank.ru
@@ -3473,6 +3478,7 @@
 *.push-writer.cm.backend.aanda.ru
 *.putevki23.ru
 *.pv.mts.ru
+*.pve.iapras.ru
 *.pvp.dev-vkplay.ru
 *.pxit.ru
 *.pyopenrpa.ru
@@ -4206,6 +4212,7 @@
 *.snegirsoft.com
 *.snfpo.gazprom.ru
 *.sngb.ru
+*.snowqueen.ru
 *.soc-volga.ru
 *.soc.rt.ru
 *.soc23.ru
@@ -4973,6 +4980,7 @@
 *.uralfinance.ru
 *.uralmash-go.ru
 *.uralmash-kartex.ru
+*.uralmash-ngo.com
 *.uralprombank.ru
 *.uralsib.ru
 *.ureguliryi.ru
@@ -5592,6 +5600,7 @@
 1c.malltech.ru
 1c.ru
 1c.sfedu.ru
+1c.sv-e.ru
 1c24.pro
 1capp-dev.com
 1capp.com
@@ -5671,6 +5680,7 @@
 31.rospotrebnadzor.ru
 319.pd.rt.ru
 349.tricolor.ru
+34gaz.ru
 35.rospotrebnadzor.ru
 3569259-oo26855.twc1.net
 36.rospotrebnadzor.ru
@@ -6429,6 +6439,7 @@ api-mobile.hr-ift.sberbank.ru
 api-mobile.hr-qa.sberbank.ru
 api-mobile.hr-uat.sberbank.ru
 api-mobile.hr.sberbank.ru
+api-opensearch.astralinux.ru
 api-prep.expert-insapp.ru
 api-prep.sberbankins.ru
 api-public-gaming-kop.eco.rt.ru
@@ -6997,6 +7008,7 @@ auth.sberclass.ru
 auth.sbertech.ru
 auth.sbervideo.sberbank.ru
 auth.sinara-finance.ru
+auth.sinara.ru
 auth.szavoz.gov.ru
 auth.test-inspector.gosuslugi.ru
 auth.travel.gazprombank.ru
@@ -7563,6 +7575,7 @@ baltinvest.com
 baltinvest.ru
 baltinvestbank.com
 baltinvestbank.ru
+bamboo.astralinux.ru
 bancaintesa.ru
 bank-arzamas.ru
 bank-authproxy-pcidss.prod.yandex-bank.net
@@ -8142,6 +8155,7 @@ bxapi.sberdevices.ru
 by.mgo.su
 byod.tstore.magnit.ru
 bystrobank.ru
+bz.ru
 bzdsit.magnit.ru
 c-k.ru
 c-zn.ru
@@ -9297,6 +9311,7 @@ croc.ru
 cross-hub-sbsj.sberinsur.ru
 cross-kpk.ru
 crossover.pay.sberbank.ru
+crowd-ac.astralinux.ru
 crp-usg-vgate1.sovcombank.group
 crpribor.ru
 crpt.ru
@@ -9505,6 +9520,7 @@ datatracker-test.sbertech.ru
 datatracker.pro
 datatracker.sbertech.ru
 datatracker.tech
+datatransfer-test.vk.team
 dating.rambler.ru
 davay-delit.ru
 davical.inforion.ru
@@ -9566,6 +9582,7 @@ dc4b.ru
 dca-vpn2.bspb.ru
 dcapi-bis.1cupis.ru
 dcapital.ru
+dcimanager.astralinux.ru
 dcode.su
 dd.pochtabank.ru
 ddei.voz.ru
@@ -9665,6 +9682,7 @@ democorporate.psbank.ru
 demoday.sberclass.ru
 dengograd.ru
 denied.ug.mts.ru
+denizbank.ru
 depagro32.ru
 depfin.kirov.ru
 depoplaza.ru
@@ -10245,6 +10263,7 @@ drp.bi.zone
 drpo.1prime.ru
 drsk.ru
 drv.lynx-texts.ru
+drweb.sv-e.ru
 drx.teleportbank.ru
 ds-netapp5.npfsb.sber.ru
 ds-samo-v2vproxy-prod01p.tcsbank.ru
@@ -10915,6 +10934,7 @@ expre-cluster.rencredit.ru
 express-bank.ru
 express-m.mkb.ru
 express-media.speechpro.com
+express.ftc.ru
 express.kk.bank
 express.moex.com
 express.roe.ru
@@ -11411,6 +11431,8 @@ gbusonsel.ru
 gbuzspb6.ru
 gc.lebedev.ru
 gc.vkplay.ru
+gca-ac-a-srv-gitflic01.astralinux.ru
+gca-ac-a-srv-gitflic02.astralinux.ru
 gca-ac-a-srv-wp-app01.astralinux.ru
 gca-ac-a-srv-wp-app02.astralinux.ru
 gca-ac-a-srv-wp-app03.astralinux.ru
@@ -11462,6 +11484,7 @@ geoscan.ru
 geotron.spacecorp.ru
 geovestnik.ru
 geowfm.dv.rt.ru
+gerartg.ru
 gerrit.rnd.dev.sberdevices.ru
 gersains.ru
 gerzel.ru
@@ -11543,6 +11566,7 @@ giszrb.ru
 git-tools.brain-flow.ru
 git.almaz-rpe.ru
 git.als.astralinux.ru
+git.astralinux.ru
 git.ba.ru.net
 git.cc.linuxtesting.ru
 git.ci.legalbpm.sberpravo.ru
@@ -11560,6 +11584,7 @@ git.psi.legalbpm.sberpravo.ru
 git.sbercloud.tech
 git.sberpravo.ru
 gitflame.hakaton.rt.ru
+gitflic.astralinux.ru
 gitlab.bcs.ru
 gitlab.cc.linuxtesting.ru
 gitlab.ci.legalbpm.sberpravo.ru
@@ -12215,6 +12240,7 @@ iam.stage.cloud.ru
 iamx.tochka.com
 iap.nso.ru
 iapp.sberins.sber.ru
+iapras.ru
 ias-adm.spasibobonus.ru
 ias.demo.spasibobonus.ru
 ias.mgn-city.ru
@@ -13069,6 +13095,7 @@ jethome.com
 jfn.su
 jigner.raiffeisen-capital.ru
 jira-proxy.mkb.ru
+jira-public.astralinux.ru
 jira-sb.2gis.one
 jira-tcsbank.ru
 jira.bcs.ru
@@ -13077,6 +13104,7 @@ jira.cloud.ru
 jira.ocs.ru
 jira.open-broker.ru
 jira.pochtabank.ru
+jira02.astralinux.ru
 jirami.bcs.ru
 jiraproxy.ocs.ru
 jirareport.bcs.ru
@@ -13195,6 +13223,7 @@ kamchatka.home.megafon.ru
 kamchatka.megafon.ru
 kamchatka.staging.megafon.ru
 kamkabel.ru
+kammiac.ru
 kamonco.ru
 kamp-ext-if.vtb.ru
 kamp-ext-rr.vtb.ru
@@ -13500,6 +13529,7 @@ kras.dev.home.megafon.ru
 kras.home.megafon.ru
 kras.megafon.ru
 kras.staging.megafon.ru
+krascsp.ru
 krasdomkino.ru
 krasfin.ru
 krasmechta.ru
@@ -13567,6 +13597,7 @@ kstr.home.megafon.ru
 kstr.megafon.ru
 kstr.staging.megafon.ru
 ksup-bim.sberbank.ru
+ksvo.zdrav-control-max.ru
 ktalk-stream-01.hybrid.ktalk.alfabank.ru
 ktalk-stream-02.hybrid.ktalk.alfabank.ru
 ktalk-stream-03.hybrid.ktalk.alfabank.ru
@@ -13748,6 +13779,7 @@ license-service-pd.sberdevices.ru
 license-service.sberdevices.ru
 life-stage.otpbank.ru
 life.akbars.ru
+life.astralinux.ru
 life.belsocbank.ru
 life.external.otpbank.ru
 life.megafon.ru
@@ -14708,6 +14740,7 @@ mail.storage.contrada-capital.ru
 mail.storage.investekspert.ru
 mail.storage.sovcombank-am.ru
 mail.storage.sovcombank.ru
+mail.sv-e.ru
 mail.szd.stcnet.ru
 mail.tbki.ru
 mail.tdzs.ru
@@ -15386,6 +15419,7 @@ mm.sinara.ru
 mm2.rencredit.ru
 mmc.help
 mmchelptech.ru
+mmg.metcom.ru
 mmk-coal.ru
 mmk.ru
 mmm.preprod-cdn.edgecenter.online
@@ -15603,6 +15637,7 @@ mpi.tkbbank.ru
 mpl.sberbankins.ru
 mpr.kion.ru
 mpr26.ru
+mps.qsrsystem.ru
 mpsbol.ant.sberbank.ru
 mpsbol.clickstream.sberbank.ru
 mptk55.ru
@@ -15715,6 +15750,7 @@ mtracker.ocs.ru
 mtronics.ru
 mts-disk.ru
 mts-service.mts.ru
+mts-strahovanie.ru
 mts.investments
 mts.mtsbank.ru
 mts.ru
@@ -16548,6 +16584,7 @@ omv-dev.demo.megafon.ru
 omv.megafon.ru
 on-media.ru
 onb-dmz.fgw.db.vtb.ru
+onboarding.bankstavr.ru
 onboarding.bki-okb.ru
 oncs-if.vtb.ru
 oncs-rr.vtb.ru
@@ -16583,6 +16620,7 @@ online.aresbank.ru
 online.autokreditbank.ru
 online.baltinvest.com
 online.bank-mscb.ru
+online.bankstavr.ru
 online.bcs.ru
 online.bnpparibasbank.ru
 online.bstbank.ru
@@ -16692,6 +16730,7 @@ openclawai.website
 opencode.nenderus.su
 openconf.rt.ru
 opengate.sber.ru
+opensearch.astralinux.ru
 opensearch.russl.skm.pro
 opensource.tbank.ru
 openspace.creditural.ru
@@ -17419,6 +17458,7 @@ pd51-rplat-web-04.gis.cloud.ru
 pd51-rplat-web-04.gis.mng.cloud.ru
 pd51-s3-02.gis.cloud.ru
 pd51-s3-05.gis.cloud.ru
+pdf.sv-e.ru
 pdleg-prm000001.enablers.sbrf.ru
 pdles-bzebb0003.enablers.sbrf.ru
 pdles-bzebb0004.enablers.sbrf.ru
@@ -17442,6 +17482,7 @@ people.open.ru
 people.sber.ru
 people.sberbank.ru
 people.sovcombank.ru
+perco.sv-e.ru
 perepis2002.ru
 peretok.ru
 perf-lk.astra.ru
@@ -18073,6 +18114,7 @@ prosv.ru
 proton-orel.ru
 protonpm.ru
 provodnik.ru
+proxer.rchesnakov.ru
 proxy-autoconf.sberbank-service.ru
 proxy-manager-ift.giga.salute.ru
 proxy-manager.giga.salute.ru
@@ -18253,6 +18295,7 @@ putcnfsoncpc.cnfs.ru
 putevki23.ru
 pvcd.ru
 pve-01.nii-kpg.ru
+pve.iapras.ru
 pve.mkp.ru.net
 pvlsg-efs000473.sigma.sbrf.ru
 pvlsg-efs000474.sigma.sbrf.ru
@@ -20335,6 +20378,7 @@ sndko.ru
 snfpo.gazprom.ru
 sngb.ru
 snova.tricolor.ru
+snowqueen.ru
 snr.su
 sntshnik.ru
 soa.mark.sber.ru
@@ -20849,6 +20893,7 @@ stage.myhealth.mosreg.ru
 stage.nspd.rosreestr.gov.ru
 stage.ntv.ru
 stage.obr.mosreg.ru
+stage.ocs.ru
 stage.omnichannel.mts.ru
 stage.parki.mosreg.ru
 stage.pay.mosreg.ru
@@ -22406,6 +22451,7 @@ uralfd.ru
 uralfinance.ru
 uralmash-go.ru
 uralmash-kartex.ru
+uralmash-ngo.com
 uralprombank.ru
 uralsib.ru
 urania.journal.tbank.ru
@@ -23368,6 +23414,7 @@ wifiise19.rt.ru
 wifiradar.ru
 wifire.megafon.ru
 wiki-sibiriada.ru
+wiki.astralinux.ru
 wiki.cloud.ru
 wiki.petprojects1.ru
 wiki.private.t1.cloud
@@ -23376,6 +23423,7 @@ wiki.stellar.astralinux.ru
 wiki.szd.stcnet.ru
 wiki.tinko.ru
 wiki.vkbudgeting.ru
+wiki02.astralinux.ru
 wild-bot-max.ru
 wildberries.at
 wildberries.be
@@ -23811,6 +23859,7 @@ www.auth.eagleplatform.com
 www.auth.events.gazprombank.ru
 www.auth.pochtabank.ru
 www.auth.sinara-finance.ru
+www.auth.sinara.ru
 www.authd-pd.domrfbank.ru
 www.authr.sinara-finance.ru
 www.auto.market.omk.ru
@@ -23961,6 +24010,7 @@ www.ccalls.site
 www.ccb-broker.ru
 www.ccb.ru
 www.ccbrussia.ru
+www.cdek.ru
 www.cdep.ru
 www.cdn-mobile-nuc.alfastrah.ru
 www.cdn-mobile.alfastrah.ru
@@ -23998,6 +24048,7 @@ www.cert.sbertv.ru
 www.cert.spasibo.digital
 www.cfa.digital
 www.cgbp.ru
+www.cgemo.ru
 www.cgr62.ru
 www.championat.com
 www.championat.net
@@ -24810,6 +24861,7 @@ www.konus.group
 www.kop.gazprom.ru
 www.kopss43.ru
 www.kozlov-roman.ru
+www.krascsp.ru
 www.krasfin.ru
 www.krasnarm.ru
 www.krasnodar.ru
@@ -26251,6 +26303,7 @@ www.uobr.ru
 www.uor-nsk.ru
 www.upravkom.ru
 www.upz.ru
+www.uralmash-ngo.com
 www.uralprombank.ru
 www.ureguliryi.ru
 www.urfu.21-school.ru
