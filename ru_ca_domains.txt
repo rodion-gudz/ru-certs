@@ -6076,8 +6076,10 @@ aeromax-group.ru
 aeromax.pro
 aerosila.ru
 aes192.ru
+af-dev.devsec.astralinux.ru
 af-pixel.mtsbank.ru
 af.absolutbank.ru
+af.devsec.astralinux.ru
 afam.mfk-bank.ru
 afisha.mail.ru
 afisha.ru
@@ -6129,6 +6131,7 @@ ai-vesna.ru
 ai.ba.ru.net
 ai.cloud.ru
 ai.d-agency.su
+ai.devsec.astralinux.ru
 ai.dudu2.ru
 ai.gov.ru
 ai.ibs.ru
@@ -6871,6 +6874,7 @@ asterx23.ru
 astgoz.ru
 astk-insur.ru
 aston.time-messenger.ru
+astra-atlas.devsec.astralinux.ru
 astrahovanie.ru
 astrakhan.dev.home.megafon.ru
 astrakhan.home.megafon.ru
@@ -7425,6 +7429,8 @@ aviashelf.ru
 avitek.ru
 avito.ru
 avitofinance.ru
+avm-stage.devsec.astralinux.ru
+avm.devsec.astralinux.ru
 avnpay.avangard.ru
 avntg.cloud.mts.ru
 avoxix.ru
@@ -7672,6 +7678,10 @@ bcslife.online
 bcslife.ru
 bcspremier.ru
 bd23.ru
+bdd-jenkins.devsec.astralinux.ru
+bdd-minio.devsec.astralinux.ru
+bdd-stage.devsec.astralinux.ru
+bdd.devsec.astralinux.ru
 bdengi.ru
 bdmsh.stv.muzkult.ru
 be.broker.ru
@@ -8074,6 +8084,7 @@ bss-api-rel.tricolor.ru
 bss.ertelecom.ru
 bssplugin.bssys.com
 bstbank.ru
+bt-dast-tracker.devsec.astralinux.ru
 bt.asudd.net
 btp.gkif.ru
 btrec.akbars.ru
@@ -9424,6 +9435,7 @@ cvat.oparina4.ru
 cvat.yandex.omk.ru
 cvdi-ctx-gw.sberins.ru
 cvdi-ctx-gw.sberins.sber.ru
+cwe-cvss-classifier.devsec.astralinux.ru
 cwms.mts.ru
 cwp.uecrus.com
 cwxab.alfa-bank.net
@@ -9470,6 +9482,7 @@ da-cpu.asudd.net
 da-pvp.asudd.net
 da.ioffe.ru
 da.sfr.gov.ru
+dabwiki.devsec.astralinux.ru
 dac-wallet.cardsmobile.ru
 dacha.ivantsov.fun
 dacha.tricolor.ru
@@ -11564,6 +11577,8 @@ gisogdro.ru
 gisp.gov.ru
 giszpenza.ru
 giszrb.ru
+git-mirror.devsec.astralinux.ru
+git-testing.devsec.astralinux.ru
 git-tools.brain-flow.ru
 git.almaz-rpe.ru
 git.als.astralinux.ru
@@ -11575,6 +11590,7 @@ git.ci.sberpravo.ru
 git.demo.sberpravo.ru
 git.demo2.sberpravo.ru
 git.dev.sberpravo.ru
+git.devsec.astralinux.ru
 git.ift.legalbpm.sberpravo.ru
 git.inforion.ru
 git.klgd.su
@@ -11586,6 +11602,7 @@ git.sbercloud.tech
 git.sberpravo.ru
 gitflame.hakaton.rt.ru
 gitflic.astralinux.ru
+gitlab-kroki.devsec.astralinux.ru
 gitlab.bcs.ru
 gitlab.cc.linuxtesting.ru
 gitlab.ci.legalbpm.sberpravo.ru
@@ -11766,6 +11783,7 @@ gpvpn.as50464.net
 gpvpn.mkb-invest.ru
 grachcson.ru
 grafana-gmp.spasibosb.ru
+grafana-sast.devsec.astralinux.ru
 grafana.ci.legalbpm.sberpravo.ru
 grafana.ci.sberpravo.ru
 grafana.demo.gigalegal.sber.ru
@@ -11773,6 +11791,7 @@ grafana.demo.sberpravo.ru
 grafana.demo2.sberpravo.ru
 grafana.dev.lk.astra-team.ru
 grafana.dev.sberpravo.ru
+grafana.devsec.astralinux.ru
 grafana.eye.salute.ru
 grafana.gigacollector.sberdevices.ru
 grafana.gigalegal.sber.ru
@@ -12678,6 +12697,7 @@ inf-bbb.inforion.ru
 inf-mtm.inforion.ru
 inf-wekan.inforion.ru
 infarktanet.ru
+infermore-dsikbr.devsec.astralinux.ru
 infinitum-tc.ru
 info.atbbank.ru
 info.datapol.ru
@@ -12978,6 +12998,8 @@ ismail.mos.ru
 isms-tst-voice.vtb.ru
 isms-tst.vtb.ru
 isnbank.ru
+isp-program-planner.devsec.astralinux.ru
+isp-report-maker.devsec.astralinux.ru
 isp-test.mfsk.ru
 isp.mfsk.ru
 isp.nsc.ru
@@ -13088,6 +13110,7 @@ jenkins.ci.sberpravo.ru
 jenkins.demo.sberpravo.ru
 jenkins.demo2.sberpravo.ru
 jenkins.dev.sberpravo.ru
+jenkins.devsec.astralinux.ru
 jenkins.ift.legalbpm.sberpravo.ru
 jenkins.legalbpm.sberpravo.ru
 jenkins.psi.legalbpm.sberpravo.ru
@@ -13554,6 +13577,7 @@ kreditka.expert
 kremen.space
 kremlinbank.ru
 krgcrb.mznso.ru
+kroki.devsec.astralinux.ru
 kron-dmsh8.ru
 krondk.ru
 kronshtadt.ru
@@ -13823,6 +13847,8 @@ linkmsg.alfabank.ru
 linkwb.ru
 linok9757.mooo.com
 linus.su
+linux-commit-search.devsec.astralinux.ru
+linux-cve.devsec.astralinux.ru
 linux-faq.lynx-texts.ru
 lion.ertelecom.ru
 lipetsk.navigator.sbrf.ru
@@ -15351,6 +15377,7 @@ minigames.imgsmail.ru
 minigames.mail.ru
 mininform74.ru
 minio.cyberkoala.ru
+minio.devsec.astralinux.ru
 ministry.sberbankins.ru
 minkult08.ru
 minobr.gov-dpr.ru
@@ -15408,6 +15435,7 @@ mlk.rt.ru
 mlkm-stage.megafon.ru
 mlkm.megafon.ru
 mlogin2.ingos.ru
+mlplugin.devsec.astralinux.ru
 mm-t.sinara.ru
 mm-t2.sinara.ru
 mm.ad-tech.ru
@@ -17423,6 +17451,7 @@ pb5.vbrr.ru
 pbc.megafon.ru
 pbl546.ingobank.ru
 pbprog.ru
+pbs-1.devsec.astralinux.ru
 pbs.mkp.ru.net
 pbx.megafon.ru
 pc.aq.ru
@@ -17467,6 +17496,7 @@ pdles-bzebb0004.enablers.sbrf.ru
 pdles-bzebb0020.enablers.sbrf.ru
 pdles-bzebb0022.enablers.sbrf.ru
 pdm.mkp.ru.net
+pdns.devsec.astralinux.ru
 pdp-develop.demo.megafon.ru
 pdp-master.demo.megafon.ru
 pdp.vbrr.ru
@@ -18067,6 +18097,7 @@ prom-fuelfindersbol.sberdevices.ru
 prom-integrations-sowa-sbsg.sberinsur.ru
 prom-sowa-vip01.sberins.ru
 prometey-spb.org
+prometheus-sast.devsec.astralinux.ru
 prometheus.ci.gigalegal.sber.ru
 prometheus.ci.legalbpm.sberpravo.ru
 prometheus.ci.legalforms.sberpravo.ru
@@ -18297,8 +18328,34 @@ putcnfsoncpc.cnfs.ru
 putevki23.ru
 pvcd.ru
 pve-01.nii-kpg.ru
+pve-arm-taishan-01.devsec.astralinux.ru
+pve-dell-g14-01.devsec.astralinux.ru
+pve-dell-g14-02.devsec.astralinux.ru
+pve-dell-g16-gpu-01.devsec.astralinux.ru
+pve-hpe-g10-01.devsec.astralinux.ru
 pve-hpe-g10-02.devsec.astralinux.ru
 pve-hpe-g10-03.devsec.astralinux.ru
+pve-hpe-g10-04.devsec.astralinux.ru
+pve-hpe-g10-05.devsec.astralinux.ru
+pve-hpe-g10-06.devsec.astralinux.ru
+pve-hpe-g10-07.devsec.astralinux.ru
+pve-hpe-g10-08.devsec.astralinux.ru
+pve-hpe-g10-09.devsec.astralinux.ru
+pve-hpe-g10-10.devsec.astralinux.ru
+pve-hpe-g9-01.devsec.astralinux.ru
+pve-hpe-g9-02.devsec.astralinux.ru
+pve-hpe-g9-03.devsec.astralinux.ru
+pve-hpe-g9-04.devsec.astralinux.ru
+pve-hpe-g9-05.devsec.astralinux.ru
+pve-hpe-g9-06.devsec.astralinux.ru
+pve-hpe-g9-07.devsec.astralinux.ru
+pve-hpe-g9-08.devsec.astralinux.ru
+pve-hpe-g9-09.devsec.astralinux.ru
+pve-hpe-g9-10.devsec.astralinux.ru
+pve-hpe-g9-11.devsec.astralinux.ru
+pve-ml-01.devsec.astralinux.ru
+pve-sm-x11-01.devsec.astralinux.ru
+pve-sm-x11-02.devsec.astralinux.ru
 pve.iapras.ru
 pve.mkp.ru.net
 pvlsg-efs000473.sigma.sbrf.ru
@@ -19376,6 +19433,8 @@ sandbox.onprem.vkdoc.mail.ru
 sandbox.sbertech.ru
 sandbox.ssp.rambler.ru
 sandbox.vtb.ru
+sap-push.devsec.astralinux.ru
+sap.devsec.astralinux.ru
 sap.norbit.ru
 sapnmndmz2.rosneft.ru
 sapod.ru
@@ -19749,7 +19808,9 @@ search-service-test.rosneft.ru
 search-service.rosneft.ru
 search.srv-hub.org
 search.vk.team
+sec-analyzer.devsec.astralinux.ru
 sec-external.mkb.ru
+sec-metrics.devsec.astralinux.ru
 secdev-sanya.cloud.vk.team
 secgw.ru
 second.ecosysgw.integrationhub.sbernpf.ru
@@ -19860,6 +19921,10 @@ senat.sberbank.ru
 senk.spwh.ru
 sense.alfabank.ru
 sensorcloud.ru
+sentinel-batch-processing-test.devsec.astralinux.ru
+sentinel-batch-processing.devsec.astralinux.ru
+sentinelai-api.devsec.astralinux.ru
+sentinelai.devsec.astralinux.ru
 sentinelcredit.ru
 sentry-api.sberdevices.ru
 sentry-infra.tander.ru
@@ -20431,6 +20496,7 @@ solnechnogorsk.home.megafon.ru
 solvo-web-public.ct.ncsp.com
 solvo.bscbalt.ru
 sonarplus.ru
+sonarqube.devsec.astralinux.ru
 sonatec.ru
 song.omk.ru
 sorp-e-a01-dev.rosneft.ru
@@ -20752,6 +20818,7 @@ sso-mb-ios.vtb.ru
 sso-mb.vtb.ru
 sso-msg.akbars.ru
 sso-rel.tricolor.ru
+sso-stage.devsec.astralinux.ru
 sso-test.mtsbank.ru
 sso-uat.mtsbank.ru
 sso-uat.tvoyodbo.online
@@ -20759,6 +20826,7 @@ sso-yellow.raiffeisen.ru
 sso.cscampus.ru
 sso.dbo-dengi.online
 sso.dev.sberdevices.ru
+sso.devsec.astralinux.ru
 sso.ertelecom.ru
 sso.if.test.vtb.ru
 sso.ift.sberdevices.ru
@@ -21052,6 +21120,7 @@ stats-buh.wb-bank.su
 stats.vk-portal.net
 statskkmorf.ru
 status-projects.innovation.nornik.ru
+status.devsec.astralinux.ru
 status.eye.salute.ru
 status.kion.ru
 status.tbank-online.com
@@ -21254,7 +21323,9 @@ suzgrid.crpt.ru
 sv-dwh-ftps-01.sberinsur.ru
 sv.cts02-test.nornik.ru
 sv.deltacredit.ru
+svacer-test.devsec.astralinux.ru
 svacer.cc.linuxtesting.ru
+svacer.devsec.astralinux.ru
 svacer.linuxtesting.ru
 svb.alfabank.ru
 svc.alfabank.ru
@@ -21309,6 +21380,7 @@ sync.rambler.ru
 syncthing.pakhonin.ru
 synt.vacr.vtb.ru
 system.gkif.ru
+syz-dash.devsec.astralinux.ru
 sz.gkovd.ru
 sz.rtksp.ru
 sz.team
@@ -21680,6 +21752,9 @@ test-publicapi.sberfactoring.ru
 test-qp8.psbank.ru
 test-rel.tricolor.ru
 test-selfcare-api-rel.tricolor.ru
+test-szi-minio.devsec.astralinux.ru
+test-szi-stage.devsec.astralinux.ru
+test-szi.devsec.astralinux.ru
 test-teams.sovcombank.ru
 test-tls-showroom.api.megafon.ru
 test-tp.br.mosreg.ru
@@ -27094,6 +27169,7 @@ zaryadservice.sberbank-service.ru
 zashita.tricolor.ru
 zavedi-rebenka.ru
 zavod-plastmass.ru
+zbx.devsec.astralinux.ru
 zdrav.spb.ru
 zdrav26.ru
 zdrav74.ru
