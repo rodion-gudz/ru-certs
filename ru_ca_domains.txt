@@ -78,6 +78,7 @@
 *.abcconsulting.ru
 *.abmosk.ru
 *.abr.ru
+*.abs-kassa.ru
 *.absolutbank.ru
 *.absolutins.ru
 *.absoluttrade.ru
@@ -181,6 +182,7 @@
 *.aiandsoft.ru
 *.aichatbots.vk.team
 *.aiflow.vk.team
+*.aihr.rt.ru
 *.aihub.finam.ru
 *.aipetri.land
 *.airkaluga.ru
@@ -627,6 +629,7 @@
 *.by.mgo.su
 *.bystrobank.ru
 *.bz.cgkipd.ru
+*.bz.ru
 *.c-zn.ru
 *.c.creditural.ru
 *.c113.spacecorp.ru
@@ -2522,6 +2525,7 @@
 *.max.sut.ru
 *.maximum.ru
 *.mb.transneft.ru
+*.mbox.ooo
 *.mbuz-kgb.ru
 *.mc.docker.bspb.ru
 *.mcb.ru
@@ -2598,6 +2602,7 @@
 *.mfnso.ru
 *.mfsk.ru
 *.mg1.mtsmedia.ru
+*.mgfoms.ru
 *.mglk.ru
 *.mgm.grfc.ru
 *.mgn-city.ru
@@ -2744,6 +2749,7 @@
 *.mpcompany.ru
 *.mpl-stage.sravni.market
 *.mpr26.ru
+*.mps.qsrsystem.ru
 *.mptk55.ru
 *.mradx.net
 *.mradx.ru
@@ -2975,6 +2981,7 @@
 *.npoelm.ru
 *.npovk.ru
 *.npp-rubin.ru
+*.nppgamma.ru
 *.nprts.ru
 *.npzoptics.ru
 *.nr.roskazna.ru
@@ -3311,6 +3318,7 @@
 *.pluspay.ru
 *.pmcloud.sbertech.ru
 *.pmh.moex.com
+*.pmosk.ru
 *.pmz.ru
 *.pni4spb.ru
 *.pnzmed.ru
@@ -4092,6 +4100,7 @@
 *.sfedu.ru
 *.sfera-t1.ru
 *.sfera.ru
+*.sferar.ru
 *.sferum-dev.ru
 *.sferum-platform.ru
 *.sferum.ru
@@ -4827,6 +4836,7 @@
 *.topsbi.ru
 *.torg-i.com
 *.torgi.gov.ru
+*.torndv.ru
 *.touchngo.ru
 *.tp.br.mosreg.ru
 *.tp.sblogistica.ru
@@ -5503,6 +5513,7 @@
 *.zakaznso.ru
 *.zakazrf.ru
 *.zakupki.gov.ru
+*.zakupki.nso.ru
 *.zakupki08.ru
 *.zao-srk.ru
 *.zaovad.com
@@ -5873,6 +5884,7 @@ achimgaz.ru
 ack-it.online
 acme-test-nuc.asdkola.org
 acme-test.devops-team.ru
+acme-test.ptsecurity.com
 aconf.rt.ru
 acptl.ru
 acquiring-test.mtsbank.ru
@@ -6150,6 +6162,7 @@ aigorbatov-ed-6760.nuc-test-anything.yandex-net.ru
 aigorbatov-routing-6760.nuc-test-anything.yandex-net.ru
 aigorbatov-routing3-6760.nuc-test-anything.yandex-net.ru
 aihor.ru
+aihr.rt.ru
 aihub.finam.ru
 aij.ru
 aiot.zdrav74.ru
@@ -8919,6 +8932,7 @@ cms.avangard.ru
 cms.deltacredit.ru
 cms.slavneft-kng.ru
 cms.stv.mts.ru
+cms.upz.ru
 cms.vcs.deltacredit.ru
 cms.yoomoney.ru
 cms1.tgc11.ru
@@ -9727,6 +9741,7 @@ dev-inet.test-jazz.sberbank.ru
 dev-inspector.gosuslugi.ru
 dev-lk.addy.su
 dev-lk.kilbil.ru
+dev-lkjira.astralinux.ru
 dev-mesh.ad-tech.ru
 dev-my.jump.finance
 dev-panel.addy.su
@@ -11447,6 +11462,7 @@ gbusonsel.ru
 gbuzspb6.ru
 gc.lebedev.ru
 gc.vkplay.ru
+gca-ac-a-srv-gitflic-es01.astralinux.ru
 gca-ac-a-srv-gitflic01.astralinux.ru
 gca-ac-a-srv-gitflic02.astralinux.ru
 gca-ac-a-srv-wp-app01.astralinux.ru
@@ -12130,6 +12146,7 @@ homeberries.ru
 homecredit.ru
 homeinternet.rt.ru
 homesmart.tricolor.ru
+hook.riarra.ru
 horoschool.sberclass.ru
 hosp23.ru
 hospital.karelia.ru
@@ -12171,6 +12188,7 @@ hr-uat.sberbank.ru
 hr.kk.bank
 hr.mail.ru
 hr.ocs.ru
+hr.sakhalin.gov.ru
 hr.sber.pro
 hr.sber.ru
 hr.sberbank.ru
@@ -13158,6 +13176,7 @@ job.lanit.ru
 job.megafon.ru
 job.mtsbank.ru
 job.psbank.ru
+job.sakhalin.gov.ru
 job.staging.megafon.ru
 job.veb.ru
 jobs.microsun.ru
@@ -13974,6 +13993,7 @@ lk.severstal.com
 lk.sevnb.ru
 lk.sinara-finance.ru
 lk.spb.mts.ru
+lk.studolymp.gazprom.ru
 lk.stv.mts.ru
 lk.sveza.com
 lk.svm.psb.services
@@ -15024,6 +15044,7 @@ mbf.avangard.ru
 mbint.alfabank.ru
 mbk.online.gazprombank.ru
 mbox-fix.utk.ru
+mbox.ooo
 mbp.mcbankrus.ru
 mbrb.rr.test.vtb.ru
 mbsfactory.ahml.ru
@@ -15288,6 +15309,7 @@ mfo.test-middle.megafon.ru
 mfsk.ru
 mg.developer.tricolor.ru
 mg1.mtsmedia.ru
+mgfoms.ru
 mglk.ru
 mgm-mm.rostfinance.ru
 mgm-zbx.rostfinance.ru
@@ -16339,6 +16361,7 @@ npo-rtc.ru
 npoa.ru
 npoelm.ru
 npovk.ru
+nppgamma.ru
 nprts.ru
 nps.rspp.ru
 npzoptics.ru
@@ -16576,6 +16599,7 @@ oldnet.su
 olimpicshop.ru
 oltest.cloud.mts.ru
 olymp-online.mipt.ru
+olympiad.gazprom.ru
 ombsk.biz
 ombudsman.gov.ru
 ombudsman33.ru
@@ -18801,6 +18825,7 @@ regionsoft.le-dv.ru
 register.rspp.ru
 registrator-rekom.ru
 registry-rpa.sberbank-service.ru
+registry.devsec.astralinux.ru
 registry.domoy.ru
 registry.dt.multicarta.ru
 registry.mwsapis.ru
@@ -20009,6 +20034,7 @@ sfera-t1.ru
 sfera-test.pochtabank.ru
 sfera.pochtabank.ru
 sfera.ru
+sferar.ru
 sferum-dev.ru
 sferum-platform.ru
 sferum.max.ru
@@ -20068,6 +20094,7 @@ shbv-rcpu.asudd.net
 shbv1.asudd.net
 shbv2.asudd.net
 shelepov.tech
+sherekhan.oneme.ru
 sherlock.deltacredit.ru
 sherlockdev.deltacredit.ru
 sherlocktest.deltacredit.ru
@@ -20086,6 +20113,7 @@ shop.avangard.ru
 shop.fc-zenit.ru
 shop.megafon.ru
 shop.tricolor.ru
+shop.voloblgaz.ru
 shop.wildcordyceps.ru
 shoppers.media
 shopshoplab.ru
@@ -20356,6 +20384,7 @@ smolensk.tricolor.ru
 smoozzy.monitoring.dom.ru
 smotri.tricolor.ru
 smotrioge.ru
+smp.zakupki.nso.ru
 smpcc.alfabank.ru
 smpig.mts.ru
 smr.group
@@ -20890,6 +20919,7 @@ stage-dmz.akbars.ru
 stage-doc-upload.mos.ru
 stage-grafana.lk.astra-team.ru
 stage-int.akbars.ru
+stage-lkjira.astralinux.ru
 stage-mesh.ad-tech.ru
 stage-my.jump.finance
 stage-rec.middle.megafon.ru
@@ -21253,6 +21283,7 @@ students.sberclass.ru
 studio.sberdevices.ru
 studio.vk.com
 studio.vk.ru
+studolymp.gazprom.ru
 study-srv.severstal.com
 study.andromeda.sbercity.ru
 study.severstal.com
@@ -21724,6 +21755,7 @@ test-le-8.certhub-beta.onecld.ru
 test-lk-ecomm.psbank.ru
 test-lk.pbx.megafon.ru
 test-lk.rt.ru
+test-lkjira.astralinux.ru
 test-logging.tap2phone.ru
 test-mdealer-api-rel.tricolor.ru
 test-middle.megafon.ru
@@ -22128,6 +22160,7 @@ topsbi.ru
 torg-i.com
 torgi.gov.ru
 torgi223.depfin70.ru
+torndv.ru
 toro-test-real.vtb.ru
 toro-test.vtb.ru
 torolb001.vtb.ru
@@ -22311,6 +22344,7 @@ tver.megafon.ru
 tver.staging.megafon.ru
 tver.tricolor.ru
 tverfin.ru
+tvernefteproduct.ru
 tverreg.ru
 tvh.kion.ru
 tvh.mts.ru
@@ -22515,6 +22549,7 @@ updater.admkonda.ru
 updater.app-assistent.open.ru
 updk.ru
 upgsbi.sberbank.ru
+upkb.ru
 upload.seller.ozon.ru
 uploader.key.rt.ru
 upm-dc-ipn01-ra-ext.sigma.sbrf.ru
@@ -23061,6 +23096,7 @@ volgograd.tricolor.ru
 volkgallery.ru
 volnaspb.ru
 volnu.ru
+voloblgaz.ru
 vologda-city.ru
 vologda.dev.home.megafon.ru
 vologda.home.megafon.ru
@@ -23120,6 +23156,7 @@ vpn.novikom.ru
 vpn.pochtabank.ru
 vpn.radostev.ru
 vpn.rencredit.ru
+vpn.rezonit.ru
 vpn.rosdolg.net
 vpn.rostfinance.ru
 vpn.roszdravnadzor.gov.ru
@@ -23805,6 +23842,7 @@ www.agw.spasibosb.ru
 www.ahml.com
 www.ai-bank.ru
 www.ai-journey.ru
+www.aihr.rt.ru
 www.aij.ru
 www.airkaluga.ru
 www.airkey.cloud.sinara.ru
@@ -24189,6 +24227,7 @@ www.cloudpbx.rt.ru
 www.clubonus.ru
 www.cmec.spb.ru
 www.cms.avangard.ru
+www.cms.upz.ru
 www.cms.yoomoney.ru
 www.cn.fsg.ru
 www.cn.sveza.com
@@ -25048,6 +25087,7 @@ www.lk.mts.ru
 www.lk.noosferabank.ru
 www.lk.omsomsk.ru
 www.lk.sinara-finance.ru
+www.lk.studolymp.gazprom.ru
 www.lk.vitabank.ru
 www.lkcash.sinara.ru
 www.lkk-prod.transneft.ru
@@ -25194,6 +25234,7 @@ www.mfc-nso.ru
 www.mfctx.alfastrah.ru
 www.mfnso.ru
 www.mfsk.ru
+www.mgfoms.ru
 www.mgn.metro.spb.ru
 www.mi-tn.transneft.ru
 www.mi-vpn.vtb.ru
@@ -25415,6 +25456,7 @@ www.okvd48.ru
 www.old.bspb.ru
 www.old.omk.ru
 www.old.sbidea.ru
+www.olympiad.gazprom.ru
 www.ombudsman33.ru
 www.omk.ru
 www.omon.cplsb.ru
@@ -25996,6 +26038,7 @@ www.shakhty-edu.ru
 www.shaudinis.ru
 www.shmr.ru
 www.shop.tricolor.ru
+www.shop.voloblgaz.ru
 www.shriftik.ru
 www.shukhov.omk.ru
 www.siaplc.ru
@@ -26181,6 +26224,7 @@ www.streaming.eagleplatform.com
 www.strelkapay.ru
 www.students.21-school.ru
 www.students.rosseti-lenenergo.ru
+www.studolymp.gazprom.ru
 www.stv.mts.ru
 www.stw.21-school.ru
 www.superjob.ru
@@ -26455,6 +26499,7 @@ www.vokpc2.ru
 www.volga-capital.ru
 www.volgafin.ru
 www.volgograd.ru
+www.voloblgaz.ru
 www.vorkuta.ru
 www.vp.rambler.ru
 www.vpn-phd.sovcombank.ru
@@ -26462,6 +26507,7 @@ www.vpn-scv1.sovcombank.group
 www.vpn-scv2.sovcombank.group
 www.vpn.kvartplata.ru
 www.vpn.pochtabank.ru
+www.vpn.rezonit.ru
 www.vpn01.cplsb.ru
 www.vpn01.itcomp.tech
 www.vpn01.sovcombank.group
@@ -27150,6 +27196,7 @@ zakupki.ecoteo.ru
 zakupki.fbq.ru
 zakupki.gov.ru
 zakupki.magnit.ru
+zakupki.nso.ru
 zakupki.otpbank.ru
 zakupki.rosneft.com
 zakupki.rosneft.ru
@@ -27177,6 +27224,7 @@ zavedi-rebenka.ru
 zavod-plastmass.ru
 zbx.devsec.astralinux.ru
 zdrav.spb.ru
+zdrav.zdrav-control-max.ru
 zdrav26.ru
 zdrav74.ru
 zdravcity.ru
