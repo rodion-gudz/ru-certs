@@ -8037,6 +8037,7 @@ brdi32.ru
 bre-ad.tech
 bredy74.ru
 bremeco.ru
+brest.astralinux.ru
 bricsclear.group
 brillworld.ru
 bris-cloud.ru
@@ -9999,6 +10000,7 @@ dineftyanik.ru
 dinersaero.rsb.ru
 dinerstravel.rsb.ru
 diod.proton-orel.ru
+dion-drcs.astralinux.ru
 dion-sso.tricolor.ru
 dioncc-sso.tricolor.ru
 diongo.ru
@@ -13793,6 +13795,7 @@ lgt.ru
 lib.kr-cbs.ru
 libdiv.ru
 liberty-tur.ru
+library.astralinux.ru
 library.sberdatascience.ru
 librarykrasnoturinsk.ru
 libsmr.ru
@@ -21926,6 +21929,7 @@ testmetrics.alfabank.ru
 testmo.ru
 testnuc.dev.sberdevices.ru
 testnucrsa.asntl.ru
+testo-bamboo.astralinux.ru
 testonline.sberbank.ru
 testoria.net
 testout.sovcomins.ru
@@ -22649,6 +22653,7 @@ vault.ci.sberpravo.ru
 vault.demo.sberpravo.ru
 vault.demo2.sberpravo.ru
 vault.dev.sberpravo.ru
+vault.dit-corp-business-app-unit.astralinux.ru
 vault.eye.salute.ru
 vault.gigalegal.sber.ru
 vault.gorp.msk.ru
@@ -23657,6 +23662,7 @@ wsinttest.alfabank.ru
 wso.sberbank.ru
 wss.t-j.ru
 wssip.voiptools.ru
+wsus.szd.stcnet.ru
 wt-backend.rossiya-airlines.ru
 wt.rossiya-airlines.ru
 wtapi.pochtabank.ru
