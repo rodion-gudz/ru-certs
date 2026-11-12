@@ -718,6 +718,7 @@
 *.cfa.digital
 *.cfmc.ru
 *.cgbp.ru
+*.cgemo.ru
 *.cgkipd.ru
 *.cgorod.pw
 *.cgr62.ru
@@ -2272,6 +2273,7 @@
 *.krasfin.ru
 *.krasnarm.ru
 *.krasnodar.ru
+*.krasnodarvodokanal.ru
 *.krasnogvardeiskoe.info
 *.krasstat.ru
 *.krastsvetmet.ru
@@ -2767,6 +2769,7 @@
 *.mradx.ru
 *.mrgcdn.net
 *.mrgcdn.ru
+*.mrgtula.ru
 *.mriya.events
 *.mriya.me
 *.mriyajob.ru
@@ -4019,6 +4022,7 @@
 *.sberuniversity.online
 *.sberuniversity.ru
 *.sberworks.ru
+*.sbhealth.ru
 *.sbionline.ru
 *.sbis.link
 *.sbis.ru
@@ -5866,6 +5870,7 @@ absolutins.ru
 absoluttrade.ru
 absolutvip.ru
 abtest.cardsmobile.ru
+ac-argocd.dds.astralinux.ru
 ac.atol.ru
 ac.gov.ru
 ac.infoline-rk.ru
@@ -9785,6 +9790,8 @@ dev-inet.test-jazz.sberbank.ru
 dev-inspector.gosuslugi.ru
 dev-it.severstal.com
 dev-jira.astralinux.ru
+dev-jira02.astralinux.ru
+dev-life.astralinux.ru
 dev-lk.addy.su
 dev-lk.kilbil.ru
 dev-lkjira.astralinux.ru
@@ -9797,6 +9804,7 @@ dev-sipdecoder.test-jazz.sberbank.ru
 dev-sso.dev.lk.astra-team.ru
 dev-stroyka.ru
 dev-vkplay.ru
+dev-wiki02.astralinux.ru
 dev.1c.link
 dev.acs.gazprombank.ru
 dev.ad-tech.ru
@@ -11121,6 +11129,7 @@ fbuz.20.rospotrebnadzor.ru
 fbuz09.rospotrebnadzor.ru
 fbuz11.ru
 fbuz16.ru
+fbuz20.rospotrebnadzor.ru
 fbuz41.rospotrebnadzor.ru
 fbuz52.rospotrebnadzor.ru
 fbuz66.ru
@@ -11400,6 +11409,7 @@ fsnsamara.ru
 fsso-nm.test-middle.megafon.ru
 fstec.gov.ru
 fstec.ru
+fsvts.gov.ru
 ft-crypto.ru
 ft.vk.com
 ft3-certificates-epsilon-mpl-api-ext.g4lab.com
@@ -14766,6 +14776,7 @@ mail.psi.gigalegal.sber.ru
 mail.psi.legalbpm.sberpravo.ru
 mail.psi.legalforms.sberpravo.ru
 mail.ptenergo.ru
+mail.ptsecurity.com
 mail.public-buh.sovcombank.ru
 mail.pwa.sinara-finance.ru
 mail.pwdss.ru
@@ -15786,6 +15797,7 @@ mra1.gazprombank.ru
 mradx.net
 mradx.ru
 mrgcdn.ru
+mrgtula.ru
 mriya-debut.dreamwoodpark.com
 mriyalife.ru
 mriyamed.ru
@@ -19746,6 +19758,7 @@ sberuniversity.ru
 sbervideo.sberbank.ru
 sbervmeste.ru
 sberworks.ru
+sbhealth.ru
 sbi-test.sberbank.ru
 sbi.sbbolmobiletest.sberbank.ru
 sbi.sberbank.ru
@@ -20245,6 +20258,7 @@ sibvinyl.ru
 sier54.nso.ru
 sig-assist24.kk.ru
 sig-assist24.kubankredit.ru
+sig-check.alean.ru
 sigma.land
 sigma.ru
 sigma.sbrf.ru
@@ -21003,15 +21017,22 @@ stable.domrfbank.ru
 stacks.vk-portal.net
 staff-acquisition.magnit.ru
 stage-api-itsm.sbertech.ru
+stage-api.ocs.ru
 stage-argocd.lk.astra-team.ru
 stage-cp.megafon.ru
+stage-crowd.astralinux.ru
 stage-dc.ru
 stage-dfo.ru
 stage-dmz.akbars.ru
 stage-doc-upload.mos.ru
 stage-grafana.lk.astra-team.ru
 stage-int.akbars.ru
+stage-jira-ds.astralinux.ru
 stage-jira.astralinux.ru
+stage-jira02.astralinux.ru
+stage-life-ds.astralinux.ru
+stage-life-dvis.astralinux.ru
+stage-life.astralinux.ru
 stage-lkjira.astralinux.ru
 stage-mesh.ad-tech.ru
 stage-my.jump.finance
@@ -21021,6 +21042,8 @@ stage-srr.dfa-yc.dltru.org
 stage-termidesk.dds.astralinux.ru
 stage-tp.br.mosreg.ru
 stage-vmselect.lk.astra-team.ru
+stage-wiki.astralinux.ru
+stage-wiki02.astralinux.ru
 stage-work.jump.finance
 stage.ai-agents.internal.cloud.ru
 stage.ai.mosreg.ru
@@ -22281,6 +22304,8 @@ tpe-loyalty-group-logo.tbank-online.com
 tpension.ru
 tppr.vmailru.net
 tpprst.vmailru.net
+tpr-conf.astralinux.ru
+tpr-jira.astralinux.ru
 tprivate-mc.auth.alfabank.ru
 tprivate.auth.alfabank.ru
 tps.rambler.ru
@@ -23142,6 +23167,7 @@ vmm-agent.demo3.hycl.ru
 vmm-mgmt.demo1.hycl.ru
 vmm-mgmt.demo2.hycl.ru
 vmm-mgmt.demo3.hycl.ru
+vmpavitec.ru
 vms.mkp.ru.net
 vmselect.dev.lk.astra-team.ru
 vmware.cloud.ru
