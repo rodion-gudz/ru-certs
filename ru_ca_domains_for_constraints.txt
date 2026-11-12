@@ -121,6 +121,7 @@ admsvtl.ru
 admtyumen.ru
 adpo-edu.ru
 adygheya.ru
+aeromax-defense.ru
 aeromax-group.ru
 aeromax.pro
 aerosila.ru
@@ -150,6 +151,7 @@ aiandsoft.ru
 aihor.ru
 aij.ru
 aipetri.land
+aipraktikai.ru
 airkaluga.ru
 airlinescloud.online
 aironteh.ru
@@ -302,6 +304,7 @@ ard.moscow
 arendadomrf.ru
 aresbank.ru
 argds.ru
+argus-oskol.ru
 arhcity.ru
 arhitektura32.ru
 arhofoms.ru
@@ -895,12 +898,14 @@ dealsy.ru
 dealsy.tech
 debitoriya.ru
 decosystems.ru
+defense-aeromax.ru
 defense.insure
 defense.ru
 deletron.ru
 delivery.ru
 dellin.ru
 delo.ru
+deloports.ru
 delovayakolbasa.ru
 delta-privod.ru
 deltacredit.ru
@@ -2228,6 +2233,7 @@ lycey488.ru
 lynx-texts.ru
 m-banka.ru
 m-core.pro
+m-developer.ru
 m-finance-credit.ru
 m-pro.online
 m-road.ru
@@ -2491,6 +2497,7 @@ mp-bank.ru
 mpaes.ru
 mpbank.online
 mpcompany.ru
+mpmaxitest.ru
 mpr26.ru
 mptk55.ru
 mpu-spb.ru
@@ -2642,6 +2649,7 @@ netology.ru
 netoservices.ru
 neuro-nix.space
 neuro.net
+nevametal.com
 nevelgrad.ru
 newbank.ru
 newpeople.pro
@@ -3026,6 +3034,7 @@ pcbk.ru
 pcbltools.ru
 pchtb.ru
 pchtbnk.ru
+pedant.ru
 pentaschool.ru
 perecle.ru
 perepis2002.ru
@@ -3339,6 +3348,7 @@ resocreditbank.ru
 restart.auto
 restream.ru
 resultplace.ru
+retail-maxitest.ru
 retroweb.su
 rex-motors.ru
 rezonet.ru
@@ -3786,6 +3796,7 @@ sesufa.ru
 sev-tech.ru
 sever-tech.com
 severgazbank.ru
+severgroup.ru
 severstal.com
 severstal.ru
 severstalauto.com
@@ -3857,6 +3868,7 @@ sinara-finance.ru
 sinara.ru
 sinaralab.ru
 sineft.ru
+sintez-cip.ru
 sio26.ru
 sipaero.ru
 sir20.ru
@@ -4092,6 +4104,7 @@ stage-dc.ru
 stage-dfo.ru
 stal.ru
 stalaris.ru
+stalcom.com
 stallect.ru
 stalsmt.ru
 standoff365.com
@@ -4108,6 +4121,7 @@ static-content.ru
 static.am
 statskkmorf.ru
 stav-roddom.ru
+stavadm.ru
 stavcreative.ru
 stavendocrin.ru
 stavinvest.ru
@@ -4124,6 +4138,7 @@ stc-groups.ru
 stc-spb.ru
 stcnet.ru
 stcollector.ru
+steelsolutions.ru
 stepan.su
 stepnoe-rb.ru
 stgmu.ru
@@ -4561,6 +4576,7 @@ uor-nsk.ru
 upbkk.ru
 updk.ru
 upkb.ru
+upmore.space
 upravkom.ru
 upravlyaem.ru
 uprio.ru
@@ -4817,6 +4833,7 @@ vtbsd.com
 vtbsd.ru
 vtbtoken.ru
 vtkbank.ru
+vvsu.ru
 vyksa-culture.ru
 vympel-rybinsk.ru
 vzavod.ru
@@ -4907,11 +4924,13 @@ xn----7sbabhpxokex8c.xn--p1ai
 xn----7sbabrcgtg6afi1b.xn--p1ai
 xn----7sbb1amddko8c7b4b.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
+xn----7sbbgc8crdacheglp1o.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
 xn----7sbcgoab9a0awmnp.xn--p1ai
 xn----7sbezt1a4b.xn--p1ai
 xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbhhgjt4afav0m.xn--p1ai
+xn----7sbj3afqblkcs.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----7sbnqazjhcv.xn--p1ai
 xn----7sbnqvigct4i.xn--p1ai
@@ -5036,6 +5055,7 @@ xn--80addfbb6bm6a.xn--p1ai
 xn--80addfq2alq.xn--p1ai
 xn--80adfbej0ceadr0m.xn--p1ai
 xn--80adgen0ai.xn--p1ai
+xn--80ae1alafffj1i.xn--p1ai
 xn--80aeakmgi9azaci1dvg.xn--p1ai
 xn--80aebecah6apa1adyldqm2sra.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
