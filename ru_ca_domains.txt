@@ -774,6 +774,7 @@
 *.citydrive.tech
 *.citylifeindex.ru
 *.citymatic.ru
+*.civ.citis.ru
 *.ckb-rubin.ru
 *.ckbnso.ru
 *.class365.ru
@@ -943,6 +944,7 @@
 *.dating.rambler.ru
 *.db.ertelecom.ru
 *.dbo-dengi.online
+*.dbo-dev.autofinancebank.ru
 *.dbo-zemcombank.ru
 *.dbo.balakovo-bank.ru
 *.dbosb.dev.sovcombank.group
@@ -2015,6 +2017,7 @@
 *.infotehdc.ru
 *.infowatch.com
 *.infowatch.ru
+*.infra.br.mosreg.ru
 *.infra.mail.ru
 *.infra.sravni.market
 *.ing.ru
@@ -2105,6 +2108,7 @@
 *.isbank.com.ru
 *.isiton.ru
 *.isp.nsc.ru
+*.iss-reshetnev.ru
 *.issp.ac.ru
 *.issras.ru
 *.istokmw.ru
@@ -2586,6 +2590,7 @@
 *.megafon-dfs.ivi-mc.ru
 *.megafon.mail.ru
 *.megafon.ru
+*.megafon.tech
 *.megakontrol.ru
 *.megamarket.ru
 *.megamarket.tech
@@ -2841,6 +2846,7 @@
 *.mvk.com
 *.mvs-bank.ru
 *.mwms.ru
+*.mwscdn.ru
 *.my.com
 *.my.mail.ru
 *.my.myalpha6.i.mail.ru
@@ -3792,6 +3798,7 @@
 *.rosseti-lenenergo.ru
 *.rosseti-ural.ru
 *.rosseti.ru
+*.rossitabank.ru
 *.rossiya-airlines.com
 *.rossiya-airlines.ru
 *.rosstat.gov.ru
@@ -4217,6 +4224,7 @@
 *.smartagent.online
 *.smartbuys.ru
 *.smarthome.rt.ru
+*.smartmice.tech
 *.smartro.ru
 *.smarttravel.ru
 *.smartway.ru
@@ -7701,6 +7709,7 @@ basseiny.online
 batashevgolos.omk.ru
 batist.pro
 baza-roshino.ru
+baza.severstal.com
 bazrb.ru
 bb-metro.spb.ru
 bbbb.t-boys.ru
@@ -8079,6 +8088,8 @@ bpxptestpgload.beeline.ru
 bpxptestpgnew.beeline.ru
 br.atriumnn.ru
 br.mosreg.ru
+bralo.com.ru
+bralo.su
 brand.rt.ru
 brand.sber.ru
 brand.veb.ru
@@ -8719,6 +8730,7 @@ cheb.dev.home.megafon.ru
 cheb.home.megafon.ru
 cheb23.shkola.hc.ru
 chebarcul.ru
+cheboksary.baza.severstal.com
 chechnya.dev.home.megafon.ru
 chechnya.home.megafon.ru
 chechnya.megafon.ru
@@ -8756,6 +8768,7 @@ chelyabinsk.sveza.ru
 chem-react.rrcki.ru
 chem.rrcki.ru
 chemical.ru
+cherepovets.baza.severstal.com
 chernadmin.ru
 cherpwd.stal.ru
 chestnyznak.ru
@@ -8830,6 +8843,7 @@ citydrive.ru
 citylab.veb.ru
 citylifeindex.ru
 citymatic.ru
+civ.citis.ru
 ckb-rubin.ru
 ckbnso.ru
 ckk.kszn34.ru
@@ -8846,6 +8860,7 @@ cl.odo.karelia.ru
 cl.sberbank.ru
 cl.school.karelia.ru
 cl.vtb.ru
+claim-ts-bpc.mcb.ru
 clamax.ru
 class365.ru
 classcom.ru
@@ -9614,6 +9629,7 @@ db.ertelecom.ru
 db.vtb.ru
 dbo-auth.mkb.ru
 dbo-dengi.online
+dbo-dev.autofinancebank.ru
 dbo-sme-entity-web-test.mtsbank.ru
 dbo-test.veb.ru
 dbo-zemcombank.ru
@@ -9695,6 +9711,7 @@ debts-resolve.alfabank.ru
 debug.addy.su
 decosystems.ru
 defense-aeromax.ru
+defense-gcloud1.megafon.tech
 defense.insure
 degps.mos.ru
 deku.datagalaxy.salute.ru
@@ -9775,6 +9792,7 @@ depository-algoritm.com
 depository.ru
 derbent-parking.ru
 derzhava.ru
+des-gcloud1.megafon.tech
 design.kion.ru
 design.mtsbank.ru
 design.rt.ru
@@ -9914,6 +9932,7 @@ dev.sberdevices.com
 dev.sberdevices.ru
 dev.sberpravo.ru
 dev.sbp.payanyway.ru
+dev.severstalssc.com
 dev.skkpu.mosreg.ru
 dev.skpdi.mosreg.ru
 dev.smartforms.monitoring.mosreg.ru
@@ -11555,6 +11574,7 @@ gca-ac-a-srv-wp-app03.astralinux.ru
 gcgb.info
 gcgie.ru
 gcgs.ru
+gcloud1.megafon.tech
 gcm-service.cardsmobile.ru
 gcmtech.ru
 gcrr.ru
@@ -12834,6 +12854,7 @@ infowaf.deltacredit.ru
 infowatch.com
 infowatch.ru
 infra.agents.su-test.ru
+infra.br.mosreg.ru
 infra.mail.ru
 infrastructure-protection.edge.sberdevices.ru
 infrastructure.sbercity.ru
@@ -13111,6 +13132,7 @@ isp-report-maker.devsec.astralinux.ru
 isp-test.mfsk.ru
 isp.mfsk.ru
 isp.nsc.ru
+iss-reshetnev.ru
 isso-dev.mts.ru
 isso.mts.ru
 issp.ac.ru
@@ -13399,6 +13421,7 @@ kassa.rambler.ru
 kav-crb.ru
 kav.modulbank.ru
 kav.teleportbank.ru
+kazan.baza.severstal.com
 kazan.sveza.ru
 kazan.tricolor.ru
 kb-71.ru
@@ -13670,6 +13693,7 @@ krasdomkino.ru
 krasfin.ru
 krasmechta.ru
 krasnarm.ru
+krasnodar.baza.severstal.com
 krasnodar.megafon.ru
 krasnodar.ru
 krasnodar.staging.megafon.ru
@@ -14702,6 +14726,7 @@ mail.magnit.ru
 mail.mail.noosferabank.ru
 mail.mail.noospherabank.ru
 mail.market-fa.ru
+mail.mbbru.ru
 mail.mbrd.ru
 mail.mcb.ru
 mail.mcbteam.ru
@@ -15725,6 +15750,7 @@ mos-metro-cn-aio.speechpro.com
 mos.ru
 moscoms.ru
 moscow.apu3.network
+moscow.baza.severstal.com
 moscow.dev.home.megafon.ru
 moscow.home.megafon.ru
 moscow.megafon.ru
@@ -16433,6 +16459,7 @@ nova.stellar.astralinux.ru
 nova.vk.team
 novatek-spgt.ru
 novatek.asugo.ru
+novgorod.baza.severstal.com
 novgorod.dev.home.megafon.ru
 novgorod.home.megafon.ru
 novgorod.megafon.ru
@@ -16440,6 +16467,7 @@ novgorod.staging.megafon.ru
 novikom.ru
 novise12.mfnso.ru
 novkfo.ru
+novnc-gcloud1.megafon.tech
 novo-sibirsk.ru
 novoalexcrb.ru
 novobank.ru
@@ -16697,6 +16725,7 @@ old.ioffe.ru
 old.omk.ru
 old.rc.senat.sberbank.ru
 old.senat.sberbank.ru
+old.severstalssc.com
 old.staging.senat.sberbank.ru
 old.tricolor.ru
 old3.deltacredit.ru
@@ -19206,6 +19235,7 @@ rosseti-lenenergo.ru
 rosseti-lenenergo140.ru
 rosseti-ural.ru
 rosseti.ru
+rossitabank.ru
 rossiya-airlines.com
 rossiya-airlines.ru
 rossiyasegodnya.com
@@ -19427,6 +19457,9 @@ s-a.vtb.ru
 s-a1.vtb.ru
 s-a2.vtb.ru
 s-broiler.ru
+s-gca-ac-a-srv-wp-app01.gk-astra.ru
+s-gca-ac-a-srv-wp-app02.gk-astra.ru
+s-gca-ac-a-srv-wp-app03.gk-astra.ru
 s.api.adapters.payments.moneta.ru
 s.assistant.demo.moneta.ru
 s.assistant.moneta.ru
@@ -20128,9 +20161,13 @@ seventh-m12.asudd.net
 sever-tech.com
 severgazbank.ru
 severgroup.ru
+severstal-ssc.com
+severstal-ssc.ru
 severstal.com
 severstal.ru
 severstal.severstalgroup.com
+severstalssc.com
+severstalssc.ru
 sevesk.ru
 sevmash.ru
 sevnb.ru
@@ -20465,6 +20502,7 @@ smarthome.mts.ru
 smarthome.rt.ru
 smarthome.tricolor.ru
 smartmarket.sber.ru
+smartmice.tech
 smartpay.devices.sberbank.ru
 smartpay.ecom.sberbank.ru
 smartpayift.ecom.sberbank.ru
@@ -20789,6 +20827,7 @@ spasskievorota.ru
 spaymentsplus.ru
 spb-artschool.ru
 spb-vpn01.sovcombank.group
+spb.baza.severstal.com
 spb.cloud.mts.ru
 spb.dev.home.megafon.ru
 spb.home.megafon.ru
@@ -20966,6 +21005,7 @@ sso-dev.tricolor.ru
 sso-ext.ocs.ru
 sso-fix.tricolor.ru
 sso-forms-fallback.tbank-online.com
+sso-gcloud1.megafon.tech
 sso-green.raiffeisen.ru
 sso-ib.vtb.ru
 sso-k8s-test.astralinux.ru
@@ -21063,6 +21103,8 @@ stage-vmselect.lk.astra-team.ru
 stage-wiki.astralinux.ru
 stage-wiki02.astralinux.ru
 stage-work.jump.finance
+stage-workspad.astralinux.ru
+stage-wp-bots.astralinux.ru
 stage.ai-agents.internal.cloud.ru
 stage.ai.mosreg.ru
 stage.aiplatform.mosreg.ru
@@ -21794,6 +21836,7 @@ techdobro.ru
 techinfo.ingos.ru
 techlab.s7.ru
 technodrom.ru
+technohook.ru
 technologiya.ru
 technoscore.ru
 techpass-test.sberbank-service.ru
@@ -23154,6 +23197,7 @@ vl.dev.home.megafon.ru
 vl.home.megafon.ru
 vl.megafon.ru
 vl.staging.megafon.ru
+vladimir.baza.severstal.com
 vladimir.tricolor.ru
 vladivostok.home.megafon.ru
 vladkc.ru
@@ -23207,6 +23251,7 @@ vniiftri.ru
 vniigaz-cert.ru
 vniir.ru
 vniitf.ru
+vnipchi.rospotrebnadzor.ru
 vnm.transneft.ru
 vnukovo.ru
 vo.ertelecom.ru
@@ -23252,6 +23297,7 @@ volnaspb.ru
 volnu.ru
 voloblgaz.ru
 vologda-city.ru
+vologda.baza.severstal.com
 vologda.dev.home.megafon.ru
 vologda.home.megafon.ru
 vologda.megafon.ru
@@ -24245,6 +24291,8 @@ www.bonus-sber.spasibobonus.ru
 www.bonus-spasibo.ru
 www.bonus.pskb.com
 www.bonus.uralsib.ru
+www.bralo.com.ru
+www.bralo.su
 www.brand.rt.ru
 www.brand.sber.ru
 www.brand.veb.ru
@@ -26001,6 +26049,7 @@ www.rosnefteflot.rosneft.ru
 www.rosreestr.gov.ru
 www.rosreestr.ru
 www.rosseti-lenenergo.ru
+www.rossitabank.ru
 www.rossiyasegodnya.com
 www.rosstat.gov.ru
 www.rostatus.ru
@@ -26188,6 +26237,9 @@ www.services.livejournal.com
 www.servolk.ru
 www.sev-tech.ru
 www.sever-tech.com
+www.severstal-ssc.com
+www.severstal-ssc.ru
+www.severstalssc.ru
 www.sevnb.ru
 www.sf-kras.ru
 www.sfedu.ru
@@ -26446,6 +26498,7 @@ www.teakett.ru
 www.tebs.sovcombank.ru
 www.tech.sber.pro
 www.techdobro.ru
+www.technohook.ru
 www.technologiya.ru
 www.technoscore.ru
 www.tecscheme.org
@@ -27432,6 +27485,7 @@ zheldor.dev.home.megafon.ru
 zheldor.home.megafon.ru
 zhilservis-ketovo.ru
 zhivagobank.ru
+zid.ru
 zidane1511.fun
 zigbee2mqtt.apu3.network
 zip-teh.ru

@@ -575,6 +575,7 @@ boom.ru
 boostdevelopment.ru
 botmag.net
 brain-flow.ru
+bralo.su
 brandanalytics.ru
 bratsk-city.ru
 bratska.ru
@@ -1486,6 +1487,7 @@ giszpenza.ru
 giszrb.ru
 gitverse.ru
 gjnrk.ru
+gk-astra.ru
 gk-ikar.ru
 gk-travel.ru
 gkif.ru
@@ -1862,6 +1864,7 @@ isin.ru
 isiton.ru
 isnbank.ru
 ispmanager.ru
+iss-reshetnev.ru
 issras.ru
 istokmw.ru
 it-brigita.ru
@@ -2309,6 +2312,7 @@ maximum.ru
 maxlib.ru
 mazenko.ru
 mbafin.ru
+mbbru.ru
 mbox.ooo
 mbrd.ru
 mbuz-kgb.ru
@@ -2347,6 +2351,7 @@ medkam.ru
 medkhv.ru
 megafon.cloud
 megafon.ru
+megafon.tech
 megafonpro.ru
 megakontrol.ru
 megalabs.ru
@@ -2576,6 +2581,7 @@ mwms.ru
 mws.cloud
 mws.ru
 mwsapis.ru
+mwscdn.ru
 my.com
 myautopodpiska.ru
 myavrmaxwebhook.ru
@@ -3441,6 +3447,7 @@ rosseti-lenenergo.ru
 rosseti-lenenergo140.ru
 rosseti-ural.ru
 rosseti.ru
+rossitabank.ru
 rossiya-airlines.com
 rossiya-airlines.ru
 rossiyasegodnya.com
@@ -3805,11 +3812,14 @@ sev-tech.ru
 sever-tech.com
 severgazbank.ru
 severgroup.ru
+severstal-ssc.com
+severstal-ssc.ru
 severstal.com
 severstal.ru
 severstalauto.com
 severstalgroup.com
 severstalssc.com
+severstalssc.ru
 sevesk.ru
 sevmash.ru
 sevnb.ru
@@ -4337,6 +4347,7 @@ teatrvfk.ru
 tech-inv.org
 techdobro.ru
 technodrom.ru
+technohook.ru
 technologiya.ru
 technoscore.ru
 tecscheme.org
@@ -5291,6 +5302,7 @@ zest.ru
 zgr.im
 zhilservis-ketovo.ru
 zhivagobank.ru
+zid.ru
 zidane1511.fun
 zip-teh.ru
 zm-solutions.ru
