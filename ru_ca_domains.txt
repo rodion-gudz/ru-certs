@@ -338,6 +338,7 @@
 *.archives.ru
 *.ard.moscow
 *.aresbank.ru
+*.argus-oskol.ru
 *.arhcity.ru
 *.arhitektura32.ru
 *.arhofoms.ru
@@ -2241,6 +2242,7 @@
 *.kmt46.ru
 *.knd.gov.ru
 *.kng.oneclickmoney.ru
+*.knigoose.ru
 *.knigozakaz.ru
 *.knk32.ru
 *.kobma.mail.ru
@@ -3451,6 +3453,7 @@
 *.proresurs.ru
 *.proshkola.ru
 *.prostobank.online
+*.prostyepravila.ru
 *.prosv.ru
 *.proton-orel.ru
 *.protonpm.ru
@@ -3634,6 +3637,7 @@
 *.rabota.vk.com
 *.rabotavkuzbasse.ru
 *.radar.imgsmail.ru
+*.radioavionica.ru
 *.radionebo.com
 *.radiosputnik.ru
 *.rag.vk.team
@@ -4286,6 +4290,7 @@
 *.sovcomlife.ru
 *.sovcomnpf.ru
 *.sovcomsecure-2.ru
+*.soyuz-prosv.ru
 *.soz.megafon.ru
 *.space.otpbank.ru
 *.spacecorp.ru
@@ -4660,6 +4665,7 @@
 *.t1.ru
 *.t2.ru
 *.t8.ru
+*.tabletka.online
 *.tagancity.ru
 *.tagapp.ru
 *.tahtapni.ru
@@ -10776,6 +10782,7 @@ energotransbank.com
 energy-tracker.ru
 enforta.com
 enforta.ru
+eng.unifence.ru
 engineer.yadro.com
 enholding.ru
 enigma.speechpro.com
@@ -13586,6 +13593,7 @@ kms.mwsapis.ru
 kms.tricolor.ru
 kmt46.ru
 knd.gov.ru
+knigoose.ru
 knigozakaz.ru
 knk32.ru
 ko.spb.ru
@@ -15809,6 +15817,8 @@ mrm1.iktport.ru
 mrm2.iktport.ru
 ms-dsp.tbank-online.com
 ms-gateway.tbank-online.com
+ms-tmsdrctr01.beeline.ru
+ms-tmsdrctr11.beeline.ru
 ms-web.ru
 ms.dzen.ru
 ms.ok.ru
@@ -16274,6 +16284,7 @@ newpeople.ru
 news.mail.ru
 news.ms.r.vk.com
 news.ms.r.vk.ru
+news.nordgold.com
 news.webits.1c.ru
 newschool-beta.sberclass.ru
 newschool-canary.sberclass.ru
@@ -16402,6 +16413,7 @@ noosferabank.store
 noospherabank.ru
 nopb6.mznso.ru
 norbit.ru
+nordgold.com
 nordsy.spb.ru
 norm.sberbank.ru
 norvik.ru
@@ -18267,6 +18279,7 @@ prosdr.ru
 proshkola.ru
 prostobank.online
 prostofotka.ru
+prostyepravila.ru
 prosv.ru
 proton-orel.ru
 protonpm.ru
@@ -18758,6 +18771,7 @@ radar.in.doma.ai
 radar.megafon.ru
 radar.sberleasing.ru
 radio.roma.msk.ru
+radioavionica.ru
 radionebo.com
 radiosputnik.ru
 raencik.duckdns.org
@@ -19621,6 +19635,7 @@ sber-solutions.com
 sber-solutions.group
 sber-solutions.ru
 sber-unity.ru
+sber-webhook.artelle.space
 sber-zvuk.com
 sber.bank.in
 sber.education
@@ -20709,6 +20724,7 @@ sovkombank.ru
 sowa-api.integrationhub.npfsb.sber.ru
 sowa-api.integrationhub.sbernpf.ru
 sowa-api.integrationhub.sbernpf.sber.ru
+soyuz-prosv.ru
 soz.megafon.ru
 sp-1c-app.spasibotest.ru
 sp-msk50-ise-psn2.net.gazprombank.ru
@@ -21613,6 +21629,7 @@ t2zvooq.ru
 tables.mws.ru
 tablet.booking.mkb.ru
 tablet.indaspace.alfastrah.ru
+tabletka.online
 tabrasa.ru
 tabs.mts.ru
 tacq-par.t-bank-app.ru
@@ -22648,6 +22665,7 @@ umu.vtb.ru
 uni.omk.ru
 unicredit.ru
 unicreditbank.ru
+unifence.ru
 unified-billing.mail.ru
 unigate-stage.tickets.onecld.ru
 unigate.tickets.onecld.ru
@@ -25117,6 +25135,7 @@ www.kkbmk.ru
 www.klf.aero
 www.kmiac.ru
 www.kmt46.ru
+www.knigoose.ru
 www.knigozakaz.ru
 www.knk32.ru
 www.ko.spb.ru
@@ -25808,6 +25827,7 @@ www.promocode.mtsbank.ru
 www.promtur.rostec.ru
 www.pronashevse.ru
 www.prostobank.online
+www.prostyepravila.ru
 www.prosv.ru
 www.proton-orel.ru
 www.proxy.spasibobonus.ru
@@ -26275,6 +26295,7 @@ www.sovest.com
 www.sovest.ru
 www.sovkomauto.ru
 www.sovkombank.ru
+www.soyuz-prosv.ru
 www.sp-msk50-ise-psn2.net.gazprombank.ru
 www.sp-msk51-ise-psn2.net.gazprombank.ru
 www.sp31.spb.ru
@@ -26977,6 +26998,7 @@ xn--80aaaaaf5dkomqlegdm4b3j1b.xn--p1ai
 xn--80aaaaer2byckbv5i.xn--p1ai
 xn--80aaac0ct.xn--p1ai
 xn--80aaacbfxn0a1btvags.xn--p1ai
+xn--80aaahiycas2ahds.xn--p1ai
 xn--80aaani3am7aog.xn--80ajghhoc2aj1c8b.xn--p1ai
 xn--80aab6bidapdqr.xn--p1ai
 xn--80aabahoyob1afmqly.xn--p1ai

@@ -320,6 +320,7 @@ arsprom.ru
 arsvo.ru
 artamonovigor.ru
 artek.org
+artelle.space
 artns.ru
 artsroom.ru
 artyomk.ru
@@ -2017,6 +2018,7 @@ kloud.one
 kmiac.ru
 kmp.ru
 kmt46.ru
+knigoose.ru
 knigozakaz.ru
 knk32.ru
 kolibrisoft.ru
@@ -3183,6 +3185,7 @@ prosdr.ru
 proshkola.ru
 prostobank.online
 prostofotka.ru
+prostyepravila.ru
 prosv.ru
 proton-orel.ru
 protonpm.ru
@@ -3248,6 +3251,7 @@ r1864.ru
 r3sonance.ru
 r954n8.site
 rabotavkuzbasse.ru
+radioavionica.ru
 radionebo.com
 radiosputnik.ru
 radostev.ru
@@ -4024,6 +4028,7 @@ sovest.com
 sovest.ru
 sovkomauto.ru
 sovkombank.ru
+soyuz-prosv.ru
 sp03.ru
 sp15spb.ru
 spacecorp.ru
@@ -4276,6 +4281,7 @@ t2-cloud.space
 t2.ru
 t2zvooq.ru
 t8.ru
+tabletka.online
 tabrasa.ru
 tag-me.ru
 tagan.ru
@@ -4567,6 +4573,7 @@ umpgku.ru
 uni.rest
 unicredit.ru
 unicreditbank.ru
+unifence.ru
 unimatic.ru
 unistock.cloud
 unistream.ru
@@ -5002,6 +5009,7 @@ xn--80aaaaaf5dkomqlegdm4b3j1b.xn--p1ai
 xn--80aaaaer2byckbv5i.xn--p1ai
 xn--80aaac0ct.xn--p1ai
 xn--80aaacbfxn0a1btvags.xn--p1ai
+xn--80aaahiycas2ahds.xn--p1ai
 xn--80aab6bidapdqr.xn--p1ai
 xn--80aabahoyob1afmqly.xn--p1ai
 xn--80aabb0crq.xn--p1ai
