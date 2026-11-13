@@ -6101,6 +6101,7 @@ adsp.sberbank-service.ru
 adtech.rambler.ru
 advanced.cloud.ru
 adygea.dev.home.megafon.ru
+adygea.home.megafon.ru
 adygea.megafon.ru
 adygea.staging.megafon.ru
 adygheya.ru
@@ -16383,6 +16384,7 @@ nokss.ru
 nokvd.mznso.ru
 nomad.pskb.com
 nomad.sbercity.ru
+nomoney.home.megafon.ru
 nond.mznso.ru
 noo-dle.site
 noobank.online
@@ -21877,6 +21879,7 @@ test-lk.pbx.megafon.ru
 test-lk.rt.ru
 test-lkjira.astralinux.ru
 test-logging.tap2phone.ru
+test-mc.itcomp.tech
 test-mdealer-api-rel.tricolor.ru
 test-middle.megafon.ru
 test-mob.tap2phone.ru
@@ -22330,6 +22333,7 @@ tracking.sveza.com
 tracking.sveza.ru
 tractorspare.ru
 trade-radar.ru
+trade-u.ru
 trade.alfabank.ru
 trade.alfadirect.ru
 trade.sber.ru
@@ -27408,6 +27412,7 @@ zhilservis-ketovo.ru
 zhivagobank.ru
 zidane1511.fun
 zigbee2mqtt.apu3.network
+zip-teh.ru
 zm-solutions.ru
 zmtech.bz
 zmtech.su
