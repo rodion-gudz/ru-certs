@@ -15483,6 +15483,7 @@ micro-passenger.psi.sbertransport.ru
 micro-passenger.sbertransport.ru
 microbe.ru
 microem.ru
+microgreenstag.ru
 micron-uat.mtsbank.ru
 micron.mtsbank.ru
 microservices.megafon.ru
