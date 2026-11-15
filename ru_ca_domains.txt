@@ -6418,6 +6418,8 @@ analytics.root.t-software.tech
 analytics.sdp.sber.ru
 analytics.t-software.tech
 andoc.ru
+andrei-vorobev.su
+andreivorobev.su
 android-gate.kk.ru
 android-gate.kubankredit.ru
 android-kb.kk.ru
@@ -22208,6 +22210,7 @@ thbank.ru
 theatre.tricolor.ru
 thehrp.ru
 themm.ru
+theva.ru
 third-m12.asudd.net
 third1-m12.asudd.net
 third2-m12.asudd.net
