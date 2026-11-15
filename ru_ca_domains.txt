@@ -23071,6 +23071,7 @@ vgltu.ru
 vgw.mosreg.ru
 viaso.ru
 vid-preprod.tricolor.ru
+vid-technological.ru
 vid.tricolor.ru
 video-ai-assistant.one-infra.ru
 video-app.tricolor.ru
