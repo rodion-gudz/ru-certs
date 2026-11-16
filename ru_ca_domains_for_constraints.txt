@@ -1085,6 +1085,7 @@ ebs.ru
 ec-integra.ru
 ecar-airbus.ru
 echd.ru
+echo-games.ru
 echo-platform.ru
 ecocat.biz
 ecolant.net
@@ -1242,6 +1243,7 @@ evotor.me
 evotor.ru
 evotorpay.ru
 evrofinance.ru
+exactcode.ru
 excimerclinic.ru
 exiar.ru
 exibank.ru
@@ -1972,6 +1974,7 @@ katantsev.ru
 kav-crb.ru
 kazgau.ru
 kb-71.ru
+kb-lutch.ru
 kb-mvsbank.ru
 kb51.ru
 kbagora.ru
@@ -2466,6 +2469,7 @@ module.ru
 modulkassa.ru
 moex.com
 moex.ru
+moimaket.ru
 moneta.dev
 moneta.ru
 monetka.ru
@@ -2500,6 +2504,7 @@ mossmp.ru
 mosting.ru
 mostotrest-spb.ru
 motivpay.ru
+motivtelecom.ru
 motor.ru
 motozavod.ru
 movix.ru
@@ -2888,6 +2893,7 @@ omnis-university.ru
 omnypay.ru
 omobus.ru
 omskparlament.ru
+omskregiongaz.ru
 omskrts.ru
 omskzan.ru
 omsomsk.ru
@@ -3472,6 +3478,7 @@ royal-bank.ru
 rozzyapps.ru
 rpn41.ru
 rpndon.ru
+rpts.su
 rr.ru
 rrb.ru
 rrbank.ru
@@ -3525,6 +3532,7 @@ rtu-akr.ru
 ru-robot.ru
 ru.net
 ru.tv
+rubackup.ru
 rubank.ru
 ruitb.ru
 ruparking.com
@@ -5097,6 +5105,7 @@ xn--80aeiunabfe8a.xn--p1ai
 xn--80aejucoh4c.xn--p1ai
 xn--80aeylecpi.xn--p1ai
 xn--80afd3bal.xn--p1ai
+xn--80aff4c.xn--p1ai
 xn--80agelrjbkos.xn--p1ai
 xn--80agfa2babkkggig1a5jqa.xn--p1ai
 xn--80agfbmd3ajetfm6gxd.xn--p1ai

@@ -1555,6 +1555,7 @@
 *.fintech.vk.com
 *.fintender.ru
 *.finuslugi.ru
+*.fipi.pro
 *.fips.ru
 *.first-am.ru
 *.first-m12.asudd.net
@@ -2200,6 +2201,7 @@
 *.kassa.rambler.ru
 *.kav-crb.ru
 *.kazgau.ru
+*.kb-lutch.ru
 *.kb-mvsbank.ru
 *.kb51.ru
 *.kbagora.ru
@@ -2756,6 +2758,7 @@
 *.mosting.ru
 *.mostotrest-spb.ru
 *.motivpay.ru
+*.motivtelecom.ru
 *.motor.ru
 *.motozavod.ru
 *.movix.ru
@@ -2792,6 +2795,8 @@
 *.ms.r2.vk.ru
 *.ms.vk.com
 *.ms.vk.ru
+*.msa-dev.akbars.ru
+*.msa-stage.akbars.ru
 *.mschcentr74.ru
 *.mscout.magnit.ru
 *.mscu.ok.ru
@@ -3817,6 +3822,7 @@
 *.royal-bank.ru
 *.rozzyapps.ru
 *.rpndon.ru
+*.rpts.su
 *.rr.ru
 *.rrb.ru
 *.rrbank.ru
@@ -3864,6 +3870,7 @@
 *.ru-robot.ru
 *.ru.mgo.su
 *.ru.tv
+*.rubackup.ru
 *.rubank.ru
 *.rudn.21-school.ru
 *.ruitb.ru
@@ -5650,6 +5657,8 @@
 1c.ru
 1c.sfedu.ru
 1c.sv-e.ru
+1c01.argus-oskol.ru
+1c02.argus-oskol.ru
 1c24.pro
 1capp-dev.com
 1capp.com
@@ -6578,6 +6587,7 @@ api.devpsb.pvcd.ru
 api.dfa.vtbcapital.ru
 api.di.rt.ru
 api.digital.sber.pro
+api.dion-inet-devtest-cs-if.test.vtb.ru
 api.dostup.rt.ru
 api.drivechargers.ru
 api.easycert.sberbank.ru
@@ -6954,10 +6964,12 @@ asu-leader.ru
 asu-smp.mossmp.ru
 asu.bukep.ru
 asugpt.orgp.spb.ru
+asup.argus-oskol.ru
 asurso.ru
 asusid.ru
 asusx501a1bremeco.ru
 asutd.transneft.ru
+asutp.argus-oskol.ru
 async-online.vtb.ru
 async-online.vtbgroup.com
 async-online3.vtb.ru
@@ -7048,6 +7060,7 @@ auth.demo1.hycl.ru
 auth.demo2.hycl.ru
 auth.demo3.hycl.ru
 auth.dev-inspector.gosuslugi.ru
+auth.dion-inet-devtest-cs-if.test.vtb.ru
 auth.domrfbank.ru
 auth.eagleplatform.com
 auth.edge.sberdevices.ru
@@ -7632,6 +7645,8 @@ backoffice.mws.ru
 backoffice.rc.mws.ru
 backup.1c.ru
 backup.ba.ru.net
+backup01.argus-oskol.ru
+backup02.argus-oskol.ru
 bacon.ad-tech.ru
 bahmurov.ru
 baikalcredobank.ru
@@ -7715,7 +7730,9 @@ baza.severstal.com
 bazrb.ru
 bb-metro.spb.ru
 bbbb.t-boys.ru
+bbbbb.t-boys.ru
 bbbbbb.t-boys.ru
+bbbvvvvvbb.t-boys.ru
 bbr.ru
 bbrbroker.ru
 bc-pc-ext-pre.mkb.ru
@@ -8438,6 +8455,7 @@ cdn-investor.sberbank.ru
 cdn-mobile-nuc.alfastrah.ru
 cdn-mobile.alfastrah.ru
 cdn-origin.psbank.ru
+cdn-static.credistory.ru
 cdn-store.rambler.ru
 cdn-tinkoff.ru
 cdn.aiandhit.ru
@@ -9678,6 +9696,8 @@ dbu.okbank.ru
 dc.otpbank.ru
 dc.toyotafs.ru
 dc01-mail-02.corp.sbercloud.ru
+dc01.argus-oskol.ru
+dc02.argus-oskol.ru
 dc2-vpn2.bspb.ru
 dc2b.ru
 dc4b.ru
@@ -10117,6 +10137,7 @@ dinersaero.rsb.ru
 dinerstravel.rsb.ru
 diod.proton-orel.ru
 dion-drcs.astralinux.ru
+dion-inet-devtest-cs-if.test.vtb.ru
 dion-sso.tricolor.ru
 dioncc-sso.tricolor.ru
 diongo.ru
@@ -10976,6 +10997,7 @@ ews.sberbank.ru
 ewscert.sberbank.ru
 ewschool.sberclass.ru
 ex.upz.ru
+exactcode.ru
 exam.tch.ru
 excas01.ncsp.com
 excas02.ncsp.com
@@ -11431,6 +11453,8 @@ frp.deltacredit.ru
 frprf.ru
 fs.mtsbank.ru
 fs.tch.ru
+fs01.argus-oskol.ru
+fs02.argus-oskol.ru
 fscher.severstalgroup.com
 fsev.tech
 fsm.sberbank-service.ru
@@ -11964,6 +11988,7 @@ groupib-alfaid.alfabank.ru
 groupib-am.alfabank.ru
 groupib-nib.alfabank.ru
 grpc.broker.ru
+grpc.dialog-demo.sbertech.ru
 grpc2.broker.ru
 grunwald.ru
 gsen.ru
@@ -12384,6 +12409,7 @@ iam-reserv.stage.cloud.ru
 iam.ads.sber.ru
 iam.cloud.ru
 iam.dev.cloud.ru
+iam.dion-inet-devtest-cs-if.test.vtb.ru
 iam.mwsapis.ru
 iam.sbercloud.ru
 iam.stage.cloud.ru
@@ -13428,6 +13454,7 @@ kazan.baza.severstal.com
 kazan.sveza.ru
 kazan.tricolor.ru
 kb-71.ru
+kb-lutch.ru
 kb-mvsbank.ru
 kb.bank45.ru
 kb.ertelecom.ru
@@ -13615,6 +13642,7 @@ kmedia03.hybrid.ktalk.alfabank.ru
 kmedia04.hybrid.ktalk.alfabank.ru
 kmiac.ru
 kmp.ru
+kms.argus-oskol.ru
 kms.mwsapis.ru
 kms.tricolor.ru
 kmt46.ru
@@ -14528,6 +14556,7 @@ mail.api.mobilecheck.pro
 mail.app.mdigital.ru
 mail.arch.mail.sovcomlife.ru
 mail.argds.ru
+mail.argus-oskol.ru
 mail.arhofoms.ru
 mail.atbbank.ru
 mail.atechnics.ru
@@ -14975,8 +15004,10 @@ mail.youtrack.sovcombank.ru
 mail.zabbix-in.sovcombank.ru
 mail.zabbix-out.sovcombank.ru
 mail0.rosinkas.ru
+mail01.argus-oskol.ru
 mail01.atbbank.ru
 mail01.hq.gazfond-pn.ru
+mail02.argus-oskol.ru
 mail02.hq.gazfond-pn.ru
 mail1.akbars.ru
 mail1.mmk.ru
@@ -15725,6 +15756,7 @@ money.alfabank.ru
 money.mail.ru
 money.megafon.ru
 monitel.ru
+monitor.argus-oskol.ru
 monitor.rosleshoz.ru
 monitoring.app-assistent.open.ru
 monitoring.gov.ru
@@ -15778,6 +15810,7 @@ mosting.ru
 mostotrest-spb.ru
 mostran.vtb.ru
 motivpay.ru
+motivtelecom.ru
 motor.ru
 motozavod.ru
 movix.ru
@@ -15858,6 +15891,8 @@ ms.r.vk.com
 ms.r.vk.ru
 ms.vk.com
 ms1.12.rospotrebnadzor.ru
+msa-dev.akbars.ru
+msa-stage.akbars.ru
 msb-lk.mkb.ru
 msb.msbps.ru
 msb.psbank.ru
@@ -16769,6 +16804,7 @@ omsk.megafon.ru
 omsk.rspp.ru
 omsk.staging.megafon.ru
 omskparlament.ru
+omskregiongaz.ru
 omskrts.ru
 omskzan.ru
 omsomsk.ru
@@ -16896,6 +16932,7 @@ only-office.tricolor.ru
 onlyoffice.nofrr.ru
 onprem.testkontur.ru
 ontax.ru
+ooooo.t-boys.ru
 ooopartia.ru
 oooskbonline.ru
 oos.deltacredit.ru
@@ -17974,6 +18011,7 @@ portal-sentry-v2.vk.team
 portal.aaacapital.ru
 portal.acti.ru
 portal.admblag.ru
+portal.argus-oskol.ru
 portal.cc.linuxtesting.ru
 portal.cloud.ru
 portal.cp.transneft.ru
@@ -19369,6 +19407,7 @@ ru.intl.ccb.com
 ru.mgo.su
 ru.oljk.ru
 ru.tv
+rubackup.ru
 rubank.ru
 rucert.avhaliullin.ru
 rudn.21-school.ru
@@ -19609,6 +19648,7 @@ samspace.ru
 samsungmir.as50464.net
 sanatorij.balaes.ru
 sanatoriy.rosneft.ru
+sandbox-gate.bki-okb.ru
 sandbox-invest-public-api.tbank-online.com
 sandbox.alfabank.ru
 sandbox.onprem.vkdoc.mail.ru
@@ -19674,8 +19714,10 @@ sber-solutions.group
 sber-solutions.ru
 sber-unity.ru
 sber-webhook.artelle.space
+sber-webhook.moimaket.ru
 sber-zvuk.com
 sber.bank.in
+sber.echo-games.ru
 sber.education
 sber.me
 sber.pro
@@ -21917,6 +21959,7 @@ test-anketa.alfabank.ru
 test-api.tap2phone.ru
 test-appweb.broker.vtb.ru
 test-atol.rtksp.ru
+test-cross-signed-mc.certhub-beta.vkteam.ru
 test-csp.uecrus.com
 test-er.ru
 test-fm-csp.uecrus.com
@@ -22000,6 +22043,7 @@ test.brillworld.ru
 test.broker-sb.io
 test.ccb.ru
 test.ccc.rt.ru
+test.cdn-static.credistory.ru
 test.cdn.credistory.ru
 test.certhub-beta.vkteam.ru
 test.certhub-test.vk.com
@@ -22914,6 +22958,7 @@ vaultoctopass.s.o3.ru
 vaultsec.s.o3.ru
 vaulttransit.s.o3.ru
 vaultts.s.o3.ru
+vaultwarden.dit-corp-business-app-unit.astralinux.ru
 vbo-demo.mkb.ru
 vbo-help.mkb.ru
 vbo.mkb.ru
@@ -23587,6 +23632,8 @@ web.qtom.ru
 web.snavi.ru
 web.speechpro.com
 web.toyotafs.ru
+web01.argus-oskol.ru
+web02.argus-oskol.ru
 web1-fact-prd.mtsbank.ru
 web1.daily.open.ru
 web2.daily.open.ru
@@ -24160,6 +24207,7 @@ www.archives.gov.ru
 www.archives.ru
 www.arendadomrf.ru
 www.aresbank.ru
+www.argus-oskol.ru
 www.arhcity.ru
 www.arhitektura32.ru
 www.aria-best.ru
@@ -25162,6 +25210,7 @@ www.kas.bspb.ru
 www.kasko.vtb.ru
 www.kassa.rambler.ru
 www.kav-crb.ru
+www.kb-lutch.ru
 www.kb-mvsbank.ru
 www.kb.bank45.ru
 www.kb.nib-samara.ru
@@ -25680,6 +25729,7 @@ www.omk.ru
 www.omon.cplsb.ru
 www.oms.21-school.ru
 www.omsk.21-school.ru
+www.omskregiongaz.ru
 www.omsomsk.ru
 www.omspk.ru
 www.omstula.ru
@@ -26817,6 +26867,7 @@ www.xn----8sbbihcb3bgbrodc7b3gzc.xn--p1ai
 www.xn----8sbosabopxq.xn--p1ai
 www.xn----9sbsd1af.xn--p1ai
 www.xn----ctb5aimq.xn--p1ai
+www.xn----dtbhazejp5ah.xn--p1ai
 www.xn----dtbjkxc4abh.xn--p1ai
 www.xn----etbpzjikef.xn--p1ai
 www.xn----ftbmbaamsm6an.xn--p1ai
@@ -26853,6 +26904,7 @@ www.xn--80abekqlximhq.xn--p1ai
 www.xn--80abjdvbtgfj1l.xn--p1ai
 www.xn--80aeakmgi9azaci1dvg.xn--p1ai
 www.xn--80aejucoh4c.xn--p1ai
+www.xn--80aff4c.xn--p1ai
 www.xn--80agfa2babkkggig1a5jqa.xn--p1ai
 www.xn--80agg9aakijbij2b.xn--p1ai
 www.xn--80ahbbiggbxxyl2q.xn--p1ai
@@ -26962,6 +27014,9 @@ x.b22e.ru
 x.gis-sc.krasnodar.ru
 x.open.ru
 x.sberauto.com
+xaaaaxx.t-boys.ru
+xaaakkiiiikkkaxx.t-boys.ru
+xaaakkkkkaxx.t-boys.ru
 xapi.ozon.uz
 xbox.cloud.ru
 xmail.ru
@@ -27137,6 +27192,7 @@ xn--80aeiunabfe8a.xn--p1ai
 xn--80aejucoh4c.xn--p1ai
 xn--80aeylecpi.xn--p1ai
 xn--80afd3bal.xn--p1ai
+xn--80aff4c.xn--p1ai
 xn--80agelrjbkos.xn--p1ai
 xn--80agfa2babkkggig1a5jqa.xn--p1ai
 xn--80agfbmd3ajetfm6gxd.xn--p1ai
@@ -27300,6 +27356,7 @@ xs-xenapp-3.npfsb.sber.ru
 xs-xenapp-4.npfsb.sber.ru
 xwaye.westcall.net
 xwaye2.westcall.net
+xxx.t-boys.ru
 y-cdn.uralsib.ru
 y.gis-sc.krasnodar.ru
 yabank.yandex.ru
