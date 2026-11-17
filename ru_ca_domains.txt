@@ -376,6 +376,7 @@
 *.astgoz.ru
 *.astk-insur.ru
 *.astrahovanie.ru
+*.astral.ru
 *.astrobl.ru
 *.astrovolga.ru
 *.astrovolga.tech
@@ -605,6 +606,7 @@
 *.bscbalt.ru
 *.bsigroup.ru
 *.bspb.ru
+*.bspbdev.ru
 *.bss.2gis.com
 *.bss.ertelecom.ru
 *.bstbank.ru
@@ -1248,6 +1250,8 @@
 *.dp.1tv.ru
 *.dpr-gov.ru
 *.draga.ru
+*.drip.bdmz.ru
+*.drip.bspb.ru
 *.drive-data.ru
 *.drive-igora.ru
 *.drive.modulbank.ru
@@ -2001,6 +2005,7 @@
 *.imgsmail.ru
 *.in-bank.ru
 *.in-ko.ru
+*.in-vent.ru
 *.inbox.ru
 *.indepo.ru
 *.indicator.ru
@@ -3106,6 +3111,7 @@
 *.ol.cloud.mts.ru
 *.olabank.ru
 *.old.mil.ru
+*.olimpium.ru
 *.oltest.cloud.mts.ru
 *.ombsk.biz
 *.ombudsman.gov.ru
@@ -3365,6 +3371,7 @@
 *.podpiskimf.ru
 *.pofd.ru
 *.pofd.su
+*.pofoms.ru
 *.pogardshi.ru
 *.pogoda.mail.ru
 *.poi.dvo.ru
@@ -3683,6 +3690,7 @@
 *.rcalng.ru
 *.rcngroup.ru
 *.rcoko27.ru
+*.rcurala.ru
 *.rdb.ru
 *.rdc.spb.ru
 *.real.lk-b2b.mts.ru
@@ -3792,6 +3800,7 @@
 *.rosguard.gov.ru
 *.rosinkas.ru
 *.rosinkas.tech
+*.roskapstroy.ru
 *.roskazna.gov.ru
 *.roskazna.ru
 *.rosminzdrav.ru
@@ -5024,6 +5033,7 @@
 *.uor-nsk.ru
 *.update.2gis.com
 *.updk.ru
+*.upkb.ru
 *.upravkom.ru
 *.upravlyaem.ru
 *.uprio.ru
@@ -5421,6 +5431,7 @@
 *.xn--80aaefwccm7aekgee1axnu1pla.xn--p1ai
 *.xn--80aaelvgjoml6j.xn--p1ai
 *.xn--80aafbk3dbqbke.xn--p1ai
+*.xn--80aafj2agk3g.xn--p1ai
 *.xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 *.xn--80aaggvgieoeoa2bo7l.xn--p1ai
 *.xn--80aalotit.xn--p1ai
@@ -5929,6 +5940,7 @@ account.astralinux.ru
 account.cyberprotect.ru
 account.megafon.ru
 account.tbki.ru
+account.tricolor.ru
 account2-cur.tricolor.ru
 account2-rel.tricolor.ru
 accounts.edge.sberdevices.ru
@@ -6819,6 +6831,7 @@ app1c.open.ru
 appdata-hue.sdp.sber.ru
 appdsa.as50464.net
 apple-callback-mz-test.tricolor.ru
+apple-notif-mz-api.tricolor.ru
 appleaccounts-test.storage.bcs.ru
 applink.bcs-bank.ru
 applyform.ru
@@ -7734,6 +7747,8 @@ baza-roshino.ru
 baza.severstal.com
 bazrb.ru
 bb-metro.spb.ru
+bbb.cc.tricolor.ru
+bbb.keldysh.ru
 bbbb.t-boys.ru
 bbbbb.t-boys.ru
 bbbbbb.t-boys.ru
@@ -8171,9 +8186,11 @@ bscbalt.ru
 bsk.kk.ru
 bsk.kubankredit.ru
 bspb.ru
+bspbdev.ru
 bss-api-cur.tricolor.ru
 bss-api-dev.tricolor.ru
 bss-api-rel.tricolor.ru
+bss-api.tricolor.ru
 bss.ertelecom.ru
 bss.severgroup.ru
 bssplugin.bssys.com
@@ -8274,7 +8291,10 @@ c1.vbrr.ru
 c2.modulbank.ru
 c2.vbrr.ru
 c2c.magnit.ru
+c2c1-cc.tricolor.ru
+c2c2-cc.tricolor.ru
 c2d-test.tricolor.ru
+c2d.tricolor.ru
 c4t-test.mkb.ru
 c4tint.mkb.ru
 ca-magnit.ru
@@ -8405,6 +8425,7 @@ cc-vpn.t-access.ru
 cc.alfabank.ru
 cc.gov.ru
 cc.lk.psb.services
+cc.tricolor.ru
 cc.vtb.ru
 ccalls.site
 ccb-broker.ru
@@ -8710,6 +8731,7 @@ chat-turn.vtb.ru
 chat.akbars.ru
 chat.avangard.ru
 chat.bspb.ru
+chat.cc.tricolor.ru
 chat.chatdev.psbank.ru
 chat.chattest.psbank.ru
 chat.corp.mango.ru
@@ -8849,6 +8871,7 @@ cinema-api-dev.tricolor.ru
 cinema-api-fix.tricolor.ru
 cinema-api-fix2.tricolor.ru
 cinema-api-rel.tricolor.ru
+cinema-api.tricolor.ru
 ciogd.spb.ru
 cishelp.ozon.uz
 cit-kuzbass.ru
@@ -9546,6 +9569,7 @@ cvat.oparina4.ru
 cvat.yandex.omk.ru
 cvdi-ctx-gw.sberins.ru
 cvdi-ctx-gw.sberins.sber.ru
+cvmir.ru
 cwe-cvss-classifier.devsec.astralinux.ru
 cwms.mts.ru
 cwp.uecrus.com
@@ -11144,6 +11168,7 @@ extmail.bspb.ru
 extranet.tbank-online.com
 extraservices.lenenergo.ru
 extraservices.rosseti-lenenergo.ru
+extservice.tricolor.ru
 f-std.org
 f.gis-sc.krasnodar.ru
 f.mdeng.ru
@@ -11623,6 +11648,7 @@ geckon01.ru
 gelstompol.ru
 gemoney.ru
 gen-ai.eye.salute.ru
+gen-cc.tricolor.ru
 genassistant.test-middle.megafon.ru
 genbank.ru
 genesys.sovcombank.ru
@@ -11758,7 +11784,9 @@ git.sbercloud.tech
 git.sberpravo.ru
 gitflame.hakaton.rt.ru
 gitflic.astralinux.ru
+gitlab-api.tricolor.ru
 gitlab-kroki.devsec.astralinux.ru
+gitlab.astra-monitoring.astralinux.ru
 gitlab.bcs.ru
 gitlab.cc.linuxtesting.ru
 gitlab.ci.legalbpm.sberpravo.ru
@@ -11825,6 +11853,7 @@ gnovfd.mznso.ru
 gnpch.ru
 gnppregion.ru
 go-sqd.absolutbank.ru
+go-squadus.tricolor.ru
 go-test.alfabank.ru
 go.cyberprotect.ru
 go.ioffe.ru
@@ -12064,6 +12093,7 @@ gvsu.gov.ru
 gvtools.ru
 gvv3.mznso.ru
 gw-c2d-test.tricolor.ru
+gw-c2d.tricolor.ru
 gw-portal-ext.megafon.ru
 gw-portal-ext.staging.megafon.ru
 gw-preprod.lenta.com
@@ -12085,10 +12115,14 @@ gw06.alfa-bank.info
 gw07.alfa-bank.info
 gw08.alfa-bank.info
 gw09.alfa-bank.info
+gw1.onlinecall.tricolor.ru
 gw10.alfa-bank.info
 gw11.alfa-bank.info
 gw12.alfa-bank.info
+gw1onlinecall.tricolor.ru
+gw2.onlinecall.tricolor.ru
 gw2.platichastyami.ru
+gw2onlinecall.tricolor.ru
 gwcher-w22.severstal.com
 gwcher.severstal.com
 gwcpg.bcs.ru
@@ -12274,6 +12308,7 @@ home-security.sberdevices.ru
 home-tech.digital
 home.bahmurov.ru
 home.bank
+home.cc.tricolor.ru
 home.dealers.megafon.ru
 home.megafon.ru
 home.tricolor.ru
@@ -12484,6 +12519,7 @@ ibank.teleportbank.ru
 ibank.thbank.ru
 ibank.tpsb.com.ru
 ibank.uralexpress.ru
+ibank.viking.spb.ru
 ibank2.atbbank.ru
 ibank2.genbank.ru
 ibank2.kbagora.ru
@@ -12884,6 +12920,7 @@ informhd.ru
 informlaw.ru
 informseti.ru
 informsreda.com
+infoservice-api.tricolor.ru
 infoservices.sberdevices.ru
 infosysco.ru
 infoteh.ooo
@@ -13908,6 +13945,7 @@ lb-t1.webquik-test.sberbank.ru
 lb-w2q.webquik-test.sberbank.ru
 lb.mwsapis.ru
 lb.psi.teamid.sber.ru
+lb.tricolor.ru
 lb.webquik-test.sberbank.ru
 lbaasv1.epaas.s7.ru
 lbdev.ddns.net
@@ -14042,6 +14080,7 @@ live.sber.me
 live.vkplay.ru
 live.vkvideo.ru
 livecdn.ivi-mc.ru
+livechat-c2d.tricolor.ru
 livejournal.com
 livejournal.net
 livejournal.org
@@ -14058,18 +14097,22 @@ lk-cybersec-dev.test-middle.megafon.ru
 lk-cybersec-rc.test-middle.megafon.ru
 lk-databanks.sfr.gov.ru
 lk-dbo.autofinancebank.ru
+lk-dealer.tricolor.ru
 lk-dev.test-middle.megafon.ru
 lk-ecomm.psbank.ru
 lk-ff-ndbo.aaacapital.ru
 lk-hr.pskb.com
 lk-invest.mkb.ru
+lk-legal.tricolor.ru
 lk-metro.spb.ru
 lk-mw.open-broker.ru
 lk-new-test.rt.ru
 lk-new.sfr.gov.ru
 lk-penza.pnzreg.ru
+lk-plug.tricolor.ru
 lk-srv.severstal.com
 lk-stage.aaacapital.ru
+lk-subscr.tricolor.ru
 lk-subscribe.mts.ru
 lk-sw.tricolor.ru
 lk-test.1440.space
@@ -14154,6 +14197,7 @@ lk.svm.psb.services
 lk.szavoz.gov.ru
 lk.tkbbank.ru
 lk.tomskrts.ru
+lk.tricolor.ru
 lk.ug.mts.ru
 lk.ukpi.ru
 lk.vikingbank.ru
@@ -14165,6 +14209,7 @@ lk.wifi-auth.megafon.ru
 lk.yfc.ru
 lk2.bcs.ru
 lk2.vzavod.ru
+lka-api.tricolor.ru
 lka.rosneft.ru
 lka.test.ns-bank.ru
 lkbank.bcs.ru
@@ -15272,6 +15317,7 @@ mdealer-api-cur.tricolor.ru
 mdealer-api-dev.tricolor.ru
 mdealer-api-fix.tricolor.ru
 mdealer-api-rel.tricolor.ru
+mdealer-api.tricolor.ru
 mdeng.ru
 mdigital.ru
 mdk.mtsbank.ru
@@ -15389,6 +15435,7 @@ megaplan.ru
 megatech-it.ru
 megatel-api-cur.tricolor.ru
 megatel-api-rel.tricolor.ru
+megatel-api.tricolor.ru
 meinfx.ru
 memdm.crpt.ru
 memdm.otpbank.ru
@@ -15685,6 +15732,7 @@ mobidgtw-t.rt.ru
 mobile-api.av.admtyumen.ru
 mobile-calendar.team.centrinvest.ru
 mobile-cur.tricolor.ru
+mobile-demo.tricolor.ru
 mobile-dev.tricolor.ru
 mobile-fix.tricolor.ru
 mobile-gf.rc.senat.sberbank.ru
@@ -16198,6 +16246,7 @@ mytricolor-api-cur.tricolor.ru
 mytricolor-api-dev.tricolor.ru
 mytricolor-api-fix.tricolor.ru
 mytricolor-api-rel.tricolor.ru
+mytricolor-api.tricolor.ru
 mytrk.link
 myweb.domrfbank.ru
 mywebtest.domrfbank.ru
@@ -16400,6 +16449,8 @@ nib-samara.ru
 nibble-invest.ru
 nibbleinvest.ru
 nic.ru
+nicha.cc.tricolor.ru
+nichb.cc.tricolor.ru
 nico-bank.ru
 nid-cloud.speechpro.com
 nii-kpg.ru
@@ -16745,6 +16796,7 @@ oinet.ru
 oip.crimea.com
 ois-preprod.spbexchange.ru
 ojs.ioffe.ru
+ok.cc.tricolor.ru
 ok.games
 ok.me
 ok.ru
@@ -16764,6 +16816,8 @@ okna-leningrad.ru
 oknazone.ru
 oko.mkb.ru
 oktech.ru
+oktell-api.tricolor.ru
+oktell.cc.tricolor.ru
 oktus.sber.ru
 okvd48.ru
 okved.tochka.com
@@ -16787,6 +16841,7 @@ old3.deltacredit.ru
 oldbs.gazprombank.ru
 oldnet.su
 olimpicshop.ru
+olimpium.ru
 oltest.cloud.mts.ru
 olymp-online.mipt.ru
 olympiad.gazprom.ru
@@ -16938,6 +16993,7 @@ online2.bcs.ru
 online2.eatpbank.ru
 online3.eatpbank.ru
 onlineapi.gpb.ru
+onlinecall.tricolor.ru
 onlinecredit.ru
 onlinesales.mts.ru
 onlinesales.vtb.ru
@@ -17508,6 +17564,7 @@ partizansk.org.ru
 partizansk.primorsky.ru
 partner-api-cur.tricolor.ru
 partner-api-rel.tricolor.ru
+partner-api.tricolor.ru
 partner-card-gateway-test.api.mtsbank.ru
 partner-pss-gateway-test.api.mtsbank.ru
 partner-pss-gateway.api.mtsbank.ru
@@ -17607,6 +17664,7 @@ pay.roscap.com
 pay.rt.ru
 pay.sbtips.ru
 pay.tkbbank.ru
+pay.tricolor.ru
 pay.uralprombank.ru
 pay.vbrr.ru
 pay.vtb.ru
@@ -17643,6 +17701,7 @@ paykeeper.mkb.ru
 payment.alfabank.ru
 payment.ingobank.ru
 payment.rambler.ru
+payment.tricolor.ru
 payment.uralairlines.ru
 paymentcard.test.yoomoney.ru
 paymentkit.ru
@@ -17972,6 +18031,7 @@ podpiskimf.ru
 podvigi-rossii.ru
 pofd.ru
 pofd.su
+pofoms.ru
 pogardshi.ru
 pogoda.mail.ru
 poi.dvo.ru
@@ -18019,6 +18079,7 @@ portal-api-cur.tricolor.ru
 portal-api-dev.tricolor.ru
 portal-api-fix.tricolor.ru
 portal-api-rel.tricolor.ru
+portal-api.tricolor.ru
 portal-da.ru
 portal-metro.spb.ru
 portal-ob.volgafin.ru
@@ -18029,6 +18090,7 @@ portal.acti.ru
 portal.admblag.ru
 portal.argus-oskol.ru
 portal.cc.linuxtesting.ru
+portal.cc.tricolor.ru
 portal.cloud.ru
 portal.cp.transneft.ru
 portal.cs.sberbank.ru
@@ -18051,6 +18113,7 @@ portal.rs.ru
 portal.sberuniversity.ru
 portal.tap2phone.ru
 portal.testqa.ru
+portal.tricolor.ru
 portal.vk.team
 portal.voiptools.ru
 portal2.gazfond-pn.ru
@@ -18503,6 +18566,7 @@ public.jump.taxi
 public.oprosso.sber.ru
 public.oprosso.sberbank.ru
 public.stage.jump.taxi
+public.tricolor.ru
 publicex.domrfbank.ru
 publicout-av.domrf.online
 publicout-av.domrfbank.ru
@@ -18620,7 +18684,9 @@ pwk.x0124.ru
 px.ad-tech.ru
 px.credistory.ru
 pxl-msg-cur.tricolor.ru
+pxl-msg.tricolor.ru
 pxl-web-cur.tricolor.ru
+pxl-web.tricolor.ru
 pxl.credistory.ru
 py23pro.ru
 pyatigorsk-mrd.ru
@@ -18867,6 +18933,7 @@ rag.vk.team
 ragdemo.speechpro.com
 raif.ru
 raiff-sbp-callback-test.tricolor.ru
+raiff-sbp-callback.tricolor.ru
 raiffeisen-capital.ru
 raiffeisen.ru
 rait-an.speechpro.com
@@ -18949,6 +19016,7 @@ rcm-szfo.ru
 rcmp.mznso.ru
 rcoko27.ru
 rcraduga.ru
+rcurala.ru
 rd.otpbank.ru
 rd6.mznso.ru
 rd7.mznso.ru
@@ -19024,8 +19092,10 @@ region.ncagp.ru
 region.ru
 regionsoft.le-dv.ru
 register.rspp.ru
+registration.tricolor.ru
 registrator-rekom.ru
 registry-rpa.sberbank-service.ru
+registry.astra-monitoring.astralinux.ru
 registry.devsec.astralinux.ru
 registry.domoy.ru
 registry.dt.multicarta.ru
@@ -19256,6 +19326,7 @@ roomlink.ru
 root.root.t-software.tech
 root.t-software.tech
 ror-c2d-test.tricolor.ru
+ror-c2d.tricolor.ru
 rors.expe-cl01.css.rzd.ru
 ros-air.ru
 rosatomflot.ru
@@ -19279,6 +19350,7 @@ rosevrobank.ru
 rosguard.gov.ru
 rosinkas.ru
 rosinkas.tech
+roskapstroy.ru
 roskazna.gov.ru
 rosleshoz.gov.ru
 rosleshoz.ru
@@ -19385,6 +19457,7 @@ rsupport.vk.team
 rt-ib.ru
 rt-insurance.ru
 rt-link-1.novikom.ru
+rt-link.tupolev.ru
 rt-nuc.sec.yandex.net
 rt.com
 rt.ru
@@ -19641,6 +19714,8 @@ sales-tech-publication.tbank-online.com
 sales.mail.ru
 sales.pochtabank.ru
 sales.vk.company.ru
+salesftp.s7.ru
+salesftp13h01.s7.ru
 salestest.pochtabank.ru
 salonpicker.ru
 salsk.dev.home.megafon.ru
@@ -19777,6 +19852,7 @@ sberbank-callback-test-dev.tricolor.ru
 sberbank-callback-test-fix.tricolor.ru
 sberbank-callback-test-fix2.tricolor.ru
 sberbank-callback-test-rel.tricolor.ru
+sberbank-callback.tricolor.ru
 sberbank-cib.com
 sberbank-cib.ru
 sberbank-insurance.ru
@@ -20146,6 +20222,7 @@ selfcare-api-dev.tricolor.ru
 selfcare-api-fix.tricolor.ru
 selfcare-api-fix2.tricolor.ru
 selfcare-api-rel.tricolor.ru
+selfcare-api.tricolor.ru
 selfcontroldiary.com
 selfie.alfabank.ru
 selfieline.alfabank.ru
@@ -20379,6 +20456,7 @@ sig-check.alean.ru
 sigma.land
 sigma.ru
 sigma.sbrf.ru
+sigmaftp24p01.s7.ru
 sign-tst.otpbank.ru
 sign.alfabank.ru
 sign.kloud.one
@@ -20536,6 +20614,7 @@ sm-developer-profile.sberdevices.ru
 sm.alfabank.ru
 sm.digitech.ventures
 sm.magnit.ru
+sm.otpbank.ru
 sm117.ru
 sm2.vtb.ru
 smailbox.ru
@@ -20561,11 +20640,13 @@ smarthome-api-dev.tricolor.ru
 smarthome-api-fix.tricolor.ru
 smarthome-api-fix2.tricolor.ru
 smarthome-api-rel.tricolor.ru
+smarthome-api.tricolor.ru
 smarthome.mts.ru
 smarthome.rt.ru
 smarthome.tricolor.ru
 smartmarket.sber.ru
 smartmice.tech
+smartpay-notif-mz-api.tricolor.ru
 smartpay.devices.sberbank.ru
 smartpay.ecom.sberbank.ru
 smartpayift.ecom.sberbank.ru
@@ -21075,6 +21156,7 @@ sso-k8s-test.astralinux.ru
 sso-keycloak.sigma.sbrf.ru
 sso-mb-ios.vtb.ru
 sso-mb.vtb.ru
+sso-migration.tricolor.ru
 sso-msg.akbars.ru
 sso-rel.tricolor.ru
 sso-stage.devsec.astralinux.ru
@@ -21099,11 +21181,13 @@ sso.mosreg.ru
 sso.mtsbank.ru
 sso.sberdevices.ru
 sso.sfr.gov.ru
+sso.tricolor.ru
 sso.tvoyodbo.online
 sso.yourfintech.online
 sso2-cur.tricolor.ru
 sso2-dev.tricolor.ru
 sso2-rel.tricolor.ru
+sso2.tricolor.ru
 ssoauth-test.mtsbank.ru
 ssoauth-uat.mtsbank.ru
 ssoauth.mtsbank.ru
@@ -21453,6 +21537,7 @@ stomatology-kmv26.ru
 stomatrk.ru
 stomshop.time-messenger.ru
 storage-c2d-test.tricolor.ru
+storage-c2d.tricolor.ru
 storage-wallet-test.mdigital.ru
 storage-wallet.mdigital.ru
 storage.bcs-bank.ru
@@ -22375,6 +22460,7 @@ tmsg.online-tb.com
 tmsg.t-crypto.by
 tmsg.tbank-online.com
 tndr.ubrr.ru
+tniikip.rospotrebnadzor.ru
 tnkf.su
 tochka.com
 tochkapre.ru
@@ -22997,6 +23083,7 @@ vc.inkey.rt.ru
 vc.kamaz.ru
 vc.key.rt.ru
 vc.sberdevices.ru
+vc.tricolor.ru
 vc.videos.livejournal.com
 vcc30-01.cloud.ru
 vcc30-02.cloud.ru
@@ -23612,6 +23699,7 @@ web-api-dev.tricolor.ru
 web-api-fix.tricolor.ru
 web-api-fix2.tricolor.ru
 web-api-rel.tricolor.ru
+web-api.tricolor.ru
 web-dav.rc.senat.sberbank.ru
 web-dav.senat.sberbank.ru
 web-dav.staging.senat.sberbank.ru
@@ -23767,6 +23855,7 @@ widget-chat-cur.tricolor.ru
 widget-chat-dev.tricolor.ru
 widget-chat-fix.tricolor.ru
 widget-chat-rel.tricolor.ru
+widget-chat.tricolor.ru
 widget.chat.msbapps.ru
 widget.chat.psbank.ru
 widget.chatdev.psbank.ru
@@ -24014,6 +24103,7 @@ www.22-1.ru
 www.24.rospotrebnadzor.ru
 www.25.rospotrebnadzor.ru
 www.25let.omk.ru
+www.26.rospotrebnadzor.ru
 www.2w.ru
 www.30let.omk.ru
 www.34.rospotrebnadzor.ru
@@ -24581,6 +24671,7 @@ www.cts.domrfbank.ru
 www.ctx.alfastrah.ru
 www.ctx.mts.ru
 www.cultureapps.vtb.ru
+www.cvmir.ru
 www.cyberkoalastudios.com
 www.cyberprotect.ru
 www.czn47.ru
@@ -25742,6 +25833,7 @@ www.okvd48.ru
 www.old.bspb.ru
 www.old.omk.ru
 www.old.sbidea.ru
+www.olimpium.ru
 www.olympiad.gazprom.ru
 www.ombudsman33.ru
 www.omk.ru
@@ -27155,6 +27247,7 @@ xn--80aaefwccm7aekgee1axnu1pla.xn--p1ai
 xn--80aaelvgjoml6j.xn--p1ai
 xn--80aafaxhj3c.xn--p1ai
 xn--80aafbk3dbqbke.xn--p1ai
+xn--80aafj2agk3g.xn--p1ai
 xn--80aafna0aeglt3b.xn--p1ai
 xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 xn--80aaggvgieoeoa2bo7l.xn--p1ai
@@ -27267,6 +27360,7 @@ xn--90aifd0az.xn--d1aqf.xn--p1ai
 xn--90aijkdmaud0d.xn--p1ai
 xn--90aivcdt6dxbc.xn--p1ai
 xn--90an6b.xn--d1aqf.xn--p1ai
+xn--90anfigdkpy.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
 xn--90axl.xn--p1ai
 xn--b1aadecsaihi0amca3a.xn--p1ai
@@ -27426,6 +27520,7 @@ yoobusiness.ru
 yookassa.com
 yookassa.ru
 yoomoney-api-dev.tricolor.ru
+yoomoney-api.tricolor.ru
 yoomoney.com
 yoomoney.ru
 yooscan.ru
@@ -27497,8 +27592,10 @@ zabroniryi.ru
 zabtfoms.ru
 zagruzka-sms-api-dev.tricolor.ru
 zagruzka-sms-api-test.tricolor.ru
+zagruzka-sms-api.tricolor.ru
 zagruzka-viber-api-dev.tricolor.ru
 zagruzka-viber-api-test.tricolor.ru
+zagruzka-viber-api.tricolor.ru
 zagruzka.com
 zags-region63.ru
 zagsbrk.ru

@@ -354,6 +354,7 @@ astk-insur.ru
 astra-team.ru
 astra.ru
 astrahovanie.ru
+astral.ru
 astralinux.ru
 astrasend.ru
 astrobl.ru
@@ -600,6 +601,7 @@ bsbank.ru
 bscbalt.ru
 bsigroup.ru
 bspb.ru
+bspbdev.ru
 bssys.com
 bstbank.ru
 bstrv.ru
@@ -855,6 +857,7 @@ curator.pro
 curious.ru
 custis.ru
 custody.ru
+cvmir.ru
 cyber-matrix.pro
 cyberkoala.ru
 cyberkoalastudios.com
@@ -2889,6 +2892,7 @@ oldnet.su
 olejka.ru
 olimp.bet
 olimpicshop.ru
+olimpium.ru
 oljk.ru
 ombsk.biz
 ombudsman33.ru
@@ -3149,6 +3153,7 @@ podpiskimf.ru
 podvigi-rossii.ru
 pofd.ru
 pofd.su
+pofoms.ru
 pogardshi.ru
 pokupay.ru
 polar-aero.ru
@@ -3323,6 +3328,7 @@ rcm-szfo.ru
 rcngroup.ru
 rcoko27.ru
 rcraduga.ru
+rcurala.ru
 rdb.ru
 rdekonorack.ru
 realistbank.ru
@@ -3452,6 +3458,7 @@ rosdolg.ru
 rosevrobank.ru
 rosinkas.ru
 rosinkas.tech
+roskapstroy.ru
 roskazna.ru
 rosleshoz.ru
 rosminzdrav.ru
@@ -5067,6 +5074,7 @@ xn--80aaexc1aevv.xn--p1ai
 xn--80aafaxhj3c.xn--p1ai
 xn--80aafbk3dbqbke.xn--p1ai
 xn--80aafclckjcqurgbdjcpde4b.xn--p1ai
+xn--80aafj2agk3g.xn--p1ai
 xn--80aafna0aeglt3b.xn--p1ai
 xn--80aafyfbdcf3aallidhj1q.xn--p1ai
 xn--80aaggvgieoeoa2bo7l.xn--p1ai
@@ -5153,6 +5161,7 @@ xn--90ahujfeif.xn--p1ai
 xn--90aiajje0ahibxc.xn--p1ai
 xn--90aijkdmaud0d.xn--p1ai
 xn--90aivcdt6dxbc.xn--p1ai
+xn--90anfigdkpy.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
 xn--90axl.xn--p1ai
 xn--b1aadecsaihi0amca3a.xn--p1ai
