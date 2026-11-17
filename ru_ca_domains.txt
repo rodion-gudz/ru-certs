@@ -373,6 +373,7 @@
 *.astcsm.ru
 *.asterium.ru
 *.astervesna.ru
+*.astfond.ru
 *.astgoz.ru
 *.astk-insur.ru
 *.astrahovanie.ru
@@ -2058,6 +2059,7 @@
 *.int.uralairlines.ru
 *.intact.ru
 *.integration-shbv.asudd.net
+*.integriks.ru
 *.intelkom.pro
 *.intercomp.ru
 *.intercompglobal.com
@@ -5783,6 +5785,7 @@
 3dsec.sberbank.ru
 3dsecure.otpbank.ru
 3dsecure.sinara.ru
+3dsecure.snbank.ru
 3dsecure.yoomoney.ru
 3dsp.vtb.ru
 3dsp2.vtb.ru
@@ -6966,6 +6969,7 @@ astcsm.ru
 asterisk54.nso.ru
 asterium.ru
 asterx23.ru
+astfond.ru
 astgoz.ru
 astk-insur.ru
 aston.time-messenger.ru
@@ -8651,6 +8655,7 @@ cert.nuc-3fac8995244e4078.enthusiastic-delighted.online
 cert.nuc-76c2b48f339e4f76.marveled-astonish.online
 cert.nuc-7bc675198f6743d7.enthusiastic-delighted.online
 cert.nuc-80d02cc510d6449e.enthusiastic-delighted.online
+cert.nuc-9e619f165b374568.unforgettable-keenly.ru
 cert.nuc-c9b652bab5ac4952.marveled-astonish.online
 cert.nuc-cfeff8dd64ab40cd.tougher-astonishment.ru
 cert.nuc-d790073ebece45ab.marveled-astonish.online
@@ -9090,6 +9095,7 @@ cobrowsing-cdn-test.tbank.ru
 cobrowsing-cdn.tbank.ru
 codd32.ru
 code.argds.ru
+code.mipt.ru
 code.tricolor.ru
 codearts.ru-moscow-1.hc.cloud.ru
 codeofreliability.sberuniversity.online
@@ -10972,6 +10978,7 @@ estaff.ingobank.ru
 esup-ps.megafon.ru
 etc48.ru
 ether-platform.ru
+etl.integriks.ru
 etp-avtodor.ru
 etp-ets.ru
 etp-torgi.ru
@@ -16665,8 +16672,10 @@ nuc-7283b3c5bfc24155.glee-embolden.online
 nuc-744baa017b364449.glee-embolden.online
 nuc-7e0efccbb7734187.glee-embolden.online
 nuc-a00c56af7c5a499e.glee-embolden.online
+nuc-a5bd3bb696ac4cb3.profusion-nonviolence.ru
 nuc-acme.voskhod.ru
 nuc-c0595539c25141d8.glee-embolden.online
+nuc-d83f7b4514ea48e3.exult-unparalleled.ru
 nuc-e8f2f9abe341449b.glee-embolden.online
 nuc-fdcc528bf12946ba.glee-embolden.online
 nuc-probe-1457.devkz.ru
@@ -27202,6 +27211,7 @@ xn--24-8kcm.xn--p1ai
 xn--26-jlcp8al.xn--p1ai
 xn--3-7sbb6e.xn--p1ai
 xn--32--8cd3cgu2f.xn--p1ai
+xn--33-8kchpsowg3ao.xn--p1ai
 xn--38-1lcys.xn--p1ai
 xn--39-dlcej5afybuehh.xn--p1ai
 xn--40-6kclk1btailw.xn--p1ai
