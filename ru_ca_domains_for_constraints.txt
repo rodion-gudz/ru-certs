@@ -584,6 +584,7 @@ bralo.su
 brandanalytics.ru
 bratsk-city.ru
 bratska.ru
+brautomate.ru
 brdi32.ru
 bre-ad.tech
 bredy74.ru
@@ -4522,6 +4523,7 @@ tricolor.ru
 trim-ai.ru
 triniti.ru
 tripee.ru
+triz.tech
 trolleybus-abakan.ru
 trsystem68.ru
 trubodetal.ru
@@ -4704,6 +4706,7 @@ vardis-ins.ru
 variti.io
 vasmfpro.ru
 vasmpro.ru
+vasw.ru
 vasy.ru
 vaultary.ru
 vbank.ru
@@ -4858,6 +4861,7 @@ vologda-cb.ru
 vologda-city.ru
 voltagelab.ru
 vorkuta.ru
+vorobevsw.ru
 voskhod.ru
 vospdom.ru
 vostbank.ru
