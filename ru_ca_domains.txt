@@ -336,6 +336,7 @@
 *.archive.old.mil.ru
 *.archives.gov.ru
 *.archives.ru
+*.arcticahealth.ru
 *.ard.moscow
 *.aresbank.ru
 *.argus-oskol.ru
@@ -1702,6 +1703,7 @@
 *.giga.chat
 *.gigab2b.ru
 *.gigabot.sberdevices.ru
+*.gigacowork.mosreg.ru
 *.gigaenterprise.ai
 *.gigahub.sberdevices.ru
 *.gilenko.ru
@@ -2196,6 +2198,7 @@
 *.kapmed.ru
 *.kapps.vk-apps.com
 *.kapps.vk-apps.ru
+*.karasikshop.ru
 *.karo-film.ru
 *.karofilm.ru
 *.karta03.ru
@@ -2221,6 +2224,7 @@
 *.kbsammit.ru
 *.kcson.pyatigorsk.ru
 *.kebrus.ru
+*.keldysh.ru
 *.kemcardio.ru
 *.kept.by
 *.kept.ru
@@ -2296,6 +2300,7 @@
 *.krdelectro.ru
 *.krdgp11.ru
 *.kremlinbank.ru
+*.krona-bank-dbo.ru
 *.kronshtadt.ru
 *.kropssmp.ru
 *.krskcit.ru
@@ -2982,6 +2987,7 @@
 *.noosferabank.ru
 *.norbit.ru
 *.nordsy.spb.ru
+*.norma24.ru
 *.nornickel.ru
 *.nornik.ru
 *.norvik.ru
@@ -3247,6 +3253,7 @@
 *.pansion.mil.ru
 *.pansion.old.mil.ru
 *.parents.university
+*.parfum.spb.ru
 *.paritet.ru
 *.parking.spb.ru
 *.part-kom.ru
@@ -3331,6 +3338,7 @@
 *.pk5.asudd.net
 *.pk5n-ckad.asudd.net
 *.pkc.21-school.ru
+*.pkfoms.ru
 *.pkg.sbercloud.tech
 *.pkitrans.ru
 *.plait.ru
@@ -3760,6 +3768,7 @@
 *.ric.old.mil.ru
 *.rikt.ru
 *.ris61edu.ru
+*.rivegauche.ru
 *.rk.demo.nspd.rosreestr.gov.ru
 *.rk.dev.nspd.rosreestr.gov.ru
 *.rk.nspd.rosreestr.gov.ru
@@ -3894,6 +3903,7 @@
 *.ruselectronics.ru
 *.rusfincorp.ru
 *.ruslegassistens.ru
+*.rusnarbank.ru
 *.rusprofile.ru
 *.rusradio.ru
 *.russianpost.ru
@@ -3907,6 +3917,7 @@
 *.rustore.ru
 *.rustore.team
 *.rustore.tv
+*.rutube.ru
 *.rvc.ru
 *.rw.kinef.ru
 *.rwb-corp.com
@@ -3922,6 +3933,7 @@
 *.rzn.21-school.ru
 *.rzncit.ru
 *.s-broiler.ru
+*.s-znc.ru
 *.s.kion.ru
 *.s.lenta.ru
 *.s.o3.ru
@@ -4136,6 +4148,7 @@
 *.sev.gov.ru
 *.seventh-m12.asudd.net
 *.sever-tech.com
+*.sever04.ru
 *.severgazbank.ru
 *.severstal.com
 *.severstal.severstalgroup.com
@@ -4555,6 +4568,7 @@
 *.stavinvest.ru
 *.stavkomarchiv.ru
 *.stavkray.ru
+*.stavkraygaz.ru
 *.stavminobr.ru
 *.stavminprom.ru
 *.stavregion.ru
@@ -5019,6 +5033,7 @@
 *.umfc42.ru
 *.umfc48.ru
 *.umpgku.ru
+*.umpo.ru
 *.unifi.akado-telecom.ru
 *.unified-billing.mail.ru
 *.unimatic.ru
@@ -5092,6 +5107,7 @@
 *.vditrade.moex.com
 *.veb.ru
 *.veblife.ru
+*.vebrf-am.ru
 *.vectorcapital.ru
 *.vedomosti.ru
 *.vega-rus.net
@@ -6889,6 +6905,7 @@ archiv.ru
 archives.gov.ru
 archives.ru
 arcrem.ru
+arcticahealth.ru
 arcticspg.ru
 ard.moscow
 arenda.ahml.ru
@@ -10425,6 +10442,7 @@ dp.bankdolinsk.ru
 dp.mdm.sberins.ru
 dp.megafon.ru
 dp.otpbank.ru
+dp.predictor.su
 dp.tbank-online.com
 dp.vtb.ru
 dpce.ru
@@ -11269,6 +11287,7 @@ fgsrb.ru
 fgup-ohrana.ru
 fguz-tyumen.ru
 fguz-volgograd.ru
+fguz44.ru
 fguzmo.ru
 fgws-gw-openfapi-dbosmb-gost-lb.vtb.ru
 fgws-gw-openfapi-dbosmb-lb.vtb.ru
@@ -11734,6 +11753,7 @@ gigachat.devices.sberbank.ru
 gigachat.devicestest.sberbank.ru
 gigachat.nx.s2b.tech
 gigaconf.ru
+gigacowork.mosreg.ru
 gigadataprovider-api.eye.salute.ru
 gigadomainsview-dev.eye.salute.ru
 gigadomainsview.eye.salute.ru
@@ -13476,6 +13496,7 @@ kap.vtb.ru
 kapi.dev.jump.finance
 kapi.jump.finance
 kapmed.ru
+karasikshop.ru
 karelia.dev.home.megafon.ru
 karelia.home.megafon.ru
 karelia.megafon.ru
@@ -13555,6 +13576,7 @@ kedoids.lenta.com
 kedolk.lenta.com
 kedom.lenta.com
 keenwilling.rambler.ru
+keldysh.ru
 kem.dev.home.megafon.ru
 kem.home.megafon.ru
 kem.megafon.ru
@@ -13799,6 +13821,7 @@ kremlinbank.ru
 krgcrb.mznso.ru
 kroki.devsec.astralinux.ru
 kron-dmsh8.ru
+krona-bank-dbo.ru
 krondk.ru
 kronshtadt.ru
 kropssmp.ru
@@ -13882,6 +13905,7 @@ kurs.alfabank.ru
 kursglonass.ru
 kursk.tch.ru
 kurskduma.ru
+kurskgaz.ru
 kuzbank.ru
 kuzbass-zakon.ru
 kuzgosweb.kemobl.ru
@@ -16605,6 +16629,7 @@ npoa.ru
 npoelm.ru
 npovk.ru
 nppgamma.ru
+nppstart.ru
 nprts.ru
 nps.rspp.ru
 npzoptics.ru
@@ -16673,6 +16698,7 @@ nuc-6b721a3051b44ec6.exult-unparalleled.ru
 nuc-7283b3c5bfc24155.glee-embolden.online
 nuc-744baa017b364449.glee-embolden.online
 nuc-7e0efccbb7734187.glee-embolden.online
+nuc-9ab99b1c142640b0.profusion-nonviolence.ru
 nuc-a00c56af7c5a499e.glee-embolden.online
 nuc-a5bd3bb696ac4cb3.profusion-nonviolence.ru
 nuc-acme.voskhod.ru
@@ -17563,6 +17589,7 @@ parent.cscampus.ru
 parent.kamp-ext-if.vtb.ru
 parent.kamp-ext-rr.vtb.ru
 parents.university
+parfum.spb.ru
 park300.kb.gov.spb.ru
 park300spb.ru
 parking.cscampus.ru
@@ -18386,6 +18413,7 @@ projector.tricolor.ru
 projects.cardsmobile.ru
 projects.r7.corp.ncsp.com
 projects.r7.ncsp.ru
+proletarsky.ru
 prologsklad.ru
 prom-api-itkey-support.sbertech.ru
 prom-api-itsm.sbertech.ru
@@ -19254,6 +19282,7 @@ ris-gmp.nso.ru
 ris61edu.ru
 ritm.mtsbank.ru
 ritmb.mtsbank.ru
+rivegauche.ru
 rjazz.sberbank.ru
 rk.dev.nspd.rosreestr.gov.ru
 rk.megafon.ru
@@ -19546,6 +19575,7 @@ rustdesk-oss.brain-flow.ru
 rustore-search.cloud.vk.team
 rustore.ru
 rustore.tv
+rutube.ru
 rvc.ru
 rvpn.thbank.ru
 rw.kinef.ru
@@ -19604,6 +19634,7 @@ s-broiler.ru
 s-gca-ac-a-srv-wp-app01.gk-astra.ru
 s-gca-ac-a-srv-wp-app02.gk-astra.ru
 s-gca-ac-a-srv-wp-app03.gk-astra.ru
+s-znc.ru
 s.api.adapters.payments.moneta.ru
 s.assistant.demo.moneta.ru
 s.assistant.moneta.ru
@@ -19667,6 +19698,7 @@ s3.sberhelp.sber.ru
 s3.tinkoff.ru
 s3.ttp.one-infra.ru
 s3.webquik-test.sberbank.ru
+s3325.ru
 s3hbu.mos.ru
 s3r.gos.cloud.ru
 s3torage.ru
@@ -20310,8 +20342,10 @@ sev.gov.ru
 sev.speechpro.com
 seventh-m12.asudd.net
 sever-tech.com
+sever04.ru
 severgazbank.ru
 severgroup.ru
+severrg.ru
 severstal-ssc.com
 severstal-ssc.ru
 severstal.com
@@ -21338,6 +21372,7 @@ stage.parki.mosreg.ru
 stage.pay.mosreg.ru
 stage.pfm.ai.mosreg.ru
 stage.pik.mosreg.ru
+stage.pim.parus.su
 stage.pkpvd.mosreg.ru
 stage.portal.css.mosreg.ru
 stage.queue.mfc.mosreg.ru
@@ -21500,6 +21535,7 @@ stavendocrin.ru
 stavinvest.ru
 stavkomarchiv.ru
 stavkray.ru
+stavkraygaz.ru
 stavminobr.ru
 stavminprom.ru
 stavregion.ru
@@ -22751,6 +22787,7 @@ u.corp.mail.ru
 u.corp.my.com
 u.corp.vk.com
 u.gis-sc.krasnodar.ru
+u.lenenergo.ru
 u.team.centrinvest.ru
 u.vkteam.ru
 u.vneshbank.ru
@@ -22867,6 +22904,7 @@ umfc42.ru
 umfc48.ru
 umius.ru
 umpgku.ru
+umpo.ru
 umu-ift.test.vtb.ru
 umu.vtb.ru
 uni.omk.ru
@@ -24277,6 +24315,8 @@ www.amelia-st.ru
 www.amperenergo.ru
 www.amrro.ru
 www.amur.drsk.ru
+www.andrei-vorobev.su
+www.andreivorobev.su
 www.android-mb.vtb.ru
 www.anhk.rosneft.ru
 www.aniva-ltd.ru
@@ -24323,6 +24363,7 @@ www.ar2021.omk.ru
 www.arch.mail.sovcomlife.ru
 www.archives.gov.ru
 www.archives.ru
+www.arcticahealth.ru
 www.arendadomrf.ru
 www.aresbank.ru
 www.argus-oskol.ru
@@ -24919,6 +24960,7 @@ www.fgislk-test.gov.ru
 www.fgislk.gov.ru
 www.fgup-ohrana.ru
 www.fguz-tyumen.ru
+www.fguz44.ru
 www.files.cyberprotect.ru
 www.files.noosferabank.ru
 www.files.rezonit.ru
@@ -25404,6 +25446,7 @@ www.kupibilet70.ru
 www.kurgangrc.ru
 www.kursglonass.ru
 www.kurskduma.ru
+www.kurskgaz.ru
 www.kuzhener.ru
 www.kuzstu.ru
 www.kvartplata.ru
@@ -26271,6 +26314,7 @@ www.rzd-cmm-m01.css.rzd.ru
 www.rzd-cmm-m02.css.rzd.ru
 www.rzn.21-school.ru
 www.s-a2.vtb.ru
+www.s-znc.ru
 www.s.lenta.ru
 www.s.sberbank.ru
 www.s2.vtb.ru
@@ -26416,6 +26460,7 @@ www.services.livejournal.com
 www.servolk.ru
 www.sev-tech.ru
 www.sever-tech.com
+www.severrg.ru
 www.severstal-ssc.com
 www.severstal-ssc.ru
 www.severstalssc.ru
@@ -26724,6 +26769,7 @@ www.tfomseao.ru
 www.tfomssk.ru
 www.thbank.ru
 www.themm.ru
+www.theva.ru
 www.thuricum.ru
 www.ticketland.ru
 www.tigersoft.ru
@@ -26861,6 +26907,7 @@ www.vc.videos.livejournal.com
 www.vconf.gazprombank.ru
 www.vdi.mts.ru
 www.vdr2.gazprombank.ru
+www.vebrf-am.ru
 www.vectorcapital.ru
 www.vedomosti.ru
 www.vega-rus.net
