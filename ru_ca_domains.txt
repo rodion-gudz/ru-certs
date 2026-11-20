@@ -148,6 +148,7 @@
 *.ads.vk.ru
 *.adtech.rambler.ru
 *.adygheya.ru
+*.aemtech.ru
 *.aeromax-defense.ru
 *.aeromax-group.ru
 *.aeromax.pro
@@ -392,6 +393,7 @@
 *.atlantmetall.ru
 *.atm72.ru
 *.atol.ru
+*.atommash.ru
 *.atomstandard.ru
 *.atomstandart.ru
 *.atomyze.ru
@@ -1230,6 +1232,7 @@
 *.domapi.domrfbank.ru
 *.domclick.ru
 *.domlenta.ru
+*.domopult.ru
 *.domres.ru
 *.domrf.bank
 *.domrf.online
@@ -1572,6 +1575,7 @@
 *.first-m12.asudd.net
 *.fixmail.mts.ru
 *.fkpkk.ru
+*.fkptpz.ru
 *.fkr26.ru
 *.fkr38.ru
 *.flamp.ru
@@ -2060,6 +2064,7 @@
 *.instamart.ru
 *.instana.obs.mts.ru
 *.instant-pay.ru
+*.int-pay.ru
 *.int.lk-b2b.mts.ru
 *.int.platform.tatar.ru
 *.int.u6.ru
@@ -2263,6 +2268,7 @@
 *.klookva.ru
 *.kmiac.ru
 *.kmp.ru
+*.kmp3.ru
 *.kmt46.ru
 *.knd.gov.ru
 *.kng.oneclickmoney.ru
@@ -2287,6 +2293,7 @@
 *.konkrs.ru
 *.kontur-api.ru
 *.kontur.ru
+*.konturbank.ru
 *.konus.group
 *.kopss43.ru
 *.korotyshev.ru
@@ -2431,6 +2438,7 @@
 *.lkp.msb.gazprombank.ru
 *.lkp.msb.gpb.ru
 *.lktroika.ru
+*.lmz48.ru
 *.lo-miac.ru
 *.local.newton-technology.ru
 *.local.vlc.ru
@@ -2730,6 +2738,7 @@
 *.mnogo.app
 *.mnr.gov.ru
 *.mo-medsvc.ru
+*.mo-vsk.ru
 *.mo.doc.rscc.ru
 *.mo.edms.permkrai.ru
 *.mo.sed.rospotrebnadzor.ru
@@ -3420,6 +3429,7 @@
 *.pradas.su
 *.pravmin74.ru
 *.pravo.rkomi.ru
+*.pravo.volgograd.ru
 *.pravorub.ru
 *.pre-prom.app.giga.chat
 *.pre-prom.app.sberdevices.ru
@@ -3427,6 +3437,8 @@
 *.pre-prom.int.fine.sberdevices.ru
 *.pre-prom.tools.sberdevices.ru
 *.prelive.alfabank.ru
+*.premapp.ru
+*.premapp.su
 *.premiumbim.ru
 *.premiumcad.ru
 *.prep.kion.ru
@@ -3875,6 +3887,7 @@
 *.rt-insurance.ru
 *.rt.com
 *.rt.ru
+*.rtbapp.ru
 *.rtbapp.su
 *.rthome.ru
 *.rtinform.ru
@@ -4855,6 +4868,7 @@
 *.third1-m12.asudd.net
 *.third2-m12.asudd.net
 *.third3-m12.asudd.net
+*.thunderbolt-am.ru
 *.thuricum.ru
 *.ticketland.ru
 *.tickets.vk.com
@@ -4968,6 +4982,7 @@
 *.tverfin.ru
 *.tvernefteproduct.ru
 *.tverreg.ru
+*.tverregiongaz.ru
 *.tvh.mts.ru
 *.tvobr.ru
 *.tvoy.magnit.ru
@@ -7011,6 +7026,7 @@ astrakhan.home.megafon.ru
 astrakhan.megafon.ru
 astrakhan.staging.megafon.ru
 astralinux.ru
+astrg.ru
 astrobl.ru
 astrovolga.ru
 asu-leader.ru
@@ -7532,6 +7548,7 @@ autoservice.ift.sbertransport.ru
 autoservice.psi.dropapp.sbertransport.ru
 autoservice.psi.sbertransport.ru
 autoservice.sbertransport.ru
+autotorgbank.ru
 autotradecomplex.ru
 autourist72.ru
 av.deltacredit.ru
@@ -7577,6 +7594,7 @@ avtobus.spb.ru
 avtocod.ru
 avtodor-vms.asudd.net
 avtotehnik.com
+avtotorgbank.ru
 avutility24i01.group.s7.ru
 aw.mail.ru
 awac.corp.tander.ru
@@ -7841,6 +7859,7 @@ bel.dev.home.megafon.ru
 bel.home.megafon.ru
 bel.megafon.ru
 bel.staging.megafon.ru
+belaja-zebra.ru
 belapk.ru
 belgorod.21-school.ru
 belmaysky.home.megafon.ru
@@ -8702,6 +8721,7 @@ cert.nuc-76c2b48f339e4f76.marveled-astonish.online
 cert.nuc-7bc675198f6743d7.enthusiastic-delighted.online
 cert.nuc-7eb369607f0f49d6.unforgettable-keenly.ru
 cert.nuc-80d02cc510d6449e.enthusiastic-delighted.online
+cert.nuc-85494b3e66a74f6f.unforgettable-keenly.ru
 cert.nuc-89ec9649a5b04f33.tougher-astonishment.ru
 cert.nuc-8fb1919bf82a4bbd.unforgettable-keenly.ru
 cert.nuc-9ab2f72f29514af7.tougher-astonishment.ru
@@ -8711,6 +8731,7 @@ cert.nuc-a76a66ba35e64e61.tougher-astonishment.ru
 cert.nuc-a7ac540c50c740ee.unforgettable-keenly.ru
 cert.nuc-a8c0d0a22dfd40f8.tougher-astonishment.ru
 cert.nuc-ac7b9eadf3304f7f.unforgettable-keenly.ru
+cert.nuc-b634001f40c04a6b.unforgettable-keenly.ru
 cert.nuc-c829326bff3b4051.unforgettable-keenly.ru
 cert.nuc-c9b652bab5ac4952.marveled-astonish.online
 cert.nuc-ccf0c76f34104884.unforgettable-keenly.ru
@@ -8721,6 +8742,8 @@ cert.nuc-e4aced2daa8944ef.tougher-astonishment.ru
 cert.nuc-e51d85733bc74530.tougher-astonishment.ru
 cert.nuc-f0935e10204c4b6c.unforgettable-keenly.ru
 cert.nuc-f0cc893961ec455c.enthusiastic-delighted.online
+cert.nuc-f43df2c9a57b4b8f.unforgettable-keenly.ru
+cert.nuc-fa938c55009f4dd9.tougher-astonishment.ru
 cert.nuc-fcc75f984d6c4f27.unforgettable-keenly.ru
 cert.sbertv.ru
 cert.spasibo.digital
@@ -9007,6 +9030,8 @@ client-ftps01.taxcom.ru
 client-oco.rt.ru
 client-online.rsb.ru
 client-prom-ofd-sber-dex.tensor.ru
+client-qualifications-bff.bcs.ru
+client-qualifications-bff2.bcs.ru
 client.abank.ru
 client.atbbank.ru
 client.first-am.ru
@@ -9653,6 +9678,7 @@ cyber-matrix.pro
 cyber.sovcombank.ru
 cyberkoala.ru
 cyberkoalastudios.com
+cyberportal.rt.ru
 cyberprotect.ru
 cybersec-dev.megafon.ru
 cybersec-dev.test-middle.megafon.ru
@@ -10441,6 +10467,7 @@ domclick.ru
 domenvironmental.rambler.ru
 domino.otpbank.ru
 domlenta.ru
+domopult.ru
 domres.ru
 domrf-am.ru
 domrf.bank
@@ -11430,6 +11457,7 @@ fixgate.sberbank.ru
 fixmail.mts.ru
 fizpartnerint.alfabank.ru
 fkpkk.ru
+fkptpz.ru
 fkr26.ru
 fkr38.ru
 fl-shop.ru
@@ -11998,6 +12026,7 @@ gov-murman.ru
 gov.edwardcode.net
 gov.spb.ru
 gov45.ru
+gov74.ru
 govirk.ru
 govrb.ru
 goz.gazprombank.ru
@@ -13066,6 +13095,7 @@ insurance.domoy.ru
 insurance.domrfbank.ru
 insurance.gippars.ru
 int-dev.zakupki.rosneft.ru
+int-pay.ru
 int-pro.zakupki.rosneft.ru
 int.alfadirect.ru
 int.banka-ui.dev
@@ -13773,6 +13803,7 @@ kmedia03.hybrid.ktalk.alfabank.ru
 kmedia04.hybrid.ktalk.alfabank.ru
 kmiac.ru
 kmp.ru
+kmp3.ru
 kms.argus-oskol.ru
 kms.mwsapis.ru
 kms.tricolor.ru
@@ -13812,6 +13843,7 @@ konsierge.com
 kontragent.magnit.ru
 kontur-api.ru
 kontur.ru
+konturbank.ru
 kop-prd-md-conv.codm.gazprom.ru
 kop-prd-media1.codm.gazprom.ru
 kop-prd-media2.codm.gazprom.ru
@@ -14890,6 +14922,7 @@ mail.legalbpm.sberpravo.ru
 mail.legalforms.sberpravo.ru
 mail.lemark.su
 mail.lenenergo.ru
+mail.lii.ru
 mail.link.mail.sovcomlife.ru
 mail.lk.ismet.sovcomlife.ru
 mail.lk.noosferabank.ru
@@ -15041,6 +15074,7 @@ mail.sergeykhotimskiy.ru
 mail.services.fintender.ru
 mail.sfdrussia.ru
 mail.shorspb.ru
+mail.shvabe.com
 mail.siab.ru
 mail.sinara-finance.ru
 mail.sirfol.ru
@@ -15107,6 +15141,7 @@ mail.tvpn01.sovcombank.group
 mail.uez.spb.ru
 mail.ukrfc.ru
 mail.ukshmao.ru
+mail.unimatic.ru
 mail.unsub.mail.sovcomlife.ru
 mail.upravkom.ru
 mail.uprio.ru
@@ -15173,6 +15208,7 @@ mail3.storage.bcs.ru
 mail4.akbars.ru
 mailapps.ru
 mailbox.akbars.ru
+mailbox.thunderbolt-am.ru
 mailgw.mdm.ocs.ru
 mailking.ru
 mailn.toyotafs.ru
@@ -15706,6 +15742,7 @@ minigames.mail.ru
 mininform74.ru
 minio.cyberkoala.ru
 minio.devsec.astralinux.ru
+ministry-ai.rt.ru
 ministry.sberbankins.ru
 minkult08.ru
 minobr.gov-dpr.ru
@@ -15795,6 +15832,7 @@ mnogo.app
 mnr.gov.ru
 mo-medsvc.ru
 mo-trav.gazprombank.ru
+mo-vsk.ru
 mo.sed.rospotrebnadzor.ru
 mob-conf-web.sibintek.ru
 mob-t-a2fa.dmz.gazprombank.ru
@@ -16766,6 +16804,8 @@ nuc-331c2d6102bc4436.exult-unparalleled.ru
 nuc-361378b135f74afe.exult-unparalleled.ru
 nuc-370992e80a4642e1.profusion-nonviolence.ru
 nuc-3d18fdcdacb54ebd.profusion-nonviolence.ru
+nuc-3f32eaa76fae49ad.profusion-nonviolence.ru
+nuc-416c5ff6655f454e.profusion-nonviolence.ru
 nuc-424ba28a360b4ee4.glee-embolden.online
 nuc-43f0128b9ca24a37.profusion-nonviolence.ru
 nuc-45675aa982b24978.exult-unparalleled.ru
@@ -16780,9 +16820,12 @@ nuc-6fee5e13665d463b.exult-unparalleled.ru
 nuc-7283b3c5bfc24155.glee-embolden.online
 nuc-744baa017b364449.glee-embolden.online
 nuc-7b172553addc4a86.profusion-nonviolence.ru
+nuc-7c4ed289e13943f3.profusion-nonviolence.ru
 nuc-7e0efccbb7734187.glee-embolden.online
 nuc-81f13e2a09b1440b.profusion-nonviolence.ru
+nuc-843be137d63d45ee.exult-unparalleled.ru
 nuc-8afdc9475ce9401c.profusion-nonviolence.ru
+nuc-9616d772ef614cc4.exult-unparalleled.ru
 nuc-9ab99b1c142640b0.profusion-nonviolence.ru
 nuc-a00c56af7c5a499e.glee-embolden.online
 nuc-a5bd3bb696ac4cb3.profusion-nonviolence.ru
@@ -16791,10 +16834,12 @@ nuc-acme.voskhod.ru
 nuc-b9de4dfb11f744f5.exult-unparalleled.ru
 nuc-c0595539c25141d8.glee-embolden.online
 nuc-c49a3e13a50e40f4.profusion-nonviolence.ru
+nuc-cabea8d4d2cb4301.profusion-nonviolence.ru
 nuc-d1ff924c7b2844c8.profusion-nonviolence.ru
 nuc-d221c48905fc46f2.profusion-nonviolence.ru
 nuc-d3566996b0e34711.exult-unparalleled.ru
 nuc-d83f7b4514ea48e3.exult-unparalleled.ru
+nuc-d97a7851f77347eb.exult-unparalleled.ru
 nuc-dc68025865b24021.exult-unparalleled.ru
 nuc-e54789dc346e4cef.exult-unparalleled.ru
 nuc-e8f2f9abe341449b.glee-embolden.online
@@ -16834,6 +16879,7 @@ nxtcld.tch.ru
 nya.edgecenter.online
 nyagan.dev.home.megafon.ru
 nyagan.home.megafon.ru
+nycarwash.ru
 nz-am.ru
 nzk.rosneft.ru
 o-courier.ru
@@ -18323,6 +18369,7 @@ pradas.su
 praskoveya-dshi.stv.muzkult.ru
 pravmin74.ru
 pravo.rkomi.ru
+pravo.volgograd.ru
 pravorub.ru
 pre-cb.open.ru
 pre-dlos.cscampus.ru
@@ -18348,6 +18395,8 @@ preidentity.tbank-online.com
 prelive.achat.alfabank.ru
 prelive.alfabank.ru
 prelive.alfabank.st
+premapp.ru
+premapp.su
 premier.storage.bcs.ru
 premier2.storage.bcs.ru
 premium-capital.mtsbank.ru
@@ -18859,6 +18908,8 @@ qr.mkb.ru
 qr.platiecom.ru
 qr.sberbank.ru
 qrpays.ru
+qrtoken-service.bcs.ru
+qrtoken-service2.bcs.ru
 qtom.ru
 qtrm.ru
 quadcom.biz
@@ -20747,6 +20798,7 @@ sla.premier.softline.ru
 sladonezh.ru
 slavneft.ru
 slavsoft.ru
+slbank.ru
 slider.vkteam.ru
 slivaem-vodu-dev.ru
 slizzz.ru
@@ -22509,6 +22561,7 @@ third1-m12.asudd.net
 third2-m12.asudd.net
 third3-m12.asudd.net
 thpoint.ru
+thunderbolt-am.ru
 thuricum.ru
 ti-collector.bi.zone
 tib.gazprombank.ru
@@ -22837,6 +22890,7 @@ tver.tricolor.ru
 tverfin.ru
 tvernefteproduct.ru
 tverreg.ru
+tverregiongaz.ru
 tvh.kion.ru
 tvh.mts.ru
 tvldd-mvp002957.cloud.delta.sbrf.ru
@@ -22962,6 +23016,7 @@ ufa.21-school.ru
 ufa.infteh.ru
 ufa.sveza.ru
 ufa.tricolor.ru
+ufa112.ru
 ufc.tricolor.ru
 ufin48.ru
 ug-rr.ru
@@ -24485,6 +24540,7 @@ www.assistant.veb.ru
 www.astcsm.ru
 www.astk-insur.ru
 www.astrahovanie.ru
+www.astrg.ru
 www.astrovolga.ru
 www.asugpt.orgp.spb.ru
 www.asutd.transneft.ru
@@ -25247,6 +25303,7 @@ www.halva.click
 www.halva.com
 www.halva.email
 www.halva.energy
+www.halva.games
 www.halva.im
 www.halva.market
 www.halva.promo
@@ -25968,6 +26025,7 @@ www.ntv.ru
 www.nuc.alfastrah.ru
 www.nuc.vtbbo.ru
 www.nx-docker.alfastrah.ru
+www.nycarwash.ru
 www.nzk.rosneft.ru
 www.oaovoentorg.ru
 www.oatt-spo.ru
@@ -26166,6 +26224,7 @@ www.pr-cbs.ru
 www.pradas.ru
 www.pradas.su
 www.pravmin74.ru
+www.pravo.volgograd.ru
 www.premium.omk.ru
 www.prep-assistant.sberbankins.ru
 www.prep-guest-route-assistant.sberbankins.ru
@@ -26880,6 +26939,7 @@ www.tfomssk.ru
 www.thbank.ru
 www.themm.ru
 www.theva.ru
+www.thunderbolt-am.ru
 www.thuricum.ru
 www.ticketland.ru
 www.tigersoft.ru
@@ -26958,6 +27018,7 @@ www.uecrus.com
 www.uemc73.ru
 www.uemz.ru
 www.ufa.21-school.ru
+www.ufa112.ru
 www.ufin48.ru
 www.ufrkv.ru
 www.ug-rr.ru
