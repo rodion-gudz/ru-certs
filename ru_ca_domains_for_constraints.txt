@@ -453,6 +453,7 @@ baltinvestbank.com
 baltinvestbank.ru
 baltlng.ru
 bancaintesa.ru
+bank-45.ru
 bank-arzamas.ru
 bank-hlynov.com
 bank-hlynov.ru
@@ -491,8 +492,10 @@ bashneft-azs.ru
 bashneft.com
 bashneft.ru
 basseiny.online
+bastion-tech.ru
 batist.pro
 baza-roshino.ru
+baza.io
 bazrb.ru
 bbr.ru
 bbrbroker.ru
@@ -1260,6 +1263,7 @@ evotor.cloud
 evotor.me
 evotor.ru
 evotorpay.ru
+evraz.ru
 evrofinance.ru
 exactcode.ru
 excimerclinic.ru
@@ -1532,6 +1536,7 @@ globaloet.ru
 globalports.com
 globus-coins.ru
 glolime.ru
+glopro.ru
 gltlab.ru
 glushkova.kim
 gmgs.ru
@@ -2056,6 +2061,7 @@ klf.aero
 klgd.su
 klookva.ru
 kloud.one
+kmb3.ru
 kmiac.ru
 kmp.ru
 kmp3.ru
@@ -2381,6 +2387,7 @@ mcst.ru
 mcurl.ru
 mcx.ru
 mcxrk.ru
+mdcs.ru
 mdeng.ru
 mdigital.ru
 meatterminal.ru
@@ -3153,6 +3160,7 @@ plait.ru
 planar-elements.ru
 planeta-mall.ru
 planetaibs.ru
+plasmalabs.ru
 plat-forma.ru
 platformaexpert.ru
 platformaofd.ru
@@ -3925,6 +3933,7 @@ sfo-svoikapital-fintech.ru
 sfo-svoikapital-investment.ru
 sfo-veleta.ru
 sfri.ru
+sftcomp.ru
 sftgroup.ru
 shagp1.ru
 shagp2.ru
@@ -4110,6 +4119,7 @@ sovcombank.it
 sovcombank.marketing
 sovcombank.ru
 sovcombankfactoring.ru
+sovcomdms.ru
 sovcomfactoring.ru
 sovcomins.ru
 sovcomlife.ru
@@ -4451,6 +4461,7 @@ tern.ru
 terratech.ru
 terskiyraiyon.ru
 terskyrayon.ru
+teslab.ru
 test-er.ru
 test-megamarket.ru
 test2026.site
@@ -5262,6 +5273,7 @@ xn--c1ajbkjyncd.xn--p1ai
 xn--c1akasedrm0a.xn--p1ai
 xn--c1an2a.xn--p1ai
 xn--c1aws.xn--p1ai
+xn--c1azic8c.xn--p1ai
 xn--d1abicxkmi7j.xn--p1ai
 xn--d1acakl8aqa2a.xn--p1ai
 xn--d1acckhirjhcjda0nf.xn--p1ai
