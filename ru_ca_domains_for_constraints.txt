@@ -591,6 +591,8 @@ bonus-spasibo.ru
 booking-tec.ru
 boom.ru
 boostdevelopment.ru
+bospor-telecom.net
+bospor-telecom.ru
 botmag.net
 brain-flow.ru
 bralo.su
@@ -1765,6 +1767,7 @@ id.ru
 ids-llc.ru
 ids-llc.su
 idwb.ru
+ifhub.ru
 ifxt.ru
 igcpc.ru
 ihead.ru
@@ -3481,6 +3484,8 @@ rl0.ru
 rline.pro
 rmanpo.ru
 rmapo.ru
+rmcrf.ru
+rmcrt.ru
 rmg.ru
 rn-bank.ru
 rn-grp.ru
@@ -4897,6 +4902,7 @@ vniir.ru
 vniitf.ru
 vnukovo.ru
 voda-nt.ru
+vodaplus.ru
 vodokanal-museum.ru
 vodokanal-zagorod.ru
 vodolaga.ru
@@ -5084,6 +5090,7 @@ xn----8sbmnfeuhiwe3n.xn--p1ai
 xn----8sbosabopxq.xn--p1ai
 xn----8sbuccioem.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
+xn----9sbnazejkafenks.xn--p1ai
 xn----9sbsd1af.xn--p1ai
 xn----ctb5aimq.xn--p1ai
 xn----ctbbefcvajij3anca5a.xn--p1ai
@@ -5315,6 +5322,7 @@ xn--j1abhdo3a.xn--p1ai
 xn--j1adc8d.xn--p1ai
 xn--j1adu7b.xn--p1ai
 xn--j1afbdo3a.xn--p1ai
+xn--j1afcaaz.xn--p1ai
 xn--j1agba.xn--p1ai
 xn--j1aj5bb.xn--p1ai
 xn--j1andg1c.xn--p1ai

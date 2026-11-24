@@ -594,6 +594,8 @@
 *.booking.otpbank.ru
 *.boom.ru
 *.boostdevelopment.ru
+*.bospor-telecom.net
+*.bospor-telecom.ru
 *.botmag.net
 *.bpd01.az2.secure-cloud.vk.ru
 *.br.mosreg.ru
@@ -1160,6 +1162,7 @@
 *.dgkb-krd.ru
 *.dgp13.ru
 *.dhsh-bud.stv.muzkult.ru
+*.dialog-demo.sbertech.ru
 *.dialog-regions.ru
 *.dialog.info
 *.dialog.sberbank.ru
@@ -1987,6 +1990,7 @@
 *.ids-llc.su
 *.idscan.mts.ru
 *.idwb.ru
+*.ifhub.ru
 *.ift-1.dmz.gazprombank.ru
 *.ift-chat-agw-vtbo-n.vtb.ru
 *.ift-chat-agw-vtbo.vtb.ru
@@ -3822,6 +3826,8 @@
 *.rma.vkteam.ru
 *.rmanpo.ru
 *.rmapo.ru
+*.rmcrf.ru
+*.rmcrt.ru
 *.rmg.ru
 *.rms.u6.ru
 *.rn-bank.ru
@@ -3979,12 +3985,14 @@
 *.s.o3.ru
 *.s.sirena-travel.ru
 *.s3-alt.cloud.ru
+*.s3-internal.cloud.ru
 *.s3-msk.tinkoff.ru
 *.s3-website-msk.tinkoff.ru
 *.s3-website.cloud.ru
 *.s3-website.tinkoff.ru
 *.s3.atol.ru
 *.s3.babel.mail.ru
+*.s3.cloud.ru
 *.s3.dzeninfra.ru
 *.s3.k2.cloud
 *.s3.mvk.com
@@ -5282,6 +5290,7 @@
 *.vniir.ru
 *.vnukovo.ru
 *.voda-nt.ru
+*.vodaplus.ru
 *.vodokanal.spb.ru
 *.voduberegi.ru
 *.voip.ozon.ru
@@ -5458,6 +5467,7 @@
 *.xn----8sbehgcimb3cfabqj3b.xn--p1ai
 *.xn----8sbfckba3a8bcsskd6e.xn--p1ai
 *.xn----8sbosabopxq.xn--p1ai
+*.xn----9sbnazejkafenks.xn--p1ai
 *.xn----9sbsd1af.xn--p1ai
 *.xn----ctb5aimq.xn--p1ai
 *.xn----ctbeimd1bern.xn--p1ai
@@ -5577,6 +5587,7 @@
 *.xn--j1abhdo3a.xn--p1ai
 *.xn--j1adu7b.xn--p1ai
 *.xn--j1afbdo3a.xn--p1ai
+*.xn--j1afcaaz.xn--p1ai
 *.xn--l1aelhk.xn--p1ai
 *.xn--l1agf.xn--p1ai
 *.xn--m1aeig.xn--p1ai
@@ -5981,6 +5992,10 @@ absoluttrade.ru
 absolutvip.ru
 abtest.cardsmobile.ru
 ac-argocd.dds.astralinux.ru
+ac-grafana-1c.dds.astralinux.ru
+ac-grafana-bitrix.dds.astralinux.ru
+ac-grafana-rupost.dds.astralinux.ru
+ac-grafana.dds.astralinux.ru
 ac.atol.ru
 ac.gov.ru
 ac.infoline-rk.ru
@@ -8200,6 +8215,8 @@ bootcamp-sberid.pcbltools.ru
 bootcamp.pcbltools.ru
 bootcamplabs.sber.ru
 borderlands.alfabank.ru
+bospor-telecom.net
+bospor-telecom.ru
 bot-srv.oparina4.ru
 bot-test.nornik.ru
 bot.admblag.ru
@@ -8739,6 +8756,7 @@ cert-dsp.yadro.com
 cert-test.bidzaar.com
 cert.ingos.ru
 cert.nppgamma.ru
+cert.nuc-00f09d63ce9c45d1.tougher-astonishment.ru
 cert.nuc-040171df99054744.enthusiastic-delighted.online
 cert.nuc-052b3277de564500.genuine-productive.ru
 cert.nuc-05ab380190fd4ca2.tougher-astonishment.ru
@@ -8780,7 +8798,9 @@ cert.nuc-64474452ac914c93.unforgettable-keenly.ru
 cert.nuc-6890a141f4b14d44.tougher-astonishment.ru
 cert.nuc-6b3e7c805b7a4212.respite-blossom.ru
 cert.nuc-723b7520d2644323.tougher-astonishment.ru
+cert.nuc-74089c1700554b07.unforgettable-keenly.ru
 cert.nuc-76c2b48f339e4f76.marveled-astonish.online
+cert.nuc-783d62010a19447b.respite-blossom.ru
 cert.nuc-7b1ade51fbf7433f.unforgettable-keenly.ru
 cert.nuc-7bc675198f6743d7.enthusiastic-delighted.online
 cert.nuc-7eb369607f0f49d6.unforgettable-keenly.ru
@@ -8789,6 +8809,7 @@ cert.nuc-85494b3e66a74f6f.unforgettable-keenly.ru
 cert.nuc-89507e332fa24f69.respite-blossom.ru
 cert.nuc-89ec9649a5b04f33.tougher-astonishment.ru
 cert.nuc-8ab244b4a5f04296.tougher-astonishment.ru
+cert.nuc-8cf8875d1e3a43db.tougher-astonishment.ru
 cert.nuc-8d292601b4d44377.tougher-astonishment.ru
 cert.nuc-8f93c877b80141e6.tougher-astonishment.ru
 cert.nuc-8fb1919bf82a4bbd.unforgettable-keenly.ru
@@ -8828,6 +8849,7 @@ cert.nuc-e28b34bd468847eb.tougher-astonishment.ru
 cert.nuc-e3c661075dae4691.respite-blossom.ru
 cert.nuc-e4aced2daa8944ef.tougher-astonishment.ru
 cert.nuc-e51d85733bc74530.tougher-astonishment.ru
+cert.nuc-e5fa994b24f74c47.unforgettable-keenly.ru
 cert.nuc-e9acccbecf9e43d0.genuine-productive.ru
 cert.nuc-f0935e10204c4b6c.unforgettable-keenly.ru
 cert.nuc-f0cc893961ec455c.enthusiastic-delighted.online
@@ -9767,6 +9789,7 @@ cvat.oparina4.ru
 cvat.yandex.omk.ru
 cvdi-ctx-gw.sberins.ru
 cvdi-ctx-gw.sberins.sber.ru
+cvmapi.mts.ru
 cvmir.ru
 cwe-cvss-classifier.devsec.astralinux.ru
 cwms.mts.ru
@@ -10348,6 +10371,7 @@ digital.rostatus.ru
 digital.rt.ru
 digital.sber.me
 digital.sber.ru
+digitalb2b.mts.ru
 digitalcenter.moscow
 digitalcryptography.ru
 digitale.bancaintesa.ru
@@ -12940,6 +12964,7 @@ if.smmb-test.vtb.ru
 iffgws-gw-openfapi-dbosmb-gost-lb.vtb.ru
 iffgws-gw-openfapi-dbosmb-lb.vtb.ru
 ifg.sbersova.ru
+ifhub.ru
 ift-alice.vtb.ru
 ift-avatar.vtb.ru
 ift-chat-agw-vtbo-n.vtb.ru
@@ -14046,6 +14071,7 @@ krscrb.mznso.ru
 krskstate.ru
 krtech.ru
 krtu.ru
+kruti.mts.ru
 krylov-center.ru
 krym-skk.ru
 ks.dev.home.megafon.ru
@@ -14775,6 +14801,8 @@ m1-sipproxy01.homeagents.online
 m1-sipproxy02.homeagents.online
 m1-test.broker.ru
 m12.asudd.net
+m2m-auto.mts.ru
+m2m-manager.mts.ru
 m2m.megafon.ru
 m2mtt.ru
 m2q.region.broker
@@ -16943,19 +16971,25 @@ nuc-08c7d502db3f4f0c.profusion-nonviolence.ru
 nuc-0aace967aaaa4eec.exult-unparalleled.ru
 nuc-0c1f1b1ef3004691.profusion-nonviolence.ru
 nuc-0cd1958e6ba84675.profusion-nonviolence.ru
+nuc-0d0a559fd59243e4.prodigiously-outstrip.ru
 nuc-101355ca7a9a4c7e.profusion-nonviolence.ru
+nuc-109440aeeb2643b5.finest-recommendation.ru
 nuc-1149f886ab8443b9.exult-unparalleled.ru
 nuc-1436c3319e7041a5.exult-unparalleled.ru
 nuc-18805fa00af44e79.exult-unparalleled.ru
+nuc-1acc82c5becf4a31.prodigiously-outstrip.ru
 nuc-1c4ec5f60adf49aa.prodigiously-outstrip.ru
 nuc-1d0da23417b74b21.finest-recommendation.ru
 nuc-1d0e4adaf2534b83.profusion-nonviolence.ru
 nuc-1e157b54387245ed.exult-unparalleled.ru
+nuc-1fd9515c1bcc4537.profusion-nonviolence.ru
 nuc-20ddded7be444687.exult-unparalleled.ru
+nuc-228fe186e1ee4724.profusion-nonviolence.ru
 nuc-236cdc0c42884629.prodigiously-outstrip.ru
 nuc-2371d6b214bd41a9.finest-recommendation.ru
 nuc-26224738d49241e8.profusion-nonviolence.ru
 nuc-26977ee3dd7f43ce.prodigiously-outstrip.ru
+nuc-2a182ebb9ce94b84.prodigiously-outstrip.ru
 nuc-2a8245cd46f04be0.glee-embolden.online
 nuc-2b1ffdac2cae409f.exult-unparalleled.ru
 nuc-2cdd2c9515814d6c.exult-unparalleled.ru
@@ -16976,6 +17010,7 @@ nuc-3c20e691015745ec.finest-recommendation.ru
 nuc-3cbbb5fbefee4a4c.prodigiously-outstrip.ru
 nuc-3d18fdcdacb54ebd.profusion-nonviolence.ru
 nuc-3f32eaa76fae49ad.profusion-nonviolence.ru
+nuc-40331c4819fa44d5.exult-unparalleled.ru
 nuc-40cde8b211de47f9.profusion-nonviolence.ru
 nuc-416c5ff6655f454e.profusion-nonviolence.ru
 nuc-424ba28a360b4ee4.glee-embolden.online
@@ -16986,6 +17021,7 @@ nuc-4a0fc7bd069b4757.profusion-nonviolence.ru
 nuc-4b88b13e61f14fe2.exult-unparalleled.ru
 nuc-4c6832107abc451a.exult-unparalleled.ru
 nuc-4f41972ffbbd43f0.prodigiously-outstrip.ru
+nuc-50097e1fb2754d07.finest-recommendation.ru
 nuc-51aebb7d3a5c4a6a.glee-embolden.online
 nuc-556507634a6f4f2d.exult-unparalleled.ru
 nuc-55b78ef60eaa4229.profusion-nonviolence.ru
@@ -16998,6 +17034,7 @@ nuc-5fc0caf8bc11463c.finest-recommendation.ru
 nuc-622a7d06cfd04794.exult-unparalleled.ru
 nuc-638cc92ca12147db.exult-unparalleled.ru
 nuc-66e54d195a1f48bb.exult-unparalleled.ru
+nuc-6923a184cd7b4e30.finest-recommendation.ru
 nuc-6b721a3051b44ec6.exult-unparalleled.ru
 nuc-6fee5e13665d463b.exult-unparalleled.ru
 nuc-7283b3c5bfc24155.glee-embolden.online
@@ -17034,6 +17071,7 @@ nuc-a7952b06dd8741b1.exult-unparalleled.ru
 nuc-a7e8d2e8ea6b47be.exult-unparalleled.ru
 nuc-a999069e6efc48ab.prodigiously-outstrip.ru
 nuc-ab80832812654fcc.finest-recommendation.ru
+nuc-ac29419495cf46f5.exult-unparalleled.ru
 nuc-ace9d5d288e843f3.exult-unparalleled.ru
 nuc-acme.voskhod.ru
 nuc-ae7faad550f0426c.prodigiously-outstrip.ru
@@ -17044,6 +17082,7 @@ nuc-b19de5f568d7479d.exult-unparalleled.ru
 nuc-b4c4434461e4493e.exult-unparalleled.ru
 nuc-b60a2cee6e7e4b1c.exult-unparalleled.ru
 nuc-b9de4dfb11f744f5.exult-unparalleled.ru
+nuc-bc8b3368a5b2470f.profusion-nonviolence.ru
 nuc-bcc712fa384545e8.finest-recommendation.ru
 nuc-bcd2eae51ee4400f.profusion-nonviolence.ru
 nuc-befb4c9fd46d4214.exult-unparalleled.ru
@@ -17053,9 +17092,11 @@ nuc-c37dba09fec046a1.exult-unparalleled.ru
 nuc-c404161cba9747a7.finest-recommendation.ru
 nuc-c42c40c15e8a4d2b.finest-recommendation.ru
 nuc-c49a3e13a50e40f4.profusion-nonviolence.ru
+nuc-c54655fd4a67497a.profusion-nonviolence.ru
 nuc-c6f9280ed0114129.prodigiously-outstrip.ru
 nuc-c96a94655272435a.finest-recommendation.ru
 nuc-cabea8d4d2cb4301.profusion-nonviolence.ru
+nuc-cde147e239ff4a0e.profusion-nonviolence.ru
 nuc-cf5907e866b54059.exult-unparalleled.ru
 nuc-d1ff924c7b2844c8.profusion-nonviolence.ru
 nuc-d221c48905fc46f2.profusion-nonviolence.ru
@@ -17068,6 +17109,7 @@ nuc-df1f400820aa40c5.profusion-nonviolence.ru
 nuc-df6e481ec7134dae.profusion-nonviolence.ru
 nuc-df727f3ed660495a.finest-recommendation.ru
 nuc-e06370b7298c40c5.prodigiously-outstrip.ru
+nuc-e1054ed7d4044105.prodigiously-outstrip.ru
 nuc-e54789dc346e4cef.exult-unparalleled.ru
 nuc-e6217ddc9f224da5.profusion-nonviolence.ru
 nuc-e7b2526b33d1459d.profusion-nonviolence.ru
@@ -18239,6 +18281,7 @@ persephone.secrets.tinkoff.ru
 personaero.ru
 personal.bgfbank.ru
 personal.ep.mts.ru
+personal.mts.ru
 personal.venets-bank.ru
 personalib.venets-bank.ru
 pervbank.ru
@@ -18725,6 +18768,7 @@ privet-uat.sber.ru
 privet-uat.sberbank.ru
 privet.sber.ru
 privet.sberbank.ru
+priz.mts.ru
 prm-cc.tbank-online.com
 prm-ci.tbank-online.com
 prm-fm.tbank-online.com
@@ -19704,6 +19748,8 @@ rm.mwsapis.ru
 rm.rwb.ru
 rmail.oparina4.ru
 rmc.nkbank.ru
+rmcrf.ru
+rmcrt.ru
 rmg.ru
 rmp-psi.sber.ru
 rmp.sber.ru
@@ -19941,6 +19987,7 @@ rules.sibintek.ru
 rumail.ncsp.ru
 rumail.rscc.ru
 run.check-ru.ru
+runner.mts.ru
 rupost.aleksinomz.ru
 rupost.oparina4.ru
 ruprd.crediteurope.ru
@@ -20068,6 +20115,7 @@ s2.vtb.ru
 s2.webquik-test.sberbank.ru
 s3-2.cyberkoala.ru
 s3-alt.cloud.ru
+s3-internal.cloud.ru
 s3-msk.tinkoff.ru
 s3-test.mtsbank.ru
 s3-website-msk.tinkoff.ru
@@ -20080,6 +20128,7 @@ s3.api.speechpro.hycl.ru
 s3.api.tinkoff.ai
 s3.atol.ru
 s3.babel.mail.ru
+s3.cloud.ru
 s3.cscampus.ru
 s3.cyberkoala.ru
 s3.dzeninfra.ru
@@ -21917,6 +21966,7 @@ static03.mts.ru
 static04.mts.ru
 static05.mts.ru
 static1.megafon.ru
+static2.mts.ru
 static2.storage.bcs.ru
 static2.tinkoffjournal.ru
 staticnew-test.mtsbank.ru
@@ -27563,6 +27613,7 @@ www.xn--h1alcedd.xn--d1aqf.xn--p1ai
 www.xn--j1abhdo3a.xn--p1ai
 www.xn--j1adc8d.xn--p1ai
 www.xn--j1afbdo3a.xn--p1ai
+www.xn--j1afcaaz.xn--p1ai
 www.xn--j1agba.xn--p1ai
 www.xn--n1aaceg.xn--90ab2c.xn--p1ai
 www.xn--n1afa.xn--90ab2c.xn--p1ai
@@ -27679,6 +27730,7 @@ xn----8sbnvbfbyscjcgm7k2b.xn--d1aqf.xn--p1ai
 xn----8sbosabopxq.xn--p1ai
 xn----8sbuccioem.xn--p1ai
 xn----8sbwjbxyd.xn--p1ai
+xn----9sbnazejkafenks.xn--p1ai
 xn----9sbsd1af.xn--p1ai
 xn----ctb5aimq.xn--p1ai
 xn----ctbbefcvajij3anca5a.xn--p1ai
@@ -27958,6 +28010,7 @@ xn--i1afg.xn--d1aqf.xn--p1ai
 xn--j1abhdo3a.xn--p1ai
 xn--j1adc8d.xn--p1ai
 xn--j1afbdo3a.xn--p1ai
+xn--j1afcaaz.xn--p1ai
 xn--j1agba.xn--p1ai
 xn--j1aidd.xn--80abi0ahidr0b.xn--p1ai
 xn--j1aj5bb.xn--p1ai
