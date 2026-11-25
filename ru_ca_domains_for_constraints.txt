@@ -66,6 +66,7 @@ a-v-system.ru
 aaacapital.ru
 aaanet.ru
 aakim.ru
+aamrsk.ru
 aanda.ru
 aat-arti.ru
 aaz.su
@@ -810,6 +811,7 @@ connectgas.ru
 consultant.ru
 consultantdv.ru
 consyst-os.ru
+containerapps.ru
 contrada-capital.ru
 copp78.ru
 coredevex.ru
@@ -926,6 +928,7 @@ dealsy.ru
 dealsy.tech
 debitoriya.ru
 decosystems.ru
+def.zone
 defense-aeromax.ru
 defense.insure
 defense.ru
@@ -1338,6 +1341,7 @@ finambank.com
 finambank.ru
 finasb.ru
 finbank.ru
+fincorpbank.ru
 fineapp.ru
 finest-recommendation.ru
 fingram26.ru
@@ -1424,6 +1428,7 @@ gaoysport.ru
 garant.ru
 gardiask.ru
 garo62.ru
+gasconsumer.ru
 gasfoto.ru
 gasinv.ru
 gaskk-mck.ru
@@ -2045,6 +2050,7 @@ kfsar.ru
 kfw.ru
 kgb26.ru
 kgm.ru
+kgma.info
 khakassia.travel
 kiberbulling.net
 kiberded.club
@@ -2408,6 +2414,7 @@ med-to.ru
 med-vdk.ru
 medexpress.ru
 medfair.ru
+mediadesktm.ru
 median.ru
 mediascope.net
 medkam.ru
@@ -2718,6 +2725,7 @@ ncs.ru
 ncsgp.ru
 ncsp.com
 ncsp.ru
+ndb24.ru
 neansk.ru
 need-post.ru
 neg-it.ru
@@ -2725,6 +2733,7 @@ nekrasovka.ru
 nenderus.su
 neonxp.ru
 neovox.ru
+nerpa-it.ru
 nestlesoft.net
 net.ru
 netbynet.ru
@@ -3254,6 +3263,7 @@ pro-diabet.ru
 probank.pro
 procif.ru
 procommercebank.ru
+procoreai.ru
 prodigiously-outstrip.ru
 prodobro.ru
 prof-consultant.ru
@@ -3638,6 +3648,7 @@ russiacalling.ru
 russian-trusted.ru
 russianpost.ru
 russianspacesystems.ru
+russiawow.ru
 russitabank.ru
 russoutdoor.ru
 rustank.ru
@@ -3939,7 +3950,9 @@ sferum.ru
 sfmo.ru
 sfn-am.ru
 sfo-gdfinace.ru
+sfo-investment-infrastructure.ru
 sfo-kailashfinance.ru
+sfo-ltii.ru
 sfo-makalu.ru
 sfo-platform-1.ru
 sfo-sovcomcollection.ru
@@ -4182,6 +4195,7 @@ specdep.me
 specdep.org
 specdep.ru
 spechd.ru
+specintek.ru
 spectrinvest.ru
 spectrumdata.ru
 spectrumscoring.ru
@@ -5128,6 +5142,7 @@ xn--40-6kclk1btailw.xn--p1ai
 xn--40-6kcmpkc3e.xn--p1ai
 xn--42-6kcadhwnl3cfdx.xn--p1ai
 xn--43--8cd3cgu2f.xn--p1ai
+xn--60-mlchqecubacb0c9cze.xn--p1ai
 xn--64-6kcazfomo9bwd5o.xn--p1ai
 xn--64-6kcpagh6a5aakqg5e.xn--p1ai
 xn--64-9kcqos4c1d.xn--p1ai
@@ -5169,6 +5184,7 @@ xn--80aaexc1aevv.xn--p1ai
 xn--80aafaxhj3c.xn--p1ai
 xn--80aafbk3dbqbke.xn--p1ai
 xn--80aafclckjcqurgbdjcpde4b.xn--p1ai
+xn--80aafictdfdbsue6a6a0lva.xn--p1ai
 xn--80aafj2agk3g.xn--p1ai
 xn--80aafna0aeglt3b.xn--p1ai
 xn--80aafyfbdcf3aallidhj1q.xn--p1ai
@@ -5189,6 +5205,7 @@ xn--80aatf1agmif2e.xn--p1ai
 xn--80aaudmrjjnf.xn--p1acf
 xn--80ab0acbpdb.xn--p1ai
 xn--80aba0anrevc5c.xn--p1ai
+xn--80aba5bc2bd.xn--p1ai
 xn--80abc6acjjcc0a.xn--p1ai
 xn--80abcykcpfdu.xn--p1ai
 xn--80abdlarjifukdg1ajk8m.xn--p1ai
@@ -5254,6 +5271,7 @@ xn--90adi.xn--p1ai
 xn--90aebg8ajbbpc3f.xn--p1ai
 xn--90aenc5bq.xn--p1ai
 xn--90agc3adhkeq3d.xn--p1ai
+xn--90agdanti8bgb8b6c.xn--p1ai
 xn--90ahujfeif.xn--p1ai
 xn--90aiajje0ahibxc.xn--p1ai
 xn--90aijkdmaud0d.xn--p1ai
@@ -5266,6 +5284,7 @@ xn--b1abfbo1arfe5cxdo5a.xn--p1ai
 xn--b1abgaqi9asgdg6d6e.xn--p1ai
 xn--b1acd7afcap.xn--p1ai
 xn--b1acfqtcfb0fxbq.xn--p1acf
+xn--b1acgk5bi7d.xn--p1ai
 xn--b1acgkc6adpm.xn--p1ai
 xn--b1adaeba5bdflcgnh4bv.xn--p1ai
 xn--b1adef8acadje8k.com
@@ -5371,6 +5390,7 @@ yeniseygis.ru
 yfc.ru
 yfreemium.com
 yfreemium.tech
+ykprometey.ru
 ynalrosa.ru
 yoobusiness.ru
 yookassa.com
