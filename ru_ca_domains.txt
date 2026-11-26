@@ -781,6 +781,7 @@
 *.cifroflot.ru
 *.cikrf.ru
 *.ciogd.spb.ru
+*.cipit.gov.spb.ru
 *.cit-sk.net
 *.cit-sk.ru
 *.citis.ru
@@ -1479,6 +1480,7 @@
 *.eulher.ru
 *.eurasian-bank.ru
 *.euroalliance.ru
+*.euroauto.ru
 *.europlan.ru
 *.ev.group
 *.events-files.1c.ru
@@ -1630,6 +1632,7 @@
 *.fraktel.ru
 *.frccsc.ru
 *.freetato.ru
+*.fregat.ru
 *.freshstartme.ru
 *.fridayapp.vk.ru
 *.frmrus.ru
@@ -2859,7 +2862,10 @@
 *.ms.vk.com
 *.ms.vk.ru
 *.msa-dev.akbars.ru
+*.msa-prod-dmz.akbars.ru
 *.msa-prod-dmz.base.akbars.ru
+*.msa-prod.akbars.ru
+*.msa-prod.base.akbars.ru
 *.msa-stage.akbars.ru
 *.mschcentr74.ru
 *.mscout.magnit.ru
@@ -7396,6 +7402,7 @@ autodiscover.fingrad.sovcombank.ru
 autodiscover.finstarbank.ru
 autodiscover.flow.halvacard.ru
 autodiscover.forabank.ru
+autodiscover.fregat.ru
 autodiscover.gazeks.com
 autodiscover.gazeta.ru
 autodiscover.gazfond-pn.ru
@@ -8826,6 +8833,7 @@ cert.nuc-082f8518be3b461d.marveled-astonish.online
 cert.nuc-0aeec8b588814f6c.unforgettable-keenly.ru
 cert.nuc-101919dbd39d4980.unforgettable-keenly.ru
 cert.nuc-166025da8838403a.tougher-astonishment.ru
+cert.nuc-175a25bf83d44ec4.unforgettable-keenly.ru
 cert.nuc-18b2f550901646de.tougher-astonishment.ru
 cert.nuc-20b716ecc26942a7.respite-blossom.ru
 cert.nuc-24806bf85e744d20.respite-blossom.ru
@@ -8864,6 +8872,7 @@ cert.nuc-5c845bd116664e7b.tougher-astonishment.ru
 cert.nuc-5f626b174e474731.unforgettable-keenly.ru
 cert.nuc-62bbeec715f94372.genuine-productive.ru
 cert.nuc-64474452ac914c93.unforgettable-keenly.ru
+cert.nuc-67f11b4ab3fb4162.respite-blossom.ru
 cert.nuc-6890a141f4b14d44.tougher-astonishment.ru
 cert.nuc-6b3e7c805b7a4212.respite-blossom.ru
 cert.nuc-71c7a93dfeaf46f1.unforgettable-keenly.ru
@@ -9169,6 +9178,7 @@ cinema-api-fix2.tricolor.ru
 cinema-api-rel.tricolor.ru
 cinema-api.tricolor.ru
 ciogd.spb.ru
+cipit.gov.spb.ru
 cishelp.ozon.uz
 cit-kuzbass.ru
 cit-sk.net
@@ -11333,6 +11343,7 @@ etx-in.ru
 eulerhermes.ru
 eurasian-bank.ru
 euroalliance.ru
+euroauto.ru
 europlan.ru
 ev.group
 ev.rosseti-lenenergo.ru
@@ -11814,6 +11825,7 @@ freelance.addy.su
 freepascal.ru
 freessl.tbank.ru
 freetato.ru
+fregat.ru
 freshstartme.ru
 fridayapp.vk.ru
 frigate.home.hazussa.ru
@@ -13570,6 +13582,7 @@ iscc.infosysco.ru
 ise-2.bspb.ru
 ise-a.bspb.ru
 ise.bspb.ru
+isedc.ru
 ishopper.pochtabank.ru
 isin.ru
 isiton.ru
@@ -15121,6 +15134,7 @@ mail.fingrad.sovcombank.ru
 mail.finstarbank.ru
 mail.flow.halvacard.ru
 mail.fmbamail.ru
+mail.fregat.ru
 mail.gazfond-pn.ru
 mail.gebank.ru
 mail.geliuscap.ru
@@ -17135,6 +17149,7 @@ nuc-2e41ccf976c14528.exult-unparalleled.ru
 nuc-2e54579e90f3435d.prodigiously-outstrip.ru
 nuc-2f42190c3e61443d.finest-recommendation.ru
 nuc-2f5ea113f0fa4b81.glee-embolden.online
+nuc-30b7fe8a42794ec5.prodigiously-outstrip.ru
 nuc-30c01e27f34a4979.profusion-nonviolence.ru
 nuc-31d0421ae5994588.prodigiously-outstrip.ru
 nuc-3224f9039a0b4e63.prodigiously-outstrip.ru
@@ -17145,6 +17160,7 @@ nuc-361378b135f74afe.exult-unparalleled.ru
 nuc-36f5a2212e0f452e.finest-recommendation.ru
 nuc-370992e80a4642e1.profusion-nonviolence.ru
 nuc-37510343ff634583.profusion-nonviolence.ru
+nuc-37520beabf2f4c58.profusion-nonviolence.ru
 nuc-376a8958ec7a41cc.exult-unparalleled.ru
 nuc-390ee9b155fe43d8.finest-recommendation.ru
 nuc-3ac63f2dbef344c8.finest-recommendation.ru
@@ -17159,6 +17175,7 @@ nuc-416c5ff6655f454e.profusion-nonviolence.ru
 nuc-424ba28a360b4ee4.glee-embolden.online
 nuc-43f0128b9ca24a37.profusion-nonviolence.ru
 nuc-45675aa982b24978.exult-unparalleled.ru
+nuc-45d83352d20149ac.finest-recommendation.ru
 nuc-463b7417109a4307.exult-unparalleled.ru
 nuc-4a0fc7bd069b4757.profusion-nonviolence.ru
 nuc-4b88b13e61f14fe2.exult-unparalleled.ru
@@ -17182,9 +17199,11 @@ nuc-638cc92ca12147db.exult-unparalleled.ru
 nuc-66e54d195a1f48bb.exult-unparalleled.ru
 nuc-671990bb343f45fc.prodigiously-outstrip.ru
 nuc-67ad2a91308947a5.exult-unparalleled.ru
+nuc-67cd38a9d36a490c.finest-recommendation.ru
 nuc-6915ca50a5994158.exult-unparalleled.ru
 nuc-6923a184cd7b4e30.finest-recommendation.ru
 nuc-6957030f7d1a4064.exult-unparalleled.ru
+nuc-6aa910aaa05f4b8e.prodigiously-outstrip.ru
 nuc-6b721a3051b44ec6.exult-unparalleled.ru
 nuc-6bda53f34ebd457f.exult-unparalleled.ru
 nuc-6fee5e13665d463b.exult-unparalleled.ru
@@ -17208,9 +17227,12 @@ nuc-895e23847a674d52.profusion-nonviolence.ru
 nuc-8a279f40553148ce.profusion-nonviolence.ru
 nuc-8afdc9475ce9401c.profusion-nonviolence.ru
 nuc-8b393773658e48cf.exult-unparalleled.ru
+nuc-8bc271eca5a34bc0.finest-recommendation.ru
+nuc-8dceb780a9b2477f.prodigiously-outstrip.ru
 nuc-8e06aa643ba541f5.finest-recommendation.ru
 nuc-8f3e7b56837941a5.exult-unparalleled.ru
 nuc-8f7bebf9e0ef4aca.profusion-nonviolence.ru
+nuc-9394bdf51b624cfb.profusion-nonviolence.ru
 nuc-9616d772ef614cc4.exult-unparalleled.ru
 nuc-9764743b83804715.finest-recommendation.ru
 nuc-9ab99b1c142640b0.profusion-nonviolence.ru
@@ -17229,6 +17251,8 @@ nuc-ac29419495cf46f5.exult-unparalleled.ru
 nuc-ac7f0080e5824644.profusion-nonviolence.ru
 nuc-ace9d5d288e843f3.exult-unparalleled.ru
 nuc-acme.voskhod.ru
+nuc-ad1b43d2a81d4ffe.prodigiously-outstrip.ru
+nuc-ae7ed43db9784e86.profusion-nonviolence.ru
 nuc-ae7faad550f0426c.prodigiously-outstrip.ru
 nuc-af90773649514c25.finest-recommendation.ru
 nuc-afafdd91a0e54a2b.prodigiously-outstrip.ru
@@ -17242,6 +17266,7 @@ nuc-bc8b3368a5b2470f.profusion-nonviolence.ru
 nuc-bcc712fa384545e8.finest-recommendation.ru
 nuc-bcd2eae51ee4400f.profusion-nonviolence.ru
 nuc-befb4c9fd46d4214.exult-unparalleled.ru
+nuc-bf7d0d974213497a.profusion-nonviolence.ru
 nuc-c0595539c25141d8.glee-embolden.online
 nuc-c2e825f48c534aa7.profusion-nonviolence.ru
 nuc-c37dba09fec046a1.exult-unparalleled.ru
@@ -18267,6 +18292,7 @@ pay-r.1cupis.ru
 pay-rel.tricolor.ru
 pay-sandbox.ivi-mc.ru
 pay-sandbox2.ivi-mc.ru
+pay-sandbox3.ivi-mc.ru
 pay-test.kk.bank
 pay.1cupis.ru
 pay.akbars.ru
@@ -18307,6 +18333,7 @@ pay2.alfabank.ru
 pay2.avangard.ru
 pay2.ivi-mc.ru
 pay2.vbrr.ru
+pay3.ivi-mc.ru
 pay47.ru
 payanyway.ru
 payapi.ozon.ru
@@ -20780,6 +20807,7 @@ sdex-client.first-am.ru
 sdex-dwh-ftps.sberinsur.ru
 sdex-u.first-am.ru
 sdex.first-am.ru
+sdex.s3.foxford.ru
 sdex.sbbuild.ru
 sdex2sbercloud.yoomoney.ru
 sdisk.ru
@@ -23584,6 +23612,7 @@ united.ru
 uniteller.ru
 unitybroker.ru
 university.rt.ru
+unleash-proxy-abo.msp.akbars.ru
 unlim-soft.ru
 unounchementwavepowered.alwey.ru
 unsub.info.bspb.ru
@@ -24668,6 +24697,7 @@ wlt.tricolor.ru
 wmj.ru
 wms.o3.ru
 wms.o3t.ru
+wolga.ocs.ru
 woman-clinic.ru
 wopi.staging.senat.sberbank.ru
 work.jump.finance
@@ -25675,6 +25705,7 @@ www.fractel.ru
 www.fraktel.ru
 www.freelance.addy.su
 www.freepascal.ru
+www.fregat.ru
 www.freshstartme.ru
 www.front.pochtabank.ru
 www.frontapi-dbokib.vtb.ru
@@ -28127,6 +28158,7 @@ xn--90ab2c.xn--p1ai
 xn--90ab5b.xn--p1ai
 xn--90ab5f.xn--p1ai
 xn--90aciba4b0afgk.xn--p1ai
+xn--90ad6afdhd.xn--p1ai
 xn--90adf1affdogfm1isa.xn--p1ai
 xn--90adi.xn--p1ai
 xn--90aebg8ajbbpc3f.xn--p1ai
@@ -28479,6 +28511,7 @@ zolotayakorona.ru
 zoomdecorate.rambler.ru
 zp-auth.alfabank.ru
 zp.alfabank.ru
+zpp.spb.ru
 zppk.ru
 zpr.remeks.online
 zrk.rk.gov.ru

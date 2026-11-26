@@ -1263,6 +1263,7 @@ eulerhermes.ru
 eulher.ru
 eurasian-bank.ru
 euroalliance.ru
+euroauto.ru
 europlan.ru
 ev.group
 everialife.ru
@@ -1394,6 +1395,7 @@ fraktel.ru
 frccsc.ru
 freepascal.ru
 freetato.ru
+fregat.ru
 freshstartme.ru
 frmrus.ru
 frontkit.ru
@@ -1916,6 +1918,7 @@ irteya.ru
 irz.ru
 is-mmk.ru
 isbalashov.ru
+isedc.ru
 isin.ru
 isiton.ru
 isnbank.ru
@@ -5282,6 +5285,7 @@ xn--90ab2c.xn--p1ai
 xn--90ab5b.xn--p1ai
 xn--90ab5f.xn--p1ai
 xn--90aciba4b0afgk.xn--p1ai
+xn--90ad6afdhd.xn--p1ai
 xn--90adf1affdogfm1isa.xn--p1ai
 xn--90adi.xn--p1ai
 xn--90aebg8ajbbpc3f.xn--p1ai
