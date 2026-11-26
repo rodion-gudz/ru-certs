@@ -148,6 +148,7 @@ ai-journey.ru
 ai-mark.ru
 ai-mnesis.ru
 ai-vesna.ru
+ai2print.ru
 ai72.ru
 aiandhit.ru
 aiandru.ru
@@ -560,6 +561,7 @@ bistrodengi-mkk.ru
 bistrodengi.ru
 bistrozaim42.ru
 bitdv.ru
+bits2atoms.ru
 biv91.ru
 biysk22.ru
 bizmrg.com
@@ -1519,6 +1521,7 @@ gigaconf.ru
 gigaenterprise.ai
 gigaguru.tech
 gigaid.ru
+gigamaker.ru
 gilenko.ru
 gilkom-complex.ru
 ginras.ru
@@ -1775,6 +1778,7 @@ idwb.ru
 ifhub.ru
 ifxt.ru
 igcpc.ru
+igmapo.ru
 ihead.ru
 ii-company.ru
 iicsk-insurance.ru
@@ -2234,6 +2238,7 @@ lenta.ru
 lenta.tech
 lentagroup.ru
 lentaretail.ru
+leradata.pro
 lermontovka-spb.ru
 lesegais.ru
 leslenobl.ru
@@ -2292,6 +2297,7 @@ lookl.ru
 loonabrowser.ru
 loskiq.ru
 lot-online.ru
+ls.ru
 lsfgame.ru
 lubteplo.ru
 luchi.ru
@@ -2940,6 +2946,7 @@ ok.games
 ok.me
 ok.ru
 okapps.ru
+okb-novator.ru
 okbank.ru
 okbm.ru
 okbmei.ru
@@ -2989,6 +2996,7 @@ oneliya.ru
 onelya.ru
 oneme.ru
 oneplacecollection.online
+oniip.ru
 onixt.ru
 onkolog24.ru
 onlime.ru
@@ -3748,6 +3756,7 @@ sber.university
 sber247.ru
 sber2b.ru
 sber2b.tech
+sber3d.ru
 sberactivno.ru
 sberads.ru
 sberaktivno.ru
@@ -3806,6 +3815,7 @@ sberleasing.ru
 sberlegal.ru
 sberlive.ru
 sberlogistics.ru
+sbermaker.ru
 sbermarket.ru
 sbermarket.tech
 sbermed.ai
@@ -4166,6 +4176,7 @@ sp15spb.ru
 spacecorp.ru
 spasibo.digital
 spasibo.market
+spasibo.ru
 spasibobonus.ru
 spasibosb.ru
 spasibosberbank.events
@@ -5199,8 +5210,10 @@ xn--80aaks9bdd.xn--p1ai
 xn--80aalotit.xn--p1ai
 xn--80aalqacudkeiwckpc.xn--p1ai
 xn--80aanlzbvihptf.xn--p1ai
+xn--80aapamcavoccigmpc9ab4d0fkj.xn--p1ai
 xn--80aapampemcchfmo7a3c9ehj.xn--p1ai
 xn--80aapbghilqyftr.xn--p1ai
+xn--80aapugigod1b.xn--p1ai
 xn--80aasee0af7fwb.com
 xn--80aatf1agmif2e.xn--p1ai
 xn--80aaudmrjjnf.xn--p1acf
@@ -5228,6 +5241,7 @@ xn--80addfbb6bm6a.xn--p1ai
 xn--80addfq2alq.xn--p1ai
 xn--80adfbej0ceadr0m.xn--p1ai
 xn--80adgen0ai.xn--p1ai
+xn--80adgfif4ajc3e5cxc.xn--p1ai
 xn--80ae1alafffj1i.xn--p1ai
 xn--80aeakmgi9azaci1dvg.xn--p1ai
 xn--80aebecah6apa1adyldqm2sra.xn--p1ai
@@ -5240,6 +5254,7 @@ xn--80aejucoh4c.xn--p1ai
 xn--80aeylecpi.xn--p1ai
 xn--80afagaflf5apku.xn--80asehdb
 xn--80afd3bal.xn--p1ai
+xn--80afdrjqf7b.xn--p1ai
 xn--80aff4c.xn--p1ai
 xn--80agelrjbkos.xn--p1ai
 xn--80agfa2babkkggig1a5jqa.xn--p1ai
@@ -5281,6 +5296,7 @@ xn--90anfigdkpy.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
 xn--90axl.xn--p1ai
 xn--b1aadecsaihi0amca3a.xn--p1ai
+xn--b1aaocyjjcokf.xn--p1ai
 xn--b1abfbo1arfe5cxdo5a.xn--p1ai
 xn--b1abgaqi9asgdg6d6e.xn--p1ai
 xn--b1acd7afcap.xn--p1ai
@@ -5353,6 +5369,7 @@ xn--l1acdln.xn--p1ai
 xn--l1aelhk.xn--p1ai
 xn--l1agf.xn--p1ai
 xn--m1aeig.xn--p1ai
+xn--n1abdr5c.xn--p1ai
 xn--n1addt.xn--p1ai
 xn--p1ai.ru
 xo16.ru
